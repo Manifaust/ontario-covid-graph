@@ -11,3 +11,6 @@ scripts/generate_intermediate_reports.sh \
   "$DIR/raw_reports" \
   "$DIR/intermediate_reports"
 
+scripts/generate_final_report.rb \
+  "$DIR/intermediate_reports"
+
