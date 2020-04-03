@@ -1,23 +1,34 @@
 #!/usr/bin/env ruby
 
 require 'json'
+require 'csv'
 
-intermediate_reports_dir = ARGV[0]
+raw_reports_dir = ARGV[0]
+final_report_path = ARGV[1]
 
-reports_glob = File.join(intermediate_reports_dir, "moh-covid-19-report-en-*.json")
-intermediate_reports = Dir.glob(reports_glob)
+status_csv = File.join(raw_reports_dir, "covidtesting.csv")
 
-DATE_REGEX = %r{moh-covid-19-report-en-(?<date>\d{4}-\d{2}-\d{2})}
+final_report_arr = []
 
-intermediate_reports.each do |report|
-  file_name = File.basename(report)
-  date_string = file_name.match(DATE_REGEX)[:date]
-  puts date_string
+CSV.parse(File.read(status_csv), headers: true).each do |row|
+  date = row[0]
+  confirmed_positive = row[5]
+  deaths = row[7]
 
-  json = JSON.parse(File.read(report))
-  num_cases_text = json[0]['data'][1][1]['text']
-  num_cases = num_cases_text.delete(',').to_i
-  puts num_cases
+  next if confirmed_positive.nil? || confirmed_positive.empty?
+
+  puts "#{date} #{confirmed_positive} #{deaths}"
+
+  final_report_entry = {
+    'date': date,
+    'confirmed_positive': confirmed_positive.to_i,
+  }
+  unless deaths.nil? || deaths.empty?
+    final_report_entry['deaths'] = deaths.to_i
+  end
+
+  final_report_arr << final_report_entry
 end
 
+File.write(final_report_path, JSON.pretty_generate(final_report_arr))
 

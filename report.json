@@ -1,0 +1,239 @@
+[
+  {
+    "date": "2020-01-28",
+    "confirmed_positive": 1
+  },
+  {
+    "date": "2020-01-30",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-01-31",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-03",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-04",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-05",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-06",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-08",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-10",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-11",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-02-12",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-13",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-14",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-17",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-18",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-19",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-20",
+    "confirmed_positive": 1
+  },
+  {
+    "date": "2020-02-21",
+    "confirmed_positive": 0
+  },
+  {
+    "date": "2020-02-24",
+    "confirmed_positive": 1
+  },
+  {
+    "date": "2020-02-25",
+    "confirmed_positive": 1
+  },
+  {
+    "date": "2020-02-26",
+    "confirmed_positive": 1
+  },
+  {
+    "date": "2020-02-27",
+    "confirmed_positive": 2
+  },
+  {
+    "date": "2020-02-28",
+    "confirmed_positive": 3
+  },
+  {
+    "date": "2020-03-02",
+    "confirmed_positive": 15
+  },
+  {
+    "date": "2020-03-03",
+    "confirmed_positive": 17
+  },
+  {
+    "date": "2020-03-04",
+    "confirmed_positive": 17
+  },
+  {
+    "date": "2020-03-05",
+    "confirmed_positive": 18
+  },
+  {
+    "date": "2020-03-06",
+    "confirmed_positive": 22
+  },
+  {
+    "date": "2020-03-07",
+    "confirmed_positive": 24
+  },
+  {
+    "date": "2020-03-08",
+    "confirmed_positive": 25
+  },
+  {
+    "date": "2020-03-09",
+    "confirmed_positive": 31
+  },
+  {
+    "date": "2020-03-10",
+    "confirmed_positive": 31
+  },
+  {
+    "date": "2020-03-11",
+    "confirmed_positive": 37
+  },
+  {
+    "date": "2020-03-12",
+    "confirmed_positive": 54
+  },
+  {
+    "date": "2020-03-13",
+    "confirmed_positive": 74
+  },
+  {
+    "date": "2020-03-14",
+    "confirmed_positive": 98
+  },
+  {
+    "date": "2020-03-15",
+    "confirmed_positive": 140
+  },
+  {
+    "date": "2020-03-16",
+    "confirmed_positive": 172
+  },
+  {
+    "date": "2020-03-17",
+    "confirmed_positive": 183,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-18",
+    "confirmed_positive": 208,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-19",
+    "confirmed_positive": 251,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-20",
+    "confirmed_positive": 311,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-21",
+    "confirmed_positive": 369,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-22",
+    "confirmed_positive": 412,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-23",
+    "confirmed_positive": 489,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-24",
+    "confirmed_positive": 572,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-25",
+    "confirmed_positive": 667,
+    "deaths": 13
+  },
+  {
+    "date": "2020-03-26",
+    "confirmed_positive": 835,
+    "deaths": 15
+  },
+  {
+    "date": "2020-03-27",
+    "confirmed_positive": 967,
+    "deaths": 18
+  },
+  {
+    "date": "2020-03-28",
+    "confirmed_positive": 1117,
+    "deaths": 19
+  },
+  {
+    "date": "2020-03-29",
+    "confirmed_positive": 1324,
+    "deaths": 23
+  },
+  {
+    "date": "2020-03-30",
+    "confirmed_positive": 1252,
+    "deaths": 23
+  },
+  {
+    "date": "2020-03-31",
+    "confirmed_positive": 1399,
+    "deaths": 33
+  },
+  {
+    "date": "2020-04-01",
+    "confirmed_positive": 1681,
+    "deaths": 37
+  },
+  {
+    "date": "2020-04-02",
+    "confirmed_positive": 1909,
+    "deaths": 53
+  }
+]
