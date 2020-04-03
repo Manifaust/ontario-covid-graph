@@ -6,287 +6,328 @@
   {
     "date": "2020-01-30",
     "confirmed_positive": 2,
-    "growth_factor": "2.00"
+    "new_cases": 1
   },
   {
     "date": "2020-01-31",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0,
+    "growth_factor": "0.00"
   },
   {
     "date": "2020-02-03",
     "confirmed_positive": 3,
-    "growth_factor": "1.50"
+    "new_cases": 1
   },
   {
     "date": "2020-02-04",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0,
+    "growth_factor": "0.00"
   },
   {
     "date": "2020-02-05",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-06",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-08",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-10",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-11",
     "confirmed_positive": 3,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-12",
     "confirmed_positive": 2,
-    "growth_factor": "0.67"
+    "new_cases": -1
   },
   {
     "date": "2020-02-13",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-14",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-17",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-18",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-19",
     "confirmed_positive": 2,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-20",
     "confirmed_positive": 1,
-    "growth_factor": "0.50"
+    "new_cases": -1
   },
   {
     "date": "2020-02-21",
-    "confirmed_positive": 0
+    "confirmed_positive": 0,
+    "new_cases": -1
   },
   {
     "date": "2020-02-24",
     "confirmed_positive": 1,
-    "growth_factor": "Inf"
+    "new_cases": 1
   },
   {
     "date": "2020-02-25",
     "confirmed_positive": 1,
-    "growth_factor": "1.00"
+    "new_cases": 0,
+    "growth_factor": "0.00"
   },
   {
     "date": "2020-02-26",
     "confirmed_positive": 1,
-    "growth_factor": "1.00"
+    "new_cases": 0
   },
   {
     "date": "2020-02-27",
     "confirmed_positive": 2,
-    "growth_factor": "2.00"
+    "new_cases": 1
   },
   {
     "date": "2020-02-28",
     "confirmed_positive": 3,
-    "growth_factor": "1.50"
+    "new_cases": 1,
+    "growth_factor": "1.00"
   },
   {
     "date": "2020-03-02",
     "confirmed_positive": 15,
-    "growth_factor": "5.00"
+    "new_cases": 12,
+    "growth_factor": "12.00"
   },
   {
     "date": "2020-03-03",
     "confirmed_positive": 17,
-    "growth_factor": "1.13"
+    "new_cases": 2,
+    "growth_factor": "0.17"
   },
   {
     "date": "2020-03-04",
     "confirmed_positive": 17,
-    "growth_factor": "1.00"
+    "new_cases": 0,
+    "growth_factor": "0.00"
   },
   {
     "date": "2020-03-05",
     "confirmed_positive": 18,
-    "growth_factor": "1.06"
+    "new_cases": 1
   },
   {
     "date": "2020-03-06",
     "confirmed_positive": 22,
-    "growth_factor": "1.22"
+    "new_cases": 4,
+    "growth_factor": "4.00"
   },
   {
     "date": "2020-03-07",
     "confirmed_positive": 24,
-    "growth_factor": "1.09"
+    "new_cases": 2,
+    "growth_factor": "0.50"
   },
   {
     "date": "2020-03-08",
     "confirmed_positive": 25,
-    "growth_factor": "1.04"
+    "new_cases": 1,
+    "growth_factor": "0.50"
   },
   {
     "date": "2020-03-09",
     "confirmed_positive": 31,
-    "growth_factor": "1.24"
+    "new_cases": 6,
+    "growth_factor": "6.00"
   },
   {
     "date": "2020-03-10",
     "confirmed_positive": 31,
-    "growth_factor": "1.00"
+    "new_cases": 0,
+    "growth_factor": "0.00"
   },
   {
     "date": "2020-03-11",
     "confirmed_positive": 37,
-    "growth_factor": "1.19"
+    "new_cases": 6
   },
   {
     "date": "2020-03-12",
     "confirmed_positive": 54,
-    "growth_factor": "1.46"
+    "new_cases": 17,
+    "growth_factor": "2.83"
   },
   {
     "date": "2020-03-13",
     "confirmed_positive": 74,
-    "growth_factor": "1.37"
+    "new_cases": 20,
+    "growth_factor": "1.18"
   },
   {
     "date": "2020-03-14",
     "confirmed_positive": 98,
-    "growth_factor": "1.32"
+    "new_cases": 24,
+    "growth_factor": "1.20"
   },
   {
     "date": "2020-03-15",
     "confirmed_positive": 140,
-    "growth_factor": "1.43"
+    "new_cases": 42,
+    "growth_factor": "1.75"
   },
   {
     "date": "2020-03-16",
     "confirmed_positive": 172,
-    "growth_factor": "1.23"
+    "new_cases": 32,
+    "growth_factor": "0.76"
   },
   {
     "date": "2020-03-17",
     "confirmed_positive": 183,
     "deaths": 1,
-    "growth_factor": "1.06"
+    "new_cases": 11,
+    "growth_factor": "0.34"
   },
   {
     "date": "2020-03-18",
     "confirmed_positive": 208,
     "deaths": 1,
-    "growth_factor": "1.14"
+    "new_cases": 25,
+    "growth_factor": "2.27"
   },
   {
     "date": "2020-03-19",
     "confirmed_positive": 251,
     "deaths": 2,
-    "growth_factor": "1.21"
+    "new_cases": 43,
+    "growth_factor": "1.72"
   },
   {
     "date": "2020-03-20",
     "confirmed_positive": 311,
     "deaths": 2,
-    "growth_factor": "1.24"
+    "new_cases": 60,
+    "growth_factor": "1.40"
   },
   {
     "date": "2020-03-21",
     "confirmed_positive": 369,
     "deaths": 2,
-    "growth_factor": "1.19"
+    "new_cases": 58,
+    "growth_factor": "0.97"
   },
   {
     "date": "2020-03-22",
     "confirmed_positive": 412,
     "deaths": 5,
-    "growth_factor": "1.12"
+    "new_cases": 43,
+    "growth_factor": "0.74"
   },
   {
     "date": "2020-03-23",
     "confirmed_positive": 489,
     "deaths": 6,
-    "growth_factor": "1.19"
+    "new_cases": 77,
+    "growth_factor": "1.79"
   },
   {
     "date": "2020-03-24",
     "confirmed_positive": 572,
     "deaths": 8,
-    "growth_factor": "1.17"
+    "new_cases": 83,
+    "growth_factor": "1.08"
   },
   {
     "date": "2020-03-25",
     "confirmed_positive": 667,
     "deaths": 13,
-    "growth_factor": "1.17"
+    "new_cases": 95,
+    "growth_factor": "1.14"
   },
   {
     "date": "2020-03-26",
     "confirmed_positive": 835,
     "deaths": 15,
-    "growth_factor": "1.25"
+    "new_cases": 168,
+    "growth_factor": "1.77"
   },
   {
     "date": "2020-03-27",
     "confirmed_positive": 967,
     "deaths": 18,
-    "growth_factor": "1.16"
+    "new_cases": 132,
+    "growth_factor": "0.79"
   },
   {
     "date": "2020-03-28",
     "confirmed_positive": 1117,
     "deaths": 19,
-    "growth_factor": "1.16"
+    "new_cases": 150,
+    "growth_factor": "1.14"
   },
   {
     "date": "2020-03-29",
     "confirmed_positive": 1324,
     "deaths": 23,
-    "growth_factor": "1.19"
+    "new_cases": 207,
+    "growth_factor": "1.38"
   },
   {
     "date": "2020-03-30",
     "confirmed_positive": 1252,
     "deaths": 23,
-    "growth_factor": "0.95"
+    "new_cases": -72,
+    "growth_factor": "-0.35"
   },
   {
     "date": "2020-03-31",
     "confirmed_positive": 1399,
     "deaths": 33,
-    "growth_factor": "1.12"
+    "new_cases": 147
   },
   {
     "date": "2020-04-01",
     "confirmed_positive": 1681,
     "deaths": 37,
-    "growth_factor": "1.20"
+    "new_cases": 282,
+    "growth_factor": "1.92"
   },
   {
     "date": "2020-04-02",
     "confirmed_positive": 1909,
     "deaths": 53,
-    "growth_factor": "1.14"
+    "new_cases": 228,
+    "growth_factor": "0.81"
+  },
+  {
+    "date": "2020-04-03",
+    "confirmed_positive": 2165,
+    "deaths": 67,
+    "new_cases": 256,
+    "growth_factor": "1.12"
   }
 ]
