@@ -10,25 +10,32 @@ status_csv = File.join(raw_reports_dir, "covidtesting.csv")
 
 final_report_arr = []
 
+last_confirmed_positive = nil
+
 CSV.parse(File.read(status_csv), headers: true).each do |row|
   date = row[0]
   confirmed_positive = row[5]
   deaths = row[7]
 
   next if confirmed_positive.nil? || confirmed_positive.empty?
-
-  puts "#{date} #{confirmed_positive} #{deaths}"
+  confirmed_positive = confirmed_positive.to_i
 
   final_report_entry = {
     'date': date,
-    'confirmed_positive': confirmed_positive.to_i,
+    'confirmed_positive': confirmed_positive
   }
   unless deaths.nil? || deaths.empty?
     final_report_entry['deaths'] = deaths.to_i
   end
+  if last_confirmed_positive != nil && confirmed_positive > 0
+    growth_factor = '%.2f' % confirmed_positive.fdiv(last_confirmed_positive)
+    final_report_entry['growth_factor'] = growth_factor
+  end
+  last_confirmed_positive = confirmed_positive
 
   final_report_arr << final_report_entry
 end
 
 File.write(final_report_path, JSON.pretty_generate(final_report_arr))
+puts "Wrote report: #{final_report_path}"
 
