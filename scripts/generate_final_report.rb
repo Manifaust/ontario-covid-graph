@@ -3,17 +3,15 @@
 require 'json'
 require 'csv'
 
-raw_reports_dir = ARGV[0]
+status_csv_path = ARGV[0]
 final_report_path = ARGV[1]
-
-status_csv = File.join(raw_reports_dir, "covidtesting.csv")
 
 final_report_arr = []
 
 last_confirmed_positive = nil
 last_new_cases = nil
 
-CSV.parse(File.read(status_csv), headers: true).each do |row|
+CSV.parse(File.read(status_csv_path), headers: true).each do |row|
   date = row[0]
   confirmed_positive = row[5]
   deaths = row[7]
