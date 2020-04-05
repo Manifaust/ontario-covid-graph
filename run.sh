@@ -4,6 +4,8 @@ set -euo pipefail
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
+gem install bundler
+bundle install --jobs 4 --retry 3
 
 echo 'Fetching CSV URL for: Status of COVID-19 cases in Ontario'
 csv_url="$(scripts/fetch_status_report_url.rb)"
