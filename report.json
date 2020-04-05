@@ -486,5 +486,15 @@
     "growth_factor_infected_cases": "0.59",
     "new_total_cases": 375,
     "growth_factor_total_cases": "0.81"
+  },
+  {
+    "date": "2020-04-05",
+    "infected_cases": 2470,
+    "total_cases": 4038,
+    "total_deaths": 119,
+    "new_infected_cases": 153,
+    "growth_factor_infected_cases": "1.01",
+    "new_total_cases": 408,
+    "growth_factor_total_cases": "1.09"
   }
 ]
