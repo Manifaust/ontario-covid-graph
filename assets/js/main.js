@@ -8,7 +8,8 @@ const report = fetch(reportURL).then((response) => {
     data,
     'Growth Factor (Total Cases)',
     'growth_factor_total_cases',
-    `255, 99, 132`
+    `255, 99, 132`,
+    6
   )
 
   chartData.render(
@@ -29,7 +30,7 @@ const report = fetch(reportURL).then((response) => {
 })
 
 const chartData = {
-  render: (context, contextData, label, dataKey, rgb) => {
+  render: (context, contextData, label, dataKey, rgb, maxValue) => {
     const chartLabels =  contextData.map(i => i.date)
     const chartData = contextData.map(i => i[dataKey])
     const myChart = new Chart(context, {
@@ -45,14 +46,15 @@ const chartData = {
               borderColor: [
                 `rgba(${rgb}, 1)`
               ],
-              borderWidth: 1
+              borderWidth: 1,
           }]
         },
         options: {
           scales: {
             yAxes: [{
               ticks: {
-                  beginAtZero: true
+                beginAtZero: true,
+                max: maxValue
               }
             }],
             xAxes: [{
