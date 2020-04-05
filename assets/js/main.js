@@ -1,4 +1,4 @@
-const reportURL = '/report.json'
+const reportURL = '/ontario-covid-graph/report.json'
 
 const report = fetch(reportURL).then((response) => {
   return response.json();
