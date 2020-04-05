@@ -21,10 +21,10 @@ const report = fetch(reportURL).then((response) => {
   )
 
   chartData.render(
-    document.getElementById('newInfectedCases'),
+    document.getElementById('newCases'),
     data,
-    'New Infected Cases',
-    'new_infected_cases',
+    'New Cases',
+    'new_total_cases',
     `255, 159, 64`
   )
 })

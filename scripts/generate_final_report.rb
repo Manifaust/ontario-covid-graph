@@ -8,8 +8,6 @@ final_report_path = ARGV[1]
 
 final_report_arr = []
 
-last_infected_cases = nil
-last_new_infected_cases = nil
 last_total_cases = nil
 last_new_total_cases = nil
 
@@ -31,21 +29,6 @@ CSV.parse(File.read(status_csv_path), headers: true).each do |row|
   unless total_deaths.nil? || total_deaths.empty?
     final_report_entry['total_deaths'] = total_deaths.to_i
   end
-
-  # infected cases
-  new_infected_cases = nil
-  if last_infected_cases != nil
-    new_infected_cases = infected_cases - last_infected_cases
-    final_report_entry['new_infected_cases'] = new_infected_cases
-  end
-
-  if last_new_infected_cases != nil && last_new_infected_cases > 0
-    growth_factor_infected = '%.2f' % new_infected_cases.fdiv(last_new_infected_cases)
-    final_report_entry['growth_factor_infected_cases'] = growth_factor_infected
-  end
-
-  last_infected_cases = infected_cases
-  last_new_infected_cases = new_infected_cases
 
   # total cases
   new_total_cases = nil

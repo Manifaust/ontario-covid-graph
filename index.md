@@ -9,4 +9,4 @@ layout: home
 
 <canvas id="totalCases"></canvas>
 
-<canvas id="newInfectedCases"></canvas>
+<canvas id="newCases"></canvas>
