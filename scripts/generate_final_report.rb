@@ -8,38 +8,59 @@ final_report_path = ARGV[1]
 
 final_report_arr = []
 
-last_confirmed_positive = nil
-last_new_cases = nil
+last_infected_cases = nil
+last_new_infected_cases = nil
+last_total_cases = nil
+last_new_total_cases = nil
 
 CSV.parse(File.read(status_csv_path), headers: true).each do |row|
   date = row[0]
-  confirmed_positive = row[5]
-  deaths = row[7]
+  infected_cases = row[5]
+  total_deaths = row[7]
+  total_cases = row[9]
 
-  next if confirmed_positive.nil? || confirmed_positive.empty?
-  confirmed_positive = confirmed_positive.to_i
+  next if total_cases.nil? || total_cases.empty?
+  total_cases = total_cases.to_i
+  infected_cases = infected_cases.to_i
 
   final_report_entry = {
     'date': date,
-    'confirmed_positive': confirmed_positive
+    'infected_cases': infected_cases,
+    'total_cases': total_cases
   }
-  unless deaths.nil? || deaths.empty?
-    final_report_entry['deaths'] = deaths.to_i
+  unless total_deaths.nil? || total_deaths.empty?
+    final_report_entry['total_deaths'] = total_deaths.to_i
   end
 
-  new_cases = nil
-  if last_confirmed_positive != nil
-    new_cases = confirmed_positive - last_confirmed_positive
-    final_report_entry['new_cases'] = new_cases
+  # infected cases
+  new_infected_cases = nil
+  if last_infected_cases != nil
+    new_infected_cases = infected_cases - last_infected_cases
+    final_report_entry['new_infected_cases'] = new_infected_cases
   end
 
-  if last_new_cases != nil && last_new_cases > 0
-    growth_factor = '%.2f' % new_cases.fdiv(last_new_cases)
-    final_report_entry['growth_factor'] = growth_factor
+  if last_new_infected_cases != nil && last_new_infected_cases > 0
+    growth_factor_infected = '%.2f' % new_infected_cases.fdiv(last_new_infected_cases)
+    final_report_entry['growth_factor_infected_cases'] = growth_factor_infected
   end
 
-  last_confirmed_positive = confirmed_positive
-  last_new_cases = new_cases
+  last_infected_cases = infected_cases
+  last_new_infected_cases = new_infected_cases
+
+  # total cases
+  new_total_cases = nil
+  if last_total_cases != nil
+    new_total_cases = total_cases - last_total_cases
+    final_report_entry['new_total_cases'] = new_total_cases
+  end
+
+  if last_new_total_cases != nil && last_new_total_cases > 0
+    growth_factor_total = '%.2f' % new_total_cases.fdiv(last_new_total_cases)
+    final_report_entry['growth_factor_total_cases'] = growth_factor_total
+  end
+
+  last_total_cases = total_cases
+  last_new_total_cases = new_total_cases
 
   final_report_arr << final_report_entry
 end
