@@ -13,18 +13,18 @@ last_new_total_cases = nil
 
 CSV.parse(File.read(status_csv_path), headers: true).each do |row|
   date = row[0]
-  infected_cases = row[5]
+  infected = row[5]
   resolved = row[6]
   deaths = row[7]
   total_cases = row[9]
 
   next if total_cases.nil? || total_cases.empty?
   total_cases = total_cases.to_i
-  infected_cases = infected_cases.to_i
+  infected = infected.to_i
 
   final_report_entry = {
     'date': date,
-    'infected_cases': infected_cases,
+    'infected': infected,
     'total_cases': total_cases
   }
   unless deaths.nil? || deaths.empty?

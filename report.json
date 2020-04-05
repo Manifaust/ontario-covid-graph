@@ -1,131 +1,131 @@
 [
   {
     "date": "2020-01-28",
-    "infected_cases": 1,
+    "infected": 1,
     "total_cases": 1
   },
   {
     "date": "2020-01-30",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 2,
     "new_total_cases": 1
   },
   {
     "date": "2020-01-31",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 2,
     "new_total_cases": 0,
     "growth_factor_total_cases": "0.00"
   },
   {
     "date": "2020-02-03",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 1
   },
   {
     "date": "2020-02-04",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0,
     "growth_factor_total_cases": "0.00"
   },
   {
     "date": "2020-02-05",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-06",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-08",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-10",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-11",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-12",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-13",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-14",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-17",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-18",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-19",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 3,
     "resolved": 1,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-20",
-    "infected_cases": 1,
+    "infected": 1,
     "total_cases": 3,
     "resolved": 2,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-21",
-    "infected_cases": 0,
+    "infected": 0,
     "total_cases": 3,
     "resolved": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-24",
-    "infected_cases": 1,
+    "infected": 1,
     "total_cases": 4,
     "resolved": 3,
     "new_total_cases": 1
   },
   {
     "date": "2020-02-25",
-    "infected_cases": 1,
+    "infected": 1,
     "total_cases": 4,
     "resolved": 3,
     "new_total_cases": 0,
@@ -133,21 +133,21 @@
   },
   {
     "date": "2020-02-26",
-    "infected_cases": 1,
+    "infected": 1,
     "total_cases": 4,
     "resolved": 3,
     "new_total_cases": 0
   },
   {
     "date": "2020-02-27",
-    "infected_cases": 2,
+    "infected": 2,
     "total_cases": 5,
     "resolved": 3,
     "new_total_cases": 1
   },
   {
     "date": "2020-02-28",
-    "infected_cases": 3,
+    "infected": 3,
     "total_cases": 6,
     "resolved": 3,
     "new_total_cases": 1,
@@ -155,7 +155,7 @@
   },
   {
     "date": "2020-03-02",
-    "infected_cases": 15,
+    "infected": 15,
     "total_cases": 18,
     "resolved": 3,
     "new_total_cases": 12,
@@ -163,7 +163,7 @@
   },
   {
     "date": "2020-03-03",
-    "infected_cases": 17,
+    "infected": 17,
     "total_cases": 20,
     "resolved": 3,
     "new_total_cases": 2,
@@ -171,7 +171,7 @@
   },
   {
     "date": "2020-03-04",
-    "infected_cases": 17,
+    "infected": 17,
     "total_cases": 20,
     "resolved": 3,
     "new_total_cases": 0,
@@ -179,14 +179,14 @@
   },
   {
     "date": "2020-03-05",
-    "infected_cases": 18,
+    "infected": 18,
     "total_cases": 22,
     "resolved": 4,
     "new_total_cases": 2
   },
   {
     "date": "2020-03-06",
-    "infected_cases": 22,
+    "infected": 22,
     "total_cases": 26,
     "resolved": 4,
     "new_total_cases": 4,
@@ -194,7 +194,7 @@
   },
   {
     "date": "2020-03-07",
-    "infected_cases": 24,
+    "infected": 24,
     "total_cases": 28,
     "resolved": 4,
     "new_total_cases": 2,
@@ -202,7 +202,7 @@
   },
   {
     "date": "2020-03-08",
-    "infected_cases": 25,
+    "infected": 25,
     "total_cases": 29,
     "resolved": 4,
     "new_total_cases": 1,
@@ -210,7 +210,7 @@
   },
   {
     "date": "2020-03-09",
-    "infected_cases": 31,
+    "infected": 31,
     "total_cases": 35,
     "resolved": 4,
     "new_total_cases": 6,
@@ -218,7 +218,7 @@
   },
   {
     "date": "2020-03-10",
-    "infected_cases": 31,
+    "infected": 31,
     "total_cases": 36,
     "resolved": 5,
     "new_total_cases": 1,
@@ -226,7 +226,7 @@
   },
   {
     "date": "2020-03-11",
-    "infected_cases": 37,
+    "infected": 37,
     "total_cases": 42,
     "resolved": 5,
     "new_total_cases": 6,
@@ -234,7 +234,7 @@
   },
   {
     "date": "2020-03-12",
-    "infected_cases": 54,
+    "infected": 54,
     "total_cases": 59,
     "resolved": 5,
     "new_total_cases": 17,
@@ -242,7 +242,7 @@
   },
   {
     "date": "2020-03-13",
-    "infected_cases": 74,
+    "infected": 74,
     "total_cases": 79,
     "resolved": 5,
     "new_total_cases": 20,
@@ -250,7 +250,7 @@
   },
   {
     "date": "2020-03-14",
-    "infected_cases": 98,
+    "infected": 98,
     "total_cases": 103,
     "resolved": 5,
     "new_total_cases": 24,
@@ -258,7 +258,7 @@
   },
   {
     "date": "2020-03-15",
-    "infected_cases": 140,
+    "infected": 140,
     "total_cases": 145,
     "resolved": 5,
     "new_total_cases": 42,
@@ -266,7 +266,7 @@
   },
   {
     "date": "2020-03-16",
-    "infected_cases": 172,
+    "infected": 172,
     "total_cases": 177,
     "resolved": 5,
     "new_total_cases": 32,
@@ -274,7 +274,7 @@
   },
   {
     "date": "2020-03-17",
-    "infected_cases": 183,
+    "infected": 183,
     "total_cases": 189,
     "deaths": 1,
     "resolved": 5,
@@ -283,7 +283,7 @@
   },
   {
     "date": "2020-03-18",
-    "infected_cases": 208,
+    "infected": 208,
     "total_cases": 214,
     "deaths": 1,
     "resolved": 5,
@@ -292,7 +292,7 @@
   },
   {
     "date": "2020-03-19",
-    "infected_cases": 251,
+    "infected": 251,
     "total_cases": 258,
     "deaths": 2,
     "resolved": 5,
@@ -301,7 +301,7 @@
   },
   {
     "date": "2020-03-20",
-    "infected_cases": 311,
+    "infected": 311,
     "total_cases": 318,
     "deaths": 2,
     "resolved": 5,
@@ -310,7 +310,7 @@
   },
   {
     "date": "2020-03-21",
-    "infected_cases": 369,
+    "infected": 369,
     "total_cases": 377,
     "deaths": 2,
     "resolved": 6,
@@ -319,7 +319,7 @@
   },
   {
     "date": "2020-03-22",
-    "infected_cases": 412,
+    "infected": 412,
     "total_cases": 425,
     "deaths": 5,
     "resolved": 8,
@@ -328,7 +328,7 @@
   },
   {
     "date": "2020-03-23",
-    "infected_cases": 489,
+    "infected": 489,
     "total_cases": 503,
     "deaths": 6,
     "resolved": 8,
@@ -337,7 +337,7 @@
   },
   {
     "date": "2020-03-24",
-    "infected_cases": 572,
+    "infected": 572,
     "total_cases": 588,
     "deaths": 8,
     "resolved": 8,
@@ -346,7 +346,7 @@
   },
   {
     "date": "2020-03-25",
-    "infected_cases": 667,
+    "infected": 667,
     "total_cases": 688,
     "deaths": 13,
     "resolved": 8,
@@ -355,7 +355,7 @@
   },
   {
     "date": "2020-03-26",
-    "infected_cases": 835,
+    "infected": 835,
     "total_cases": 858,
     "deaths": 15,
     "resolved": 8,
@@ -364,7 +364,7 @@
   },
   {
     "date": "2020-03-27",
-    "infected_cases": 967,
+    "infected": 967,
     "total_cases": 993,
     "deaths": 18,
     "resolved": 8,
@@ -373,7 +373,7 @@
   },
   {
     "date": "2020-03-28",
-    "infected_cases": 1117,
+    "infected": 1117,
     "total_cases": 1144,
     "deaths": 19,
     "resolved": 8,
@@ -382,7 +382,7 @@
   },
   {
     "date": "2020-03-29",
-    "infected_cases": 1324,
+    "infected": 1324,
     "total_cases": 1355,
     "deaths": 23,
     "resolved": 8,
@@ -391,7 +391,7 @@
   },
   {
     "date": "2020-03-30",
-    "infected_cases": 1252,
+    "infected": 1252,
     "total_cases": 1706,
     "deaths": 23,
     "resolved": 431,
@@ -400,7 +400,7 @@
   },
   {
     "date": "2020-03-31",
-    "infected_cases": 1399,
+    "infected": 1399,
     "total_cases": 1966,
     "deaths": 33,
     "resolved": 534,
@@ -409,7 +409,7 @@
   },
   {
     "date": "2020-04-01",
-    "infected_cases": 1681,
+    "infected": 1681,
     "total_cases": 2392,
     "deaths": 37,
     "resolved": 674,
@@ -418,7 +418,7 @@
   },
   {
     "date": "2020-04-02",
-    "infected_cases": 1909,
+    "infected": 1909,
     "total_cases": 2793,
     "deaths": 53,
     "resolved": 831,
@@ -427,7 +427,7 @@
   },
   {
     "date": "2020-04-03",
-    "infected_cases": 2165,
+    "infected": 2165,
     "total_cases": 3255,
     "deaths": 67,
     "resolved": 1023,
@@ -436,7 +436,7 @@
   },
   {
     "date": "2020-04-04",
-    "infected_cases": 2317,
+    "infected": 2317,
     "total_cases": 3630,
     "deaths": 94,
     "resolved": 1219,
@@ -445,7 +445,7 @@
   },
   {
     "date": "2020-04-05",
-    "infected_cases": 2470,
+    "infected": 2470,
     "total_cases": 4038,
     "deaths": 119,
     "resolved": 1449,
