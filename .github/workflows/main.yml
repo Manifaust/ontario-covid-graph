@@ -29,5 +29,3 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
       with:
         commit_message: Update report
-        # File pattern used for `git add`. For example `src/\*.js`
-        file_pattern: report.json
