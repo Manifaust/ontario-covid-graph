@@ -329,5 +329,12 @@
     "deaths": 67,
     "new_cases": 256,
     "growth_factor": "1.12"
+  },
+  {
+    "date": "2020-04-04",
+    "confirmed_positive": 2317,
+    "deaths": 94,
+    "new_cases": 152,
+    "growth_factor": "0.59"
   }
 ]
