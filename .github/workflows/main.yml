@@ -7,7 +7,7 @@ name: Update Report
 on:
   # Trigger every hour
   schedule:
-  - cron: "0 * * * *"
+  - cron: "*/5 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -24,7 +24,6 @@ jobs:
       uses: actions/setup-ruby@v1
     - name: Generate report
       run: |
-        sudo apt-get -y install curl
         bash run.sh
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
