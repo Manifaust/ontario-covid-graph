@@ -46,6 +46,25 @@ const report = fetch(reportURL).then((response) => {
       color: `6, 255, 129`
     }]
   })
+
+  chartData.render({
+    ele: document.getElementById('severity'),
+    data: data,
+    title: 'Hospitalized',
+    key: 'hospitalized',
+    color: `80, 209, 208`,
+    borderWidth: 2,
+    fill: false,
+    subCharts: [{
+      title: 'ICU',
+      key: 'icu',
+      color: `141, 182, 0`
+    },{
+      title: 'ICU on Ventilator',
+      key: 'icu_on_ventilator',
+      color: `228, 61, 77`
+    }]
+  })
 })
 
 function addData(opt) {

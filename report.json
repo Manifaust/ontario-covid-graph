@@ -427,6 +427,9 @@
     "resolved": 831,
     "deaths": 53,
     "total_cases": 2793,
+    "hospitalized": 405,
+    "icu": 167,
+    "icu_on_ventilator": 112,
     "date": "2020-04-02",
     "new_total_cases": 401,
     "growth_factor_total_cases": "0.94"
@@ -436,6 +439,9 @@
     "resolved": 1023,
     "deaths": 67,
     "total_cases": 3255,
+    "hospitalized": 462,
+    "icu": 194,
+    "icu_on_ventilator": 140,
     "date": "2020-04-03",
     "new_total_cases": 462,
     "growth_factor_total_cases": "1.15"
@@ -445,6 +451,9 @@
     "resolved": 1219,
     "deaths": 94,
     "total_cases": 3630,
+    "hospitalized": 506,
+    "icu": 196,
+    "icu_on_ventilator": 152,
     "date": "2020-04-04",
     "new_total_cases": 375,
     "growth_factor_total_cases": "0.81"
@@ -454,6 +463,9 @@
     "resolved": 1449,
     "deaths": 119,
     "total_cases": 4038,
+    "hospitalized": 523,
+    "icu": 200,
+    "icu_on_ventilator": 154,
     "date": "2020-04-05",
     "new_total_cases": 408,
     "growth_factor_total_cases": "1.09"

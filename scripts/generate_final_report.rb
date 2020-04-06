@@ -10,7 +10,10 @@ csv_mapping = {
   infected: 5,
   resolved: 6,
   deaths: 7,
-  total_cases: 9
+  total_cases: 9,
+  hospitalized: 10,
+  icu: 11,
+  icu_on_ventilator: 12
 }
 
 def create_report_entries(status_csv_path, csv_mapping)
