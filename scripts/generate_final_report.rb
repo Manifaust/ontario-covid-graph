@@ -4,54 +4,62 @@ require 'json'
 require 'csv'
 
 status_csv_path = ARGV[0]
-final_report_path = ARGV[1]
+report_path = ARGV[1]
 
-final_report_arr = []
+csv_mapping = {
+  infected: 5,
+  resolved: 6,
+  deaths: 7,
+  total_cases: 9
+}
 
-last_total_cases = nil
-last_new_total_cases = nil
+def create_report_entries(status_csv_path, csv_mapping)
+  report_entries = []
 
-CSV.parse(File.read(status_csv_path), headers: true).each do |row|
-  date = row[0]
-  infected = row[5]
-  resolved = row[6]
-  deaths = row[7]
-  total_cases = row[9]
+  last_total_cases = nil
+  last_new_total_cases = nil
 
-  next if total_cases.nil? || total_cases.empty?
-  total_cases = total_cases.to_i
-  infected = infected.to_i
+  CSV.parse(File.read(status_csv_path), headers: true).each do |row|
+    date = row[0]
 
-  final_report_entry = {
-    'date': date,
-    'infected': infected,
-    'total_cases': total_cases
-  }
-  unless deaths.nil? || deaths.empty?
-    final_report_entry['deaths'] = deaths.to_i
-  end
-  unless resolved.nil? || resolved.empty?
-    final_report_entry['resolved'] = resolved.to_i
-  end
+    report_entry = create_report_entry(row, csv_mapping)
+    report_entry[:date] = date
 
-  # total cases
-  new_total_cases = nil
-  if last_total_cases != nil
-    new_total_cases = total_cases - last_total_cases
-    final_report_entry['new_total_cases'] = new_total_cases
-  end
+    # total cases
+    new_total_cases = nil
+    if last_total_cases != nil
+      new_total_cases = report_entry[:total_cases] - last_total_cases
+      report_entry['new_total_cases'] = new_total_cases
+    end
 
-  if last_new_total_cases != nil && last_new_total_cases > 0
-    growth_factor_total = '%.2f' % new_total_cases.fdiv(last_new_total_cases)
-    final_report_entry['growth_factor_total_cases'] = growth_factor_total
+    if last_new_total_cases != nil && last_new_total_cases > 0
+      growth_factor_total = '%.2f' % new_total_cases.fdiv(last_new_total_cases)
+      report_entry['growth_factor_total_cases'] = growth_factor_total
+    end
+
+    last_total_cases = report_entry[:total_cases]
+    last_new_total_cases = new_total_cases
+
+    report_entries << report_entry
   end
 
-  last_total_cases = total_cases
-  last_new_total_cases = new_total_cases
-
-  final_report_arr << final_report_entry
+  report_entries
 end
 
-File.write(final_report_path, JSON.pretty_generate(final_report_arr))
-puts "Wrote report: #{final_report_path}"
+def create_report_entry(row, csv_mapping)
+  entry = {}
+
+  csv_mapping.each do |key, col|
+    val = row[col]
+    next if val.nil? || val.empty?
+
+    entry[key] = val.to_i
+  end
+
+  entry
+end
+
+report_entries = create_report_entries(status_csv_path, csv_mapping)
+File.write(report_path, JSON.pretty_generate(report_entries))
+puts "Wrote report: #{report_path}"
 
