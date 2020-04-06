@@ -10,3 +10,5 @@ layout: home
 <canvas id="totalCases"></canvas>
 
 <canvas id="newCases"></canvas>
+
+<canvas id="infectedResolvedDeaths"></canvas>
