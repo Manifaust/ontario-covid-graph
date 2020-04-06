@@ -70,15 +70,15 @@ const chartData = {
         data: {
           labels: chartLabels,
           datasets: [{
-              label: opt.title,
-              data: chartData,
-              backgroundColor: [
-                `rgba(${opt.color}, 0.2)`
-              ],
-              borderColor: [
-                `rgba(${opt.color}, 1)`
-              ],
-              borderWidth: 1,
+            label: opt.title,
+            data: chartData,
+            backgroundColor: [
+              `rgba(${opt.color}, 0.2)`
+            ],
+            borderColor: [
+              `rgba(${opt.color}, 1)`
+            ],
+            borderWidth: 1,
           }]
         },
         options: {
