@@ -34,6 +34,8 @@ const report = fetch(reportURL).then((response) => {
     title: 'Infected',
     key: 'infected',
     color: `153, 102, 255`,
+    borderWidth: 2,
+    fill: false,
     subCharts: [{
       title: 'Deaths',
       key: 'deaths',
@@ -55,7 +57,8 @@ function addData(opt) {
     borderColor: [
       `rgba(${opt.color}, 1)`
     ],
-    borderWidth: 1,
+    borderWidth: opt.borderWidth,
+    fill: opt.fill,
     data: opt.subChartData
   })
   opt.chart.update()
@@ -65,6 +68,8 @@ const chartData = {
   render: (opt) => {
     const chartLabels = opt.data.map(i => i.date)
     const chartData = opt.data.map(i => i[opt.key])
+    if (!('borderWidth' in opt)) { opt.borderWidth = 1; }
+    if (!('fill' in opt)) { opt.fill = true; }
     const myChart = new Chart(opt.ele, {
         type: 'line',
         data: {
@@ -78,7 +83,8 @@ const chartData = {
             borderColor: [
               `rgba(${opt.color}, 1)`
             ],
-            borderWidth: 1,
+            borderWidth: opt.borderWidth,
+            fill: opt.fill
           }]
         },
         options: {
@@ -105,7 +111,9 @@ const chartData = {
           chart: myChart,
           title: i.title,
           color: i.color,
-          subChartData: opt.data.map(e => e[i.key])
+          subChartData: opt.data.map(e => e[i.key]),
+          borderWidth: opt.borderWidth,
+          fill: opt.fill
         })
       )
     }
