@@ -5,11 +5,11 @@
 layout: home
 ---
 
-<canvas id="growthFactorChart"></canvas>
-
 <canvas id="totalCases"></canvas>
 
 <canvas id="newCases"></canvas>
+
+<canvas id="growthFactorChart"></canvas>
 
 <canvas id="infectedResolvedDeaths"></canvas>
 
