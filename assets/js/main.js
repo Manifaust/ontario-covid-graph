@@ -119,6 +119,9 @@ const chartData = {
               time: {
                 unit: 'day'
               }
+            }],
+            yAxes: [{
+              position: 'right'
             }]
           }
         }
