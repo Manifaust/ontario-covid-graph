@@ -517,5 +517,17 @@
     "date": "2020-04-09",
     "new_total_cases": 483,
     "growth_factor_total_cases": "0.88"
+  },
+  {
+    "infected": 3441,
+    "resolved": 2574,
+    "deaths": 222,
+    "total_cases": 6237,
+    "hospitalized": 673,
+    "icu": 260,
+    "icu_on_ventilator": 217,
+    "date": "2020-04-10",
+    "new_total_cases": 478,
+    "growth_factor_total_cases": "0.99"
   }
 ]
