@@ -109,10 +109,7 @@ const chartData = {
         options: {
           scales: {
             yAxes: [{
-              ticks: {
-                beginAtZero: true,
-                max: opt.maxValue
-              }
+
             }],
             xAxes: [{
               type: 'time',
@@ -121,7 +118,11 @@ const chartData = {
               }
             }],
             yAxes: [{
-              position: 'right'
+              position: 'right',
+              ticks: {
+                beginAtZero: true,
+                max: opt.maxValue
+              }
             }]
           }
         }
