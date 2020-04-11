@@ -108,9 +108,6 @@ const chartData = {
         },
         options: {
           scales: {
-            yAxes: [{
-
-            }],
             xAxes: [{
               type: 'time',
               time: {
