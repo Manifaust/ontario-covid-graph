@@ -14,3 +14,7 @@ layout: home
 <canvas id="infectedResolvedDeaths"></canvas>
 
 <canvas id="severity"></canvas>
+
+<canvas id="cities-total-cases"></canvas>
+
+<canvas id="cities-new-cases"></canvas>
