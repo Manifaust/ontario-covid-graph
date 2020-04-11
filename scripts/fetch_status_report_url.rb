@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
 require 'selenium-webdriver'
-require 'webdrivers/geckodriver'
+require 'webdrivers/chromedriver'
 
-options = Selenium::WebDriver::Firefox::Options.new
+options = Selenium::WebDriver::Chrome::Options.new
 options.headless!
-driver = Selenium::WebDriver.for :firefox, options: options
+driver = Selenium::WebDriver.for :chrome, options: options
 
 begin
   driver.get('https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario')
