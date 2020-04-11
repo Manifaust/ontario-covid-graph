@@ -28,6 +28,15 @@ download_csv "$status_report_page_url" "$status_report_csv_name" "$status_report
 echo 'Fetching CSV URL for: Confirmed Cases of COVID-19 cases in Ontario'
 download_csv "$confirmed_cases_report_page_url" "$confirmed_cases_report_csv_name" "$confirmed_cases_report_destination"
 
+intermediate_reports_dir="$DIR"/intermediate_reports
+mkdir -p "$intermediate_reports_dir"
+cities_report_path="$intermediate_reports_dir"/cities.json
+
+echo 'Generating intermediate cities report'
+scripts/generate_cities_report.rb \
+  "$confirmed_cases_report_destination" \
+  "$cities_report_path"
+
 scripts/generate_final_report.rb \
   "$status_report_destination" \
   "$DIR/report.json"
