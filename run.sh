@@ -37,7 +37,9 @@ scripts/generate_cities_report.rb \
   "$confirmed_cases_report_destination" \
   "$cities_report_path"
 
+echo 'Generating final report'
 scripts/generate_final_report.rb \
   "$status_report_destination" \
+  "$cities_report_path" \
   "$DIR/report.json"
 
