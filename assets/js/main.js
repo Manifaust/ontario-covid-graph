@@ -72,13 +72,32 @@ window.fetch(reportURL).then((response) => {
     title: 'Total Cases',
     key: 'total_cases',
     color: '222, 222, 222',
-    borderWidth: 2,
     fill: false,
     subCharts: [{
       title: 'Toronto',
       location: 'Toronto',
       key: 'cities_total_cases',
       color: '40, 67, 142'
+    },{
+      title: 'Mississauga',
+      location: 'Mississauga',
+      key: 'cities_total_cases',
+      color: '82, 192, 232'
+    },{
+      title: 'Newmarket',
+      location: 'Newmarket',
+      key: 'cities_total_cases',
+      color: '70, 149, 65'
+    },{
+      title: 'Ottawa',
+      location: 'Ottawa',
+      key: 'cities_total_cases',
+      color: '18, 168, 142'
+    },{
+      title: 'Whitby',
+      location: 'Whitby',
+      key: 'cities_total_cases',
+      color: '239, 23, 40'
     }]
   })
 
