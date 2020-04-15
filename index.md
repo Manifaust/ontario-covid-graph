@@ -2,19 +2,19 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
-<canvas id="totalCases"></canvas>
+<canvas id="totalCases" class="mb3"></canvas>
 
-<canvas id="newCases"></canvas>
+<canvas id="newCases" class="mb3"></canvas>
 
-<canvas id="growthFactorChart"></canvas>
+<canvas id="growthFactorChart" class="mb3"></canvas>
 
-<canvas id="infectedResolvedDeaths"></canvas>
+<canvas id="infectedResolvedDeaths" class="mb3"></canvas>
 
-<canvas id="severity"></canvas>
+<canvas id="severity" class="mb3"></canvas>
 
-<canvas id="cities-total-cases"></canvas>
+<canvas id="cities-total-cases" class="mb3"></canvas>
 
-<canvas id="cities-new-cases"></canvas>
+<canvas id="cities-new-cases" class="mb3"></canvas>
