@@ -2,6 +2,7 @@
 {
   "short_name": "{{ site.title_short }}",
   "name": "{{ site.title }}",
+  "display": "standalone",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
