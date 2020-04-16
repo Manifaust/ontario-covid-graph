@@ -28,27 +28,28 @@
     }
   },
   {
-    "hospitalized": 9,
     "date": "2020-01-26"
   },
   {
-    "hospitalized": 19,
     "date": "2020-01-27"
   },
   {
-    "deaths": 1,
-    "hospitalized": 11,
+    "infected": 1,
+    "total_cases": 1,
     "date": "2020-01-28"
   },
   {
-    "deaths": 2,
-    "hospitalized": 27,
-    "date": "2020-01-30"
+    "infected": 2,
+    "total_cases": 2,
+    "date": "2020-01-30",
+    "new_total_cases": 1
   },
   {
-    "deaths": 2,
-    "hospitalized": 17,
-    "date": "2020-01-31"
+    "infected": 2,
+    "total_cases": 2,
+    "date": "2020-01-31",
+    "new_total_cases": 0,
+    "growth_factor_total_cases": "0.00"
   },
   {
     "date": "2020-02-01",
@@ -62,19 +63,23 @@
     }
   },
   {
-    "deaths": 3,
-    "hospitalized": 29,
-    "date": "2020-02-03"
+    "infected": 3,
+    "total_cases": 3,
+    "date": "2020-02-03",
+    "new_total_cases": 1
   },
   {
-    "deaths": 3,
-    "hospitalized": 34,
-    "date": "2020-02-04"
+    "infected": 3,
+    "total_cases": 3,
+    "date": "2020-02-04",
+    "new_total_cases": 0,
+    "growth_factor_total_cases": "0.00"
   },
   {
-    "deaths": 3,
-    "hospitalized": 43,
+    "infected": 3,
+    "total_cases": 3,
     "date": "2020-02-05",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -85,19 +90,22 @@
     }
   },
   {
-    "deaths": 3,
-    "hospitalized": 62,
-    "date": "2020-02-06"
+    "infected": 3,
+    "total_cases": 3,
+    "date": "2020-02-06",
+    "new_total_cases": 0
   },
   {
-    "deaths": 3,
-    "hospitalized": 39,
-    "date": "2020-02-08"
+    "infected": 3,
+    "total_cases": 3,
+    "date": "2020-02-08",
+    "new_total_cases": 0
   },
   {
-    "deaths": 3,
-    "hospitalized": 8,
+    "infected": 3,
+    "total_cases": 3,
     "date": "2020-02-10",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Ottawa": 1
     },
@@ -109,27 +117,31 @@
     }
   },
   {
-    "deaths": 3,
-    "hospitalized": 19,
-    "date": "2020-02-11"
+    "infected": 3,
+    "total_cases": 3,
+    "date": "2020-02-11",
+    "new_total_cases": 0
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 9,
-    "date": "2020-02-12"
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "date": "2020-02-12",
+    "new_total_cases": 0
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 15,
-    "date": "2020-02-13"
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "date": "2020-02-13",
+    "new_total_cases": 0
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 8,
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
     "date": "2020-02-14",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Toronto": 2
     },
@@ -165,22 +177,25 @@
     }
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 0,
-    "date": "2020-02-17"
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "date": "2020-02-17",
+    "new_total_cases": 0
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 0,
-    "date": "2020-02-18"
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "date": "2020-02-18",
+    "new_total_cases": 0
   },
   {
-    "infected": 1,
-    "deaths": 3,
-    "hospitalized": 17,
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
     "date": "2020-02-19",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -193,10 +208,11 @@
     }
   },
   {
-    "infected": 2,
-    "deaths": 3,
-    "hospitalized": 14,
+    "infected": 1,
+    "resolved": 2,
+    "total_cases": 3,
     "date": "2020-02-20",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Guelph": 1,
       "Kingston": 1,
@@ -214,10 +230,11 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 3,
-    "hospitalized": 12,
+    "infected": 0,
+    "resolved": 3,
+    "total_cases": 3,
     "date": "2020-02-21",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -265,10 +282,11 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 4,
-    "hospitalized": 9,
+    "infected": 1,
+    "resolved": 3,
+    "total_cases": 4,
     "date": "2020-02-24",
+    "new_total_cases": 1,
     "cities_new_cases": {
       "Ottawa": 1,
       "Toronto": 1,
@@ -286,10 +304,12 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 4,
-    "hospitalized": 21,
+    "infected": 1,
+    "resolved": 3,
+    "total_cases": 4,
     "date": "2020-02-25",
+    "new_total_cases": 0,
+    "growth_factor_total_cases": "0.00",
     "cities_new_cases": {
       "Mississauga": 1,
       "Newmarket": 1
@@ -307,10 +327,11 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 4,
-    "hospitalized": 14,
+    "infected": 1,
+    "resolved": 3,
+    "total_cases": 4,
     "date": "2020-02-26",
+    "new_total_cases": 0,
     "cities_new_cases": {
       "Newmarket": 1,
       "Toronto": 2,
@@ -329,10 +350,11 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 5,
-    "hospitalized": 21,
+    "infected": 2,
+    "resolved": 3,
+    "total_cases": 5,
     "date": "2020-02-27",
+    "new_total_cases": 1,
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -350,9 +372,11 @@
   },
   {
     "infected": 3,
-    "deaths": 6,
-    "hospitalized": 22,
+    "resolved": 3,
+    "total_cases": 6,
     "date": "2020-02-28",
+    "new_total_cases": 1,
+    "growth_factor_total_cases": "1.00",
     "cities_new_cases": {
       "Mississauga": 1,
       "Newmarket": 2,
@@ -419,10 +443,12 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 18,
-    "hospitalized": 12,
+    "infected": 15,
+    "resolved": 3,
+    "total_cases": 18,
     "date": "2020-03-02",
+    "new_total_cases": 12,
+    "growth_factor_total_cases": "12.00",
     "cities_new_cases": {
       "Cornwall": 1,
       "Mississauga": 1,
@@ -451,10 +477,12 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 20,
-    "hospitalized": 45,
+    "infected": 17,
+    "resolved": 3,
+    "total_cases": 20,
     "date": "2020-03-03",
+    "new_total_cases": 2,
+    "growth_factor_total_cases": "0.17",
     "cities_new_cases": {
       "Barrie": 2,
       "Hamilton": 1,
@@ -484,10 +512,12 @@
     }
   },
   {
-    "infected": 3,
-    "deaths": 20,
-    "hospitalized": 102,
+    "infected": 17,
+    "resolved": 3,
+    "total_cases": 20,
     "date": "2020-03-04",
+    "new_total_cases": 0,
+    "growth_factor_total_cases": "0.00",
     "cities_new_cases": {
       "Guelph": 1,
       "Mississauga": 1,
@@ -519,10 +549,11 @@
     }
   },
   {
-    "infected": 4,
-    "deaths": 22,
-    "hospitalized": 78,
+    "infected": 18,
+    "resolved": 4,
+    "total_cases": 22,
     "date": "2020-03-05",
+    "new_total_cases": 2,
     "cities_new_cases": {
       "Barrie": 4,
       "Kingston": 1,
@@ -558,10 +589,12 @@
     }
   },
   {
-    "infected": 4,
-    "deaths": 26,
-    "hospitalized": 72,
+    "infected": 22,
+    "resolved": 4,
+    "total_cases": 26,
     "date": "2020-03-06",
+    "new_total_cases": 4,
+    "growth_factor_total_cases": "2.00",
     "cities_new_cases": {
       "Hamilton": 1,
       "Newmarket": 4,
@@ -599,10 +632,12 @@
     }
   },
   {
-    "infected": 4,
-    "deaths": 28,
-    "hospitalized": 36,
+    "infected": 24,
+    "resolved": 4,
+    "total_cases": 28,
     "date": "2020-03-07",
+    "new_total_cases": 2,
+    "growth_factor_total_cases": "0.50",
     "cities_new_cases": {
       "Barrie": 2,
       "Chatham": 1,
@@ -645,10 +680,12 @@
     }
   },
   {
-    "infected": 4,
-    "deaths": 29,
-    "hospitalized": 55,
+    "infected": 25,
+    "resolved": 4,
+    "total_cases": 29,
     "date": "2020-03-08",
+    "new_total_cases": 1,
+    "growth_factor_total_cases": "0.50",
     "cities_new_cases": {
       "Barrie": 1,
       "Brantford": 2,
@@ -694,10 +731,12 @@
     }
   },
   {
-    "infected": 4,
-    "deaths": 35,
-    "hospitalized": 22,
+    "infected": 31,
+    "resolved": 4,
+    "total_cases": 35,
     "date": "2020-03-09",
+    "new_total_cases": 6,
+    "growth_factor_total_cases": "6.00",
     "cities_new_cases": {
       "Barrie": 3,
       "Cornwall": 2,
@@ -748,10 +787,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 36,
-    "hospitalized": 112,
+    "infected": 31,
+    "resolved": 5,
+    "total_cases": 36,
     "date": "2020-03-10",
+    "new_total_cases": 1,
+    "growth_factor_total_cases": "0.17",
     "cities_new_cases": {
       "Barrie": 2,
       "Cornwall": 1,
@@ -805,10 +846,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 42,
-    "hospitalized": 465,
+    "infected": 37,
+    "resolved": 5,
+    "total_cases": 42,
     "date": "2020-03-11",
+    "new_total_cases": 6,
+    "growth_factor_total_cases": "6.00",
     "cities_new_cases": {
       "Barrie": 1,
       "Belleville": 1,
@@ -865,10 +908,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 59,
-    "hospitalized": 536,
+    "infected": 54,
+    "resolved": 5,
+    "total_cases": 59,
     "date": "2020-03-12",
+    "new_total_cases": 17,
+    "growth_factor_total_cases": "2.83",
     "cities_new_cases": {
       "Barrie": 1,
       "Belleville": 1,
@@ -929,10 +974,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 79,
-    "hospitalized": 580,
+    "infected": 74,
+    "resolved": 5,
+    "total_cases": 79,
     "date": "2020-03-13",
+    "new_total_cases": 20,
+    "growth_factor_total_cases": "1.18",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -996,10 +1043,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 103,
-    "hospitalized": 939,
+    "infected": 98,
+    "resolved": 5,
+    "total_cases": 103,
     "date": "2020-03-14",
+    "new_total_cases": 24,
+    "growth_factor_total_cases": "1.20",
     "cities_new_cases": {
       "Brantford": 3,
       "Brockville": 2,
@@ -1055,10 +1104,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 145,
-    "hospitalized": 1316,
+    "infected": 140,
+    "resolved": 5,
+    "total_cases": 145,
     "date": "2020-03-15",
+    "new_total_cases": 42,
+    "growth_factor_total_cases": "1.75",
     "cities_new_cases": {
       "Barrie": 1,
       "Belleville": 1,
@@ -1123,10 +1174,12 @@
     }
   },
   {
-    "infected": 5,
-    "deaths": 177,
-    "hospitalized": 1537,
+    "infected": 172,
+    "resolved": 5,
+    "total_cases": 177,
     "date": "2020-03-16",
+    "new_total_cases": 32,
+    "growth_factor_total_cases": "0.76",
     "cities_new_cases": {
       "Barrie": 5,
       "Brantford": 5,
@@ -1196,11 +1249,13 @@
     }
   },
   {
-    "infected": 5,
-    "resolved": 1,
-    "deaths": 189,
-    "hospitalized": 1567,
+    "infected": 183,
+    "resolved": 5,
+    "deaths": 1,
+    "total_cases": 189,
     "date": "2020-03-17",
+    "new_total_cases": 12,
+    "growth_factor_total_cases": "0.38",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 4,
@@ -1268,11 +1323,13 @@
     }
   },
   {
-    "infected": 5,
-    "resolved": 1,
-    "deaths": 214,
-    "hospitalized": 3378,
+    "infected": 208,
+    "resolved": 5,
+    "deaths": 1,
+    "total_cases": 214,
     "date": "2020-03-18",
+    "new_total_cases": 25,
+    "growth_factor_total_cases": "2.08",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 2,
@@ -1339,11 +1396,13 @@
     }
   },
   {
-    "infected": 5,
-    "resolved": 2,
-    "deaths": 258,
-    "hospitalized": 3971,
+    "infected": 251,
+    "resolved": 5,
+    "deaths": 2,
+    "total_cases": 258,
     "date": "2020-03-19",
+    "new_total_cases": 44,
+    "growth_factor_total_cases": "1.76",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -1410,11 +1469,13 @@
     }
   },
   {
-    "infected": 5,
-    "resolved": 2,
-    "deaths": 318,
-    "hospitalized": 5475,
+    "infected": 311,
+    "resolved": 5,
+    "deaths": 2,
+    "total_cases": 318,
     "date": "2020-03-20",
+    "new_total_cases": 60,
+    "growth_factor_total_cases": "1.36",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -1484,11 +1545,13 @@
     }
   },
   {
-    "infected": 6,
-    "resolved": 2,
-    "deaths": 377,
-    "hospitalized": 7239,
+    "infected": 369,
+    "resolved": 6,
+    "deaths": 2,
+    "total_cases": 377,
     "date": "2020-03-21",
+    "new_total_cases": 59,
+    "growth_factor_total_cases": "0.98",
     "cities_new_cases": {
       "Barrie": 5,
       "Brantford": 3,
@@ -1556,11 +1619,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 5,
-    "deaths": 425,
-    "hospitalized": 8361,
+    "infected": 412,
+    "resolved": 8,
+    "deaths": 5,
+    "total_cases": 425,
     "date": "2020-03-22",
+    "new_total_cases": 48,
+    "growth_factor_total_cases": "0.81",
     "cities_new_cases": {
       "Barrie": 11,
       "Belleville": 2,
@@ -1628,11 +1693,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 6,
-    "deaths": 503,
-    "hospitalized": 8417,
+    "infected": 489,
+    "resolved": 8,
+    "deaths": 6,
+    "total_cases": 503,
     "date": "2020-03-23",
+    "new_total_cases": 78,
+    "growth_factor_total_cases": "1.62",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -1705,11 +1772,13 @@
     }
   },
   {
-    "infected": 8,
+    "infected": 572,
     "resolved": 8,
-    "deaths": 588,
-    "hospitalized": 10074,
+    "deaths": 8,
+    "total_cases": 588,
     "date": "2020-03-24",
+    "new_total_cases": 85,
+    "growth_factor_total_cases": "1.09",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 2,
@@ -1778,11 +1847,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 13,
-    "deaths": 688,
-    "hospitalized": 10489,
+    "infected": 667,
+    "resolved": 8,
+    "deaths": 13,
+    "total_cases": 688,
     "date": "2020-03-25",
+    "new_total_cases": 100,
+    "growth_factor_total_cases": "1.18",
     "cities_new_cases": {
       "Barrie": 2,
       "Brantford": 2,
@@ -1849,11 +1920,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 15,
-    "deaths": 858,
-    "hospitalized": 10965,
+    "infected": 835,
+    "resolved": 8,
+    "deaths": 15,
+    "total_cases": 858,
     "date": "2020-03-26",
+    "new_total_cases": 170,
+    "growth_factor_total_cases": "1.70",
     "cities_new_cases": {
       "Barrie": 5,
       "Brantford": 1,
@@ -1923,11 +1996,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 18,
-    "deaths": 993,
-    "hospitalized": 10074,
+    "infected": 967,
+    "resolved": 8,
+    "deaths": 18,
+    "total_cases": 993,
     "date": "2020-03-27",
+    "new_total_cases": 135,
+    "growth_factor_total_cases": "0.79",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 3,
@@ -1995,11 +2070,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 19,
-    "deaths": 1144,
-    "hospitalized": 8690,
+    "infected": 1117,
+    "resolved": 8,
+    "deaths": 19,
+    "total_cases": 1144,
     "date": "2020-03-28",
+    "new_total_cases": 151,
+    "growth_factor_total_cases": "1.12",
     "cities_new_cases": {
       "Barrie": 5,
       "Belleville": 1,
@@ -2066,11 +2143,13 @@
     }
   },
   {
-    "infected": 8,
-    "resolved": 23,
-    "deaths": 1355,
-    "hospitalized": 7203,
+    "infected": 1324,
+    "resolved": 8,
+    "deaths": 23,
+    "total_cases": 1355,
     "date": "2020-03-29",
+    "new_total_cases": 211,
+    "growth_factor_total_cases": "1.40",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 2,
@@ -2138,11 +2217,13 @@
     }
   },
   {
-    "infected": 431,
-    "resolved": 23,
-    "deaths": 1706,
-    "hospitalized": 5651,
+    "infected": 1252,
+    "resolved": 431,
+    "deaths": 23,
+    "total_cases": 1706,
     "date": "2020-03-30",
+    "new_total_cases": 351,
+    "growth_factor_total_cases": "1.66",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 2,
@@ -2208,11 +2289,13 @@
     }
   },
   {
-    "infected": 534,
-    "resolved": 33,
-    "deaths": 1966,
-    "hospitalized": 4280,
+    "infected": 1399,
+    "resolved": 534,
+    "deaths": 33,
+    "total_cases": 1966,
     "date": "2020-03-31",
+    "new_total_cases": 260,
+    "growth_factor_total_cases": "0.74",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 2,
@@ -2280,11 +2363,13 @@
     }
   },
   {
-    "infected": 674,
-    "resolved": 37,
-    "deaths": 2392,
-    "hospitalized": 3135,
+    "infected": 1681,
+    "resolved": 674,
+    "deaths": 37,
+    "total_cases": 2392,
     "date": "2020-04-01",
+    "new_total_cases": 426,
+    "growth_factor_total_cases": "1.64",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 2,
@@ -2353,13 +2438,16 @@
     }
   },
   {
-    "infected": 831,
-    "resolved": 53,
-    "deaths": 2793,
-    "hospitalized": 2052,
-    "icu": 405,
-    "icu_on_ventilator": 167,
+    "infected": 1909,
+    "resolved": 831,
+    "deaths": 53,
+    "total_cases": 2793,
+    "hospitalized": 405,
+    "icu": 167,
+    "icu_on_ventilator": 112,
     "date": "2020-04-02",
+    "new_total_cases": 401,
+    "growth_factor_total_cases": "0.94",
     "cities_new_cases": {
       "Barrie": 7,
       "Brantford": 1,
@@ -2424,13 +2512,16 @@
     }
   },
   {
-    "infected": 1023,
-    "resolved": 67,
-    "deaths": 3255,
-    "hospitalized": 1245,
-    "icu": 462,
-    "icu_on_ventilator": 194,
+    "infected": 2165,
+    "resolved": 1023,
+    "deaths": 67,
+    "total_cases": 3255,
+    "hospitalized": 462,
+    "icu": 194,
+    "icu_on_ventilator": 140,
     "date": "2020-04-03",
+    "new_total_cases": 462,
+    "growth_factor_total_cases": "1.15",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 1,
@@ -2499,13 +2590,16 @@
     }
   },
   {
-    "infected": 1219,
-    "resolved": 94,
-    "deaths": 3630,
-    "hospitalized": 1336,
-    "icu": 506,
-    "icu_on_ventilator": 196,
+    "infected": 2317,
+    "resolved": 1219,
+    "deaths": 94,
+    "total_cases": 3630,
+    "hospitalized": 506,
+    "icu": 196,
+    "icu_on_ventilator": 152,
     "date": "2020-04-04",
+    "new_total_cases": 375,
+    "growth_factor_total_cases": "0.81",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -2570,13 +2664,16 @@
     }
   },
   {
-    "infected": 1449,
-    "resolved": 119,
-    "deaths": 4038,
-    "hospitalized": 981,
-    "icu": 523,
-    "icu_on_ventilator": 200,
+    "infected": 2470,
+    "resolved": 1449,
+    "deaths": 119,
+    "total_cases": 4038,
+    "hospitalized": 523,
+    "icu": 200,
+    "icu_on_ventilator": 154,
     "date": "2020-04-05",
+    "new_total_cases": 408,
+    "growth_factor_total_cases": "1.09",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 1,
@@ -2643,13 +2740,16 @@
     }
   },
   {
-    "infected": 1624,
-    "resolved": 132,
-    "deaths": 4347,
-    "hospitalized": 329,
-    "icu": 589,
-    "icu_on_ventilator": 216,
+    "infected": 2591,
+    "resolved": 1624,
+    "deaths": 132,
+    "total_cases": 4347,
+    "hospitalized": 589,
+    "icu": 216,
+    "icu_on_ventilator": 160,
     "date": "2020-04-06",
+    "new_total_cases": 309,
+    "growth_factor_total_cases": "0.76",
     "cities_new_cases": {
       "Barrie": 5,
       "Belleville": 1,
@@ -2718,13 +2818,16 @@
     }
   },
   {
-    "infected": 1802,
-    "resolved": 153,
-    "deaths": 4726,
-    "hospitalized": 691,
-    "icu": 614,
-    "icu_on_ventilator": 233,
+    "infected": 2771,
+    "resolved": 1802,
+    "deaths": 153,
+    "total_cases": 4726,
+    "hospitalized": 614,
+    "icu": 233,
+    "icu_on_ventilator": 187,
     "date": "2020-04-07",
+    "new_total_cases": 379,
+    "growth_factor_total_cases": "1.23",
     "cities_new_cases": {
       "Barrie": 10,
       "Brockville": 4,
@@ -2787,13 +2890,16 @@
     }
   },
   {
-    "infected": 2074,
-    "resolved": 174,
-    "deaths": 5276,
-    "hospitalized": 1102,
-    "icu": 605,
-    "icu_on_ventilator": 246,
+    "infected": 3028,
+    "resolved": 2074,
+    "deaths": 174,
+    "total_cases": 5276,
+    "hospitalized": 605,
+    "icu": 246,
+    "icu_on_ventilator": 195,
     "date": "2020-04-08",
+    "new_total_cases": 550,
+    "growth_factor_total_cases": "1.45",
     "cities_new_cases": {
       "Barrie": 5,
       "Brantford": 1,
@@ -2854,13 +2960,16 @@
     }
   },
   {
-    "infected": 2305,
-    "resolved": 200,
-    "deaths": 5759,
-    "hospitalized": 1208,
-    "icu": 632,
-    "icu_on_ventilator": 264,
+    "infected": 3254,
+    "resolved": 2305,
+    "deaths": 200,
+    "total_cases": 5759,
+    "hospitalized": 632,
+    "icu": 264,
+    "icu_on_ventilator": 214,
     "date": "2020-04-09",
+    "new_total_cases": 483,
+    "growth_factor_total_cases": "0.88",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 2,
@@ -2926,13 +3035,16 @@
     }
   },
   {
-    "infected": 2574,
-    "resolved": 222,
-    "deaths": 6237,
-    "hospitalized": 1598,
-    "icu": 673,
-    "icu_on_ventilator": 260,
+    "infected": 3441,
+    "resolved": 2574,
+    "deaths": 222,
+    "total_cases": 6237,
+    "hospitalized": 673,
+    "icu": 260,
+    "icu_on_ventilator": 217,
     "date": "2020-04-10",
+    "new_total_cases": 478,
+    "growth_factor_total_cases": "0.99",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 1,
@@ -2992,13 +3104,16 @@
     }
   },
   {
-    "infected": 2858,
-    "resolved": 253,
-    "deaths": 6648,
-    "hospitalized": 1517,
-    "icu": 691,
-    "icu_on_ventilator": 257,
+    "infected": 3537,
+    "resolved": 2858,
+    "deaths": 253,
+    "total_cases": 6648,
+    "hospitalized": 691,
+    "icu": 257,
+    "icu_on_ventilator": 215,
     "date": "2020-04-11",
+    "new_total_cases": 411,
+    "growth_factor_total_cases": "0.86",
     "cities_new_cases": {
       "Barrie": 1,
       "Brockville": 7,
@@ -3057,13 +3172,16 @@
     }
   },
   {
-    "infected": 3121,
-    "resolved": 274,
-    "deaths": 7049,
-    "hospitalized": 1619,
-    "icu": 738,
-    "icu_on_ventilator": 261,
+    "infected": 3654,
+    "resolved": 3121,
+    "deaths": 274,
+    "total_cases": 7049,
+    "hospitalized": 738,
+    "icu": 261,
+    "icu_on_ventilator": 196,
     "date": "2020-04-12",
+    "new_total_cases": 401,
+    "growth_factor_total_cases": "0.98",
     "cities_new_cases": {
       "Barrie": 1,
       "Brantford": 1,
@@ -3120,13 +3238,16 @@
     }
   },
   {
-    "infected": 3357,
-    "resolved": 291,
-    "deaths": 7470,
-    "hospitalized": 1534,
-    "icu": 760,
-    "icu_on_ventilator": 263,
+    "infected": 3822,
+    "resolved": 3357,
+    "deaths": 291,
+    "total_cases": 7470,
+    "hospitalized": 760,
+    "icu": 263,
+    "icu_on_ventilator": 203,
     "date": "2020-04-13",
+    "new_total_cases": 421,
+    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Brantford": 2,
       "Brockville": 12,
@@ -3178,13 +3299,16 @@
     }
   },
   {
-    "infected": 3568,
-    "resolved": 334,
-    "deaths": 7953,
-    "hospitalized": 2107,
-    "icu": 769,
-    "icu_on_ventilator": 255,
+    "infected": 4051,
+    "resolved": 3568,
+    "deaths": 334,
+    "total_cases": 7953,
+    "hospitalized": 769,
+    "icu": 255,
+    "icu_on_ventilator": 199,
     "date": "2020-04-14",
+    "new_total_cases": 483,
+    "growth_factor_total_cases": "1.15",
     "cities_new_cases": {
       "Brockville": 4,
       "Guelph": 2,
@@ -3232,13 +3356,16 @@
     }
   },
   {
-    "infected": 3902,
-    "resolved": 385,
-    "deaths": 8447,
-    "total_cases": 6010,
-    "hospitalized": 4429,
-    "icu": 795,
-    "icu_on_ventilator": 254,
-    "date": "2020-04-15"
+    "infected": 4160,
+    "resolved": 3902,
+    "deaths": 385,
+    "total_cases": 8447,
+    "new_tests": 6010,
+    "hospitalized": 795,
+    "icu": 254,
+    "icu_on_ventilator": 188,
+    "date": "2020-04-15",
+    "new_total_cases": 494,
+    "growth_factor_total_cases": "1.02"
   }
 ]

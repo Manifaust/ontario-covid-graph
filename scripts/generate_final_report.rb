@@ -8,13 +8,14 @@ cities_report_path = ARGV[1]
 report_path = ARGV[2]
 
 csv_mapping = {
-  infected: 5,
-  resolved: 6,
-  deaths: 7,
-  total_cases: 9,
-  hospitalized: 10,
-  icu: 11,
-  icu_on_ventilator: 12
+  infected: 4,
+  resolved: 5,
+  deaths: 6,
+  total_cases: 7,
+  new_tests: 9,
+  hospitalized: 11,
+  icu: 12,
+  icu_on_ventilator: 13
 }
 
 cities = JSON.parse(File.read(cities_report_path))
