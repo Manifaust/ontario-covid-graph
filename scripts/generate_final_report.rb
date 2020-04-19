@@ -8,14 +8,15 @@ cities_report_path = ARGV[1]
 report_path = ARGV[2]
 
 csv_mapping = {
-  infected: 4,
-  resolved: 5,
-  deaths: 6,
-  total_cases: 7,
-  new_tests: 9,
-  hospitalized: 11,
-  icu: 12,
-  icu_on_ventilator: 13
+  infected: 'Confirmed Positive',
+  resolved: 'Resolved',
+  deaths: 'Deaths',
+  total_cases: 'Total Cases',
+  new_tests: 'Total tests completed in the last day',
+  under_investigation: 'Under Investigation',
+  hospitalized: 'Number of patients hospitalized with COVID-19',
+  icu: 'Number of patients in ICU with COVID-19',
+  icu_on_ventilator: 'Number of patients in ICU on a ventilator with COVID-19'
 }
 
 cities = JSON.parse(File.read(cities_report_path))
@@ -29,7 +30,7 @@ def create_report_entries(status_csv_path, csv_mapping)
   last_new_total_cases = nil
 
   CSV.parse(File.read(status_csv_path), headers: true).each do |row|
-    date = row[0]
+    date = row['Reported Date']
 
     report_entry = create_report_entry(row, csv_mapping)
     report_entry[:date] = date
@@ -58,8 +59,8 @@ end
 def create_report_entry(row, csv_mapping)
   entry = {}
 
-  csv_mapping.each do |key, col|
-    val = row[col]
+  csv_mapping.each do |key, col_name|
+    val = row[col_name]
     next if val.nil? || val.empty?
 
     entry[key] = val.to_i
