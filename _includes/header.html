@@ -1,6 +1,13 @@
 <header class="bb b--black-10 pv3 mb3">
 
-  <div class="mw7 f4 fw3 center ph2">
-    <a class="black no-underline" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <div class="mw7 center ph2 flex items-baseline justify-between">
+    <a id="title" class="black no-underline f4 fw3" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <form>
+      <div class="flex mb2 items-center">
+        <input type="checkbox" name="darkMode" id="darkMode" class="mr2">
+        <label for="darkMode">☾</label>
+      </div>
+    </form>
   </div>
 </header>

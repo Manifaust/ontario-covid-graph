@@ -1,5 +1,8 @@
 Chart.defaults.global.defaultFontFamily = getComputedStyle(document.body).fontFamily
+
+const URLparams = new URLSearchParams(window.location.search)
 const reportURL = '/ontario-covid-graph/report.json'
+const darkModeToggle = document.getElementById('darkMode')
 
 window.fetch(reportURL).then((response) => {
   return response.json()
@@ -117,6 +120,10 @@ window.fetch(reportURL).then((response) => {
       color: '40, 67, 142'
     }]
   })
+}).then(() => {
+  if (URLparams.get('dark') === 'true') {
+    darkMode(true)
+  }
 })
 
 const chart = {
@@ -128,7 +135,7 @@ const chart = {
     var gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
     gradientFill.addColorStop(0, `rgba(${opt.color}, 0.6)`)
     gradientFill.addColorStop(1, `rgba(${opt.color}, 0)`)
-    const myChart = new Chart(opt.ele, {
+    var myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
         labels: chartLabels,
@@ -181,6 +188,8 @@ const chart = {
         })
       )
     }
+
+    chart.collection.push(myChart)
   },
   addData: (opt) => {
     const subChartData = () => {
@@ -204,5 +213,40 @@ const chart = {
       data: subChartData()
     })
     opt.chart.update()
+  },
+  collection: []
+}
+
+const darkMode = (e) => {
+  const body = document.body
+  const title = document.getElementById('title')
+  if (e) {
+    darkModeToggle.checked = true
+    body.classList.remove('bg-near-white')
+    body.classList.add('bg-near-black', 'white')
+    title.classList.remove('black')
+    title.classList.add('white')
+    chart.collection.map((chart) => {
+      chart.options.scales.xAxes[0].gridLines.color = 'rgba(255,255,255,0.1)'
+      chart.options.scales.yAxes[0].gridLines.color = 'rgba(255,255,255,0.1)'
+      chart.update()
+    })
+    URLparams.set('dark', true)
+  } else {
+    body.classList.add('bg-near-white')
+    body.classList.remove('bg-near-black', 'white')
+    title.classList.add('black')
+    title.classList.remove('white')
+    chart.collection.map((chart) => {
+      chart.options.scales.xAxes[0].gridLines.color = 'rgba(0,0,0,0.1)'
+      chart.options.scales.yAxes[0].gridLines.color = 'rgba(0,0,0,0.1)'
+      chart.update()
+    })
+    URLparams.set('dark', false)
   }
 }
+
+darkModeToggle.addEventListener('change', (e) => {
+  darkMode(e.target.checked)
+  window.history.replaceState({}, '', `${window.location.pathname}?${URLparams}`)
+}, false)
