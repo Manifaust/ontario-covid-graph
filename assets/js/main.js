@@ -242,7 +242,7 @@ const darkMode = (e) => {
       chart.options.scales.yAxes[0].gridLines.color = 'rgba(0,0,0,0.1)'
       chart.update()
     })
-    URLparams.set('dark', false)
+    URLparams.delete('dark')
   }
 }
 
