@@ -10,7 +10,7 @@ report_path = ARGV[1]
 def cities_new_cases(confirmed_cases_csv_path)
   date_new_cases_map = {}
   CSV.parse(File.read(confirmed_cases_csv_path), headers: true).each do |row|
-    date = row['ACCURATE_EPISODE_DATE']
+    date = row['Accurate_Episode_Date']
     next if date.nil?
 
     city = row['Reporting_PHU_City']
