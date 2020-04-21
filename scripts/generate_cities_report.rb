@@ -11,6 +11,8 @@ def cities_new_cases(confirmed_cases_csv_path)
   date_new_cases_map = {}
   CSV.parse(File.read(confirmed_cases_csv_path), headers: true).each do |row|
     date = row['ACCURATE_EPISODE_DATE']
+    next if date.nil?
+
     city = row['Reporting_PHU_City']
 
     cities_new_cases  = date_new_cases_map.fetch(date, {})
