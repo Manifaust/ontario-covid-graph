@@ -1,68 +1,69 @@
-#!/usr/bin/env ruby
-
 require 'csv'
 require 'open3'
 
-page = 9
-area = '%20,12,51,88'
-tabula_path = 'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar'
-report_path = 'raw_reports/moh-covid-19-report-en-2020-04-17.pdf'
+class ScrapeInstituionData
+  PAGE = 9
+  AREA = '%20,12,51,88'
 
-command = <<~SH
-  java -jar #{tabula_path} \
-    --pages #{page} \
-    --area #{area} \
-    #{report_path}
-SH
-stdout, stderr, status = Open3.capture3(command)
-raise "Cannot parse pdf: #{stdout} #{stderr}" unless status.success?
+  attr_reader :tabula_path
 
-long_term_care_home_outbreaks = 0
-hospital_outbreaks = 0
-
-cases_section = {}
-deaths_section = {}
-current_section = nil
-
-CSV.parse(stdout, headers:false).each do |row|
-  pp row
-  if row[0] == 'Number of confirmed COVID-19 outbreaks'
-    long_term_care_home_outbreaks = row[1]
-    hospital_outbreaks = row[2]
+  def initialize(tabula_path)
+    @tabula_path = tabula_path
   end
 
-  if row[0].include?('Total number of cases')
-    current_section = cases_section
-  end
+  def scrape(report_path)
+    command = <<~SH
+      java -jar #{@tabula_path} \
+        --pages #{PAGE} \
+        --area #{AREA} \
+        #{report_path}
+    SH
+    stdout, stderr, status = Open3.capture3(command)
+    raise "Cannot parse pdf: #{stdout} #{stderr}" unless status.success?
 
-  if row[0].include?('Total number of deaths')
-    current_section = deaths_section
-  end
+    long_term_outbreaks = 0
+    hospital_outbreaks = 0
+    total_outbreaks = 0
 
-  if !current_section.nil? && row[0].empty?
-    current_section[:long_term_care_home_total] = row[1]
-    current_section[:hospital_total] = row[2]
-  end
+    cases_section = {}
+    deaths_section = {}
+    current_section = nil
 
-  if !current_section.nil? && row[0].include?('residents/patients')
-    current_section[:long_term_care_home_residents] = row[1]
-    current_section[:hospital_patients] = row[2]
-  end
+    CSV.parse(stdout, headers:false).each do |row|
+      if row[0] == 'Number of confirmed COVID-19 outbreaks'
+        long_term_outbreaks = row[1].to_i
+        hospital_outbreaks = row[2].to_i
+        total_outbreaks = long_term_outbreaks + hospital_outbreaks
+      end
 
-  if !current_section.nil? && row[0].include?('staff')
-    current_section[:long_term_care_home_staff] = row[1]
-    current_section[:hospital_staff] = row[2]
+      if row[0].include?('Total number of cases')
+        current_section = cases_section
+      end
+
+      if row[0].include?('Total number of deaths')
+        current_section = deaths_section
+      end
+
+      if !current_section.nil? && row[0].include?('residents/patients')
+        current_section[:residents_long_term] = row[1].to_i
+        current_section[:patients_hospitals] = row[2].to_i
+      end
+
+      if !current_section.nil? && row[0].include?('staff')
+        current_section[:staff_long_term] = row[1].to_i
+        current_section[:staff_hospital] = row[2].to_i
+      end
+    end
+
+    {
+      institutional_outbreaks: {
+        long_term: long_term_outbreaks,
+        hospitals: hospital_outbreaks,
+        total: total_outbreaks
+      },
+      institutional_cases: cases_section,
+      institutional_deaths: deaths_section
+    }
   end
 end
-
-puts "Confirmed outbreaks in long-term care homes: #{long_term_care_home_outbreaks}"
-puts "Confirmed outbreaks in hospitals: #{hospital_outbreaks}"
-
-institutions = {
-  long_term_care_home_outbreaks: long_term_care_home_outbreaks,
-  hospital_outbreaks: hospital_outbreaks,
-  cases: cases_section,
-  deaths: deaths_section
-}
-pp institutions
 
