@@ -31,8 +31,8 @@ class ScrapeInstituionData
 
     CSV.parse(stdout, headers:false).each do |row|
       if row[0] == 'Number of confirmed COVID-19 outbreaks'
-        long_term_outbreaks = row[1].to_i
-        hospital_outbreaks = row[2].to_i
+        long_term_outbreaks = row[1].delete(',').to_i
+        hospital_outbreaks = row[2].delete(',').to_i
         total_outbreaks = long_term_outbreaks + hospital_outbreaks
       end
 
@@ -45,13 +45,13 @@ class ScrapeInstituionData
       end
 
       if !current_section.nil? && row[0].include?('residents/patients')
-        current_section[:residents_long_term] = row[1].to_i
-        current_section[:patients_hospitals] = row[2].to_i
+        current_section[:residents_long_term] = row[1].delete(',').to_i
+        current_section[:patients_hospitals] = row[2].delete(',').to_i
       end
 
       if !current_section.nil? && row[0].include?('staff')
-        current_section[:staff_long_term] = row[1].to_i
-        current_section[:staff_hospital] = row[2].to_i
+        current_section[:staff_long_term] = row[1].delete(',').to_i
+        current_section[:staff_hospital] = row[2].delete(',').to_i
       end
     end
 
