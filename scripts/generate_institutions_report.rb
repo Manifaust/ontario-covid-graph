@@ -7,7 +7,8 @@ require_relative 'scrape_institution_data'
 
 tabula_path = ARGV[0]
 raw_reports_dir = ARGV[1]
-institutions_report_path = ARGV[2]
+old_institutions_data_path = ARGV[2]
+institutions_report_path = ARGV[3]
 
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
 epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
@@ -17,7 +18,7 @@ pp epidemiologic_report_paths
 
 scrape_institution_data = ScrapeInstituionData.new(tabula_path)
 
-date_institutions_map = {}
+date_institutions_map = JSON.parse(File.read(old_institutions_data_path))
 
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
@@ -27,6 +28,7 @@ epidemiologic_report_paths.each do |pdf_path|
 
   date = Date.parse(matches[:date])
 
+  # reports are on a different page before this date
   min_date = Date.parse('2020-04-09')
 
   if date < min_date

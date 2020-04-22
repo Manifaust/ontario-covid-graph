@@ -42,6 +42,7 @@ echo 'Generating intermediate institutions report'
 scripts/generate_institutions_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
   "$DIR"/raw_reports \
+  "$DIR"/raw_reports/old_institutions_data.json \
   "$institutions_report_path"
 
 echo 'Generating final report'
