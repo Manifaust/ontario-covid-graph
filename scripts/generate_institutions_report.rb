@@ -13,9 +13,6 @@ institutions_report_path = ARGV[3]
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
 epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
-puts 'Found PDFs:'
-pp epidemiologic_report_paths
-
 scrape_institution_data = ScrapeInstituionData.new(tabula_path)
 
 date_institutions_map = JSON.parse(File.read(old_institutions_data_path))

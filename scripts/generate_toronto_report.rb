@@ -12,9 +12,6 @@ raw_reports_dir = ARGV[1]
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
 epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
-puts 'Found PDFs:'
-pp epidemiologic_report_paths
-
 scrape_toronto_data = ScrapeTorontoData.new(tabula_path)
 
 date_toronto_map = {}
