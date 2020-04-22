@@ -3203,6 +3203,23 @@
       "Waterloo": 231,
       "Whitby": 432,
       "Windsor": 311
+    },
+    "institutional_outbreaks": {
+      "long_term": 73,
+      "hospitals": 17,
+      "total": 90
+    },
+    "institutional_cases": {
+      "residents_long_term": 560,
+      "patients_hospitals": 50,
+      "staff_long_term": 366,
+      "staff_hospital": 40
+    },
+    "institutional_deaths": {
+      "residents_long_term": 98,
+      "patients_hospitals": 8,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3278,6 +3295,23 @@
       "Waterloo": 234,
       "Whitby": 478,
       "Windsor": 318
+    },
+    "institutional_outbreaks": {
+      "long_term": 79,
+      "hospitals": 20,
+      "total": 99
+    },
+    "institutional_cases": {
+      "residents_long_term": 625,
+      "patients_hospitals": 53,
+      "staff_long_term": 374,
+      "staff_hospital": 41
+    },
+    "institutional_deaths": {
+      "residents_long_term": 108,
+      "patients_hospitals": 8,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3352,6 +3386,23 @@
       "Waterloo": 237,
       "Whitby": 498,
       "Windsor": 333
+    },
+    "institutional_outbreaks": {
+      "long_term": 86,
+      "hospitals": 21,
+      "total": 107
+    },
+    "institutional_cases": {
+      "residents_long_term": 719,
+      "patients_hospitals": 53,
+      "staff_long_term": 430,
+      "staff_hospital": 41
+    },
+    "institutional_deaths": {
+      "residents_long_term": 114,
+      "patients_hospitals": 8,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3423,6 +3474,23 @@
       "Waterloo": 240,
       "Whitby": 526,
       "Windsor": 338
+    },
+    "institutional_outbreaks": {
+      "long_term": 89,
+      "hospitals": 24,
+      "total": 113
+    },
+    "institutional_cases": {
+      "residents_long_term": 741,
+      "patients_hospitals": 56,
+      "staff_long_term": 430,
+      "staff_hospital": 43
+    },
+    "institutional_deaths": {
+      "residents_long_term": 119,
+      "patients_hospitals": 8,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3497,6 +3565,23 @@
       "Waterloo": 246,
       "Whitby": 562,
       "Windsor": 391
+    },
+    "institutional_outbreaks": {
+      "long_term": 93,
+      "hospitals": 27,
+      "total": 120
+    },
+    "institutional_cases": {
+      "residents_long_term": 813,
+      "patients_hospitals": 62,
+      "staff_long_term": 437,
+      "staff_hospital": 50
+    },
+    "institutional_deaths": {
+      "residents_long_term": 135,
+      "patients_hospitals": 8,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3568,6 +3653,23 @@
       "Waterloo": 250,
       "Whitby": 578,
       "Windsor": 419
+    },
+    "institutional_outbreaks": {
+      "long_term": 98,
+      "hospitals": 28,
+      "total": 126
+    },
+    "institutional_cases": {
+      "residents_long_term": 834,
+      "patients_hospitals": 82,
+      "staff_long_term": 453,
+      "staff_hospital": 56
+    },
+    "institutional_deaths": {
+      "residents_long_term": 144,
+      "patients_hospitals": 9,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3641,6 +3743,23 @@
       "Waterloo": 254,
       "Whitby": 597,
       "Windsor": 445
+    },
+    "institutional_outbreaks": {
+      "long_term": 104,
+      "hospitals": 29,
+      "total": 133
+    },
+    "institutional_cases": {
+      "residents_long_term": 933,
+      "patients_hospitals": 87,
+      "staff_long_term": 530,
+      "staff_hospital": 58
+    },
+    "institutional_deaths": {
+      "residents_long_term": 162,
+      "patients_hospitals": 9,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3783,6 +3902,23 @@
       "Waterloo": 261,
       "Whitby": 650,
       "Windsor": 476
+    },
+    "institutional_outbreaks": {
+      "long_term": 106,
+      "hospitals": 30,
+      "total": 136
+    },
+    "institutional_cases": {
+      "residents_long_term": 1,
+      "patients_hospitals": 117,
+      "staff_long_term": 621,
+      "staff_hospital": 76
+    },
+    "institutional_deaths": {
+      "residents_long_term": 216,
+      "patients_hospitals": 10,
+      "staff_long_term": 0,
+      "staff_hospital": 0
     }
   },
   {
@@ -3852,6 +3988,23 @@
       "Waterloo": 262,
       "Whitby": 661,
       "Windsor": 481
+    },
+    "institutional_outbreaks": {
+      "long_term": 108,
+      "hospitals": 31,
+      "total": 139
+    },
+    "institutional_cases": {
+      "residents_long_term": 1,
+      "patients_hospitals": 115,
+      "staff_long_term": 637,
+      "staff_hospital": 77
+    },
+    "institutional_deaths": {
+      "residents_long_term": 233,
+      "patients_hospitals": 10,
+      "staff_long_term": 1,
+      "staff_hospital": 0
     }
   },
   {
@@ -3919,6 +4072,23 @@
       "Waterloo": 262,
       "Whitby": 666,
       "Windsor": 483
+    },
+    "institutional_outbreaks": {
+      "long_term": 112,
+      "hospitals": 31,
+      "total": 143
+    },
+    "institutional_cases": {
+      "residents_long_term": 1,
+      "patients_hospitals": 123,
+      "staff_long_term": 637,
+      "staff_hospital": 90
+    },
+    "institutional_deaths": {
+      "residents_long_term": 240,
+      "patients_hospitals": 11,
+      "staff_long_term": 1,
+      "staff_hospital": 0
     }
   },
   {

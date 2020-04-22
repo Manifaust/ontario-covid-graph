@@ -5,7 +5,8 @@ require 'csv'
 
 status_csv_path = ARGV[0]
 cities_report_path = ARGV[1]
-report_path = ARGV[2]
+institutions_report_path = ARGV[2]
+final_report_path = ARGV[3]
 
 csv_mapping = {
   infected: 'Confirmed Positive',
@@ -22,6 +23,7 @@ csv_mapping = {
 cities = JSON.parse(File.read(cities_report_path))
 cities_new_cases_all_dates = cities['new_cases']
 cities_total_cases_all_dates = cities['total_cases']
+institution_dates = JSON.parse(File.read(institutions_report_path))
 
 def create_report_entries(status_csv_path, csv_mapping)
   report_entries = []
@@ -85,6 +87,21 @@ def inject_cities_data(report_entries, cities_new_cases_all_dates, cities_total_
   end
 end
 
+def inject_institutions_data(report_entries, institution_dates)
+  institution_dates.each do |date, institutions_map|
+    report_entry_right_day = report_entries.find do |report_entry|
+      report_entry[:date] == date
+    end
+
+    if report_entry_right_day.nil?
+      report_entry_right_day = { date: date }
+      report_entries << report_entry_right_day
+    end
+
+    report_entry_right_day.merge!(institutions_map)
+  end
+end
+
 report_entries = create_report_entries(
   status_csv_path,
   csv_mapping
@@ -96,7 +113,12 @@ inject_cities_data(
   cities_total_cases_all_dates
 )
 
+inject_institutions_data(
+  report_entries,
+  institution_dates
+)
+
 report_entries.sort! { |a, b| a[:date] <=> b[:date] }
-File.write(report_path, JSON.pretty_generate(report_entries))
-puts "Wrote final report: #{report_path}"
+File.write(final_report_path, JSON.pretty_generate(report_entries))
+puts "Wrote final report: #{final_report_path}"
 

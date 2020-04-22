@@ -1,14 +1,16 @@
 #!/usr/bin/env ruby
 
 require 'date'
+require 'json'
 
 require_relative 'scrape_institution_data'
 
-tabula_path = 'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar'
-report_path = 'raw_reports/moh-covid-19-report-en-2020-04-17.pdf'
+tabula_path = ARGV[0]
+raw_reports_dir = ARGV[1]
+institutions_report_path = ARGV[2]
 
-raw_reports_glob = File.join('raw_reports', 'moh-covid-19-report-en-*.pdf')
-epidemiologic_report_paths = Dir.glob(raw_reports_glob)
+raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
+epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
 puts 'Found PDFs:'
 pp epidemiologic_report_paths
@@ -28,7 +30,7 @@ epidemiologic_report_paths.each do |pdf_path|
   min_date = Date.parse('2020-04-09')
 
   if date < min_date
-    puts "Skipping because report for #{date} older than min date #{min_date}"
+    puts "Skipping report for #{date} because it is older than min date #{min_date}"
     next
   else
     puts "Scraping #{pdf_basename}"
@@ -37,5 +39,9 @@ epidemiologic_report_paths.each do |pdf_path|
   date_institutions_map[date.to_s] = scrape_institution_data.scrape(pdf_path)
 end
 
-pp date_institutions_map
+File.write(
+  institutions_report_path,
+  JSON.pretty_generate(date_institutions_map.sort.to_h)
+)
+puts "Wrote institutions report: #{institutions_report_path}"
 
