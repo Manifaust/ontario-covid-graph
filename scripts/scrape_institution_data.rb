@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'csv'
 require 'open3'
 
@@ -29,7 +31,7 @@ class ScrapeInstituionData
     deaths_section = {}
     current_section = nil
 
-    CSV.parse(stdout, headers:false).each do |row|
+    CSV.parse(stdout, headers: false).each do |row|
       if row[0] == 'Number of confirmed COVID-19 outbreaks'
         long_term_outbreaks = row[1].delete(',').to_i
         hospital_outbreaks = row[2].delete(',').to_i
