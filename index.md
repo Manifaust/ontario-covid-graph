@@ -18,3 +18,9 @@ layout: default
 <canvas id="cities-total-cases" class="mb3"></canvas>
 
 <canvas id="cities-new-cases" class="mb3"></canvas>
+
+<canvas id="institutional-outbreaks" class="mb3"></canvas>
+
+<canvas id="institutional-cases" class="mb3"></canvas>
+
+<canvas id="institutional-deaths" class="mb3"></canvas>

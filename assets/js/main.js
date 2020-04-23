@@ -79,27 +79,27 @@ window.fetch(reportURL).then((response) => {
     fill: false,
     subCharts: [{
       title: 'Toronto',
-      location: 'Toronto',
+      subKey: 'Toronto',
       key: 'cities_total_cases',
       color: '40, 67, 142'
     }, {
       title: 'Mississauga',
-      location: 'Mississauga',
+      subKey: 'Mississauga',
       key: 'cities_total_cases',
       color: '82, 192, 232'
     }, {
       title: 'Newmarket',
-      location: 'Newmarket',
+      subKey: 'Newmarket',
       key: 'cities_total_cases',
       color: '70, 149, 65'
     }, {
       title: 'Ottawa',
-      location: 'Ottawa',
+      subKey: 'Ottawa',
       key: 'cities_total_cases',
       color: '18, 168, 142'
     }, {
       title: 'Whitby',
-      location: 'Whitby',
+      subKey: 'Whitby',
       key: 'cities_total_cases',
       color: '239, 23, 40'
     }]
@@ -115,9 +115,97 @@ window.fetch(reportURL).then((response) => {
     borderWidth: 2,
     subCharts: [{
       title: 'Toronto',
-      location: 'Toronto',
+      subKey: 'Toronto',
       key: 'cities_new_cases',
       color: '40, 67, 142'
+    }]
+  })
+
+  chart.render({
+    ele: document.getElementById('institutional-outbreaks'),
+    data: data,
+    title: 'Institutional Outbreaks',
+    key: 'institutional_outbreaks',
+    color: '222, 222, 222',
+    fill: false,
+    borderWidth: 1,
+    subCharts: [{
+      title: 'Long-Term Care Outbreaks',
+      key: 'institutional_outbreaks',
+      subKey: 'long_term',
+      color: '252, 113, 0'
+    }, {
+      title: 'Hospital Outbreaks',
+      key: 'institutional_outbreaks',
+      subKey: 'hospitals',
+      color: '153, 0, 255'
+    }, {
+      title: 'Total Outbreaks',
+      key: 'institutional_outbreaks',
+      subKey: 'total',
+      color: '222, 222, 222'
+    }]
+  })
+
+  chart.render({
+    ele: document.getElementById('institutional-cases'),
+    data: data,
+    title: 'Institutional Cases',
+    key: 'institutional_cases',
+    color: '222, 222, 222',
+    fill: false,
+    borderWidth: 1,
+    subCharts: [{
+      title: 'Long-Term Care Residents Cases',
+      key: 'institutional_cases',
+      subKey: 'residents_long_term',
+      color: '252, 113, 0'
+    }, {
+      title: 'Long-Term Care Staff Cases',
+      key: 'institutional_cases',
+      subKey: 'staff_long_term',
+      color: '153, 0, 255'
+    }, {
+      title: 'Hospital Patients Cases',
+      key: 'institutional_cases',
+      subKey: 'patients_hospitals',
+      color: '0, 252, 53'
+    }, {
+      title: 'Hospital Staff Cases',
+      key: 'institutional_cases',
+      subKey: 'staff_hospital',
+      color: '0, 42, 252'
+    }]
+  })
+
+  chart.render({
+    ele: document.getElementById('institutional-deaths'),
+    data: data,
+    title: 'Institutional Deaths',
+    key: 'institutional_deaths',
+    color: '222, 222, 222',
+    fill: false,
+    borderWidth: 1,
+    subCharts: [{
+      title: 'Long-Term Care Deaths',
+      key: 'institutional_deaths',
+      subKey: 'residents_long_term',
+      color: '252, 113, 0'
+    }, {
+      title: 'Long-Term Care Staff Deaths',
+      key: 'institutional_deaths',
+      subKey: 'staff_long_term',
+      color: '153, 0, 255'
+    }, {
+      title: 'Hospital Patients Deaths',
+      key: 'institutional_deaths',
+      subKey: 'patients_hospitals',
+      color: '0, 252, 53'
+    }, {
+      title: 'Hospital Staff Deaths',
+      key: 'institutional_deaths',
+      subKey: 'staff_hospital',
+      color: '0, 42, 252'
     }]
   })
 }).then(() => {
@@ -182,7 +270,7 @@ const chart = {
           color: i.color,
           subChartData: opt.data,
           key: i.key,
-          location: i.location,
+          subKey: i.subKey,
           borderWidth: opt.borderWidth,
           fill: opt.fill
         })
@@ -194,8 +282,8 @@ const chart = {
   addData: (opt) => {
     const subChartData = () => {
       const e = opt.subChartData.map(i => i[opt.key])
-      if (opt.location) {
-        return e.map(i => i !== undefined ? i[opt.location] : undefined)
+      if (opt.subKey) {
+        return e.map(i => i !== undefined ? i[opt.subKey] : undefined)
       }
       return e
     }
