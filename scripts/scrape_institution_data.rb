@@ -4,7 +4,6 @@ require 'csv'
 require 'open3'
 
 class ScrapeInstituionData
-  PAGE = 9
   AREA = '%20,12,51,88'
 
   attr_reader :tabula_path
@@ -13,10 +12,10 @@ class ScrapeInstituionData
     @tabula_path = tabula_path
   end
 
-  def scrape(report_path)
+  def scrape(report_path, page)
     command = <<~SH
       java -jar #{@tabula_path} \
-        --pages #{PAGE} \
+        --pages #{page} \
         --area #{AREA} \
         #{report_path}
     SH
