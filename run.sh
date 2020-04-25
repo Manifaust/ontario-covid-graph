@@ -9,10 +9,11 @@ bundle install --jobs 4 --retry 3
 
 status_report_page_url='https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario'
 status_report_csv_name='covidtesting.csv'
-status_report_destination="$DIR"/raw_reports/status-of-covid-19-cases-in-ontario.csv
+raw_reports_dir="$DIR"/raw_reports
+status_report_destination="$raw_reports_dir"/status-of-covid-19-cases-in-ontario.csv
 confirmed_cases_report_page_url='https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario'
 confirmed_cases_report_csv_name='conposcovidloc.csv'
-confirmed_cases_report_destination="$DIR"/raw_reports/confirmed-positive-cases-of-covid-19-cases-in-ontario.csv
+confirmed_cases_report_destination="$raw_reports_dir"/confirmed-positive-cases-of-covid-19-cases-in-ontario.csv
 
 function download_csv {
   csv_url="$(scripts/fetch_status_report_url.rb $1 $2)"
@@ -28,6 +29,9 @@ download_csv "$status_report_page_url" "$status_report_csv_name" "$status_report
 echo 'Fetching CSV URL for: Confirmed Cases of COVID-19 cases in Ontario'
 download_csv "$confirmed_cases_report_page_url" "$confirmed_cases_report_csv_name" "$confirmed_cases_report_destination"
 
+echo 'Fetching epidemiologic reports'
+scripts/download_epidemiologic_pdfs.rb "$raw_reports_dir"
+
 intermediate_reports_dir="$DIR"/intermediate_reports
 mkdir -p "$intermediate_reports_dir"
 cities_report_path="$intermediate_reports_dir"/cities.json
@@ -41,8 +45,8 @@ scripts/generate_cities_report.rb \
 echo 'Generating intermediate institutions report'
 scripts/generate_institutions_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
-  "$DIR"/raw_reports \
-  "$DIR"/raw_reports/old_institutions_data.json \
+  "$raw_reports_dir" \
+  "$raw_reports_dir"/old_institutions_data.json \
   "$institutions_report_path"
 
 echo 'Generating final report'
