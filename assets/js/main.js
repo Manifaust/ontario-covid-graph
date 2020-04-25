@@ -235,7 +235,8 @@ const chart = {
             `rgba(${opt.color}, 1)`
           ],
           borderWidth: opt.borderWidth,
-          fill: opt.fill
+          fill: opt.fill,
+          spanGaps: true
         }]
       },
       options: {
@@ -298,7 +299,8 @@ const chart = {
       ],
       borderWidth: opt.borderWidth,
       fill: opt.fill,
-      data: subChartData()
+      data: subChartData(),
+      spanGaps: true
     })
     opt.chart.update()
   },
