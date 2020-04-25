@@ -34,25 +34,33 @@ scripts/download_epidemiologic_pdfs.rb "$raw_reports_dir"
 
 intermediate_reports_dir="$DIR"/intermediate_reports
 mkdir -p "$intermediate_reports_dir"
-cities_report_path="$intermediate_reports_dir"/cities.json
+cities_data_catalogue_path="$intermediate_reports_dir"/cities_from_data_catalogue.json
 institutions_report_path="$intermediate_reports_dir"/institutions.json
+cities_epidemiologic_report_path="$intermediate_reports_dir"/cities_from_epidemiologic_summaries.json
 
-echo 'Generating intermediate cities report'
+echo 'Generating cities report from Ontario Data Catalogue'
 scripts/generate_cities_report.rb \
   "$confirmed_cases_report_destination" \
-  "$cities_report_path"
+  "$cities_data_catalogue_path"
 
-echo 'Generating intermediate institutions report'
+echo 'Generating institutions report'
 scripts/generate_institutions_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
   "$raw_reports_dir" \
   "$raw_reports_dir"/old_institutions_data.json \
   "$institutions_report_path"
 
+echo 'Generating cities report from epidemiologic summaries'
+scripts/generate_toronto_report.rb \
+  'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
+  "$raw_reports_dir" \
+  "$cities_epidemiologic_report_path"
+
 echo 'Generating final report'
 scripts/generate_final_report.rb \
   "$status_report_destination" \
-  "$cities_report_path" \
+  "$cities_data_catalogue_path" \
   "$institutions_report_path" \
+  "$cities_epidemiologic_report_path" \
   "$DIR/report.json"
 

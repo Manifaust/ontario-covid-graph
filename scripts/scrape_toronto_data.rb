@@ -28,20 +28,25 @@ class ScrapeTorontoData
       if row[0] == 'Toronto Public Health'
         toronto_cases = row[1]
       # old reports that give weird data when scraped
-      elsif row[1] == 'oronto Public Health'
+      elsif row[1] == 'oronto Public Health' || row[1] == 'Toronto Public Health'
         toronto_cases = row[4]
       elsif old_toronto_cases_regex.match(row[0])
         toronto_cases = old_toronto_cases_regex.match(row[0])[:cases]
       end
     end
 
-    return {} if toronto_cases.nil?
+    if toronto_cases.nil?
+      puts 'Could not find cases'
+      return {}
+    end
 
     toronto_cases = toronto_cases.delete(',').to_i
 
     puts "Toronto cases: #{toronto_cases}"
     {
-      toronto_cases_from_epidemiologic_summary: toronto_cases
+      cities_total_cases_from_epidemiologic_summary: {
+        'Toronto Public Health': toronto_cases
+      }
     }
   end
 end
