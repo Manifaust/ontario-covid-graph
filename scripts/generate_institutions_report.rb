@@ -2,6 +2,7 @@
 
 require 'date'
 require 'json'
+require 'pdf-reader'
 
 require_relative 'scrape_institution_data'
 
@@ -9,6 +10,17 @@ tabula_path = ARGV[0]
 raw_reports_dir = ARGV[1]
 old_institutions_data_path = ARGV[2]
 institutions_report_path = ARGV[3]
+
+def find_institutions_page_number(pdf_path)
+  reader = PDF::Reader.new(pdf_path)
+  reader.pages.each_with_index do |page, i|
+    if page.text.start_with?('Outbreaks in Institutions and Public Hospitals')
+      return i + 1
+    end
+  end
+
+  return 0
+end
 
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
 epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
@@ -32,7 +44,14 @@ epidemiologic_report_paths.each do |pdf_path|
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
     next
   else
-    puts "Scraping #{pdf_basename}"
+    puts "Scraping #{pdf_basename}..."
+  end
+
+  institutions_page_number = find_institutions_page_number(pdf_path)
+  if institutions_page_number <= 0
+    puts 'Cannot find institutions page, skipping.'
+  else
+    puts "Insitutions info is on page #{institutions_page_number}"
   end
 
   date_institutions_map[date.to_s] = scrape_institution_data.scrape(pdf_path)

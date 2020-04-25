@@ -14,3 +14,6 @@ end
 gem "jekyll", "~> 4.0"
 
 gem "jekyll-seo-tag", "~> 2.6"
+
+gem 'pdf-reader', '~> 2.4'
+
