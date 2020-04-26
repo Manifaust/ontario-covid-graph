@@ -38,7 +38,6 @@ window.fetch(reportURL).then((response) => {
     title: 'Infected',
     key: 'infected',
     color: '153, 102, 255',
-    borderWidth: 2,
     fill: false,
     subCharts: [{
       title: 'Deaths',
@@ -57,7 +56,6 @@ window.fetch(reportURL).then((response) => {
     title: 'Hospitalized',
     key: 'hospitalized',
     color: '80, 209, 208',
-    borderWidth: 2,
     fill: false,
     subCharts: [{
       title: 'ICU',
@@ -74,33 +72,14 @@ window.fetch(reportURL).then((response) => {
     ele: document.getElementById('cities-total-cases'),
     data: data,
     title: 'Total Cases',
+    key: 'total_cases',
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Toronto',
-      subKey: 'Toronto',
-      key: 'cities_total_cases',
+      title: 'Toronto Public Health',
+      subKey: 'Toronto Public Health',
+      key: 'cities_total_cases_from_epidemiologic_summary',
       color: '40, 67, 142'
-    }, {
-      title: 'Mississauga',
-      subKey: 'Mississauga',
-      key: 'cities_total_cases',
-      color: '82, 192, 232'
-    }, {
-      title: 'Newmarket',
-      subKey: 'Newmarket',
-      key: 'cities_total_cases',
-      color: '70, 149, 65'
-    }, {
-      title: 'Ottawa',
-      subKey: 'Ottawa',
-      key: 'cities_total_cases',
-      color: '18, 168, 142'
-    }, {
-      title: 'Whitby',
-      subKey: 'Whitby',
-      key: 'cities_total_cases',
-      color: '239, 23, 40'
     }]
   })
 
@@ -111,7 +90,6 @@ window.fetch(reportURL).then((response) => {
     key: 'new_total_cases',
     color: '222, 222, 222',
     fill: false,
-    borderWidth: 2,
     subCharts: [{
       title: 'Toronto',
       subKey: 'Toronto',
@@ -125,9 +103,9 @@ window.fetch(reportURL).then((response) => {
     data: data,
     title: 'Institutional Outbreaks',
     key: 'institutional_outbreaks',
+    hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
-    borderWidth: 1,
     subCharts: [{
       title: 'Long-Term Care Outbreaks',
       key: 'institutional_outbreaks',
@@ -151,9 +129,9 @@ window.fetch(reportURL).then((response) => {
     data: data,
     title: 'Institutional Cases',
     key: 'institutional_cases',
+    hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
-    borderWidth: 1,
     subCharts: [{
       title: 'Long-Term Care Residents Cases',
       key: 'institutional_cases',
@@ -182,9 +160,9 @@ window.fetch(reportURL).then((response) => {
     data: data,
     title: 'Institutional Deaths',
     key: 'institutional_deaths',
+    hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
-    borderWidth: 1,
     subCharts: [{
       title: 'Long-Term Care Deaths',
       key: 'institutional_deaths',
@@ -241,7 +219,13 @@ const chart = {
       options: {
         legend: {
           labels: {
-            boxWidth: 15
+            boxWidth: 15,
+            filter: (legendItem, chartData) => {
+              if (opt.hideInLegend && legendItem.datasetIndex === 0) {
+                return false
+              }
+              return true
+            }
           }
         },
         scales: {
