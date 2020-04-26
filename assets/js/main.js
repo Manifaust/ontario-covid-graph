@@ -3,6 +3,8 @@ Chart.defaults.global.defaultFontFamily = getComputedStyle(document.body).fontFa
 const URLparams = new URLSearchParams(window.location.search)
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
+const dateRange = new Date()
+dateRange.setMonth(dateRange.getMonth() - 2)
 
 window.fetch(reportURL).then((response) => {
   return response.json()
@@ -231,8 +233,9 @@ const chart = {
         scales: {
           xAxes: [{
             type: 'time',
-            time: {
-              unit: 'day'
+            ticks: {
+              unit: 'day',
+              min: dateRange
             }
           }],
           yAxes: [{
