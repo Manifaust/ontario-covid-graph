@@ -4823,5 +4823,28 @@
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4175
     }
+  },
+  {
+    "date": "2020-04-26",
+    "institutional_outbreaks": {
+      "long_term": 167,
+      "hospitals": 52,
+      "total": 219
+    },
+    "institutional_cases": {
+      "residents_long_term": 2185,
+      "patients_hospitals": 156,
+      "staff_long_term": 1013,
+      "staff_hospital": 138
+    },
+    "institutional_deaths": {
+      "residents_long_term": 454,
+      "patients_hospitals": 19,
+      "staff_long_term": 1,
+      "staff_hospital": 0
+    },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4295
+    }
   }
 ]
