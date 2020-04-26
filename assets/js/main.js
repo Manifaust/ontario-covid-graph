@@ -1,7 +1,7 @@
 Chart.defaults.global.defaultFontFamily = getComputedStyle(document.body).fontFamily
 
 const URLparams = new URLSearchParams(window.location.search)
-const reportURL = '/ontario-covid-graph/report.json'
+const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
 
 window.fetch(reportURL).then((response) => {
@@ -74,7 +74,6 @@ window.fetch(reportURL).then((response) => {
     ele: document.getElementById('cities-total-cases'),
     data: data,
     title: 'Total Cases',
-    key: 'total_cases',
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
