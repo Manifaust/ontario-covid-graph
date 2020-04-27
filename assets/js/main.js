@@ -219,6 +219,7 @@ const chart = {
         }]
       },
       options: {
+        aspectRatio: window.matchMedia('(max-width: 600px)').matches ? 1.2 : 2,
         legend: {
           labels: {
             boxWidth: 15,
