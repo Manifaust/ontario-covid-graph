@@ -38,7 +38,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date = Date.parse(matches[:date])
 
   # reports are on a different page before this date
-  min_date = Date.parse('2020-04-09')
+  min_date = Date.parse('2020-04-29')
 
   if date < min_date
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
