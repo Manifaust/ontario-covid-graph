@@ -25,8 +25,6 @@ end
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
 epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
-scrape_institution_data = ScrapeInstituionData.new(tabula_path)
-
 date_institutions_map = JSON.parse(File.read(old_institutions_data_path))
 
 epidemiologic_report_paths.each do |pdf_path|
@@ -54,7 +52,7 @@ epidemiologic_report_paths.each do |pdf_path|
     puts "Insitutions info is on page #{institutions_page_number}"
   end
 
-  date_institutions_map[date.to_s] = scrape_institution_data.scrape(pdf_path, institutions_page_number)
+  date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(pdf_path, institutions_page_number)
 end
 
 File.write(
