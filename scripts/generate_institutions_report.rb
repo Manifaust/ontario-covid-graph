@@ -14,12 +14,37 @@ institutions_report_path = ARGV[3]
 def find_institutions_page_number(pdf_path)
   reader = PDF::Reader.new(pdf_path)
   reader.pages.each_with_index do |page, i|
-    if page.text.start_with?('Outbreaks in Institutions and Public Hospitals')
+    if page.text.downcase.start_with?('outbreaks in institutions and public hospitals')
       return i + 1
     end
   end
 
   return 0
+end
+
+def determine_row_scraper(date)
+  puts "Finding scraper for date #{date}"
+
+  row_scraper_map = [
+    [Date.parse('2020-04-05'), LtcHosScrape],
+    [Date.parse('2020-04-29'), LtcRetireHosScrape]
+  ]
+
+  correct_scraper = nil
+
+  row_scraper_map.each do |date_scraper_tuple|
+    if date >= date_scraper_tuple[0]
+      correct_scraper = date_scraper_tuple[1]
+    end
+  end
+
+  if correct_scraper.nil?
+    puts 'Could not find date scraper'
+  else
+    puts "Found date scraper: #{correct_scraper}"
+  end
+
+  return correct_scraper
 end
 
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
@@ -36,7 +61,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date = Date.parse(matches[:date])
 
   # reports are on a different page before this date
-  min_date = Date.parse('2020-04-29')
+  min_date = Date.parse('2020-04-05')
 
   if date < min_date
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
@@ -55,7 +80,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(
     pdf_path,
     institutions_page_number,
-    ScrapeInstitutionData::LTC_RETIRE_HOS_SCRAPE
+    determine_row_scraper(date)
   )
 end
 

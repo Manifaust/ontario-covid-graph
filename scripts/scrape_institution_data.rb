@@ -4,21 +4,33 @@ require 'csv'
 require 'open3'
 require 'pdf-reader'
 
+LtcRetireHosScrape = Proc.new do |words|
+  long_term = words[-3].delete(',').to_i
+  retirement_home = words[-2].delete(',').to_i
+  hospital = words[-1].delete(',').to_i
+  total = long_term + retirement_home + hospital
+
+  {
+    long_term: long_term,
+    retirement_home: retirement_home,
+    hospitals: hospital,
+    total: total
+  }
+end
+
+LtcHosScrape = Proc.new do |words|
+  long_term = words[-2].delete(',').to_i
+  hospital = words[-1].delete(',').to_i
+  total = long_term + hospital
+
+  {
+    long_term: long_term,
+    hospitals: hospital,
+    total: total
+  }
+end
+
 class ScrapeInstitutionData
-  LTC_RETIRE_HOS_SCRAPE = Proc.new do |words|
-    long_term = words[-3].delete(',').to_i
-    retirement_home = words[-2].delete(',').to_i
-    hospital = words[-1].delete(',').to_i
-    total = long_term + retirement_home + hospital
-
-    {
-      long_term: long_term,
-      retirement_home: retirement_home,
-      hospitals: hospital,
-      total: total
-    }
-  end
-
   class << self
     def scrape(report_path, page, scrape_proc)
       puts "Scraping #{report_path} at page #{page}"
@@ -26,7 +38,7 @@ class ScrapeInstitutionData
       page_text = reader.pages[page - 1].text
 
       rows = page_text.lines.select do |line|
-        ends_in_three_numbers?(line)
+        ends_in_two_numbers?(line)
       end
 
       pp rows
@@ -49,14 +61,17 @@ class ScrapeInstitutionData
       scrape_proc.call(words)
     end
 
-    def ends_in_three_numbers?(line)
+    def ends_in_two_numbers?(line)
       words = line.split
 
       return false if words.size < 3
 
+      # protect against intro paragraph, which ends in a date,
+      # which happens in the institutions page
+      return false if words.last == '2020'
+
       if is_a_number?(words[-1]) &&
-         is_a_number?(words[-2]) &&
-         is_a_number?(words[-3])
+         is_a_number?(words[-2])
         return true
       end
 
