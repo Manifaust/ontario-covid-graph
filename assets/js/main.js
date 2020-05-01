@@ -136,23 +136,23 @@ window.fetch(reportURL).then((response) => {
     fill: false,
     subCharts: [{
       title: 'Long-Term Care Residents Cases',
-      key: 'institutional_cases',
-      subKey: 'residents_long_term',
+      key: 'institutional_resident_patient_cases',
+      subKey: 'long_term',
       color: '252, 113, 0'
     }, {
       title: 'Long-Term Care Staff Cases',
-      key: 'institutional_cases',
-      subKey: 'staff_long_term',
+      key: 'institutional_staff_cases',
+      subKey: 'long_term',
       color: '153, 0, 255'
     }, {
       title: 'Hospital Patients Cases',
-      key: 'institutional_cases',
-      subKey: 'patients_hospitals',
+      key: 'institutional_resident_patient_cases',
+      subKey: 'hospitals',
       color: '0, 252, 53'
     }, {
       title: 'Hospital Staff Cases',
-      key: 'institutional_cases',
-      subKey: 'staff_hospital',
+      key: 'institutional_staff_cases',
+      subKey: 'hospitals',
       color: '0, 42, 252'
     }]
   })
@@ -167,23 +167,23 @@ window.fetch(reportURL).then((response) => {
     fill: false,
     subCharts: [{
       title: 'Long-Term Care Deaths',
-      key: 'institutional_deaths',
-      subKey: 'residents_long_term',
+      key: 'institutional_resident_patient_deaths',
+      subKey: 'long_term',
       color: '252, 113, 0'
     }, {
       title: 'Long-Term Care Staff Deaths',
-      key: 'institutional_deaths',
-      subKey: 'staff_long_term',
+      key: 'institutional_staff_deaths',
+      subKey: 'long_term',
       color: '153, 0, 255'
     }, {
       title: 'Hospital Patients Deaths',
-      key: 'institutional_deaths',
-      subKey: 'patients_hospitals',
+      key: 'institutional_resident_patient_deaths',
+      subKey: 'hospitals',
       color: '0, 252, 53'
     }, {
       title: 'Hospital Staff Deaths',
-      key: 'institutional_deaths',
-      subKey: 'staff_hospital',
+      key: 'institutional_staff_deaths',
+      subKey: 'hospitals',
       color: '0, 42, 252'
     }]
   })
