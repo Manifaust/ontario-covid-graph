@@ -52,7 +52,11 @@ epidemiologic_report_paths.each do |pdf_path|
     puts "Insitutions info is on page #{institutions_page_number}"
   end
 
-  date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(pdf_path, institutions_page_number)
+  date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(
+    pdf_path,
+    institutions_page_number,
+    ScrapeInstitutionData::LTC_RETIRE_HOS_SCRAPE
+  )
 end
 
 File.write(

@@ -5,8 +5,22 @@ require 'open3'
 require 'pdf-reader'
 
 class ScrapeInstitutionData
+  LTC_RETIRE_HOS_SCRAPE = Proc.new do |words|
+    long_term = words[-3].delete(',').to_i
+    retirement_home = words[-2].delete(',').to_i
+    hospital = words[-1].delete(',').to_i
+    total = long_term + retirement_home + hospital
+
+    {
+      long_term: long_term,
+      retirement_home: retirement_home,
+      hospitals: hospital,
+      total: total
+    }
+  end
+
   class << self
-    def scrape(report_path, page)
+    def scrape(report_path, page, scrape_proc)
       puts "Scraping #{report_path} at page #{page}"
       reader = PDF::Reader.new(report_path)
       page_text = reader.pages[page - 1].text
@@ -18,31 +32,21 @@ class ScrapeInstitutionData
       pp rows
 
       {
-        institutional_outbreaks: scrape_row(rows, 0),
-        institutional_all_cases: scrape_row(rows, 1),
-        institutional_resident_patient_cases: scrape_row(rows, 2),
-        institutional_staff_cases: scrape_row(rows, 3),
-        institutional_all_deaths: scrape_row(rows, 4),
-        institutional_resident_patient_deaths: scrape_row(rows, 5),
-        institutional_staff_deaths: scrape_row(rows, 6)
+        institutional_outbreaks: scrape_row(rows, 0, scrape_proc),
+        institutional_all_cases: scrape_row(rows, 1, scrape_proc),
+        institutional_resident_patient_cases: scrape_row(rows, 2, scrape_proc),
+        institutional_staff_cases: scrape_row(rows, 3, scrape_proc),
+        institutional_all_deaths: scrape_row(rows, 4, scrape_proc),
+        institutional_resident_patient_deaths: scrape_row(rows, 5, scrape_proc),
+        institutional_staff_deaths: scrape_row(rows, 6, scrape_proc)
       }
     end
 
-    def scrape_row(rows, target_row)
+    def scrape_row(rows, target_row, scrape_proc)
       row = rows[target_row]
       words = row.split
 
-      long_term = words[-3].delete(',').to_i
-      retirement_home = words[-2].delete(',').to_i
-      hospital = words[-1].delete(',').to_i
-      total = long_term + retirement_home + hospital
-
-      {
-        long_term: long_term,
-        retirement_home: retirement_home,
-        hospitals: hospital,
-        total: total
-      }
+      scrape_proc.call(words)
     end
 
     def ends_in_three_numbers?(line)
