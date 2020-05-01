@@ -30,6 +30,16 @@ LtcHosScrape = Proc.new do |words|
   }
 end
 
+LtcScrape = Proc.new do |words|
+  long_term = words[-1].delete(',').to_i
+  total = long_term
+
+  {
+    long_term: long_term,
+    total: total
+  }
+end
+
 class ScrapeInstitutionData
   class << self
     def scrape(report_path, page, scrape_proc)
@@ -64,14 +74,17 @@ class ScrapeInstitutionData
     def ends_in_two_numbers?(line)
       words = line.split
 
-      return false if words.size < 3
+      return false if words.size < 1
 
-      # protect against intro paragraph, which ends in a date,
-      # which happens in the institutions page
-      return false if words.last == '2020'
+      # protect against intro paragraph that ends in a date,
+      # which occurs in the institutions page
+      return false if line.include?('2020')
+      return false if line.include?('January')
 
-      if is_a_number?(words[-1]) &&
-         is_a_number?(words[-2])
+      # protect against superscripts
+      return false if line.include?('1,2,3')
+
+      if is_a_number?(words[-1])
         return true
       end
 

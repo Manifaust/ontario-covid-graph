@@ -11,10 +11,10 @@ raw_reports_dir = ARGV[1]
 old_institutions_data_path = ARGV[2]
 institutions_report_path = ARGV[3]
 
-def find_institutions_page_number(pdf_path)
+def find_institutions_page_number(pdf_path, title)
   reader = PDF::Reader.new(pdf_path)
   reader.pages.each_with_index do |page, i|
-    if page.text.downcase.start_with?('outbreaks in institutions and public hospitals')
+    if page.text.downcase.start_with?(title.downcase)
       return i + 1
     end
   end
@@ -22,19 +22,22 @@ def find_institutions_page_number(pdf_path)
   return 0
 end
 
-def determine_row_scraper(date)
+def determine_title_and_row_scraper(date)
   puts "Finding scraper for date #{date}"
 
   row_scraper_map = [
-    [Date.parse('2020-04-05'), LtcHosScrape],
-    [Date.parse('2020-04-29'), LtcRetireHosScrape]
+    [Date.parse('2020-03-31'), 'long-term care homes', LtcScrape],
+    [Date.parse('2020-04-05'), 'outbreaks in institutions and public hospitals', LtcHosScrape],
+    [Date.parse('2020-04-29'), 'outbreaks in institutions and public hospitals', LtcRetireHosScrape]
   ]
 
+  correct_title = nil
   correct_scraper = nil
 
   row_scraper_map.each do |date_scraper_tuple|
     if date >= date_scraper_tuple[0]
-      correct_scraper = date_scraper_tuple[1]
+      correct_title = date_scraper_tuple[1]
+      correct_scraper = date_scraper_tuple[2]
     end
   end
 
@@ -44,7 +47,7 @@ def determine_row_scraper(date)
     puts "Found date scraper: #{correct_scraper}"
   end
 
-  return correct_scraper
+  return correct_title, correct_scraper
 end
 
 raw_reports_glob = File.join(raw_reports_dir, 'moh-covid-19-report-en-*.pdf')
@@ -61,7 +64,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date = Date.parse(matches[:date])
 
   # reports are on a different page before this date
-  min_date = Date.parse('2020-04-05')
+  min_date = Date.parse('2020-03-31')
 
   if date < min_date
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
@@ -70,7 +73,8 @@ epidemiologic_report_paths.each do |pdf_path|
     puts "Scraping #{pdf_basename}..."
   end
 
-  institutions_page_number = find_institutions_page_number(pdf_path)
+  title, scraper = determine_title_and_row_scraper(date)
+  institutions_page_number = find_institutions_page_number(pdf_path, title)
   if institutions_page_number <= 0
     puts 'Cannot find institutions page, skipping.'
   else
@@ -80,7 +84,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(
     pdf_path,
     institutions_page_number,
-    determine_row_scraper(date)
+    scraper
   )
 end
 
