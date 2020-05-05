@@ -6392,7 +6392,18 @@
     }
   },
   {
+    "infected": 4170,
+    "resolved": 12779,
+    "deaths": 1361,
+    "total_cases": 18310,
+    "new_tests": 10654,
+    "under_investigation": 6023,
+    "hospitalized": 1043,
+    "icu": 223,
+    "icu_on_ventilator": 166,
     "date": "2020-05-05",
+    "new_total_cases": 387,
+    "growth_factor_total_cases": "1.05",
     "institutional_outbreaks": {
       "long_term": 218,
       "retirement_home": 78,
