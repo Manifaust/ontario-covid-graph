@@ -10,7 +10,7 @@ bundle install --jobs 4 --retry 3
 status_report_page_url='https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario'
 status_report_csv_name='covidtesting.csv'
 raw_reports_dir="$DIR"/raw_reports
-status_report_destination="$raw_reports_dir"/status-of-covid-19-cases-in-ontario.csv
+statuses_csv="$raw_reports_dir"/status-of-covid-19-cases-in-ontario.csv
 confirmed_cases_report_page_url='https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario'
 confirmed_cases_report_csv_name='conposcovidloc.csv'
 confirmed_cases_report_destination="$raw_reports_dir"/confirmed-positive-cases-of-covid-19-cases-in-ontario.csv
@@ -24,7 +24,7 @@ function download_csv {
 }
 
 echo 'Fetching CSV URL for: Status of COVID-19 cases in Ontario'
-download_csv "$status_report_page_url" "$status_report_csv_name" "$status_report_destination"
+download_csv "$status_report_page_url" "$status_report_csv_name" "$statuses_csv"
 
 echo 'Fetching CSV URL for: Confirmed Cases of COVID-19 cases in Ontario'
 download_csv "$confirmed_cases_report_page_url" "$confirmed_cases_report_csv_name" "$confirmed_cases_report_destination"
@@ -34,9 +34,16 @@ scripts/download_epidemiologic_pdfs.rb "$raw_reports_dir"
 
 intermediate_reports_dir="$DIR"/intermediate_reports
 mkdir -p "$intermediate_reports_dir"
+statuses_report_path="$intermediate_reports_dir"/statuses.json
 cities_data_catalogue_path="$intermediate_reports_dir"/cities_from_data_catalogue.json
 institutions_report_path="$intermediate_reports_dir"/institutions.json
 cities_epidemiologic_report_path="$intermediate_reports_dir"/cities_from_epidemiologic_summaries.json
+
+set -x
+echo 'Generating statuses report from status CSV'
+scripts/generate_statuses_report.rb \
+  "$statuses_csv" \
+  "$statuses_report_path"
 
 echo 'Generating cities report from Ontario Data Catalogue'
 scripts/generate_cities_report.rb \
@@ -58,9 +65,11 @@ scripts/generate_toronto_report.rb \
 
 echo 'Generating final report'
 scripts/generate_final_report.rb \
-  "$status_report_destination" \
+  "$statuses_report_path" \
   "$cities_data_catalogue_path" \
   "$institutions_report_path" \
   "$cities_epidemiologic_report_path" \
   "$DIR/report.json"
+
+set +x
 

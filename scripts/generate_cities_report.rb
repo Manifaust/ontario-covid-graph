@@ -14,23 +14,25 @@ def cities_new_cases(confirmed_cases_csv_path)
 
     city = row['Reporting_PHU_City']
 
-    cities_new_cases  = date_new_cases_map.fetch(date, {})
+    cities_new_cases  = date_new_cases_map.fetch(date, { cities_new_cases: {}})
 
-    cases_count = cities_new_cases.fetch(city, 0)
+    cases_count = cities_new_cases[:cities_new_cases].fetch(city, 0)
 
-    cities_new_cases[city] = cases_count += 1
+    cities_new_cases[:cities_new_cases][city] = cases_count += 1
 
-    date_new_cases_map[date] = cities_new_cases.sort.to_h
+    cities_new_cases[:cities_new_cases] = cities_new_cases[:cities_new_cases].sort.to_h
+    date_new_cases_map[date] = cities_new_cases
   end
-  date_new_cases_map.sort.to_h
+  date_new_cases_map
 end
 
 def cities_total_cases(cities_new_cases)
   date_total_cases_arr = []
+  date_total_cases_map = {}
 
   cities_new_cases.sort.each_with_index do |row, i|
     date = row[0]
-    new_cases_today = row[1]
+    new_cases_today = row[1][:cities_new_cases]
 
     total_cases_today = {}
     if i <= 0
@@ -46,18 +48,17 @@ def cities_total_cases(cities_new_cases)
       end
     end
 
-    date_total_cases_arr << [date, total_cases_today.sort.to_h]
+    date_total_cases_arr << [date, total_cases_today]
+    date_total_cases_map[date] = { cities_total_cases: total_cases_today.sort.to_h }
   end
 
-  date_total_cases_arr.to_h
+  date_total_cases_map
 end
 
 cities_new_cases = cities_new_cases(confirmed_cases_csv_path)
 cities_total_cases = cities_total_cases(cities_new_cases)
 
-cities = {}
-cities['new_cases'] = cities_new_cases
-cities['total_cases'] = cities_total_cases
+cities = cities_new_cases.merge(cities_total_cases) { |_, x, y| x.merge(y) }
 
 File.write(report_path, JSON.pretty_generate(cities))
 puts "Wrote cities report: #{report_path}"
