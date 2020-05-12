@@ -7181,5 +7181,53 @@
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6768
     }
+  },
+  {
+    "date": "2020-05-12",
+    "institutional_outbreaks": {
+      "long_term": 249,
+      "retirement_home": 98,
+      "hospitals": 73,
+      "total": 420
+    },
+    "institutional_all_cases": {
+      "long_term": 4535,
+      "retirement_home": 820,
+      "hospitals": 619,
+      "total": 5974
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2972,
+      "retirement_home": 528,
+      "hospitals": 304,
+      "total": 3804
+    },
+    "institutional_staff_cases": {
+      "long_term": 1558,
+      "retirement_home": 292,
+      "hospitals": 308,
+      "total": 2158
+    },
+    "institutional_all_deaths": {
+      "long_term": 813,
+      "retirement_home": 105,
+      "hospitals": 52,
+      "total": 970
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 812,
+      "retirement_home": 105,
+      "hospitals": 52,
+      "total": 969
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6961
+    }
   }
 ]
