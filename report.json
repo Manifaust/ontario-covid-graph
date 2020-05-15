@@ -7481,18 +7481,18 @@
     }
   },
   {
-    "infected": 3492,
+    "infected": 3579,
     "resolved": 16204,
     "deaths": 1798,
-    "total_cases": 21494,
+    "total_cases": 21581,
     "new_tests": 17429,
     "under_investigation": 17578,
     "hospitalized": 1026,
     "icu": 184,
     "icu_on_ventilator": 141,
     "date": "2020-05-14",
-    "new_total_cases": 258,
-    "growth_factor_total_cases": "0.78",
+    "new_total_cases": 345,
+    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Hamilton": 2,
       "Mississauga": 7,
@@ -7593,8 +7593,8 @@
     "icu": 179,
     "icu_on_ventilator": 135,
     "date": "2020-05-15",
-    "new_total_cases": 428,
-    "growth_factor_total_cases": "1.66",
+    "new_total_cases": 341,
+    "growth_factor_total_cases": "0.99",
     "institutional_outbreaks": {
       "long_term": 263,
       "retirement_home": 112,
