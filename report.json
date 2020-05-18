@@ -1,35 +1,34 @@
 [
   {
-    "date": "2020-01-01",
     "cities_new_cases": {
       "Simcoe": 1
     },
     "cities_total_cases": {
       "Simcoe": 1
-    }
+    },
+    "date": "2020-01-01"
   },
   {
-    "date": "2020-01-10",
     "cities_new_cases": {
       "Toronto": 1
     },
     "cities_total_cases": {
       "Simcoe": 1,
       "Toronto": 1
-    }
+    },
+    "date": "2020-01-10"
   },
   {
-    "date": "2020-01-15",
     "cities_new_cases": {
       "Toronto": 1
     },
     "cities_total_cases": {
       "Simcoe": 1,
       "Toronto": 2
-    }
+    },
+    "date": "2020-01-15"
   },
   {
-    "date": "2020-01-19",
     "cities_new_cases": {
       "Mississauga": 1
     },
@@ -37,10 +36,10 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 2
-    }
+    },
+    "date": "2020-01-19"
   },
   {
-    "date": "2020-01-21",
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -48,10 +47,10 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 3
-    }
+    },
+    "date": "2020-01-21"
   },
   {
-    "date": "2020-01-22",
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -59,10 +58,10 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 4
-    }
+    },
+    "date": "2020-01-22"
   },
   {
-    "date": "2020-01-24",
     "cities_new_cases": {
       "London": 1
     },
@@ -71,39 +70,39 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 4
-    }
+    },
+    "date": "2020-01-24"
   },
   {
-    "under_investigation": 9,
-    "date": "2020-01-26"
+    "date": "2020-01-26",
+    "under_investigation": 9
   },
   {
-    "under_investigation": 19,
-    "date": "2020-01-27"
+    "date": "2020-01-27",
+    "under_investigation": 19
   },
   {
+    "date": "2020-01-28",
     "infected": 1,
     "total_cases": 1,
-    "under_investigation": 11,
-    "date": "2020-01-28"
+    "under_investigation": 11
   },
   {
-    "infected": 2,
-    "total_cases": 2,
-    "under_investigation": 27,
     "date": "2020-01-30",
-    "new_total_cases": 1
-  },
-  {
     "infected": 2,
+    "new_total_cases": 1,
     "total_cases": 2,
-    "under_investigation": 17,
-    "date": "2020-01-31",
-    "new_total_cases": 0,
-    "growth_factor_total_cases": "0.00"
+    "under_investigation": 27
   },
   {
-    "date": "2020-02-01",
+    "date": "2020-01-31",
+    "growth_factor_total_cases": "0.00",
+    "infected": 2,
+    "new_total_cases": 0,
+    "total_cases": 2,
+    "under_investigation": 17
+  },
+  {
     "cities_new_cases": {
       "Belleville": 1,
       "Toronto": 1
@@ -114,29 +113,25 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 5
-    }
+    },
+    "date": "2020-02-01"
   },
   {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 29,
     "date": "2020-02-03",
-    "new_total_cases": 1
+    "infected": 3,
+    "new_total_cases": 1,
+    "total_cases": 3,
+    "under_investigation": 29
   },
   {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 34,
     "date": "2020-02-04",
+    "growth_factor_total_cases": "0.00",
+    "infected": 3,
     "new_total_cases": 0,
-    "growth_factor_total_cases": "0.00"
+    "total_cases": 3,
+    "under_investigation": 34
   },
   {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 43,
-    "date": "2020-02-05",
-    "new_total_cases": 0,
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -146,17 +141,21 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 6
-    }
-  },
-  {
+    },
+    "date": "2020-02-05",
     "infected": 3,
+    "new_total_cases": 0,
     "total_cases": 3,
-    "under_investigation": 62,
-    "date": "2020-02-06",
-    "new_total_cases": 0
+    "under_investigation": 43
   },
   {
-    "date": "2020-02-07",
+    "date": "2020-02-06",
+    "infected": 3,
+    "new_total_cases": 0,
+    "total_cases": 3,
+    "under_investigation": 62
+  },
+  {
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -166,21 +165,17 @@
       "Mississauga": 1,
       "Simcoe": 1,
       "Toronto": 7
-    }
+    },
+    "date": "2020-02-07"
   },
   {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 39,
     "date": "2020-02-08",
-    "new_total_cases": 0
+    "infected": 3,
+    "new_total_cases": 0,
+    "total_cases": 3,
+    "under_investigation": 39
   },
   {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 8,
-    "date": "2020-02-10",
-    "new_total_cases": 0,
     "cities_new_cases": {
       "Newmarket": 1,
       "Ottawa": 1
@@ -193,38 +188,37 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 7
-    }
-  },
-  {
+    },
+    "date": "2020-02-10",
     "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 19,
-    "date": "2020-02-11",
-    "new_total_cases": 0
-  },
-  {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 9,
-    "date": "2020-02-12",
-    "new_total_cases": 0
-  },
-  {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 15,
-    "date": "2020-02-13",
-    "new_total_cases": 0
-  },
-  {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 8,
-    "date": "2020-02-14",
     "new_total_cases": 0,
+    "total_cases": 3,
+    "under_investigation": 8
+  },
+  {
+    "date": "2020-02-11",
+    "infected": 3,
+    "new_total_cases": 0,
+    "total_cases": 3,
+    "under_investigation": 19
+  },
+  {
+    "date": "2020-02-12",
+    "infected": 2,
+    "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 9
+  },
+  {
+    "date": "2020-02-13",
+    "infected": 2,
+    "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 15
+  },
+  {
     "cities_new_cases": {
       "Toronto": 2
     },
@@ -236,10 +230,15 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 9
-    }
+    },
+    "date": "2020-02-14",
+    "infected": 2,
+    "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 8
   },
   {
-    "date": "2020-02-15",
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -251,10 +250,10 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 10
-    }
+    },
+    "date": "2020-02-15"
   },
   {
-    "date": "2020-02-16",
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -266,15 +265,10 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 11
-    }
+    },
+    "date": "2020-02-16"
   },
   {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 0,
-    "date": "2020-02-17",
-    "new_total_cases": 0,
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -286,23 +280,23 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 11
-    }
-  },
-  {
+    },
+    "date": "2020-02-17",
     "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 0,
-    "date": "2020-02-18",
-    "new_total_cases": 0
-  },
-  {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 17,
-    "date": "2020-02-19",
     "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 0
+  },
+  {
+    "date": "2020-02-18",
+    "infected": 2,
+    "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 0
+  },
+  {
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -314,15 +308,15 @@
       "Ottawa": 1,
       "Simcoe": 1,
       "Toronto": 11
-    }
+    },
+    "date": "2020-02-19",
+    "infected": 2,
+    "new_total_cases": 0,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 17
   },
   {
-    "infected": 1,
-    "resolved": 2,
-    "total_cases": 3,
-    "under_investigation": 14,
-    "date": "2020-02-20",
-    "new_total_cases": 0,
     "cities_new_cases": {
       "Guelph": 1,
       "Ottawa": 1,
@@ -337,15 +331,15 @@
       "Ottawa": 2,
       "Simcoe": 1,
       "Toronto": 14
-    }
+    },
+    "date": "2020-02-20",
+    "infected": 1,
+    "new_total_cases": 0,
+    "resolved": 2,
+    "total_cases": 3,
+    "under_investigation": 14
   },
   {
-    "infected": 0,
-    "resolved": 3,
-    "total_cases": 3,
-    "under_investigation": 12,
-    "date": "2020-02-21",
-    "new_total_cases": 0,
     "cities_new_cases": {
       "Toronto": 1
     },
@@ -358,10 +352,15 @@
       "Ottawa": 2,
       "Simcoe": 1,
       "Toronto": 15
-    }
+    },
+    "date": "2020-02-21",
+    "infected": 0,
+    "new_total_cases": 0,
+    "resolved": 3,
+    "total_cases": 3,
+    "under_investigation": 12
   },
   {
-    "date": "2020-02-22",
     "cities_new_cases": {
       "Newmarket": 3,
       "Ottawa": 1
@@ -375,10 +374,10 @@
       "Ottawa": 3,
       "Simcoe": 1,
       "Toronto": 15
-    }
+    },
+    "date": "2020-02-22"
   },
   {
-    "date": "2020-02-23",
     "cities_new_cases": {
       "London": 1,
       "Newmarket": 1,
@@ -395,15 +394,10 @@
       "Simcoe": 1,
       "Toronto": 15,
       "Waterloo": 2
-    }
+    },
+    "date": "2020-02-23"
   },
   {
-    "infected": 1,
-    "resolved": 3,
-    "total_cases": 4,
-    "under_investigation": 9,
-    "date": "2020-02-24",
-    "new_total_cases": 1,
     "cities_new_cases": {
       "Ottawa": 1,
       "Toronto": 1,
@@ -420,16 +414,15 @@
       "Toronto": 16,
       "Waterloo": 2,
       "Whitby": 1
-    }
-  },
-  {
+    },
+    "date": "2020-02-24",
     "infected": 1,
+    "new_total_cases": 1,
     "resolved": 3,
     "total_cases": 4,
-    "under_investigation": 21,
-    "date": "2020-02-25",
-    "new_total_cases": 0,
-    "growth_factor_total_cases": "0.00",
+    "under_investigation": 9
+  },
+  {
     "cities_new_cases": {
       "Cornwall": 1,
       "Mississauga": 1,
@@ -447,15 +440,16 @@
       "Toronto": 16,
       "Waterloo": 2,
       "Whitby": 1
-    }
-  },
-  {
+    },
+    "date": "2020-02-25",
+    "growth_factor_total_cases": "0.00",
     "infected": 1,
+    "new_total_cases": 0,
     "resolved": 3,
     "total_cases": 4,
-    "under_investigation": 14,
-    "date": "2020-02-26",
-    "new_total_cases": 0,
+    "under_investigation": 21
+  },
+  {
     "cities_new_cases": {
       "Toronto": 2,
       "Whitby": 1
@@ -472,15 +466,15 @@
       "Toronto": 18,
       "Waterloo": 2,
       "Whitby": 2
-    }
+    },
+    "date": "2020-02-26",
+    "infected": 1,
+    "new_total_cases": 0,
+    "resolved": 3,
+    "total_cases": 4,
+    "under_investigation": 14
   },
   {
-    "infected": 2,
-    "resolved": 3,
-    "total_cases": 5,
-    "under_investigation": 21,
-    "date": "2020-02-27",
-    "new_total_cases": 1,
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -496,16 +490,15 @@
       "Toronto": 18,
       "Waterloo": 2,
       "Whitby": 2
-    }
+    },
+    "date": "2020-02-27",
+    "infected": 2,
+    "new_total_cases": 1,
+    "resolved": 3,
+    "total_cases": 5,
+    "under_investigation": 21
   },
   {
-    "infected": 3,
-    "resolved": 3,
-    "total_cases": 6,
-    "under_investigation": 22,
-    "date": "2020-02-28",
-    "new_total_cases": 1,
-    "growth_factor_total_cases": "1.00",
     "cities_new_cases": {
       "Mississauga": 1,
       "Newmarket": 2,
@@ -523,10 +516,16 @@
       "Toronto": 19,
       "Waterloo": 2,
       "Whitby": 2
-    }
+    },
+    "date": "2020-02-28",
+    "growth_factor_total_cases": "1.00",
+    "infected": 3,
+    "new_total_cases": 1,
+    "resolved": 3,
+    "total_cases": 6,
+    "under_investigation": 22
   },
   {
-    "date": "2020-02-29",
     "cities_new_cases": {
       "Mississauga": 1,
       "Thunder Bay": 1,
@@ -546,10 +545,10 @@
       "Toronto": 20,
       "Waterloo": 3,
       "Whitby": 2
-    }
+    },
+    "date": "2020-02-29"
   },
   {
-    "date": "2020-03-01",
     "cities_new_cases": {
       "Brockville": 1,
       "Cornwall": 1,
@@ -580,16 +579,10 @@
       "Waterloo": 6,
       "Whitby": 2,
       "Windsor": 1
-    }
+    },
+    "date": "2020-03-01"
   },
   {
-    "infected": 15,
-    "resolved": 3,
-    "total_cases": 18,
-    "under_investigation": 12,
-    "date": "2020-03-02",
-    "new_total_cases": 12,
-    "growth_factor_total_cases": "12.00",
     "cities_new_cases": {
       "Cornwall": 1,
       "Mississauga": 1,
@@ -620,16 +613,16 @@
       "Waterloo": 7,
       "Whitby": 2,
       "Windsor": 2
-    }
+    },
+    "date": "2020-03-02",
+    "growth_factor_total_cases": "12.00",
+    "infected": 15,
+    "new_total_cases": 12,
+    "resolved": 3,
+    "total_cases": 18,
+    "under_investigation": 12
   },
   {
-    "infected": 17,
-    "resolved": 3,
-    "total_cases": 20,
-    "under_investigation": 45,
-    "date": "2020-03-03",
-    "new_total_cases": 2,
-    "growth_factor_total_cases": "0.17",
     "cities_new_cases": {
       "Barrie": 1,
       "Hamilton": 1,
@@ -659,16 +652,16 @@
       "Waterloo": 7,
       "Whitby": 2,
       "Windsor": 2
-    }
-  },
-  {
+    },
+    "date": "2020-03-03",
+    "growth_factor_total_cases": "0.17",
     "infected": 17,
+    "new_total_cases": 2,
     "resolved": 3,
     "total_cases": 20,
-    "under_investigation": 102,
-    "date": "2020-03-04",
-    "new_total_cases": 0,
-    "growth_factor_total_cases": "0.00",
+    "under_investigation": 45
+  },
+  {
     "cities_new_cases": {
       "Guelph": 1,
       "Newmarket": 1,
@@ -699,15 +692,16 @@
       "Waterloo": 8,
       "Whitby": 2,
       "Windsor": 2
-    }
+    },
+    "date": "2020-03-04",
+    "growth_factor_total_cases": "0.00",
+    "infected": 17,
+    "new_total_cases": 0,
+    "resolved": 3,
+    "total_cases": 20,
+    "under_investigation": 102
   },
   {
-    "infected": 18,
-    "resolved": 4,
-    "total_cases": 22,
-    "under_investigation": 78,
-    "date": "2020-03-05",
-    "new_total_cases": 2,
     "cities_new_cases": {
       "Barrie": 3,
       "Kingston": 1,
@@ -745,16 +739,15 @@
       "Waterloo": 8,
       "Whitby": 2,
       "Windsor": 2
-    }
+    },
+    "date": "2020-03-05",
+    "infected": 18,
+    "new_total_cases": 2,
+    "resolved": 4,
+    "total_cases": 22,
+    "under_investigation": 78
   },
   {
-    "infected": 22,
-    "resolved": 4,
-    "total_cases": 26,
-    "under_investigation": 72,
-    "date": "2020-03-06",
-    "new_total_cases": 4,
-    "growth_factor_total_cases": "2.00",
     "cities_new_cases": {
       "Brantford": 1,
       "Hamilton": 1,
@@ -797,16 +790,16 @@
       "Waterloo": 8,
       "Whitby": 4,
       "Windsor": 2
-    }
+    },
+    "date": "2020-03-06",
+    "growth_factor_total_cases": "2.00",
+    "infected": 22,
+    "new_total_cases": 4,
+    "resolved": 4,
+    "total_cases": 26,
+    "under_investigation": 72
   },
   {
-    "infected": 24,
-    "resolved": 4,
-    "total_cases": 28,
-    "under_investigation": 36,
-    "date": "2020-03-07",
-    "new_total_cases": 2,
-    "growth_factor_total_cases": "0.50",
     "cities_new_cases": {
       "Barrie": 1,
       "Chatham": 1,
@@ -853,16 +846,16 @@
       "Waterloo": 9,
       "Whitby": 6,
       "Windsor": 3
-    }
+    },
+    "date": "2020-03-07",
+    "growth_factor_total_cases": "0.50",
+    "infected": 24,
+    "new_total_cases": 2,
+    "resolved": 4,
+    "total_cases": 28,
+    "under_investigation": 36
   },
   {
-    "infected": 25,
-    "resolved": 4,
-    "total_cases": 29,
-    "under_investigation": 55,
-    "date": "2020-03-08",
-    "new_total_cases": 1,
-    "growth_factor_total_cases": "0.50",
     "cities_new_cases": {
       "Barrie": 1,
       "Brantford": 2,
@@ -912,16 +905,16 @@
       "Waterloo": 12,
       "Whitby": 7,
       "Windsor": 4
-    }
+    },
+    "date": "2020-03-08",
+    "growth_factor_total_cases": "0.50",
+    "infected": 25,
+    "new_total_cases": 1,
+    "resolved": 4,
+    "total_cases": 29,
+    "under_investigation": 55
   },
   {
-    "infected": 31,
-    "resolved": 4,
-    "total_cases": 35,
-    "under_investigation": 22,
-    "date": "2020-03-09",
-    "new_total_cases": 6,
-    "growth_factor_total_cases": "6.00",
     "cities_new_cases": {
       "Barrie": 3,
       "Cornwall": 2,
@@ -973,16 +966,16 @@
       "Waterloo": 15,
       "Whitby": 9,
       "Windsor": 5
-    }
+    },
+    "date": "2020-03-09",
+    "growth_factor_total_cases": "6.00",
+    "infected": 31,
+    "new_total_cases": 6,
+    "resolved": 4,
+    "total_cases": 35,
+    "under_investigation": 22
   },
   {
-    "infected": 31,
-    "resolved": 5,
-    "total_cases": 36,
-    "under_investigation": 112,
-    "date": "2020-03-10",
-    "new_total_cases": 1,
-    "growth_factor_total_cases": "0.17",
     "cities_new_cases": {
       "Barrie": 3,
       "Cornwall": 1,
@@ -1038,16 +1031,16 @@
       "Waterloo": 17,
       "Whitby": 16,
       "Windsor": 8
-    }
+    },
+    "date": "2020-03-10",
+    "growth_factor_total_cases": "0.17",
+    "infected": 31,
+    "new_total_cases": 1,
+    "resolved": 5,
+    "total_cases": 36,
+    "under_investigation": 112
   },
   {
-    "infected": 37,
-    "resolved": 5,
-    "total_cases": 42,
-    "under_investigation": 465,
-    "date": "2020-03-11",
-    "new_total_cases": 6,
-    "growth_factor_total_cases": "6.00",
     "cities_new_cases": {
       "Barrie": 1,
       "Belleville": 1,
@@ -1105,16 +1098,16 @@
       "Waterloo": 24,
       "Whitby": 23,
       "Windsor": 8
-    }
+    },
+    "date": "2020-03-11",
+    "growth_factor_total_cases": "6.00",
+    "infected": 37,
+    "new_total_cases": 6,
+    "resolved": 5,
+    "total_cases": 42,
+    "under_investigation": 465
   },
   {
-    "infected": 54,
-    "resolved": 5,
-    "total_cases": 59,
-    "under_investigation": 536,
-    "date": "2020-03-12",
-    "new_total_cases": 17,
-    "growth_factor_total_cases": "2.83",
     "cities_new_cases": {
       "Barrie": 1,
       "Belleville": 1,
@@ -1174,16 +1167,16 @@
       "Waterloo": 28,
       "Whitby": 29,
       "Windsor": 9
-    }
+    },
+    "date": "2020-03-12",
+    "growth_factor_total_cases": "2.83",
+    "infected": 54,
+    "new_total_cases": 17,
+    "resolved": 5,
+    "total_cases": 59,
+    "under_investigation": 536
   },
   {
-    "infected": 74,
-    "resolved": 5,
-    "total_cases": 79,
-    "under_investigation": 580,
-    "date": "2020-03-13",
-    "new_total_cases": 20,
-    "growth_factor_total_cases": "1.18",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -1248,16 +1241,16 @@
       "Waterloo": 35,
       "Whitby": 30,
       "Windsor": 12
-    }
+    },
+    "date": "2020-03-13",
+    "growth_factor_total_cases": "1.18",
+    "infected": 74,
+    "new_total_cases": 20,
+    "resolved": 5,
+    "total_cases": 79,
+    "under_investigation": 580
   },
   {
-    "infected": 98,
-    "resolved": 5,
-    "total_cases": 103,
-    "under_investigation": 939,
-    "date": "2020-03-14",
-    "new_total_cases": 24,
-    "growth_factor_total_cases": "1.20",
     "cities_new_cases": {
       "Barrie": 1,
       "Brantford": 3,
@@ -1316,16 +1309,16 @@
       "Waterloo": 42,
       "Whitby": 36,
       "Windsor": 13
-    }
+    },
+    "date": "2020-03-14",
+    "growth_factor_total_cases": "1.20",
+    "infected": 98,
+    "new_total_cases": 24,
+    "resolved": 5,
+    "total_cases": 103,
+    "under_investigation": 939
   },
   {
-    "infected": 140,
-    "resolved": 5,
-    "total_cases": 145,
-    "under_investigation": 1316,
-    "date": "2020-03-15",
-    "new_total_cases": 42,
-    "growth_factor_total_cases": "1.75",
     "cities_new_cases": {
       "Barrie": 2,
       "Belleville": 1,
@@ -1388,16 +1381,16 @@
       "Waterloo": 49,
       "Whitby": 50,
       "Windsor": 22
-    }
+    },
+    "date": "2020-03-15",
+    "growth_factor_total_cases": "1.75",
+    "infected": 140,
+    "new_total_cases": 42,
+    "resolved": 5,
+    "total_cases": 145,
+    "under_investigation": 1316
   },
   {
-    "infected": 172,
-    "resolved": 5,
-    "total_cases": 177,
-    "under_investigation": 1537,
-    "date": "2020-03-16",
-    "new_total_cases": 32,
-    "growth_factor_total_cases": "0.76",
     "cities_new_cases": {
       "Barrie": 6,
       "Brantford": 5,
@@ -1464,17 +1457,16 @@
       "Waterloo": 58,
       "Whitby": 63,
       "Windsor": 29
-    }
+    },
+    "date": "2020-03-16",
+    "growth_factor_total_cases": "0.76",
+    "infected": 172,
+    "new_total_cases": 32,
+    "resolved": 5,
+    "total_cases": 177,
+    "under_investigation": 1537
   },
   {
-    "infected": 183,
-    "resolved": 5,
-    "deaths": 1,
-    "total_cases": 189,
-    "under_investigation": 1567,
-    "date": "2020-03-17",
-    "new_total_cases": 12,
-    "growth_factor_total_cases": "0.38",
     "cities_new_cases": {
       "Barrie": 2,
       "Brantford": 4,
@@ -1539,17 +1531,17 @@
       "Waterloo": 66,
       "Whitby": 73,
       "Windsor": 36
-    }
+    },
+    "date": "2020-03-17",
+    "deaths": 1,
+    "growth_factor_total_cases": "0.38",
+    "infected": 183,
+    "new_total_cases": 12,
+    "resolved": 5,
+    "total_cases": 189,
+    "under_investigation": 1567
   },
   {
-    "infected": 208,
-    "resolved": 5,
-    "deaths": 1,
-    "total_cases": 214,
-    "under_investigation": 3378,
-    "date": "2020-03-18",
-    "new_total_cases": 25,
-    "growth_factor_total_cases": "2.08",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 2,
@@ -1615,17 +1607,17 @@
       "Waterloo": 76,
       "Whitby": 87,
       "Windsor": 47
-    }
+    },
+    "date": "2020-03-18",
+    "deaths": 1,
+    "growth_factor_total_cases": "2.08",
+    "infected": 208,
+    "new_total_cases": 25,
+    "resolved": 5,
+    "total_cases": 214,
+    "under_investigation": 3378
   },
   {
-    "infected": 251,
-    "resolved": 5,
-    "deaths": 2,
-    "total_cases": 258,
-    "under_investigation": 3971,
-    "date": "2020-03-19",
-    "new_total_cases": 44,
-    "growth_factor_total_cases": "1.76",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -1691,17 +1683,17 @@
       "Waterloo": 85,
       "Whitby": 98,
       "Windsor": 52
-    }
+    },
+    "date": "2020-03-19",
+    "deaths": 2,
+    "growth_factor_total_cases": "1.76",
+    "infected": 251,
+    "new_total_cases": 44,
+    "resolved": 5,
+    "total_cases": 258,
+    "under_investigation": 3971
   },
   {
-    "infected": 311,
-    "resolved": 5,
-    "deaths": 2,
-    "total_cases": 318,
-    "under_investigation": 5475,
-    "date": "2020-03-20",
-    "new_total_cases": 60,
-    "growth_factor_total_cases": "1.36",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -1769,17 +1761,17 @@
       "Waterloo": 96,
       "Whitby": 114,
       "Windsor": 66
-    }
+    },
+    "date": "2020-03-20",
+    "deaths": 2,
+    "growth_factor_total_cases": "1.36",
+    "infected": 311,
+    "new_total_cases": 60,
+    "resolved": 5,
+    "total_cases": 318,
+    "under_investigation": 5475
   },
   {
-    "infected": 369,
-    "resolved": 6,
-    "deaths": 2,
-    "total_cases": 377,
-    "under_investigation": 7239,
-    "date": "2020-03-21",
-    "new_total_cases": 59,
-    "growth_factor_total_cases": "0.98",
     "cities_new_cases": {
       "Barrie": 6,
       "Brantford": 3,
@@ -1846,17 +1838,17 @@
       "Waterloo": 104,
       "Whitby": 127,
       "Windsor": 84
-    }
+    },
+    "date": "2020-03-21",
+    "deaths": 2,
+    "growth_factor_total_cases": "0.98",
+    "infected": 369,
+    "new_total_cases": 59,
+    "resolved": 6,
+    "total_cases": 377,
+    "under_investigation": 7239
   },
   {
-    "infected": 412,
-    "resolved": 8,
-    "deaths": 5,
-    "total_cases": 425,
-    "under_investigation": 8361,
-    "date": "2020-03-22",
-    "new_total_cases": 48,
-    "growth_factor_total_cases": "0.81",
     "cities_new_cases": {
       "Barrie": 12,
       "Belleville": 2,
@@ -1924,17 +1916,17 @@
       "Waterloo": 110,
       "Whitby": 148,
       "Windsor": 99
-    }
+    },
+    "date": "2020-03-22",
+    "deaths": 5,
+    "growth_factor_total_cases": "0.81",
+    "infected": 412,
+    "new_total_cases": 48,
+    "resolved": 8,
+    "total_cases": 425,
+    "under_investigation": 8361
   },
   {
-    "infected": 489,
-    "resolved": 8,
-    "deaths": 6,
-    "total_cases": 503,
-    "under_investigation": 8417,
-    "date": "2020-03-23",
-    "new_total_cases": 78,
-    "growth_factor_total_cases": "1.62",
     "cities_new_cases": {
       "Barrie": 4,
       "Belleville": 1,
@@ -2004,17 +1996,17 @@
       "Waterloo": 116,
       "Whitby": 159,
       "Windsor": 121
-    }
+    },
+    "date": "2020-03-23",
+    "deaths": 6,
+    "growth_factor_total_cases": "1.62",
+    "infected": 489,
+    "new_total_cases": 78,
+    "resolved": 8,
+    "total_cases": 503,
+    "under_investigation": 8417
   },
   {
-    "infected": 572,
-    "resolved": 8,
-    "deaths": 8,
-    "total_cases": 588,
-    "under_investigation": 10074,
-    "date": "2020-03-24",
-    "new_total_cases": 85,
-    "growth_factor_total_cases": "1.09",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 2,
@@ -2081,17 +2073,17 @@
       "Waterloo": 120,
       "Whitby": 175,
       "Windsor": 134
-    }
+    },
+    "date": "2020-03-24",
+    "deaths": 8,
+    "growth_factor_total_cases": "1.09",
+    "infected": 572,
+    "new_total_cases": 85,
+    "resolved": 8,
+    "total_cases": 588,
+    "under_investigation": 10074
   },
   {
-    "infected": 667,
-    "resolved": 8,
-    "deaths": 13,
-    "total_cases": 688,
-    "under_investigation": 10489,
-    "date": "2020-03-25",
-    "new_total_cases": 100,
-    "growth_factor_total_cases": "1.18",
     "cities_new_cases": {
       "Barrie": 3,
       "Brantford": 2,
@@ -2156,17 +2148,17 @@
       "Waterloo": 132,
       "Whitby": 187,
       "Windsor": 144
-    }
+    },
+    "date": "2020-03-25",
+    "deaths": 13,
+    "growth_factor_total_cases": "1.18",
+    "infected": 667,
+    "new_total_cases": 100,
+    "resolved": 8,
+    "total_cases": 688,
+    "under_investigation": 10489
   },
   {
-    "infected": 835,
-    "resolved": 8,
-    "deaths": 15,
-    "total_cases": 858,
-    "under_investigation": 10965,
-    "date": "2020-03-26",
-    "new_total_cases": 170,
-    "growth_factor_total_cases": "1.70",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 1,
@@ -2233,17 +2225,17 @@
       "Waterloo": 142,
       "Whitby": 199,
       "Windsor": 157
-    }
+    },
+    "date": "2020-03-26",
+    "deaths": 15,
+    "growth_factor_total_cases": "1.70",
+    "infected": 835,
+    "new_total_cases": 170,
+    "resolved": 8,
+    "total_cases": 858,
+    "under_investigation": 10965
   },
   {
-    "infected": 967,
-    "resolved": 8,
-    "deaths": 18,
-    "total_cases": 993,
-    "under_investigation": 10074,
-    "date": "2020-03-27",
-    "new_total_cases": 135,
-    "growth_factor_total_cases": "0.79",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 3,
@@ -2309,17 +2301,17 @@
       "Waterloo": 151,
       "Whitby": 217,
       "Windsor": 178
-    }
+    },
+    "date": "2020-03-27",
+    "deaths": 18,
+    "growth_factor_total_cases": "0.79",
+    "infected": 967,
+    "new_total_cases": 135,
+    "resolved": 8,
+    "total_cases": 993,
+    "under_investigation": 10074
   },
   {
-    "infected": 1117,
-    "resolved": 8,
-    "deaths": 19,
-    "total_cases": 1144,
-    "under_investigation": 8690,
-    "date": "2020-03-28",
-    "new_total_cases": 151,
-    "growth_factor_total_cases": "1.12",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 1,
@@ -2384,17 +2376,17 @@
       "Waterloo": 160,
       "Whitby": 226,
       "Windsor": 193
-    }
+    },
+    "date": "2020-03-28",
+    "deaths": 19,
+    "growth_factor_total_cases": "1.12",
+    "infected": 1117,
+    "new_total_cases": 151,
+    "resolved": 8,
+    "total_cases": 1144,
+    "under_investigation": 8690
   },
   {
-    "infected": 1324,
-    "resolved": 8,
-    "deaths": 23,
-    "total_cases": 1355,
-    "under_investigation": 7203,
-    "date": "2020-03-29",
-    "new_total_cases": 211,
-    "growth_factor_total_cases": "1.40",
     "cities_new_cases": {
       "Barrie": 6,
       "Brantford": 1,
@@ -2459,17 +2451,17 @@
       "Waterloo": 169,
       "Whitby": 240,
       "Windsor": 201
-    }
+    },
+    "date": "2020-03-29",
+    "deaths": 23,
+    "growth_factor_total_cases": "1.40",
+    "infected": 1324,
+    "new_total_cases": 211,
+    "resolved": 8,
+    "total_cases": 1355,
+    "under_investigation": 7203
   },
   {
-    "infected": 1252,
-    "resolved": 431,
-    "deaths": 23,
-    "total_cases": 1706,
-    "under_investigation": 5651,
-    "date": "2020-03-30",
-    "new_total_cases": 351,
-    "growth_factor_total_cases": "1.66",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 3,
@@ -2534,17 +2526,17 @@
       "Waterloo": 187,
       "Whitby": 253,
       "Windsor": 216
-    }
+    },
+    "date": "2020-03-30",
+    "deaths": 23,
+    "growth_factor_total_cases": "1.66",
+    "infected": 1252,
+    "new_total_cases": 351,
+    "resolved": 431,
+    "total_cases": 1706,
+    "under_investigation": 5651
   },
   {
-    "infected": 1399,
-    "resolved": 534,
-    "deaths": 33,
-    "total_cases": 1966,
-    "under_investigation": 4280,
-    "date": "2020-03-31",
-    "new_total_cases": 260,
-    "growth_factor_total_cases": "0.74",
     "cities_new_cases": {
       "Barrie": 7,
       "Belleville": 1,
@@ -2610,44 +2602,44 @@
       "Whitby": 265,
       "Windsor": 232
     },
-    "institutional_outbreaks": {
-      "long_term": 12,
-      "total": 12
-    },
+    "date": "2020-03-31",
+    "deaths": 33,
+    "growth_factor_total_cases": "0.74",
+    "infected": 1399,
     "institutional_all_cases": {
       "long_term": 230,
       "total": 230
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 135,
-      "total": 135
-    },
-    "institutional_staff_cases": {
-      "long_term": 92,
-      "total": 92
     },
     "institutional_all_deaths": {
       "long_term": 12,
       "total": 12
     },
+    "institutional_outbreaks": {
+      "long_term": 12,
+      "total": 12
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 135,
+      "total": 135
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 11,
       "total": 11
     },
+    "institutional_staff_cases": {
+      "long_term": 92,
+      "total": 92
+    },
     "institutional_staff_deaths": {
       "long_term": 0,
       "total": 0
-    }
+    },
+    "new_total_cases": 260,
+    "resolved": 534,
+    "total_cases": 1966,
+    "under_investigation": 4280
   },
   {
-    "infected": 1681,
-    "resolved": 674,
-    "deaths": 37,
-    "total_cases": 2392,
-    "under_investigation": 3135,
-    "date": "2020-04-01",
-    "new_total_cases": 426,
-    "growth_factor_total_cases": "1.64",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 2,
@@ -2713,47 +2705,44 @@
       "Whitby": 293,
       "Windsor": 251
     },
-    "institutional_outbreaks": {
-      "long_term": 26,
-      "total": 26
-    },
+    "date": "2020-04-01",
+    "deaths": 37,
+    "growth_factor_total_cases": "1.64",
+    "infected": 1681,
     "institutional_all_cases": {
       "long_term": 287,
       "total": 287
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 163,
-      "total": 163
-    },
-    "institutional_staff_cases": {
-      "long_term": 119,
-      "total": 119
     },
     "institutional_all_deaths": {
       "long_term": 19,
       "total": 19
     },
+    "institutional_outbreaks": {
+      "long_term": 26,
+      "total": 26
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 163,
+      "total": 163
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 18,
       "total": 18
     },
+    "institutional_staff_cases": {
+      "long_term": 119,
+      "total": 119
+    },
     "institutional_staff_deaths": {
       "long_term": 0,
       "total": 0
-    }
+    },
+    "new_total_cases": 426,
+    "resolved": 674,
+    "total_cases": 2392,
+    "under_investigation": 3135
   },
   {
-    "infected": 1909,
-    "resolved": 831,
-    "deaths": 53,
-    "total_cases": 2793,
-    "under_investigation": 2052,
-    "hospitalized": 405,
-    "icu": 167,
-    "icu_on_ventilator": 112,
-    "date": "2020-04-02",
-    "new_total_cases": 401,
-    "growth_factor_total_cases": "0.94",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 1,
@@ -2818,50 +2807,50 @@
       "Whitby": 306,
       "Windsor": 267
     },
-    "institutional_outbreaks": {
-      "long_term": 32,
-      "total": 32
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 783
     },
+    "date": "2020-04-02",
+    "deaths": 53,
+    "growth_factor_total_cases": "0.94",
+    "hospitalized": 405,
+    "icu": 167,
+    "icu_on_ventilator": 112,
+    "infected": 1909,
     "institutional_all_cases": {
       "long_term": 292,
       "total": 292
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 167,
-      "total": 167
-    },
-    "institutional_staff_cases": {
-      "long_term": 120,
-      "total": 120
     },
     "institutional_all_deaths": {
       "long_term": 24,
       "total": 24
     },
+    "institutional_outbreaks": {
+      "long_term": 32,
+      "total": 32
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 167,
+      "total": 167
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 23,
       "total": 23
+    },
+    "institutional_staff_cases": {
+      "long_term": 120,
+      "total": 120
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 783
-    }
+    "new_total_cases": 401,
+    "resolved": 831,
+    "total_cases": 2793,
+    "under_investigation": 2052
   },
   {
-    "infected": 2165,
-    "resolved": 1023,
-    "deaths": 67,
-    "total_cases": 3255,
-    "under_investigation": 1245,
-    "hospitalized": 462,
-    "icu": 194,
-    "icu_on_ventilator": 140,
-    "date": "2020-04-03",
-    "new_total_cases": 462,
-    "growth_factor_total_cases": "1.15",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -2930,50 +2919,50 @@
       "Whitby": 323,
       "Windsor": 287
     },
-    "institutional_outbreaks": {
-      "long_term": 36,
-      "total": 36
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 845
     },
+    "date": "2020-04-03",
+    "deaths": 67,
+    "growth_factor_total_cases": "1.15",
+    "hospitalized": 462,
+    "icu": 194,
+    "icu_on_ventilator": 140,
+    "infected": 2165,
     "institutional_all_cases": {
       "long_term": 526,
       "total": 526
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 316,
-      "total": 316
-    },
-    "institutional_staff_cases": {
-      "long_term": 199,
-      "total": 199
     },
     "institutional_all_deaths": {
       "long_term": 54,
       "total": 54
     },
+    "institutional_outbreaks": {
+      "long_term": 36,
+      "total": 36
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 316,
+      "total": 316
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 51,
       "total": 51
+    },
+    "institutional_staff_cases": {
+      "long_term": 199,
+      "total": 199
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 845
-    }
+    "new_total_cases": 462,
+    "resolved": 1023,
+    "total_cases": 3255,
+    "under_investigation": 1245
   },
   {
-    "infected": 2317,
-    "resolved": 1219,
-    "deaths": 94,
-    "total_cases": 3630,
-    "under_investigation": 1336,
-    "hospitalized": 506,
-    "icu": 196,
-    "icu_on_ventilator": 152,
-    "date": "2020-04-04",
-    "new_total_cases": 375,
-    "growth_factor_total_cases": "0.81",
     "cities_new_cases": {
       "Barrie": 9,
       "Brantford": 3,
@@ -3037,50 +3026,50 @@
       "Whitby": 334,
       "Windsor": 309
     },
-    "institutional_outbreaks": {
-      "long_term": 44,
-      "total": 44
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 941
     },
+    "date": "2020-04-04",
+    "deaths": 94,
+    "growth_factor_total_cases": "0.81",
+    "hospitalized": 506,
+    "icu": 196,
+    "icu_on_ventilator": 152,
+    "infected": 2317,
     "institutional_all_cases": {
       "long_term": 858,
       "total": 858
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 511,
-      "total": 511
-    },
-    "institutional_staff_cases": {
-      "long_term": 340,
-      "total": 340
     },
     "institutional_all_deaths": {
       "long_term": 56,
       "total": 56
     },
+    "institutional_outbreaks": {
+      "long_term": 44,
+      "total": 44
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 511,
+      "total": 511
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 54,
       "total": 54
+    },
+    "institutional_staff_cases": {
+      "long_term": 340,
+      "total": 340
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 941
-    }
+    "new_total_cases": 375,
+    "resolved": 1219,
+    "total_cases": 3630,
+    "under_investigation": 1336
   },
   {
-    "infected": 2470,
-    "resolved": 1449,
-    "deaths": 119,
-    "total_cases": 4038,
-    "under_investigation": 981,
-    "hospitalized": 523,
-    "icu": 200,
-    "icu_on_ventilator": 154,
-    "date": "2020-04-05",
-    "new_total_cases": 408,
-    "growth_factor_total_cases": "1.09",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -3146,57 +3135,57 @@
       "Whitby": 355,
       "Windsor": 321
     },
-    "institutional_outbreaks": {
-      "long_term": 46,
-      "hospitals": 10,
-      "total": 56
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1039
     },
+    "date": "2020-04-05",
+    "deaths": 119,
+    "growth_factor_total_cases": "1.09",
+    "hospitalized": 523,
+    "icu": 200,
+    "icu_on_ventilator": 154,
+    "infected": 2470,
     "institutional_all_cases": {
       "long_term": 745,
       "hospitals": 89,
       "total": 834
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 456,
-      "hospitals": 38,
-      "total": 494
-    },
-    "institutional_staff_cases": {
-      "long_term": 280,
-      "hospitals": 51,
-      "total": 331
     },
     "institutional_all_deaths": {
       "long_term": 56,
       "hospitals": 4,
       "total": 60
     },
+    "institutional_outbreaks": {
+      "long_term": 46,
+      "hospitals": 10,
+      "total": 56
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 456,
+      "hospitals": 38,
+      "total": 494
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 54,
       "hospitals": 4,
       "total": 58
+    },
+    "institutional_staff_cases": {
+      "long_term": 280,
+      "hospitals": 51,
+      "total": 331
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1039
-    }
+    "new_total_cases": 408,
+    "resolved": 1449,
+    "total_cases": 4038,
+    "under_investigation": 981
   },
   {
-    "infected": 2591,
-    "resolved": 1624,
-    "deaths": 132,
-    "total_cases": 4347,
-    "under_investigation": 329,
-    "hospitalized": 589,
-    "icu": 216,
-    "icu_on_ventilator": 160,
-    "date": "2020-04-06",
-    "new_total_cases": 309,
-    "growth_factor_total_cases": "0.76",
     "cities_new_cases": {
       "Barrie": 6,
       "Belleville": 1,
@@ -3266,57 +3255,57 @@
       "Whitby": 368,
       "Windsor": 338
     },
-    "institutional_outbreaks": {
-      "long_term": 51,
-      "hospitals": 15,
-      "total": 66
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1103
     },
+    "date": "2020-04-06",
+    "deaths": 132,
+    "growth_factor_total_cases": "0.76",
+    "hospitalized": 589,
+    "icu": 216,
+    "icu_on_ventilator": 160,
+    "infected": 2591,
     "institutional_all_cases": {
       "long_term": 850,
       "hospitals": 69,
       "total": 919
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 478,
-      "hospitals": 38,
-      "total": 516
-    },
-    "institutional_staff_cases": {
-      "long_term": 363,
-      "hospitals": 31,
-      "total": 394
     },
     "institutional_all_deaths": {
       "long_term": 69,
       "hospitals": 5,
       "total": 74
     },
+    "institutional_outbreaks": {
+      "long_term": 51,
+      "hospitals": 15,
+      "total": 66
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 478,
+      "hospitals": 38,
+      "total": 516
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 67,
       "hospitals": 5,
       "total": 72
+    },
+    "institutional_staff_cases": {
+      "long_term": 363,
+      "hospitals": 31,
+      "total": 394
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1103
-    }
+    "new_total_cases": 309,
+    "resolved": 1624,
+    "total_cases": 4347,
+    "under_investigation": 329
   },
   {
-    "infected": 2771,
-    "resolved": 1802,
-    "deaths": 153,
-    "total_cases": 4726,
-    "under_investigation": 691,
-    "hospitalized": 614,
-    "icu": 233,
-    "icu_on_ventilator": 187,
-    "date": "2020-04-07",
-    "new_total_cases": 379,
-    "growth_factor_total_cases": "1.23",
     "cities_new_cases": {
       "Barrie": 14,
       "Brantford": 1,
@@ -3381,57 +3370,57 @@
       "Whitby": 391,
       "Windsor": 363
     },
-    "institutional_outbreaks": {
-      "long_term": 58,
-      "hospitals": 14,
-      "total": 72
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1276
     },
+    "date": "2020-04-07",
+    "deaths": 153,
+    "growth_factor_total_cases": "1.23",
+    "hospitalized": 614,
+    "icu": 233,
+    "icu_on_ventilator": 187,
+    "infected": 2771,
     "institutional_all_cases": {
       "long_term": 827,
       "hospitals": 71,
       "total": 898
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 464,
-      "hospitals": 38,
-      "total": 502
-    },
-    "institutional_staff_cases": {
-      "long_term": 351,
-      "hospitals": 33,
-      "total": 384
     },
     "institutional_all_deaths": {
       "long_term": 78,
       "hospitals": 5,
       "total": 83
     },
+    "institutional_outbreaks": {
+      "long_term": 58,
+      "hospitals": 14,
+      "total": 72
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 464,
+      "hospitals": 38,
+      "total": 502
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 76,
       "hospitals": 5,
       "total": 81
+    },
+    "institutional_staff_cases": {
+      "long_term": 351,
+      "hospitals": 33,
+      "total": 384
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1276
-    }
+    "new_total_cases": 379,
+    "resolved": 1802,
+    "total_cases": 4726,
+    "under_investigation": 691
   },
   {
-    "infected": 3028,
-    "resolved": 2074,
-    "deaths": 174,
-    "total_cases": 5276,
-    "under_investigation": 1102,
-    "hospitalized": 605,
-    "icu": 246,
-    "icu_on_ventilator": 195,
-    "date": "2020-04-08",
-    "new_total_cases": 550,
-    "growth_factor_total_cases": "1.45",
     "cities_new_cases": {
       "Barrie": 7,
       "Brantford": 2,
@@ -3495,57 +3484,57 @@
       "Whitby": 415,
       "Windsor": 374
     },
-    "institutional_outbreaks": {
-      "long_term": 69,
-      "hospitals": 15,
-      "total": 84
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1432
     },
+    "date": "2020-04-08",
+    "deaths": 174,
+    "growth_factor_total_cases": "1.45",
+    "hospitalized": 605,
+    "icu": 246,
+    "icu_on_ventilator": 195,
+    "infected": 3028,
     "institutional_all_cases": {
       "long_term": 857,
       "hospitals": 71,
       "total": 928
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 498,
-      "hospitals": 38,
-      "total": 536
-    },
-    "institutional_staff_cases": {
-      "long_term": 347,
-      "hospitals": 33,
-      "total": 380
     },
     "institutional_all_deaths": {
       "long_term": 88,
       "hospitals": 5,
       "total": 93
     },
+    "institutional_outbreaks": {
+      "long_term": 69,
+      "hospitals": 15,
+      "total": 84
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 498,
+      "hospitals": 38,
+      "total": 536
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 86,
       "hospitals": 5,
       "total": 91
+    },
+    "institutional_staff_cases": {
+      "long_term": 347,
+      "hospitals": 33,
+      "total": 380
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1432
-    }
+    "new_total_cases": 550,
+    "resolved": 2074,
+    "total_cases": 5276,
+    "under_investigation": 1102
   },
   {
-    "infected": 3254,
-    "resolved": 2305,
-    "deaths": 200,
-    "total_cases": 5759,
-    "under_investigation": 1208,
-    "hospitalized": 632,
-    "icu": 264,
-    "icu_on_ventilator": 214,
-    "date": "2020-04-09",
-    "new_total_cases": 483,
-    "growth_factor_total_cases": "0.88",
     "cities_new_cases": {
       "Barrie": 10,
       "Belleville": 3,
@@ -3613,57 +3602,57 @@
       "Whitby": 444,
       "Windsor": 390
     },
-    "institutional_outbreaks": {
-      "long_term": 73,
-      "hospitals": 17,
-      "total": 90
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1581
     },
+    "date": "2020-04-09",
+    "deaths": 200,
+    "growth_factor_total_cases": "0.88",
+    "hospitalized": 632,
+    "icu": 264,
+    "icu_on_ventilator": 214,
+    "infected": 3254,
     "institutional_all_cases": {
       "long_term": 931,
       "hospitals": 90,
       "total": 1021
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 560,
-      "hospitals": 50,
-      "total": 610
-    },
-    "institutional_staff_cases": {
-      "long_term": 366,
-      "hospitals": 40,
-      "total": 406
     },
     "institutional_all_deaths": {
       "long_term": 99,
       "hospitals": 8,
       "total": 107
     },
+    "institutional_outbreaks": {
+      "long_term": 73,
+      "hospitals": 17,
+      "total": 90
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 560,
+      "hospitals": 50,
+      "total": 610
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 98,
       "hospitals": 8,
       "total": 106
+    },
+    "institutional_staff_cases": {
+      "long_term": 366,
+      "hospitals": 40,
+      "total": 406
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1581
-    }
+    "new_total_cases": 483,
+    "resolved": 2305,
+    "total_cases": 5759,
+    "under_investigation": 1208
   },
   {
-    "infected": 3441,
-    "resolved": 2574,
-    "deaths": 222,
-    "total_cases": 6237,
-    "under_investigation": 1598,
-    "hospitalized": 673,
-    "icu": 260,
-    "icu_on_ventilator": 217,
-    "date": "2020-04-10",
-    "new_total_cases": 478,
-    "growth_factor_total_cases": "0.99",
     "cities_new_cases": {
       "Barrie": 5,
       "Belleville": 1,
@@ -3726,57 +3715,57 @@
       "Whitby": 495,
       "Windsor": 402
     },
-    "institutional_outbreaks": {
-      "long_term": 79,
-      "hospitals": 20,
-      "total": 99
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1704
     },
+    "date": "2020-04-10",
+    "deaths": 222,
+    "growth_factor_total_cases": "0.99",
+    "hospitalized": 673,
+    "icu": 260,
+    "icu_on_ventilator": 217,
+    "infected": 3441,
     "institutional_all_cases": {
       "long_term": 1003,
       "hospitals": 95,
       "total": 1098
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 625,
-      "hospitals": 53,
-      "total": 678
-    },
-    "institutional_staff_cases": {
-      "long_term": 374,
-      "hospitals": 41,
-      "total": 415
     },
     "institutional_all_deaths": {
       "long_term": 109,
       "hospitals": 8,
       "total": 117
     },
+    "institutional_outbreaks": {
+      "long_term": 79,
+      "hospitals": 20,
+      "total": 99
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 625,
+      "hospitals": 53,
+      "total": 678
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 108,
       "hospitals": 8,
       "total": 116
+    },
+    "institutional_staff_cases": {
+      "long_term": 374,
+      "hospitals": 41,
+      "total": 415
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1704
-    }
+    "new_total_cases": 478,
+    "resolved": 2574,
+    "total_cases": 6237,
+    "under_investigation": 1598
   },
   {
-    "infected": 3537,
-    "resolved": 2858,
-    "deaths": 253,
-    "total_cases": 6648,
-    "under_investigation": 1517,
-    "hospitalized": 691,
-    "icu": 257,
-    "icu_on_ventilator": 215,
-    "date": "2020-04-11",
-    "new_total_cases": 411,
-    "growth_factor_total_cases": "0.86",
     "cities_new_cases": {
       "Barrie": 6,
       "Brockville": 24,
@@ -3837,57 +3826,57 @@
       "Whitby": 519,
       "Windsor": 417
     },
-    "institutional_outbreaks": {
-      "long_term": 86,
-      "hospitals": 21,
-      "total": 107
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 1830
     },
+    "date": "2020-04-11",
+    "deaths": 253,
+    "growth_factor_total_cases": "0.86",
+    "hospitalized": 691,
+    "icu": 257,
+    "icu_on_ventilator": 215,
+    "infected": 3537,
     "institutional_all_cases": {
       "long_term": 1153,
       "hospitals": 95,
       "total": 1248
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 719,
-      "hospitals": 53,
-      "total": 772
-    },
-    "institutional_staff_cases": {
-      "long_term": 430,
-      "hospitals": 41,
-      "total": 471
     },
     "institutional_all_deaths": {
       "long_term": 115,
       "hospitals": 8,
       "total": 123
     },
+    "institutional_outbreaks": {
+      "long_term": 86,
+      "hospitals": 21,
+      "total": 107
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 719,
+      "hospitals": 53,
+      "total": 772
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 114,
       "hospitals": 8,
       "total": 122
+    },
+    "institutional_staff_cases": {
+      "long_term": 430,
+      "hospitals": 41,
+      "total": 471
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1830
-    }
+    "new_total_cases": 411,
+    "resolved": 2858,
+    "total_cases": 6648,
+    "under_investigation": 1517
   },
   {
-    "infected": 3654,
-    "resolved": 3121,
-    "deaths": 274,
-    "total_cases": 7049,
-    "under_investigation": 1619,
-    "hospitalized": 738,
-    "icu": 261,
-    "icu_on_ventilator": 196,
-    "date": "2020-04-12",
-    "new_total_cases": 401,
-    "growth_factor_total_cases": "0.98",
     "cities_new_cases": {
       "Barrie": 10,
       "Brantford": 3,
@@ -3948,57 +3937,57 @@
       "Whitby": 555,
       "Windsor": 424
     },
-    "institutional_outbreaks": {
-      "long_term": 89,
-      "hospitals": 24,
-      "total": 113
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2000
     },
+    "date": "2020-04-12",
+    "deaths": 274,
+    "growth_factor_total_cases": "0.98",
+    "hospitalized": 738,
+    "icu": 261,
+    "icu_on_ventilator": 196,
+    "infected": 3654,
     "institutional_all_cases": {
       "long_term": 1175,
       "hospitals": 100,
       "total": 1275
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 741,
-      "hospitals": 56,
-      "total": 797
-    },
-    "institutional_staff_cases": {
-      "long_term": 430,
-      "hospitals": 43,
-      "total": 473
     },
     "institutional_all_deaths": {
       "long_term": 120,
       "hospitals": 8,
       "total": 128
     },
+    "institutional_outbreaks": {
+      "long_term": 89,
+      "hospitals": 24,
+      "total": 113
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 741,
+      "hospitals": 56,
+      "total": 797
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 119,
       "hospitals": 8,
       "total": 127
+    },
+    "institutional_staff_cases": {
+      "long_term": 430,
+      "hospitals": 43,
+      "total": 473
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2000
-    }
+    "new_total_cases": 401,
+    "resolved": 3121,
+    "total_cases": 7049,
+    "under_investigation": 1619
   },
   {
-    "infected": 3822,
-    "resolved": 3357,
-    "deaths": 291,
-    "total_cases": 7470,
-    "under_investigation": 1534,
-    "hospitalized": 760,
-    "icu": 263,
-    "icu_on_ventilator": 203,
-    "date": "2020-04-13",
-    "new_total_cases": 421,
-    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Barrie": 5,
       "Brantford": 2,
@@ -4062,57 +4051,57 @@
       "Whitby": 594,
       "Windsor": 465
     },
-    "institutional_outbreaks": {
-      "long_term": 93,
-      "hospitals": 27,
-      "total": 120
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2148
     },
+    "date": "2020-04-13",
+    "deaths": 291,
+    "growth_factor_total_cases": "1.05",
+    "hospitalized": 760,
+    "icu": 263,
+    "icu_on_ventilator": 203,
+    "infected": 3822,
     "institutional_all_cases": {
       "long_term": 1254,
       "hospitals": 113,
       "total": 1367
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 813,
-      "hospitals": 62,
-      "total": 875
-    },
-    "institutional_staff_cases": {
-      "long_term": 437,
-      "hospitals": 50,
-      "total": 487
     },
     "institutional_all_deaths": {
       "long_term": 136,
       "hospitals": 8,
       "total": 144
     },
+    "institutional_outbreaks": {
+      "long_term": 93,
+      "hospitals": 27,
+      "total": 120
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 813,
+      "hospitals": 62,
+      "total": 875
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 135,
       "hospitals": 8,
       "total": 143
+    },
+    "institutional_staff_cases": {
+      "long_term": 437,
+      "hospitals": 50,
+      "total": 487
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2148
-    }
+    "new_total_cases": 421,
+    "resolved": 3357,
+    "total_cases": 7470,
+    "under_investigation": 1534
   },
   {
-    "infected": 4051,
-    "resolved": 3568,
-    "deaths": 334,
-    "total_cases": 7953,
-    "under_investigation": 2107,
-    "hospitalized": 769,
-    "icu": 255,
-    "icu_on_ventilator": 199,
-    "date": "2020-04-14",
-    "new_total_cases": 483,
-    "growth_factor_total_cases": "1.15",
     "cities_new_cases": {
       "Barrie": 6,
       "Brantford": 2,
@@ -4171,58 +4160,57 @@
       "Whitby": 621,
       "Windsor": 486
     },
-    "institutional_outbreaks": {
-      "long_term": 98,
-      "hospitals": 28,
-      "total": 126
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2283
     },
+    "date": "2020-04-14",
+    "deaths": 334,
+    "growth_factor_total_cases": "1.15",
+    "hospitalized": 769,
+    "icu": 255,
+    "icu_on_ventilator": 199,
+    "infected": 4051,
     "institutional_all_cases": {
       "long_term": 1291,
       "hospitals": 139,
       "total": 1430
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 834,
-      "hospitals": 82,
-      "total": 916
-    },
-    "institutional_staff_cases": {
-      "long_term": 453,
-      "hospitals": 56,
-      "total": 509
     },
     "institutional_all_deaths": {
       "long_term": 145,
       "hospitals": 9,
       "total": 154
     },
+    "institutional_outbreaks": {
+      "long_term": 98,
+      "hospitals": 28,
+      "total": 126
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 834,
+      "hospitals": 82,
+      "total": 916
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 144,
       "hospitals": 9,
       "total": 153
+    },
+    "institutional_staff_cases": {
+      "long_term": 453,
+      "hospitals": 56,
+      "total": 509
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2283
-    }
+    "new_total_cases": 483,
+    "resolved": 3568,
+    "total_cases": 7953,
+    "under_investigation": 2107
   },
   {
-    "infected": 4160,
-    "resolved": 3902,
-    "deaths": 385,
-    "total_cases": 8447,
-    "new_tests": 6010,
-    "under_investigation": 4429,
-    "hospitalized": 795,
-    "icu": 254,
-    "icu_on_ventilator": 188,
-    "date": "2020-04-15",
-    "new_total_cases": 494,
-    "growth_factor_total_cases": "1.02",
     "cities_new_cases": {
       "Barrie": 5,
       "Belleville": 1,
@@ -4288,58 +4276,58 @@
       "Whitby": 657,
       "Windsor": 509
     },
-    "institutional_outbreaks": {
-      "long_term": 104,
-      "hospitals": 29,
-      "total": 133
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2414
     },
+    "date": "2020-04-15",
+    "deaths": 385,
+    "growth_factor_total_cases": "1.02",
+    "hospitalized": 795,
+    "icu": 254,
+    "icu_on_ventilator": 188,
+    "infected": 4160,
     "institutional_all_cases": {
       "long_term": 1467,
       "hospitals": 146,
       "total": 1613
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 933,
-      "hospitals": 87,
-      "total": 1020
-    },
-    "institutional_staff_cases": {
-      "long_term": 530,
-      "hospitals": 58,
-      "total": 588
     },
     "institutional_all_deaths": {
       "long_term": 163,
       "hospitals": 9,
       "total": 172
     },
+    "institutional_outbreaks": {
+      "long_term": 104,
+      "hospitals": 29,
+      "total": 133
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 933,
+      "hospitals": 87,
+      "total": 1020
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 162,
       "hospitals": 9,
       "total": 171
+    },
+    "institutional_staff_cases": {
+      "long_term": 530,
+      "hospitals": 58,
+      "total": 588
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2414
-    }
+    "new_tests": 6010,
+    "new_total_cases": 494,
+    "resolved": 3902,
+    "total_cases": 8447,
+    "under_investigation": 4429
   },
   {
-    "infected": 4344,
-    "resolved": 4194,
-    "deaths": 423,
-    "total_cases": 8961,
-    "new_tests": 9001,
-    "under_investigation": 4323,
-    "hospitalized": 807,
-    "icu": 248,
-    "icu_on_ventilator": 200,
-    "date": "2020-04-16",
-    "new_total_cases": 514,
-    "growth_factor_total_cases": "1.04",
     "cities_new_cases": {
       "Barrie": 3,
       "Belleville": 1,
@@ -4397,21 +4385,21 @@
       "Waterloo": 548,
       "Whitby": 706,
       "Windsor": 517
-    }
+    },
+    "date": "2020-04-16",
+    "deaths": 423,
+    "growth_factor_total_cases": "1.04",
+    "hospitalized": 807,
+    "icu": 248,
+    "icu_on_ventilator": 200,
+    "infected": 4344,
+    "new_tests": 9001,
+    "new_total_cases": 514,
+    "resolved": 4194,
+    "total_cases": 8961,
+    "under_investigation": 4323
   },
   {
-    "infected": 4491,
-    "resolved": 4556,
-    "deaths": 478,
-    "total_cases": 9525,
-    "new_tests": 8899,
-    "under_investigation": 5993,
-    "hospitalized": 829,
-    "icu": 245,
-    "icu_on_ventilator": 200,
-    "date": "2020-04-17",
-    "new_total_cases": 564,
-    "growth_factor_total_cases": "1.10",
     "cities_new_cases": {
       "Barrie": 8,
       "Belleville": 1,
@@ -4477,58 +4465,58 @@
       "Whitby": 749,
       "Windsor": 533
     },
-    "institutional_outbreaks": {
-      "long_term": 106,
-      "hospitals": 30,
-      "total": 136
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2656
     },
+    "date": "2020-04-17",
+    "deaths": 478,
+    "growth_factor_total_cases": "1.10",
+    "hospitalized": 829,
+    "icu": 245,
+    "icu_on_ventilator": 200,
+    "infected": 4491,
     "institutional_all_cases": {
       "long_term": 1854,
       "hospitals": 194,
       "total": 2048
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1229,
-      "hospitals": 117,
-      "total": 1346
-    },
-    "institutional_staff_cases": {
-      "long_term": 621,
-      "hospitals": 76,
-      "total": 697
     },
     "institutional_all_deaths": {
       "long_term": 217,
       "hospitals": 10,
       "total": 227
     },
+    "institutional_outbreaks": {
+      "long_term": 106,
+      "hospitals": 30,
+      "total": 136
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1229,
+      "hospitals": 117,
+      "total": 1346
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 216,
       "hospitals": 10,
       "total": 226
+    },
+    "institutional_staff_cases": {
+      "long_term": 621,
+      "hospitals": 76,
+      "total": 697
     },
     "institutional_staff_deaths": {
       "long_term": 0,
       "hospitals": 0,
       "total": 0
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2656
-    }
+    "new_tests": 8899,
+    "new_total_cases": 564,
+    "resolved": 4556,
+    "total_cases": 9525,
+    "under_investigation": 5993
   },
   {
-    "infected": 4621,
-    "resolved": 4875,
-    "deaths": 514,
-    "total_cases": 10010,
-    "new_tests": 9462,
-    "under_investigation": 6833,
-    "hospitalized": 828,
-    "icu": 250,
-    "icu_on_ventilator": 197,
-    "date": "2020-04-18",
-    "new_total_cases": 485,
-    "growth_factor_total_cases": "0.86",
     "cities_new_cases": {
       "Barrie": 9,
       "Belleville": 1,
@@ -4593,58 +4581,58 @@
       "Whitby": 787,
       "Windsor": 543
     },
-    "institutional_outbreaks": {
-      "long_term": 108,
-      "hospitals": 31,
-      "total": 139
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 2861
     },
+    "date": "2020-04-18",
+    "deaths": 514,
+    "growth_factor_total_cases": "0.86",
+    "hospitalized": 828,
+    "icu": 250,
+    "icu_on_ventilator": 197,
+    "infected": 4621,
     "institutional_all_cases": {
       "long_term": 1963,
       "hospitals": 193,
       "total": 2156
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1322,
-      "hospitals": 115,
-      "total": 1437
-    },
-    "institutional_staff_cases": {
-      "long_term": 637,
-      "hospitals": 77,
-      "total": 714
     },
     "institutional_all_deaths": {
       "long_term": 234,
       "hospitals": 10,
       "total": 244
     },
+    "institutional_outbreaks": {
+      "long_term": 108,
+      "hospitals": 31,
+      "total": 139
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1322,
+      "hospitals": 115,
+      "total": 1437
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 233,
       "hospitals": 10,
       "total": 243
+    },
+    "institutional_staff_cases": {
+      "long_term": 637,
+      "hospitals": 77,
+      "total": 714
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2861
-    }
+    "new_tests": 9462,
+    "new_total_cases": 485,
+    "resolved": 4875,
+    "total_cases": 10010,
+    "under_investigation": 6833
   },
   {
-    "infected": 4816,
-    "resolved": 5209,
-    "deaths": 553,
-    "total_cases": 10578,
-    "new_tests": 9643,
-    "under_investigation": 5736,
-    "hospitalized": 809,
-    "icu": 247,
-    "icu_on_ventilator": 196,
-    "date": "2020-04-19",
-    "new_total_cases": 568,
-    "growth_factor_total_cases": "1.17",
     "cities_new_cases": {
       "Barrie": 2,
       "Belleville": 1,
@@ -4709,58 +4697,58 @@
       "Whitby": 808,
       "Windsor": 561
     },
-    "institutional_outbreaks": {
-      "long_term": 112,
-      "hospitals": 31,
-      "total": 143
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3085
     },
+    "date": "2020-04-19",
+    "deaths": 553,
+    "growth_factor_total_cases": "1.17",
+    "hospitalized": 809,
+    "icu": 247,
+    "icu_on_ventilator": 196,
+    "infected": 4816,
     "institutional_all_cases": {
       "long_term": 1913,
       "hospitals": 215,
       "total": 2128
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1272,
-      "hospitals": 123,
-      "total": 1395
-    },
-    "institutional_staff_cases": {
-      "long_term": 637,
-      "hospitals": 90,
-      "total": 727
     },
     "institutional_all_deaths": {
       "long_term": 241,
       "hospitals": 11,
       "total": 252
     },
+    "institutional_outbreaks": {
+      "long_term": 112,
+      "hospitals": 31,
+      "total": 143
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1272,
+      "hospitals": 123,
+      "total": 1395
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 240,
       "hospitals": 11,
       "total": 251
+    },
+    "institutional_staff_cases": {
+      "long_term": 637,
+      "hospitals": 90,
+      "total": 727
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3085
-    }
+    "new_tests": 9643,
+    "new_total_cases": 568,
+    "resolved": 5209,
+    "total_cases": 10578,
+    "under_investigation": 5736
   },
   {
-    "infected": 5085,
-    "resolved": 5515,
-    "deaths": 584,
-    "total_cases": 11184,
-    "new_tests": 8743,
-    "under_investigation": 3799,
-    "hospitalized": 802,
-    "icu": 247,
-    "icu_on_ventilator": 193,
-    "date": "2020-04-20",
-    "new_total_cases": 606,
-    "growth_factor_total_cases": "1.07",
     "cities_new_cases": {
       "Barrie": 7,
       "Brantford": 4,
@@ -4824,58 +4812,58 @@
       "Whitby": 840,
       "Windsor": 567
     },
-    "institutional_outbreaks": {
-      "long_term": 114,
-      "hospitals": 33,
-      "total": 147
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3241
     },
+    "date": "2020-04-20",
+    "deaths": 584,
+    "growth_factor_total_cases": "1.07",
+    "hospitalized": 802,
+    "icu": 247,
+    "icu_on_ventilator": 193,
+    "infected": 5085,
     "institutional_all_cases": {
       "long_term": 1965,
       "hospitals": 218,
       "total": 2183
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1317,
-      "hospitals": 126,
-      "total": 1443
-    },
-    "institutional_staff_cases": {
-      "long_term": 644,
-      "hospitals": 90,
-      "total": 734
     },
     "institutional_all_deaths": {
       "long_term": 250,
       "hospitals": 12,
       "total": 262
     },
+    "institutional_outbreaks": {
+      "long_term": 114,
+      "hospitals": 33,
+      "total": 147
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1317,
+      "hospitals": 126,
+      "total": 1443
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 249,
       "hospitals": 12,
       "total": 261
+    },
+    "institutional_staff_cases": {
+      "long_term": 644,
+      "hospitals": 90,
+      "total": 734
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3241
-    }
+    "new_tests": 8743,
+    "new_total_cases": 606,
+    "resolved": 5515,
+    "total_cases": 11184,
+    "under_investigation": 3799
   },
   {
-    "infected": 5307,
-    "resolved": 5806,
-    "deaths": 622,
-    "total_cases": 11735,
-    "new_tests": 9330,
-    "under_investigation": 5546,
-    "hospitalized": 859,
-    "icu": 250,
-    "icu_on_ventilator": 194,
-    "date": "2020-04-21",
-    "new_total_cases": 551,
-    "growth_factor_total_cases": "0.91",
     "cities_new_cases": {
       "Barrie": 6,
       "Brantford": 2,
@@ -4936,58 +4924,58 @@
       "Whitby": 876,
       "Windsor": 570
     },
-    "institutional_outbreaks": {
-      "long_term": 121,
-      "hospitals": 34,
-      "total": 155
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3372
     },
+    "date": "2020-04-21",
+    "deaths": 622,
+    "growth_factor_total_cases": "0.91",
+    "hospitalized": 859,
+    "icu": 250,
+    "icu_on_ventilator": 194,
+    "infected": 5307,
     "institutional_all_cases": {
       "long_term": 2069,
       "hospitals": 263,
       "total": 2332
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1394,
-      "hospitals": 149,
-      "total": 1543
-    },
-    "institutional_staff_cases": {
-      "long_term": 671,
-      "hospitals": 112,
-      "total": 783
     },
     "institutional_all_deaths": {
       "long_term": 274,
       "hospitals": 14,
       "total": 288
     },
+    "institutional_outbreaks": {
+      "long_term": 121,
+      "hospitals": 34,
+      "total": 155
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1394,
+      "hospitals": 149,
+      "total": 1543
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 273,
       "hospitals": 14,
       "total": 287
+    },
+    "institutional_staff_cases": {
+      "long_term": 671,
+      "hospitals": 112,
+      "total": 783
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3372
-    }
+    "new_tests": 9330,
+    "new_total_cases": 551,
+    "resolved": 5806,
+    "total_cases": 11735,
+    "under_investigation": 5546
   },
   {
-    "infected": 5365,
-    "resolved": 6221,
-    "deaths": 659,
-    "total_cases": 12245,
-    "new_tests": 10361,
-    "under_investigation": 6845,
-    "hospitalized": 878,
-    "icu": 243,
-    "icu_on_ventilator": 192,
-    "date": "2020-04-22",
-    "new_total_cases": 510,
-    "growth_factor_total_cases": "0.93",
     "cities_new_cases": {
       "Barrie": 7,
       "Belleville": 2,
@@ -5051,58 +5039,58 @@
       "Whitby": 898,
       "Windsor": 578
     },
-    "institutional_outbreaks": {
-      "long_term": 125,
-      "hospitals": 35,
-      "total": 160
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3584
     },
+    "date": "2020-04-22",
+    "deaths": 659,
+    "growth_factor_total_cases": "0.93",
+    "hospitalized": 878,
+    "icu": 243,
+    "icu_on_ventilator": 192,
+    "infected": 5365,
     "institutional_all_cases": {
       "long_term": 2339,
       "hospitals": 242,
       "total": 2581
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1587,
-      "hospitals": 139,
-      "total": 1726
-    },
-    "institutional_staff_cases": {
-      "long_term": 748,
-      "hospitals": 101,
-      "total": 849
     },
     "institutional_all_deaths": {
       "long_term": 296,
       "hospitals": 13,
       "total": 309
     },
+    "institutional_outbreaks": {
+      "long_term": 125,
+      "hospitals": 35,
+      "total": 160
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1587,
+      "hospitals": 139,
+      "total": 1726
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 295,
       "hospitals": 13,
       "total": 308
+    },
+    "institutional_staff_cases": {
+      "long_term": 748,
+      "hospitals": 101,
+      "total": 849
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3584
-    }
+    "new_tests": 10361,
+    "new_total_cases": 510,
+    "resolved": 6221,
+    "total_cases": 12245,
+    "under_investigation": 6845
   },
   {
-    "infected": 5486,
-    "resolved": 6680,
-    "deaths": 713,
-    "total_cases": 12879,
-    "new_tests": 10214,
-    "under_investigation": 6757,
-    "hospitalized": 887,
-    "icu": 233,
-    "icu_on_ventilator": 185,
-    "date": "2020-04-23",
-    "new_total_cases": 634,
-    "growth_factor_total_cases": "1.24",
     "cities_new_cases": {
       "Barrie": 5,
       "Brockville": 4,
@@ -5167,58 +5155,58 @@
       "Whitby": 925,
       "Windsor": 583
     },
-    "institutional_outbreaks": {
-      "long_term": 135,
-      "hospitals": 37,
-      "total": 172
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3821
     },
+    "date": "2020-04-23",
+    "deaths": 713,
+    "growth_factor_total_cases": "1.24",
+    "hospitalized": 887,
+    "icu": 233,
+    "icu_on_ventilator": 185,
+    "infected": 5486,
     "institutional_all_cases": {
       "long_term": 2826,
       "hospitals": 238,
       "total": 3064
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 1933,
-      "hospitals": 135,
-      "total": 2068
-    },
-    "institutional_staff_cases": {
-      "long_term": 889,
-      "hospitals": 101,
-      "total": 990
     },
     "institutional_all_deaths": {
       "long_term": 359,
       "hospitals": 15,
       "total": 374
     },
+    "institutional_outbreaks": {
+      "long_term": 135,
+      "hospitals": 37,
+      "total": 172
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1933,
+      "hospitals": 135,
+      "total": 2068
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 358,
       "hospitals": 15,
       "total": 373
+    },
+    "institutional_staff_cases": {
+      "long_term": 889,
+      "hospitals": 101,
+      "total": 990
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3821
-    }
+    "new_tests": 10214,
+    "new_total_cases": 634,
+    "resolved": 6680,
+    "total_cases": 12879,
+    "under_investigation": 6757
   },
   {
-    "infected": 5669,
-    "resolved": 7087,
-    "deaths": 763,
-    "total_cases": 13519,
-    "new_tests": 12295,
-    "under_investigation": 5414,
-    "hospitalized": 910,
-    "icu": 243,
-    "icu_on_ventilator": 193,
-    "date": "2020-04-24",
-    "new_total_cases": 640,
-    "growth_factor_total_cases": "1.01",
     "cities_new_cases": {
       "Barrie": 3,
       "Brockville": 1,
@@ -5279,58 +5267,58 @@
       "Whitby": 949,
       "Windsor": 594
     },
-    "institutional_outbreaks": {
-      "long_term": 143,
-      "hospitals": 41,
-      "total": 184
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 3989
     },
+    "date": "2020-04-24",
+    "deaths": 763,
+    "growth_factor_total_cases": "1.01",
+    "hospitalized": 910,
+    "icu": 243,
+    "icu_on_ventilator": 193,
+    "infected": 5669,
     "institutional_all_cases": {
       "long_term": 3085,
       "hospitals": 259,
       "total": 3344
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2166,
-      "hospitals": 149,
-      "total": 2315
-    },
-    "institutional_staff_cases": {
-      "long_term": 915,
-      "hospitals": 107,
-      "total": 1022
     },
     "institutional_all_deaths": {
       "long_term": 464,
       "hospitals": 16,
       "total": 480
     },
+    "institutional_outbreaks": {
+      "long_term": 143,
+      "hospitals": 41,
+      "total": 184
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2166,
+      "hospitals": 149,
+      "total": 2315
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 463,
       "hospitals": 16,
       "total": 479
+    },
+    "institutional_staff_cases": {
+      "long_term": 915,
+      "hospitals": 107,
+      "total": 1022
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3989
-    }
+    "new_tests": 12295,
+    "new_total_cases": 640,
+    "resolved": 7087,
+    "total_cases": 13519,
+    "under_investigation": 5414
   },
   {
-    "infected": 5675,
-    "resolved": 7509,
-    "deaths": 811,
-    "total_cases": 13995,
-    "new_tests": 10578,
-    "under_investigation": 8171,
-    "hospitalized": 925,
-    "icu": 245,
-    "icu_on_ventilator": 195,
-    "date": "2020-04-25",
-    "new_total_cases": 476,
-    "growth_factor_total_cases": "0.74",
     "cities_new_cases": {
       "Barrie": 7,
       "Brockville": 1,
@@ -5391,58 +5379,58 @@
       "Whitby": 970,
       "Windsor": 603
     },
-    "institutional_outbreaks": {
-      "long_term": 162,
-      "hospitals": 50,
-      "total": 212
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4175
     },
+    "date": "2020-04-25",
+    "deaths": 811,
+    "growth_factor_total_cases": "0.74",
+    "hospitalized": 925,
+    "icu": 245,
+    "icu_on_ventilator": 195,
+    "infected": 5675,
     "institutional_all_cases": {
       "long_term": 3205,
       "hospitals": 282,
       "total": 3487
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2236,
-      "hospitals": 157,
-      "total": 2393
-    },
-    "institutional_staff_cases": {
-      "long_term": 965,
-      "hospitals": 122,
-      "total": 1087
     },
     "institutional_all_deaths": {
       "long_term": 471,
       "hospitals": 17,
       "total": 488
     },
+    "institutional_outbreaks": {
+      "long_term": 162,
+      "hospitals": 50,
+      "total": 212
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2236,
+      "hospitals": 157,
+      "total": 2393
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 470,
       "hospitals": 17,
       "total": 487
+    },
+    "institutional_staff_cases": {
+      "long_term": 965,
+      "hospitals": 122,
+      "total": 1087
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4175
-    }
+    "new_tests": 10578,
+    "new_total_cases": 476,
+    "resolved": 7509,
+    "total_cases": 13995,
+    "under_investigation": 8171
   },
   {
-    "infected": 5597,
-    "resolved": 8000,
-    "deaths": 835,
-    "total_cases": 14432,
-    "new_tests": 12020,
-    "under_investigation": 7417,
-    "hospitalized": 938,
-    "icu": 252,
-    "icu_on_ventilator": 195,
-    "date": "2020-04-26",
-    "new_total_cases": 437,
-    "growth_factor_total_cases": "0.92",
     "cities_new_cases": {
       "Barrie": 7,
       "Brockville": 1,
@@ -5502,58 +5490,58 @@
       "Whitby": 983,
       "Windsor": 611
     },
-    "institutional_outbreaks": {
-      "long_term": 167,
-      "hospitals": 52,
-      "total": 219
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4295
     },
+    "date": "2020-04-26",
+    "deaths": 835,
+    "growth_factor_total_cases": "0.92",
+    "hospitalized": 938,
+    "icu": 252,
+    "icu_on_ventilator": 195,
+    "infected": 5597,
     "institutional_all_cases": {
       "long_term": 3202,
       "hospitals": 297,
       "total": 3499
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2185,
-      "hospitals": 156,
-      "total": 2341
-    },
-    "institutional_staff_cases": {
-      "long_term": 1013,
-      "hospitals": 138,
-      "total": 1151
     },
     "institutional_all_deaths": {
       "long_term": 455,
       "hospitals": 19,
       "total": 474
     },
+    "institutional_outbreaks": {
+      "long_term": 167,
+      "hospitals": 52,
+      "total": 219
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2185,
+      "hospitals": 156,
+      "total": 2341
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 454,
       "hospitals": 19,
       "total": 473
+    },
+    "institutional_staff_cases": {
+      "long_term": 1013,
+      "hospitals": 138,
+      "total": 1151
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4295
-    }
+    "new_tests": 12020,
+    "new_total_cases": 437,
+    "resolved": 8000,
+    "total_cases": 14432,
+    "under_investigation": 7417
   },
   {
-    "infected": 5439,
-    "resolved": 8525,
-    "deaths": 892,
-    "total_cases": 14856,
-    "new_tests": 12550,
-    "under_investigation": 5001,
-    "hospitalized": 945,
-    "icu": 241,
-    "icu_on_ventilator": 191,
-    "date": "2020-04-27",
-    "new_total_cases": 424,
-    "growth_factor_total_cases": "0.97",
     "cities_new_cases": {
       "Barrie": 7,
       "Belleville": 2,
@@ -5618,58 +5606,58 @@
       "Whitby": 1018,
       "Windsor": 623
     },
-    "institutional_outbreaks": {
-      "long_term": 170,
-      "hospitals": 54,
-      "total": 224
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4430
     },
+    "date": "2020-04-27",
+    "deaths": 892,
+    "growth_factor_total_cases": "0.97",
+    "hospitalized": 945,
+    "icu": 241,
+    "icu_on_ventilator": 191,
+    "infected": 5439,
     "institutional_all_cases": {
       "long_term": 3451,
       "hospitals": 308,
       "total": 3759
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2346,
-      "hospitals": 165,
-      "total": 2511
-    },
-    "institutional_staff_cases": {
-      "long_term": 1101,
-      "hospitals": 140,
-      "total": 1241
     },
     "institutional_all_deaths": {
       "long_term": 498,
       "hospitals": 19,
       "total": 517
     },
+    "institutional_outbreaks": {
+      "long_term": 170,
+      "hospitals": 54,
+      "total": 224
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2346,
+      "hospitals": 165,
+      "total": 2511
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 497,
       "hospitals": 19,
       "total": 516
+    },
+    "institutional_staff_cases": {
+      "long_term": 1101,
+      "hospitals": 140,
+      "total": 1241
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4430
-    }
+    "new_tests": 12550,
+    "new_total_cases": 424,
+    "resolved": 8525,
+    "total_cases": 14856,
+    "under_investigation": 5001
   },
   {
-    "infected": 5466,
-    "resolved": 8964,
-    "deaths": 951,
-    "total_cases": 15381,
-    "new_tests": 10852,
-    "under_investigation": 6282,
-    "hospitalized": 957,
-    "icu": 239,
-    "icu_on_ventilator": 187,
-    "date": "2020-04-28",
-    "new_total_cases": 525,
-    "growth_factor_total_cases": "1.24",
     "cities_new_cases": {
       "Barrie": 11,
       "Belleville": 1,
@@ -5732,58 +5720,58 @@
       "Whitby": 1035,
       "Windsor": 630
     },
-    "institutional_outbreaks": {
-      "long_term": 176,
-      "hospitals": 55,
-      "total": 231
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4619
     },
+    "date": "2020-04-28",
+    "deaths": 951,
+    "growth_factor_total_cases": "1.24",
+    "hospitalized": 957,
+    "icu": 239,
+    "icu_on_ventilator": 187,
+    "infected": 5466,
     "institutional_all_cases": {
       "long_term": 3277,
       "hospitals": 364,
       "total": 3641
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2240,
-      "hospitals": 180,
-      "total": 2420
-    },
-    "institutional_staff_cases": {
-      "long_term": 1033,
-      "hospitals": 181,
-      "total": 1214
     },
     "institutional_all_deaths": {
       "long_term": 477,
       "hospitals": 20,
       "total": 497
     },
+    "institutional_outbreaks": {
+      "long_term": 176,
+      "hospitals": 55,
+      "total": 231
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2240,
+      "hospitals": 180,
+      "total": 2420
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 476,
       "hospitals": 20,
       "total": 496
+    },
+    "institutional_staff_cases": {
+      "long_term": 1033,
+      "hospitals": 181,
+      "total": 1214
     },
     "institutional_staff_deaths": {
       "long_term": 1,
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4619
-    }
+    "new_tests": 10852,
+    "new_total_cases": 525,
+    "resolved": 8964,
+    "total_cases": 15381,
+    "under_investigation": 6282
   },
   {
-    "infected": 5120,
-    "resolved": 9612,
-    "deaths": 996,
-    "total_cases": 15728,
-    "new_tests": 11554,
-    "under_investigation": 9530,
-    "hospitalized": 977,
-    "icu": 235,
-    "icu_on_ventilator": 186,
-    "date": "2020-04-29",
-    "new_total_cases": 347,
-    "growth_factor_total_cases": "0.66",
     "cities_new_cases": {
       "Barrie": 20,
       "Brockville": 1,
@@ -5841,29 +5829,21 @@
       "Whitby": 1066,
       "Windsor": 636
     },
-    "institutional_outbreaks": {
-      "long_term": 181,
-      "retirement_home": 67,
-      "hospitals": 57,
-      "total": 305
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4668
     },
+    "date": "2020-04-29",
+    "deaths": 996,
+    "growth_factor_total_cases": "0.66",
+    "hospitalized": 977,
+    "icu": 235,
+    "icu_on_ventilator": 186,
+    "infected": 5120,
     "institutional_all_cases": {
       "long_term": 3464,
       "retirement_home": 642,
       "hospitals": 382,
       "total": 4488
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2352,
-      "retirement_home": 419,
-      "hospitals": 185,
-      "total": 2956
-    },
-    "institutional_staff_cases": {
-      "long_term": 1108,
-      "retirement_home": 223,
-      "hospitals": 194,
-      "total": 1525
     },
     "institutional_all_deaths": {
       "long_term": 522,
@@ -5871,11 +5851,29 @@
       "hospitals": 27,
       "total": 626
     },
+    "institutional_outbreaks": {
+      "long_term": 181,
+      "retirement_home": 67,
+      "hospitals": 57,
+      "total": 305
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2352,
+      "retirement_home": 419,
+      "hospitals": 185,
+      "total": 2956
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 521,
       "retirement_home": 77,
       "hospitals": 27,
       "total": 625
+    },
+    "institutional_staff_cases": {
+      "long_term": 1108,
+      "retirement_home": 223,
+      "hospitals": 194,
+      "total": 1525
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -5883,23 +5881,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4668
-    }
+    "new_tests": 11554,
+    "new_total_cases": 347,
+    "resolved": 9612,
+    "total_cases": 15728,
+    "under_investigation": 9530
   },
   {
-    "infected": 4900,
-    "resolved": 10205,
-    "deaths": 1082,
-    "total_cases": 16187,
-    "new_tests": 12928,
-    "under_investigation": 11859,
-    "hospitalized": 999,
-    "icu": 233,
-    "icu_on_ventilator": 181,
-    "date": "2020-04-30",
-    "new_total_cases": 459,
-    "growth_factor_total_cases": "1.32",
     "cities_new_cases": {
       "Barrie": 12,
       "Brockville": 2,
@@ -5958,29 +5946,21 @@
       "Whitby": 1089,
       "Windsor": 650
     },
-    "institutional_outbreaks": {
-      "long_term": 190,
-      "retirement_home": 70,
-      "hospitals": 57,
-      "total": 317
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 4901
     },
+    "date": "2020-04-30",
+    "deaths": 1082,
+    "growth_factor_total_cases": "1.32",
+    "hospitalized": 999,
+    "icu": 233,
+    "icu_on_ventilator": 181,
+    "infected": 4900,
     "institutional_all_cases": {
       "long_term": 3538,
       "retirement_home": 701,
       "hospitals": 523,
       "total": 4762
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2385,
-      "retirement_home": 456,
-      "hospitals": 241,
-      "total": 3082
-    },
-    "institutional_staff_cases": {
-      "long_term": 1148,
-      "retirement_home": 245,
-      "hospitals": 279,
-      "total": 1672
     },
     "institutional_all_deaths": {
       "long_term": 531,
@@ -5988,11 +5968,29 @@
       "hospitals": 41,
       "total": 655
     },
+    "institutional_outbreaks": {
+      "long_term": 190,
+      "retirement_home": 70,
+      "hospitals": 57,
+      "total": 317
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2385,
+      "retirement_home": 456,
+      "hospitals": 241,
+      "total": 3082
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 530,
       "retirement_home": 83,
       "hospitals": 41,
       "total": 654
+    },
+    "institutional_staff_cases": {
+      "long_term": 1148,
+      "retirement_home": 245,
+      "hospitals": 279,
+      "total": 1672
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6000,23 +5998,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4901
-    }
+    "new_tests": 12928,
+    "new_total_cases": 459,
+    "resolved": 10205,
+    "total_cases": 16187,
+    "under_investigation": 11859
   },
   {
-    "infected": 4662,
-    "resolved": 10825,
-    "deaths": 1121,
-    "total_cases": 16608,
-    "new_tests": 16532,
-    "under_investigation": 11975,
-    "hospitalized": 1017,
-    "icu": 225,
-    "icu_on_ventilator": 175,
-    "date": "2020-05-01",
-    "new_total_cases": 421,
-    "growth_factor_total_cases": "0.92",
     "cities_new_cases": {
       "Barrie": 18,
       "Brantford": 1,
@@ -6076,29 +6064,21 @@
       "Whitby": 1111,
       "Windsor": 657
     },
-    "institutional_outbreaks": {
-      "long_term": 198,
-      "retirement_home": 71,
-      "hospitals": 62,
-      "total": 331
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5041
     },
+    "date": "2020-05-01",
+    "deaths": 1121,
+    "growth_factor_total_cases": "0.92",
+    "hospitalized": 1017,
+    "icu": 225,
+    "icu_on_ventilator": 175,
+    "infected": 4662,
     "institutional_all_cases": {
       "long_term": 3647,
       "retirement_home": 707,
       "hospitals": 424,
       "total": 4778
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2455,
-      "retirement_home": 457,
-      "hospitals": 193,
-      "total": 3105
-    },
-    "institutional_staff_cases": {
-      "long_term": 1187,
-      "retirement_home": 250,
-      "hospitals": 224,
-      "total": 1661
     },
     "institutional_all_deaths": {
       "long_term": 542,
@@ -6106,11 +6086,29 @@
       "hospitals": 33,
       "total": 662
     },
+    "institutional_outbreaks": {
+      "long_term": 198,
+      "retirement_home": 71,
+      "hospitals": 62,
+      "total": 331
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2455,
+      "retirement_home": 457,
+      "hospitals": 193,
+      "total": 3105
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 541,
       "retirement_home": 87,
       "hospitals": 33,
       "total": 661
+    },
+    "institutional_staff_cases": {
+      "long_term": 1187,
+      "retirement_home": 250,
+      "hospitals": 224,
+      "total": 1661
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6118,23 +6116,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5041
-    }
+    "new_tests": 16532,
+    "new_total_cases": 421,
+    "resolved": 10825,
+    "total_cases": 16608,
+    "under_investigation": 11975
   },
   {
-    "infected": 4553,
-    "resolved": 11390,
-    "deaths": 1176,
-    "total_cases": 17119,
-    "new_tests": 16305,
-    "under_investigation": 12829,
-    "hospitalized": 977,
-    "icu": 221,
-    "icu_on_ventilator": 154,
-    "date": "2020-05-02",
-    "new_total_cases": 511,
-    "growth_factor_total_cases": "1.21",
     "cities_new_cases": {
       "Barrie": 10,
       "Brockville": 1,
@@ -6194,29 +6182,21 @@
       "Whitby": 1123,
       "Windsor": 669
     },
-    "institutional_outbreaks": {
-      "long_term": 205,
-      "retirement_home": 73,
-      "hospitals": 63,
-      "total": 341
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5231
     },
+    "date": "2020-05-02",
+    "deaths": 1176,
+    "growth_factor_total_cases": "1.21",
+    "hospitalized": 977,
+    "icu": 221,
+    "icu_on_ventilator": 154,
+    "infected": 4553,
     "institutional_all_cases": {
       "long_term": 3675,
       "retirement_home": 707,
       "hospitals": 454,
       "total": 4836
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2462,
-      "retirement_home": 457,
-      "hospitals": 211,
-      "total": 3130
-    },
-    "institutional_staff_cases": {
-      "long_term": 1208,
-      "retirement_home": 250,
-      "hospitals": 236,
-      "total": 1694
     },
     "institutional_all_deaths": {
       "long_term": 579,
@@ -6224,11 +6204,29 @@
       "hospitals": 33,
       "total": 699
     },
+    "institutional_outbreaks": {
+      "long_term": 205,
+      "retirement_home": 73,
+      "hospitals": 63,
+      "total": 341
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2462,
+      "retirement_home": 457,
+      "hospitals": 211,
+      "total": 3130
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 578,
       "retirement_home": 87,
       "hospitals": 33,
       "total": 698
+    },
+    "institutional_staff_cases": {
+      "long_term": 1208,
+      "retirement_home": 250,
+      "hospitals": 236,
+      "total": 1694
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6236,23 +6234,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5231
-    }
+    "new_tests": 16305,
+    "new_total_cases": 511,
+    "resolved": 11390,
+    "total_cases": 17119,
+    "under_investigation": 12829
   },
   {
-    "infected": 4332,
-    "resolved": 12005,
-    "deaths": 1216,
-    "total_cases": 17553,
-    "new_tests": 17146,
-    "under_investigation": 9785,
-    "hospitalized": 1010,
-    "icu": 232,
-    "icu_on_ventilator": 174,
-    "date": "2020-05-03",
-    "new_total_cases": 434,
-    "growth_factor_total_cases": "0.85",
     "cities_new_cases": {
       "Barrie": 5,
       "Brockville": 1,
@@ -6309,29 +6297,21 @@
       "Whitby": 1141,
       "Windsor": 674
     },
-    "institutional_outbreaks": {
-      "long_term": 209,
-      "retirement_home": 75,
-      "hospitals": 64,
-      "total": 348
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5388
     },
+    "date": "2020-05-03",
+    "deaths": 1216,
+    "growth_factor_total_cases": "0.85",
+    "hospitalized": 1010,
+    "icu": 232,
+    "icu_on_ventilator": 174,
+    "infected": 4332,
     "institutional_all_cases": {
       "long_term": 3717,
       "retirement_home": 710,
       "hospitals": 472,
       "total": 4899
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2488,
-      "retirement_home": 459,
-      "hospitals": 223,
-      "total": 3170
-    },
-    "institutional_staff_cases": {
-      "long_term": 1224,
-      "retirement_home": 251,
-      "hospitals": 242,
-      "total": 1717
     },
     "institutional_all_deaths": {
       "long_term": 591,
@@ -6339,11 +6319,29 @@
       "hospitals": 33,
       "total": 711
     },
+    "institutional_outbreaks": {
+      "long_term": 209,
+      "retirement_home": 75,
+      "hospitals": 64,
+      "total": 348
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2488,
+      "retirement_home": 459,
+      "hospitals": 223,
+      "total": 3170
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 590,
       "retirement_home": 87,
       "hospitals": 33,
       "total": 710
+    },
+    "institutional_staff_cases": {
+      "long_term": 1224,
+      "retirement_home": 251,
+      "hospitals": 242,
+      "total": 1717
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6351,23 +6349,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5388
-    }
+    "new_tests": 17146,
+    "new_total_cases": 434,
+    "resolved": 12005,
+    "total_cases": 17553,
+    "under_investigation": 9785
   },
   {
-    "infected": 4118,
-    "resolved": 12505,
-    "deaths": 1300,
-    "total_cases": 17923,
-    "new_tests": 14555,
-    "under_investigation": 6265,
-    "hospitalized": 984,
-    "icu": 225,
-    "icu_on_ventilator": 175,
-    "date": "2020-05-04",
-    "new_total_cases": 370,
-    "growth_factor_total_cases": "0.85",
     "cities_new_cases": {
       "Barrie": 10,
       "Brockville": 2,
@@ -6426,29 +6414,21 @@
       "Whitby": 1155,
       "Windsor": 685
     },
-    "institutional_outbreaks": {
-      "long_term": 212,
-      "retirement_home": 77,
-      "hospitals": 64,
-      "total": 353
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5555
     },
+    "date": "2020-05-04",
+    "deaths": 1300,
+    "growth_factor_total_cases": "0.85",
+    "hospitalized": 984,
+    "icu": 225,
+    "icu_on_ventilator": 175,
+    "infected": 4118,
     "institutional_all_cases": {
       "long_term": 3843,
       "retirement_home": 719,
       "hospitals": 498,
       "total": 5060
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2564,
-      "retirement_home": 465,
-      "hospitals": 240,
-      "total": 3269
-    },
-    "institutional_staff_cases": {
-      "long_term": 1274,
-      "retirement_home": 254,
-      "hospitals": 251,
-      "total": 1779
     },
     "institutional_all_deaths": {
       "long_term": 627,
@@ -6456,11 +6436,29 @@
       "hospitals": 40,
       "total": 755
     },
+    "institutional_outbreaks": {
+      "long_term": 212,
+      "retirement_home": 77,
+      "hospitals": 64,
+      "total": 353
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2564,
+      "retirement_home": 465,
+      "hospitals": 240,
+      "total": 3269
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 626,
       "retirement_home": 88,
       "hospitals": 40,
       "total": 754
+    },
+    "institutional_staff_cases": {
+      "long_term": 1274,
+      "retirement_home": 254,
+      "hospitals": 251,
+      "total": 1779
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6468,23 +6466,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5555
-    }
+    "new_tests": 14555,
+    "new_total_cases": 370,
+    "resolved": 12505,
+    "total_cases": 17923,
+    "under_investigation": 6265
   },
   {
-    "infected": 4170,
-    "resolved": 12779,
-    "deaths": 1361,
-    "total_cases": 18310,
-    "new_tests": 10654,
-    "under_investigation": 6023,
-    "hospitalized": 1043,
-    "icu": 223,
-    "icu_on_ventilator": 166,
-    "date": "2020-05-05",
-    "new_total_cases": 387,
-    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Barrie": 3,
       "Chatham": 1,
@@ -6544,29 +6532,21 @@
       "Whitby": 1175,
       "Windsor": 691
     },
-    "institutional_outbreaks": {
-      "long_term": 218,
-      "retirement_home": 78,
-      "hospitals": 66,
-      "total": 362
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5737
     },
+    "date": "2020-05-05",
+    "deaths": 1361,
+    "growth_factor_total_cases": "1.05",
+    "hospitalized": 1043,
+    "icu": 223,
+    "icu_on_ventilator": 166,
+    "infected": 4170,
     "institutional_all_cases": {
       "long_term": 4052,
       "retirement_home": 836,
       "hospitals": 520,
       "total": 5408
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2707,
-      "retirement_home": 549,
-      "hospitals": 245,
-      "total": 3501
-    },
-    "institutional_staff_cases": {
-      "long_term": 1340,
-      "retirement_home": 287,
-      "hospitals": 268,
-      "total": 1895
     },
     "institutional_all_deaths": {
       "long_term": 698,
@@ -6574,11 +6554,29 @@
       "hospitals": 38,
       "total": 844
     },
+    "institutional_outbreaks": {
+      "long_term": 218,
+      "retirement_home": 78,
+      "hospitals": 66,
+      "total": 362
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2707,
+      "retirement_home": 549,
+      "hospitals": 245,
+      "total": 3501
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 697,
       "retirement_home": 108,
       "hospitals": 38,
       "total": 843
+    },
+    "institutional_staff_cases": {
+      "long_term": 1340,
+      "retirement_home": 287,
+      "hospitals": 268,
+      "total": 1895
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6586,23 +6584,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5737
-    }
+    "new_tests": 10654,
+    "new_total_cases": 387,
+    "resolved": 12779,
+    "total_cases": 18310,
+    "under_investigation": 6023
   },
   {
-    "infected": 4071,
-    "resolved": 13222,
-    "deaths": 1429,
-    "total_cases": 18722,
-    "new_tests": 12961,
-    "under_investigation": 8790,
-    "hospitalized": 1032,
-    "icu": 219,
-    "icu_on_ventilator": 174,
-    "date": "2020-05-06",
-    "new_total_cases": 412,
-    "growth_factor_total_cases": "1.06",
     "cities_new_cases": {
       "Barrie": 4,
       "Brockville": 3,
@@ -6657,29 +6645,21 @@
       "Whitby": 1184,
       "Windsor": 711
     },
-    "institutional_outbreaks": {
-      "long_term": 223,
-      "retirement_home": 79,
-      "hospitals": 69,
-      "total": 371
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 5928
     },
+    "date": "2020-05-06",
+    "deaths": 1429,
+    "growth_factor_total_cases": "1.06",
+    "hospitalized": 1032,
+    "icu": 219,
+    "icu_on_ventilator": 174,
+    "infected": 4071,
     "institutional_all_cases": {
       "long_term": 3874,
       "retirement_home": 774,
       "hospitals": 532,
       "total": 5180
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2576,
-      "retirement_home": 506,
-      "hospitals": 254,
-      "total": 3336
-    },
-    "institutional_staff_cases": {
-      "long_term": 1293,
-      "retirement_home": 268,
-      "hospitals": 271,
-      "total": 1832
     },
     "institutional_all_deaths": {
       "long_term": 654,
@@ -6687,11 +6667,29 @@
       "hospitals": 40,
       "total": 792
     },
+    "institutional_outbreaks": {
+      "long_term": 223,
+      "retirement_home": 79,
+      "hospitals": 69,
+      "total": 371
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2576,
+      "retirement_home": 506,
+      "hospitals": 254,
+      "total": 3336
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 653,
       "retirement_home": 98,
       "hospitals": 40,
       "total": 791
+    },
+    "institutional_staff_cases": {
+      "long_term": 1293,
+      "retirement_home": 268,
+      "hospitals": 271,
+      "total": 1832
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6699,23 +6697,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5928
-    }
+    "new_tests": 12961,
+    "new_total_cases": 412,
+    "resolved": 13222,
+    "total_cases": 18722,
+    "under_investigation": 8790
   },
   {
-    "infected": 4075,
-    "resolved": 13569,
-    "deaths": 1477,
-    "total_cases": 19121,
-    "new_tests": 15179,
-    "under_investigation": 13012,
-    "hospitalized": 1033,
-    "icu": 220,
-    "icu_on_ventilator": 155,
-    "date": "2020-05-07",
-    "new_total_cases": 399,
-    "growth_factor_total_cases": "0.97",
     "cities_new_cases": {
       "Barrie": 2,
       "Brockville": 1,
@@ -6769,29 +6757,21 @@
       "Whitby": 1189,
       "Windsor": 718
     },
-    "institutional_outbreaks": {
-      "long_term": 225,
-      "retirement_home": 83,
-      "hospitals": 69,
-      "total": 377
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6103
     },
+    "date": "2020-05-07",
+    "deaths": 1477,
+    "growth_factor_total_cases": "0.97",
+    "hospitalized": 1033,
+    "icu": 220,
+    "icu_on_ventilator": 155,
+    "infected": 4075,
     "institutional_all_cases": {
       "long_term": 4030,
       "retirement_home": 784,
       "hospitals": 549,
       "total": 5363
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2693,
-      "retirement_home": 511,
-      "hospitals": 265,
-      "total": 3469
-    },
-    "institutional_staff_cases": {
-      "long_term": 1331,
-      "retirement_home": 273,
-      "hospitals": 277,
-      "total": 1881
     },
     "institutional_all_deaths": {
       "long_term": 682,
@@ -6799,11 +6779,29 @@
       "hospitals": 45,
       "total": 826
     },
+    "institutional_outbreaks": {
+      "long_term": 225,
+      "retirement_home": 83,
+      "hospitals": 69,
+      "total": 377
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2693,
+      "retirement_home": 511,
+      "hospitals": 265,
+      "total": 3469
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 681,
       "retirement_home": 99,
       "hospitals": 45,
       "total": 825
+    },
+    "institutional_staff_cases": {
+      "long_term": 1331,
+      "retirement_home": 273,
+      "hospitals": 277,
+      "total": 1881
     },
     "institutional_staff_deaths": {
       "long_term": 1,
@@ -6811,23 +6809,13 @@
       "hospitals": 0,
       "total": 1
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6103
-    }
+    "new_tests": 15179,
+    "new_total_cases": 399,
+    "resolved": 13569,
+    "total_cases": 19121,
+    "under_investigation": 13012
   },
   {
-    "infected": 4068,
-    "resolved": 13990,
-    "deaths": 1540,
-    "total_cases": 19598,
-    "new_tests": 16295,
-    "under_investigation": 14641,
-    "hospitalized": 1028,
-    "icu": 213,
-    "icu_on_ventilator": 166,
-    "date": "2020-05-08",
-    "new_total_cases": 477,
-    "growth_factor_total_cases": "1.20",
     "cities_new_cases": {
       "Barrie": 9,
       "Brantford": 1,
@@ -6884,29 +6872,21 @@
       "Whitby": 1201,
       "Windsor": 731
     },
-    "institutional_outbreaks": {
-      "long_term": 234,
-      "retirement_home": 83,
-      "hospitals": 70,
-      "total": 387
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6364
     },
+    "date": "2020-05-08",
+    "deaths": 1540,
+    "growth_factor_total_cases": "1.20",
+    "hospitalized": 1028,
+    "icu": 213,
+    "icu_on_ventilator": 166,
+    "infected": 4068,
     "institutional_all_cases": {
       "long_term": 4186,
       "retirement_home": 790,
       "hospitals": 566,
       "total": 5542
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2783,
-      "retirement_home": 511,
-      "hospitals": 268,
-      "total": 3562
-    },
-    "institutional_staff_cases": {
-      "long_term": 1398,
-      "retirement_home": 279,
-      "hospitals": 291,
-      "total": 1968
     },
     "institutional_all_deaths": {
       "long_term": 721,
@@ -6914,11 +6894,29 @@
       "hospitals": 47,
       "total": 871
     },
+    "institutional_outbreaks": {
+      "long_term": 234,
+      "retirement_home": 83,
+      "hospitals": 70,
+      "total": 387
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2783,
+      "retirement_home": 511,
+      "hospitals": 268,
+      "total": 3562
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 720,
       "retirement_home": 103,
       "hospitals": 47,
       "total": 870
+    },
+    "institutional_staff_cases": {
+      "long_term": 1398,
+      "retirement_home": 279,
+      "hospitals": 291,
+      "total": 1968
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -6926,23 +6924,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6364
-    }
+    "new_tests": 16295,
+    "new_total_cases": 477,
+    "resolved": 13990,
+    "total_cases": 19598,
+    "under_investigation": 14641
   },
   {
-    "infected": 3962,
-    "resolved": 14383,
-    "deaths": 1599,
-    "total_cases": 19944,
-    "new_tests": 19227,
-    "under_investigation": 15307,
-    "hospitalized": 1016,
-    "icu": 203,
-    "icu_on_ventilator": 158,
-    "date": "2020-05-09",
-    "new_total_cases": 346,
-    "growth_factor_total_cases": "0.73",
     "cities_new_cases": {
       "Barrie": 4,
       "Brantford": 1,
@@ -7000,29 +6988,21 @@
       "Whitby": 1208,
       "Windsor": 741
     },
-    "institutional_outbreaks": {
-      "long_term": 237,
-      "retirement_home": 85,
-      "hospitals": 70,
-      "total": 392
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6494
     },
+    "date": "2020-05-09",
+    "deaths": 1599,
+    "growth_factor_total_cases": "0.73",
+    "hospitalized": 1016,
+    "icu": 203,
+    "icu_on_ventilator": 158,
+    "infected": 3962,
     "institutional_all_cases": {
       "long_term": 4418,
       "retirement_home": 792,
       "hospitals": 569,
       "total": 5779
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2898,
-      "retirement_home": 511,
-      "hospitals": 269,
-      "total": 3678
-    },
-    "institutional_staff_cases": {
-      "long_term": 1515,
-      "retirement_home": 281,
-      "hospitals": 293,
-      "total": 2089
     },
     "institutional_all_deaths": {
       "long_term": 776,
@@ -7030,11 +7010,29 @@
       "hospitals": 47,
       "total": 927
     },
+    "institutional_outbreaks": {
+      "long_term": 237,
+      "retirement_home": 85,
+      "hospitals": 70,
+      "total": 392
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2898,
+      "retirement_home": 511,
+      "hospitals": 269,
+      "total": 3678
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 775,
       "retirement_home": 104,
       "hospitals": 47,
       "total": 926
+    },
+    "institutional_staff_cases": {
+      "long_term": 1515,
+      "retirement_home": 281,
+      "hospitals": 293,
+      "total": 2089
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7042,23 +7040,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6494
-    }
+    "new_tests": 19227,
+    "new_total_cases": 346,
+    "resolved": 14383,
+    "total_cases": 19944,
+    "under_investigation": 15307
   },
   {
-    "infected": 3832,
-    "resolved": 14772,
-    "deaths": 1634,
-    "total_cases": 20238,
-    "new_tests": 17618,
-    "under_investigation": 14816,
-    "hospitalized": 961,
-    "icu": 195,
-    "icu_on_ventilator": 140,
-    "date": "2020-05-10",
-    "new_total_cases": 294,
-    "growth_factor_total_cases": "0.85",
     "cities_new_cases": {
       "Barrie": 5,
       "Chatham": 1,
@@ -7114,29 +7102,21 @@
       "Whitby": 1214,
       "Windsor": 746
     },
-    "institutional_outbreaks": {
-      "long_term": 239,
-      "retirement_home": 93,
-      "hospitals": 72,
-      "total": 404
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6639
     },
+    "date": "2020-05-10",
+    "deaths": 1634,
+    "growth_factor_total_cases": "0.85",
+    "hospitalized": 961,
+    "icu": 195,
+    "icu_on_ventilator": 140,
+    "infected": 3832,
     "institutional_all_cases": {
       "long_term": 4411,
       "retirement_home": 807,
       "hospitals": 580,
       "total": 5798
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2885,
-      "retirement_home": 523,
-      "hospitals": 279,
-      "total": 3687
-    },
-    "institutional_staff_cases": {
-      "long_term": 1521,
-      "retirement_home": 284,
-      "hospitals": 294,
-      "total": 2099
     },
     "institutional_all_deaths": {
       "long_term": 789,
@@ -7144,11 +7124,29 @@
       "hospitals": 50,
       "total": 943
     },
+    "institutional_outbreaks": {
+      "long_term": 239,
+      "retirement_home": 93,
+      "hospitals": 72,
+      "total": 404
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2885,
+      "retirement_home": 523,
+      "hospitals": 279,
+      "total": 3687
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 788,
       "retirement_home": 104,
       "hospitals": 50,
       "total": 942
+    },
+    "institutional_staff_cases": {
+      "long_term": 1521,
+      "retirement_home": 284,
+      "hospitals": 294,
+      "total": 2099
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7156,23 +7154,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6639
-    }
+    "new_tests": 17618,
+    "new_total_cases": 294,
+    "resolved": 14772,
+    "total_cases": 20238,
+    "under_investigation": 14816
   },
   {
-    "infected": 3746,
-    "resolved": 15131,
-    "deaths": 1669,
-    "total_cases": 20546,
-    "new_tests": 13970,
-    "under_investigation": 9018,
-    "hospitalized": 1027,
-    "icu": 194,
-    "icu_on_ventilator": 147,
-    "date": "2020-05-11",
-    "new_total_cases": 308,
-    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Barrie": 9,
       "Brockville": 1,
@@ -7229,29 +7217,21 @@
       "Whitby": 1221,
       "Windsor": 754
     },
-    "institutional_outbreaks": {
-      "long_term": 245,
-      "retirement_home": 95,
-      "hospitals": 73,
-      "total": 413
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6768
     },
+    "date": "2020-05-11",
+    "deaths": 1669,
+    "growth_factor_total_cases": "1.05",
+    "hospitalized": 1027,
+    "icu": 194,
+    "icu_on_ventilator": 147,
+    "infected": 3746,
     "institutional_all_cases": {
       "long_term": 4430,
       "retirement_home": 817,
       "hospitals": 597,
       "total": 5844
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2895,
-      "retirement_home": 524,
-      "hospitals": 286,
-      "total": 3705
-    },
-    "institutional_staff_cases": {
-      "long_term": 1530,
-      "retirement_home": 293,
-      "hospitals": 304,
-      "total": 2127
     },
     "institutional_all_deaths": {
       "long_term": 797,
@@ -7259,11 +7239,29 @@
       "hospitals": 50,
       "total": 951
     },
+    "institutional_outbreaks": {
+      "long_term": 245,
+      "retirement_home": 95,
+      "hospitals": 73,
+      "total": 413
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2895,
+      "retirement_home": 524,
+      "hospitals": 286,
+      "total": 3705
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 796,
       "retirement_home": 104,
       "hospitals": 50,
       "total": 950
+    },
+    "institutional_staff_cases": {
+      "long_term": 1530,
+      "retirement_home": 293,
+      "hospitals": 304,
+      "total": 2127
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7271,23 +7269,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6768
-    }
+    "new_tests": 13970,
+    "new_total_cases": 308,
+    "resolved": 15131,
+    "total_cases": 20546,
+    "under_investigation": 9018
   },
   {
-    "infected": 3791,
-    "resolved": 15391,
-    "deaths": 1725,
-    "total_cases": 20907,
-    "new_tests": 11957,
-    "under_investigation": 10811,
-    "hospitalized": 1025,
-    "icu": 192,
-    "icu_on_ventilator": 146,
-    "date": "2020-05-12",
-    "new_total_cases": 361,
-    "growth_factor_total_cases": "1.17",
     "cities_new_cases": {
       "Barrie": 4,
       "Brockville": 1,
@@ -7346,29 +7334,21 @@
       "Whitby": 1232,
       "Windsor": 760
     },
-    "institutional_outbreaks": {
-      "long_term": 249,
-      "retirement_home": 98,
-      "hospitals": 73,
-      "total": 420
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 6961
     },
+    "date": "2020-05-12",
+    "deaths": 1725,
+    "growth_factor_total_cases": "1.17",
+    "hospitalized": 1025,
+    "icu": 192,
+    "icu_on_ventilator": 146,
+    "infected": 3791,
     "institutional_all_cases": {
       "long_term": 4535,
       "retirement_home": 820,
       "hospitals": 619,
       "total": 5974
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2972,
-      "retirement_home": 528,
-      "hospitals": 304,
-      "total": 3804
-    },
-    "institutional_staff_cases": {
-      "long_term": 1558,
-      "retirement_home": 292,
-      "hospitals": 308,
-      "total": 2158
     },
     "institutional_all_deaths": {
       "long_term": 813,
@@ -7376,11 +7356,29 @@
       "hospitals": 52,
       "total": 970
     },
+    "institutional_outbreaks": {
+      "long_term": 249,
+      "retirement_home": 98,
+      "hospitals": 73,
+      "total": 420
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2972,
+      "retirement_home": 528,
+      "hospitals": 304,
+      "total": 3804
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 812,
       "retirement_home": 105,
       "hospitals": 52,
       "total": 969
+    },
+    "institutional_staff_cases": {
+      "long_term": 1558,
+      "retirement_home": 292,
+      "hospitals": 308,
+      "total": 2158
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7388,23 +7386,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6961
-    }
+    "new_tests": 11957,
+    "new_total_cases": 361,
+    "resolved": 15391,
+    "total_cases": 20907,
+    "under_investigation": 10811
   },
   {
-    "infected": 3626,
-    "resolved": 15845,
-    "deaths": 1765,
-    "total_cases": 21236,
-    "new_tests": 15137,
-    "under_investigation": 13395,
-    "hospitalized": 1018,
-    "icu": 189,
-    "icu_on_ventilator": 144,
-    "date": "2020-05-13",
-    "new_total_cases": 329,
-    "growth_factor_total_cases": "0.91",
     "cities_new_cases": {
       "Barrie": 5,
       "Brockville": 2,
@@ -7462,29 +7450,21 @@
       "Whitby": 1238,
       "Windsor": 768
     },
-    "institutional_outbreaks": {
-      "long_term": 256,
-      "retirement_home": 100,
-      "hospitals": 73,
-      "total": 429
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 7170
     },
+    "date": "2020-05-13",
+    "deaths": 1765,
+    "growth_factor_total_cases": "0.91",
+    "hospitalized": 1018,
+    "icu": 189,
+    "icu_on_ventilator": 144,
+    "infected": 3626,
     "institutional_all_cases": {
       "long_term": 4548,
       "retirement_home": 849,
       "hospitals": 622,
       "total": 6019
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2982,
-      "retirement_home": 551,
-      "hospitals": 294,
-      "total": 3827
-    },
-    "institutional_staff_cases": {
-      "long_term": 1561,
-      "retirement_home": 298,
-      "hospitals": 319,
-      "total": 2178
     },
     "institutional_all_deaths": {
       "long_term": 815,
@@ -7492,11 +7472,29 @@
       "hospitals": 52,
       "total": 974
     },
+    "institutional_outbreaks": {
+      "long_term": 256,
+      "retirement_home": 100,
+      "hospitals": 73,
+      "total": 429
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2982,
+      "retirement_home": 551,
+      "hospitals": 294,
+      "total": 3827
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 814,
       "retirement_home": 107,
       "hospitals": 52,
       "total": 973
+    },
+    "institutional_staff_cases": {
+      "long_term": 1561,
+      "retirement_home": 298,
+      "hospitals": 319,
+      "total": 2178
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7504,23 +7502,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7170
-    }
+    "new_tests": 15137,
+    "new_total_cases": 329,
+    "resolved": 15845,
+    "total_cases": 21236,
+    "under_investigation": 13395
   },
   {
-    "infected": 3579,
-    "resolved": 16204,
-    "deaths": 1798,
-    "total_cases": 21581,
-    "new_tests": 17429,
-    "under_investigation": 17578,
-    "hospitalized": 1026,
-    "icu": 184,
-    "icu_on_ventilator": 141,
-    "date": "2020-05-14",
-    "new_total_cases": 345,
-    "growth_factor_total_cases": "1.05",
     "cities_new_cases": {
       "Barrie": 1,
       "Cornwall": 2,
@@ -7574,29 +7562,21 @@
       "Whitby": 1244,
       "Windsor": 772
     },
-    "institutional_outbreaks": {
-      "long_term": 254,
-      "retirement_home": 110,
-      "hospitals": 76,
-      "total": 440
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 7215
     },
+    "date": "2020-05-14",
+    "deaths": 1798,
+    "growth_factor_total_cases": "1.05",
+    "hospitalized": 1026,
+    "icu": 184,
+    "icu_on_ventilator": 141,
+    "infected": 3579,
     "institutional_all_cases": {
       "long_term": 4448,
       "retirement_home": 1009,
       "hospitals": 647,
       "total": 6104
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2879,
-      "retirement_home": 681,
-      "hospitals": 312,
-      "total": 3872
-    },
-    "institutional_staff_cases": {
-      "long_term": 1564,
-      "retirement_home": 328,
-      "hospitals": 326,
-      "total": 2218
     },
     "institutional_all_deaths": {
       "long_term": 815,
@@ -7604,11 +7584,29 @@
       "hospitals": 52,
       "total": 1009
     },
+    "institutional_outbreaks": {
+      "long_term": 254,
+      "retirement_home": 110,
+      "hospitals": 76,
+      "total": 440
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2879,
+      "retirement_home": 681,
+      "hospitals": 312,
+      "total": 3872
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 814,
       "retirement_home": 142,
       "hospitals": 52,
       "total": 1008
+    },
+    "institutional_staff_cases": {
+      "long_term": 1564,
+      "retirement_home": 328,
+      "hospitals": 326,
+      "total": 2218
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7616,23 +7614,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7215
-    }
+    "new_tests": 17429,
+    "new_total_cases": 345,
+    "resolved": 16204,
+    "total_cases": 21581,
+    "under_investigation": 17578
   },
   {
-    "infected": 3456,
-    "resolved": 16641,
-    "deaths": 1825,
-    "total_cases": 21922,
-    "new_tests": 18354,
-    "under_investigation": 14373,
-    "hospitalized": 986,
-    "icu": 179,
-    "icu_on_ventilator": 135,
-    "date": "2020-05-15",
-    "new_total_cases": 341,
-    "growth_factor_total_cases": "0.99",
     "cities_new_cases": {
       "Barrie": 5,
       "Chatham": 1,
@@ -7685,29 +7673,21 @@
       "Whitby": 1246,
       "Windsor": 775
     },
-    "institutional_outbreaks": {
-      "long_term": 263,
-      "retirement_home": 112,
-      "hospitals": 77,
-      "total": 452
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 7435
     },
+    "date": "2020-05-15",
+    "deaths": 1825,
+    "growth_factor_total_cases": "0.99",
+    "hospitalized": 986,
+    "icu": 179,
+    "icu_on_ventilator": 135,
+    "infected": 3456,
     "institutional_all_cases": {
       "long_term": 4539,
       "retirement_home": 1012,
       "hospitals": 661,
       "total": 6212
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 2953,
-      "retirement_home": 683,
-      "hospitals": 316,
-      "total": 3952
-    },
-    "institutional_staff_cases": {
-      "long_term": 1580,
-      "retirement_home": 329,
-      "hospitals": 336,
-      "total": 2245
     },
     "institutional_all_deaths": {
       "long_term": 824,
@@ -7715,11 +7695,29 @@
       "hospitals": 52,
       "total": 1018
     },
+    "institutional_outbreaks": {
+      "long_term": 263,
+      "retirement_home": 112,
+      "hospitals": 77,
+      "total": 452
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2953,
+      "retirement_home": 683,
+      "hospitals": 316,
+      "total": 3952
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 823,
       "retirement_home": 142,
       "hospitals": 52,
       "total": 1017
+    },
+    "institutional_staff_cases": {
+      "long_term": 1580,
+      "retirement_home": 329,
+      "hospitals": 336,
+      "total": 2245
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7727,23 +7725,13 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7435
-    }
+    "new_tests": 18354,
+    "new_total_cases": 341,
+    "resolved": 16641,
+    "total_cases": 21922,
+    "under_investigation": 14373
   },
   {
-    "infected": 3435,
-    "resolved": 17020,
-    "deaths": 1858,
-    "total_cases": 22313,
-    "new_tests": 17768,
-    "under_investigation": 10565,
-    "hospitalized": 975,
-    "icu": 180,
-    "icu_on_ventilator": 135,
-    "date": "2020-05-16",
-    "new_total_cases": 391,
-    "growth_factor_total_cases": "1.15",
     "cities_new_cases": {
       "Barrie": 1,
       "Hamilton": 5,
@@ -7791,21 +7779,21 @@
       "Waterloo": 974,
       "Whitby": 1247,
       "Windsor": 775
-    }
+    },
+    "date": "2020-05-16",
+    "deaths": 1858,
+    "growth_factor_total_cases": "1.15",
+    "hospitalized": 975,
+    "icu": 180,
+    "icu_on_ventilator": 135,
+    "infected": 3435,
+    "new_tests": 17768,
+    "new_total_cases": 391,
+    "resolved": 17020,
+    "total_cases": 22313,
+    "under_investigation": 10565
   },
   {
-    "infected": 3412,
-    "resolved": 17360,
-    "deaths": 1881,
-    "total_cases": 22653,
-    "new_tests": 16217,
-    "under_investigation": 4414,
-    "hospitalized": 934,
-    "icu": 171,
-    "icu_on_ventilator": 129,
-    "date": "2020-05-17",
-    "new_total_cases": 340,
-    "growth_factor_total_cases": "0.87",
     "cities_new_cases": {
       "Hamilton": 1,
       "Mississauga": 21,
@@ -7849,44 +7837,36 @@
       "Waterloo": 974,
       "Whitby": 1250,
       "Windsor": 775
-    }
+    },
+    "date": "2020-05-17",
+    "deaths": 1881,
+    "growth_factor_total_cases": "0.87",
+    "hospitalized": 934,
+    "icu": 171,
+    "icu_on_ventilator": 129,
+    "infected": 3412,
+    "new_tests": 16217,
+    "new_total_cases": 340,
+    "resolved": 17360,
+    "total_cases": 22653,
+    "under_investigation": 4414
   },
   {
-    "infected": 3415,
-    "resolved": 17638,
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 7780
+    },
+    "date": "2020-05-18",
     "deaths": 1904,
-    "total_cases": 22957,
-    "new_tests": 9155,
-    "under_investigation": 2189,
+    "growth_factor_total_cases": "0.89",
     "hospitalized": 972,
     "icu": 174,
     "icu_on_ventilator": 133,
-    "date": "2020-05-18",
-    "new_total_cases": 304,
-    "growth_factor_total_cases": "0.89",
-    "institutional_outbreaks": {
-      "long_term": 276,
-      "retirement_home": 114,
-      "hospitals": 77,
-      "total": 467
-    },
+    "infected": 3415,
     "institutional_all_cases": {
       "long_term": 4850,
       "retirement_home": 1061,
       "hospitals": 679,
       "total": 6590
-    },
-    "institutional_resident_patient_cases": {
-      "long_term": 3127,
-      "retirement_home": 731,
-      "hospitals": 323,
-      "total": 4181
-    },
-    "institutional_staff_cases": {
-      "long_term": 1715,
-      "retirement_home": 330,
-      "hospitals": 348,
-      "total": 2393
     },
     "institutional_all_deaths": {
       "long_term": 911,
@@ -7894,11 +7874,29 @@
       "hospitals": 52,
       "total": 1122
     },
+    "institutional_outbreaks": {
+      "long_term": 276,
+      "retirement_home": 114,
+      "hospitals": 77,
+      "total": 467
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 3127,
+      "retirement_home": 731,
+      "hospitals": 323,
+      "total": 4181
+    },
     "institutional_resident_patient_deaths": {
       "long_term": 910,
       "retirement_home": 159,
       "hospitals": 52,
       "total": 1121
+    },
+    "institutional_staff_cases": {
+      "long_term": 1715,
+      "retirement_home": 330,
+      "hospitals": 348,
+      "total": 2393
     },
     "institutional_staff_deaths": {
       "long_term": 2,
@@ -7906,50 +7904,10 @@
       "hospitals": 0,
       "total": 2
     },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7780
-    }
-  },
-  {
-    "date": "3009-12-29",
-    "cities_new_cases": {
-      "Toronto": 2
-    },
-    "cities_total_cases": {
-      "Barrie": 425,
-      "Belleville": 42,
-      "Brantford": 108,
-      "Brockville": 332,
-      "Chatham": 135,
-      "Cornwall": 141,
-      "Guelph": 345,
-      "Hamilton": 582,
-      "Kenora": 19,
-      "Kingston": 60,
-      "London": 470,
-      "Mississauga": 3405,
-      "New Liskeard": 18,
-      "Newmarket": 1996,
-      "North Bay": 20,
-      "Oakville": 571,
-      "Ottawa": 1798,
-      "Owen Sound": 88,
-      "Pembroke": 19,
-      "Peterborough": 74,
-      "Point Edward": 223,
-      "Port Hope": 163,
-      "Sault Ste. Marie": 20,
-      "Simcoe": 198,
-      "St. Thomas": 62,
-      "Stratford": 50,
-      "Sudbury": 63,
-      "Thorold": 607,
-      "Thunder Bay": 79,
-      "Timmins": 65,
-      "Toronto": 7780,
-      "Waterloo": 974,
-      "Whitby": 1250,
-      "Windsor": 775
-    }
+    "new_tests": 9155,
+    "new_total_cases": 304,
+    "resolved": 17638,
+    "total_cases": 22957,
+    "under_investigation": 2189
   }
 ]

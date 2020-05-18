@@ -6,11 +6,19 @@ require 'json'
 confirmed_cases_csv_path = ARGV[0]
 report_path = ARGV[1]
 
+def valid_date?(date)
+  d = Date.parse(date)
+
+  d.year < 2030
+end
+
 def cities_new_cases(confirmed_cases_csv_path)
   date_new_cases_map = {}
   CSV.parse(File.read(confirmed_cases_csv_path), headers: true).each do |row|
     date = row['Accurate_Episode_Date']
     next if date.nil?
+
+    next unless valid_date?(date)
 
     city = row['Reporting_PHU_City']
 
