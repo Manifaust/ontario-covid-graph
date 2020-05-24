@@ -4459,9 +4459,6 @@
       "Whitby": 45,
       "Windsor": 15
     },
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 242
-    },
     "cities_total_cases": {
       "Barrie": 227,
       "Belleville": 36,
@@ -8026,9 +8023,6 @@
       "Waterloo": 2,
       "Whitby": 9,
       "Windsor": 16
-    },
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 345
     },
     "cities_total_cases": {
       "Barrie": 441,
