@@ -42,7 +42,6 @@ class ScrapeTorontoData
 
     toronto_cases = toronto_cases.delete(',').to_i
 
-    puts "Toronto cases: #{toronto_cases}"
     {
       cities_total_cases_from_epidemiologic_summary: {
         'Toronto Public Health': toronto_cases

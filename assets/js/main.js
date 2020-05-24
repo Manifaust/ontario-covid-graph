@@ -93,9 +93,9 @@ window.fetch(reportURL).then((response) => {
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Toronto',
-      subKey: 'Toronto',
-      key: 'cities_new_cases',
+      title: 'Toronto New Cases',
+      subKey: 'Toronto Public Health',
+      key: 'cities_new_cases_from_epidemiologic_summary',
       color: '40, 67, 142'
     }]
   })
