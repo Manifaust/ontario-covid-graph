@@ -4,95 +4,252 @@ require 'csv'
 require 'open3'
 require 'pdf-reader'
 
-LtcRetireHosScrape = Proc.new do |words|
-  long_term = words[-3].delete(',').to_i
-  retirement_home = words[-2].delete(',').to_i
-  hospital = words[-1].delete(',').to_i
-  total = long_term + retirement_home + hospital
+LastNumberScrape = lambda do |row|
+  words = row.split
+  cumulative = words[-1].delete(',').to_i
+
+  cumulative
+end
+
+SecondLastNumberScrape = lambda do |row|
+  words = row.split
+  cumulative = words[-2].delete(',').to_i
+
+  cumulative
+end
+
+LtcNumberScrape = lambda do |row|
+ rx = /(?<number>[\d\,]*\d+)\s+\d+\.\d\s*\%/
+
+ match = rx.match(row)
+
+ raise "Can't find number" if match.nil?
+
+ match['number'].delete(',').to_i
+end
+
+def is_a_number?(potential_number)
+  true if Float(potential_number.delete(',')) rescue false
+end
+
+def scrape_row(rows, target_row, scrape_proc)
+  row = rows[target_row]
+
+  scrape_proc.call(row)
+end
+
+EndsInTwoNumbersRowSelect = lambda do |line|
+  words = line.split
+
+  return false if words.size < 2
+
+  # protect against intro paragraph that ends in a date,
+  # which occurs in the institutions page
+  return false if line.include?('2020')
+  return false if line.include?('January')
+
+  if is_a_number?(words[-1]) && is_a_number?(words[-2])
+    return true
+  end
+
+  false
+end
+
+PercentOfAlRowSelect = lambda do |line|
+  rx = %r[\% of all]
+
+  rx.match(line) != nil
+end
+
+OutbreakCollect = lambda do |rows|
+  long_term = scrape_row(rows, 0, LastNumberScrape)
+  retirement_home = scrape_row(rows, 1, LastNumberScrape)
+  hospitals = scrape_row(rows, 2, LastNumberScrape)
+  total = long_term + retirement_home + hospitals
 
   {
-    long_term: long_term,
-    retirement_home: retirement_home,
-    hospitals: hospital,
-    total: total
+    institutional_outbreaks: {
+      long_term: long_term,
+      retirement_home: retirement_home,
+      hospitals: hospitals,
+      total: total
+    }
   }
 end
 
-LtcHosScrape = Proc.new do |words|
-  long_term = words[-2].delete(',').to_i
-  hospital = words[-1].delete(',').to_i
-  total = long_term + hospital
+LtcCollect = lambda do |rows|
+  cases_resident = scrape_row(rows, 0, LtcNumberScrape)
+  cases_staff = scrape_row(rows, 1, LtcNumberScrape)
+  deaths_resident = scrape_row(rows, 2, LtcNumberScrape)
+  deaths_staff = scrape_row(rows, 3, LtcNumberScrape)
 
   {
-    long_term: long_term,
-    hospitals: hospital,
-    total: total
+    institutional_all_cases: {
+      long_term: cases_resident + cases_staff,
+    },
+    institutional_resident_patient_cases: {
+      long_term: cases_resident,
+    },
+    institutional_staff_cases: {
+      long_term: cases_staff,
+    },
+    institutional_all_deaths: {
+      long_term: deaths_resident + deaths_staff,
+    },
+    institutional_resident_patient_deaths: {
+      long_term: deaths_resident,
+    },
+    institutional_staff_deaths: {
+      long_term: deaths_staff,
+    }
   }
 end
 
-LtcScrape = Proc.new do |words|
-  long_term = words[-1].delete(',').to_i
-  total = long_term
-
+RetirementHomeHospitalCollect = lambda do |rows|
   {
-    long_term: long_term,
-    total: total
+    institutional_all_cases: {
+      retirement_home: scrape_row(rows, 0, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 0, LastNumberScrape)
+    },
+    institutional_resident_patient_cases: {
+      retirement_home: scrape_row(rows, 1, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 1, LastNumberScrape)
+    },
+    institutional_staff_cases: {
+      retirement_home: scrape_row(rows, 2, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 2, LastNumberScrape)
+    },
+    institutional_all_deaths: {
+      retirement_home: scrape_row(rows, 3, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 3, LastNumberScrape)
+    },
+    institutional_resident_patient_deaths: {
+      retirement_home: scrape_row(rows, 4, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 4, LastNumberScrape)
+    },
+    institutional_staff_deaths: {
+      retirement_home: scrape_row(rows, 5, SecondLastNumberScrape),
+      hospitals: scrape_row(rows, 5, LastNumberScrape)
+    }
   }
 end
 
 class ScrapeInstitutionData
   class << self
-    def scrape(report_path, page, scrape_proc)
-      puts "Scraping #{report_path} at page #{page}"
+    def scrape(report_path, date)
+      data = {}
+      [:outbreak, :ltc, :retirement_home_hospital].each do |type|
+        title, row_select, collect = determine_title(date, type)
+        page_number = find_page_number(report_path, title)
+
+        if page_number <= 0
+          raise 'Cannot find page with that title'
+        else
+          puts "Outbreak info is on page #{page_number}"
+        end
+
+        puts "Scraping #{report_path} at page #{page_number}"
+        reader = PDF::Reader.new(report_path)
+        page_text = reader.pages[page_number - 1].text
+
+        rows = page_text.lines.select do |line|
+          row_select.call(line) == true
+        end
+
+        pp rows
+
+        data = deep_merge(data, collect.call(rows))
+      end
+
+      sum_data(data)
+
+      data
+    end
+
+    def find_page_number(report_path, title)
       reader = PDF::Reader.new(report_path)
-      page_text = reader.pages[page - 1].text
 
-      rows = page_text.lines.select do |line|
-        ends_in_two_numbers?(line)
+      reader.pages.each_with_index do |page, i|
+        # sometimes formatting errors push title to second line
+        first_two_lines = page.text.downcase.lines[0..1]
+        first_two_lines.each do |line|
+          if line.start_with?(title.downcase)
+            return i + 1
+          end
+        end
       end
 
-      pp rows
-
-      {
-        institutional_outbreaks: scrape_row(rows, 0, scrape_proc),
-        institutional_all_cases: scrape_row(rows, 1, scrape_proc),
-        institutional_resident_patient_cases: scrape_row(rows, 2, scrape_proc),
-        institutional_staff_cases: scrape_row(rows, 3, scrape_proc),
-        institutional_all_deaths: scrape_row(rows, 4, scrape_proc),
-        institutional_resident_patient_deaths: scrape_row(rows, 5, scrape_proc),
-        institutional_staff_deaths: scrape_row(rows, 6, scrape_proc)
-      }
+      return 0
     end
 
-    def scrape_row(rows, target_row, scrape_proc)
-      row = rows[target_row]
-      words = row.split
+    def determine_title(date, type)
+      puts "Finding title for date #{date}, type #{type}"
 
-      scrape_proc.call(words)
-    end
-
-    def ends_in_two_numbers?(line)
-      words = line.split
-
-      return false if words.size < 1
-
-      # protect against intro paragraph that ends in a date,
-      # which occurs in the institutions page
-      return false if line.include?('2020')
-      return false if line.include?('January')
-
-      # protect against superscripts
-      return false if line.include?('1,2,3')
-
-      if is_a_number?(words[-1])
-        return true
+      case type
+      when :outbreak
+        row_scraper_map = [
+          [
+            Date.parse('2020-05-19'),
+            'outbreaks in institutions and public hospitals',
+            EndsInTwoNumbersRowSelect,
+            OutbreakCollect
+          ]
+        ]
+      when :ltc
+        row_scraper_map = [
+          [
+            Date.parse('2020-05-19'),
+            'Table 4b.',
+            PercentOfAlRowSelect,
+            LtcCollect
+          ]
+        ]
+      when :retirement_home_hospital
+        row_scraper_map = [
+          [
+            Date.parse('2020-05-19'),
+            'Table 4c.',
+            EndsInTwoNumbersRowSelect,
+            RetirementHomeHospitalCollect
+          ]
+        ]
+      else
+        raise "Unsupported type: #{type}"
       end
 
-      false
+      correct_title = nil
+      correct_row_select = nil
+      correct_collect = nil
+
+      row_scraper_map.each do |date_scraper_tuple|
+        if date >= date_scraper_tuple[0]
+          correct_title = date_scraper_tuple[1]
+          correct_row_select = date_scraper_tuple[2]
+          correct_collect = date_scraper_tuple[3]
+        end
+      end
+
+      puts "Title should be #{correct_title}"
+      return correct_title, correct_row_select, correct_collect
     end
 
-    def is_a_number?(potential_number)
-      true if Float(potential_number.delete(',')) rescue false
+    def sum_data(data)
+      data.each do |_, section|
+        next if section.key?(:total)
+
+        total = 0
+        section.each do |_, v|
+          total = total + v
+        end
+
+        section[:total] = total
+      end
+    end
+
+    def deep_merge(entries, data_map)
+      entries.merge(data_map) do |_, x, y|
+        x.merge(y)
+      end
     end
   end
 end
