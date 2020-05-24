@@ -2873,6 +2873,9 @@
       "Whitby": 17,
       "Windsor": 21
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 62
+    },
     "cities_total_cases": {
       "Barrie": 125,
       "Belleville": 27,
@@ -2980,6 +2983,9 @@
       "Waterloo": 17,
       "Whitby": 11,
       "Windsor": 27
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 96
     },
     "cities_total_cases": {
       "Barrie": 134,
@@ -3089,6 +3095,9 @@
       "Waterloo": 13,
       "Whitby": 21,
       "Windsor": 12
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 98
     },
     "cities_total_cases": {
       "Barrie": 142,
@@ -3210,6 +3219,9 @@
       "Whitby": 13,
       "Windsor": 20
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 64
+    },
     "cities_total_cases": {
       "Barrie": 148,
       "Belleville": 29,
@@ -3325,6 +3337,9 @@
       "Whitby": 23,
       "Windsor": 21
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 173
+    },
     "cities_total_cases": {
       "Barrie": 162,
       "Belleville": 29,
@@ -3438,6 +3453,9 @@
       "Waterloo": 19,
       "Whitby": 24,
       "Windsor": 15
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 156
     },
     "cities_total_cases": {
       "Barrie": 169,
@@ -3557,6 +3575,9 @@
       "Whitby": 29,
       "Windsor": 14
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 149
+    },
     "cities_total_cases": {
       "Barrie": 179,
       "Belleville": 32,
@@ -3670,6 +3691,9 @@
       "Whitby": 51,
       "Windsor": 12
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 123
+    },
     "cities_total_cases": {
       "Barrie": 184,
       "Belleville": 33,
@@ -3781,6 +3805,9 @@
       "Whitby": 24,
       "Windsor": 16
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 126
+    },
     "cities_total_cases": {
       "Barrie": 190,
       "Belleville": 33,
@@ -3891,6 +3918,9 @@
       "Waterloo": 28,
       "Whitby": 36,
       "Windsor": 8
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 170
     },
     "cities_total_cases": {
       "Barrie": 200,
@@ -4006,6 +4036,9 @@
       "Whitby": 39,
       "Windsor": 40
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 148
+    },
     "cities_total_cases": {
       "Barrie": 205,
       "Belleville": 33,
@@ -4114,6 +4147,9 @@
       "Waterloo": 24,
       "Whitby": 27,
       "Windsor": 19
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 135
     },
     "cities_total_cases": {
       "Barrie": 211,
@@ -4230,6 +4266,9 @@
       "Waterloo": 29,
       "Whitby": 35,
       "Windsor": 27
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 131
     },
     "cities_total_cases": {
       "Barrie": 216,
@@ -4420,6 +4459,9 @@
       "Whitby": 45,
       "Windsor": 15
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 242
+    },
     "cities_total_cases": {
       "Barrie": 227,
       "Belleville": 36,
@@ -4535,6 +4577,9 @@
       "Waterloo": 21,
       "Whitby": 38,
       "Windsor": 9
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 205
     },
     "cities_total_cases": {
       "Barrie": 237,
@@ -4652,6 +4697,9 @@
       "Whitby": 20,
       "Windsor": 16
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 224
+    },
     "cities_total_cases": {
       "Barrie": 239,
       "Belleville": 39,
@@ -4768,6 +4816,9 @@
       "Whitby": 32,
       "Windsor": 6
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 156
+    },
     "cities_total_cases": {
       "Barrie": 246,
       "Belleville": 39,
@@ -4879,6 +4930,9 @@
       "Waterloo": 22,
       "Whitby": 35,
       "Windsor": 3
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 131
     },
     "cities_total_cases": {
       "Barrie": 252,
@@ -4995,6 +5049,9 @@
       "Whitby": 22,
       "Windsor": 7
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 212
+    },
     "cities_total_cases": {
       "Barrie": 259,
       "Belleville": 40,
@@ -5110,6 +5167,9 @@
       "Whitby": 26,
       "Windsor": 5
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 237
+    },
     "cities_total_cases": {
       "Barrie": 264,
       "Belleville": 40,
@@ -5221,6 +5281,9 @@
       "Waterloo": 30,
       "Whitby": 24,
       "Windsor": 9
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 168
     },
     "cities_total_cases": {
       "Barrie": 267,
@@ -5334,6 +5397,9 @@
       "Whitby": 21,
       "Windsor": 10
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 186
+    },
     "cities_total_cases": {
       "Barrie": 274,
       "Belleville": 40,
@@ -5444,6 +5510,9 @@
       "Waterloo": 13,
       "Whitby": 15,
       "Windsor": 10
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 120
     },
     "cities_total_cases": {
       "Barrie": 281,
@@ -5561,6 +5630,9 @@
       "Whitby": 36,
       "Windsor": 12
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 135
+    },
     "cities_total_cases": {
       "Barrie": 288,
       "Belleville": 42,
@@ -5677,6 +5749,9 @@
       "Whitby": 17,
       "Windsor": 4
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 189
+    },
     "cities_total_cases": {
       "Barrie": 299,
       "Belleville": 43,
@@ -5785,6 +5860,9 @@
       "Waterloo": 10,
       "Whitby": 30,
       "Windsor": 6
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 49
     },
     "cities_total_cases": {
       "Barrie": 318,
@@ -5902,6 +5980,9 @@
       "Waterloo": 29,
       "Whitby": 23,
       "Windsor": 13
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 233
     },
     "cities_total_cases": {
       "Barrie": 330,
@@ -6022,6 +6103,9 @@
       "Whitby": 21,
       "Windsor": 7
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 140
+    },
     "cities_total_cases": {
       "Barrie": 348,
       "Belleville": 43,
@@ -6140,6 +6224,9 @@
       "Whitby": 13,
       "Windsor": 9
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 190
+    },
     "cities_total_cases": {
       "Barrie": 358,
       "Belleville": 43,
@@ -6254,6 +6341,9 @@
       "Waterloo": 9,
       "Whitby": 20,
       "Windsor": 4
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 157
     },
     "cities_total_cases": {
       "Barrie": 363,
@@ -6372,6 +6462,9 @@
       "Whitby": 16,
       "Windsor": 10
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 167
+    },
     "cities_total_cases": {
       "Barrie": 374,
       "Belleville": 43,
@@ -6489,6 +6582,9 @@
       "Whitby": 23,
       "Windsor": 6
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 182
+    },
     "cities_total_cases": {
       "Barrie": 377,
       "Belleville": 43,
@@ -6602,6 +6698,9 @@
       "Whitby": 10,
       "Windsor": 18
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 191
+    },
     "cities_total_cases": {
       "Barrie": 381,
       "Belleville": 43,
@@ -6714,6 +6813,9 @@
       "Waterloo": 11,
       "Whitby": 5,
       "Windsor": 8
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 175
     },
     "cities_total_cases": {
       "Barrie": 383,
@@ -6829,6 +6931,9 @@
       "Waterloo": 7,
       "Whitby": 14,
       "Windsor": 13
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 261
     },
     "cities_total_cases": {
       "Barrie": 392,
@@ -6948,6 +7053,9 @@
       "Whitby": 12,
       "Windsor": 14
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 130
+    },
     "cities_total_cases": {
       "Barrie": 396,
       "Belleville": 43,
@@ -7065,6 +7173,9 @@
       "Whitby": 13,
       "Windsor": 6
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 145
+    },
     "cities_total_cases": {
       "Barrie": 400,
       "Belleville": 43,
@@ -7179,6 +7290,9 @@
       "Waterloo": 13,
       "Whitby": 14,
       "Windsor": 8
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 129
     },
     "cities_total_cases": {
       "Barrie": 408,
@@ -7297,6 +7411,9 @@
       "Waterloo": 4,
       "Whitby": 16,
       "Windsor": 8
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 193
     },
     "cities_total_cases": {
       "Barrie": 414,
@@ -7417,6 +7534,9 @@
       "Whitby": 14,
       "Windsor": 6
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 209
+    },
     "cities_total_cases": {
       "Barrie": 422,
       "Belleville": 43,
@@ -7533,6 +7653,9 @@
       "Whitby": 10,
       "Windsor": 3
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 45
+    },
     "cities_total_cases": {
       "Barrie": 424,
       "Belleville": 43,
@@ -7648,6 +7771,9 @@
       "Waterloo": 7,
       "Whitby": 12,
       "Windsor": 9
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 220
     },
     "cities_total_cases": {
       "Barrie": 431,
@@ -7901,6 +8027,9 @@
       "Whitby": 9,
       "Windsor": 16
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 345
+    },
     "cities_total_cases": {
       "Barrie": 441,
       "Belleville": 44,
@@ -8016,6 +8145,9 @@
       "Waterloo": 1,
       "Whitby": 3,
       "Windsor": 29
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 209
     },
     "cities_total_cases": {
       "Barrie": 446,
@@ -8137,6 +8269,9 @@
       "Whitby": 6,
       "Windsor": 20
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 203
+    },
     "cities_total_cases": {
       "Barrie": 448,
       "Belleville": 44,
@@ -8248,6 +8383,9 @@
       "Waterloo": 2,
       "Windsor": 9
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 240
+    },
     "cities_total_cases": {
       "Barrie": 449,
       "Belleville": 44,
@@ -8357,6 +8495,9 @@
       "Whitby": 1,
       "Windsor": 1
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 246
+    },
     "cities_total_cases": {
       "Barrie": 449,
       "Belleville": 44,
@@ -8458,6 +8599,9 @@
       "Point Edward": 1,
       "Whitby": 6
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 199
+    },
     "cities_total_cases": {
       "Barrie": 449,
       "Belleville": 44,
@@ -8553,6 +8697,9 @@
     "under_investigation": 5871
   },
   {
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 205
+    },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9082
     },
