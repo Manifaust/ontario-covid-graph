@@ -9,15 +9,22 @@ tabula_path = ARGV[0]
 raw_reports_dir = ARGV[1]
 output_report_path = ARGV[2]
 
+def day_before?(date, possible_date_before)
+  return false if date.nil? || possible_date_before.nil?
+  (date - 1).to_s == possible_date_before.to_s
+end
+
 def derive_new_cases(total_cases)
   total_cases = total_cases.sort.to_h
 
   last_total_cases = nil
-  total_cases.each do |date, val_map|
+  last_date = nil
+  total_cases.each do |date_string, val_map|
     total_cases = val_map[:'cities_total_cases_from_epidemiologic_summary'][:'Toronto Public Health']
     new_cases = nil
+    date = Date.parse(date_string)
 
-    unless last_total_cases.nil?
+    if !last_total_cases.nil? && day_before?(date, last_date)
       new_cases = total_cases - last_total_cases
       val_map[:'cities_new_cases_from_epidemiologic_summary'] = {
         'Toronto Public Health': new_cases
@@ -26,6 +33,7 @@ def derive_new_cases(total_cases)
 
     puts "Toronto cases: #{total_cases}, new cases: #{new_cases}"
     last_total_cases = total_cases
+    last_date = date
   end
 end
 
