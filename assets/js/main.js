@@ -15,7 +15,7 @@ window.fetch(reportURL).then((response) => {
     title: 'Growth Factor (Total Cases)',
     key: 'growth_factor_total_cases',
     color: '255, 99, 132',
-    maxValue: 6
+    maxValue: 2
   })
 
   chart.render({
@@ -109,6 +109,11 @@ window.fetch(reportURL).then((response) => {
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
+      title: 'Retirement Home Outbreaks',
+      key: 'institutional_outbreaks',
+      subKey: 'retirement_home',
+      color: '106, 230, 238'
+    }, {
       title: 'Long-Term Care Outbreaks',
       key: 'institutional_outbreaks',
       subKey: 'long_term',
@@ -135,6 +140,16 @@ window.fetch(reportURL).then((response) => {
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
+      title: 'Retirement Home Residents Cases',
+      key: 'institutional_resident_patient_cases',
+      subKey: 'retirement_home',
+      color: '106, 230, 238'
+    }, {
+      title: 'Retirement Home Staff Cases',
+      key: 'institutional_staff_cases',
+      subKey: 'retirement_home',
+      color: '123, 17, 33'
+    }, {
       title: 'Long-Term Care Residents Cases',
       key: 'institutional_resident_patient_cases',
       subKey: 'long_term',
@@ -154,6 +169,11 @@ window.fetch(reportURL).then((response) => {
       key: 'institutional_staff_cases',
       subKey: 'hospitals',
       color: '0, 42, 252'
+    }, {
+      title: 'Total Cases',
+      key: 'institutional_all_cases',
+      subKey: 'total',
+      color: '222, 222, 222'
     }]
   })
 
@@ -166,6 +186,16 @@ window.fetch(reportURL).then((response) => {
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
+      title: 'Retirement Home Residents Deaths',
+      key: 'institutional_resident_patient_deaths',
+      subKey: 'retirement_home',
+      color: '106, 230, 238'
+    }, {
+      title: 'Retirement Home Staff Deaths',
+      key: 'institutional_staff_deaths',
+      subKey: 'retirement_home',
+      color: '123, 17, 33'
+    }, {
       title: 'Long-Term Care Deaths',
       key: 'institutional_resident_patient_deaths',
       subKey: 'long_term',
@@ -185,6 +215,11 @@ window.fetch(reportURL).then((response) => {
       key: 'institutional_staff_deaths',
       subKey: 'hospitals',
       color: '0, 42, 252'
+    }, {
+      title: 'Total Cases',
+      key: 'institutional_all_deaths',
+      subKey: 'total',
+      color: '222, 222, 222'
     }]
   })
 }).then(() => {
