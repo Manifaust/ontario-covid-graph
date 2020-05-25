@@ -44,7 +44,7 @@ window.fetch(reportURL).then((response) => {
     subCharts: [{
       title: 'Deaths',
       key: 'deaths',
-      color: '0, 0, 0'
+      color: '229, 0, 93'
     }, {
       title: 'Resolved',
       key: 'resolved',
@@ -73,12 +73,12 @@ window.fetch(reportURL).then((response) => {
   chart.render({
     ele: document.getElementById('cities-total-cases'),
     data: data,
-    title: 'Total Cases',
+    title: 'Ontario Total Cases',
     key: 'total_cases',
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Toronto Public Health',
+      title: 'Toronto Total Cases',
       subKey: 'Toronto Public Health',
       key: 'cities_total_cases_from_epidemiologic_summary',
       color: '40, 67, 142'
@@ -88,7 +88,7 @@ window.fetch(reportURL).then((response) => {
   chart.render({
     ele: document.getElementById('cities-new-cases'),
     data: data,
-    title: 'New Cases',
+    title: 'Ontario New Cases',
     key: 'new_total_cases',
     color: '222, 222, 222',
     fill: false,
