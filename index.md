@@ -8,7 +8,7 @@ layout: default
 <a href="#data-source-info">What's the source of this data?</a>
 
 <h2>Total Cases</h2>
-<p>The total cases for Ontario includes infected, but also resolved cases such as
+<p>Total case for Ontario includes infected, but also resolved cases such as
 recovered and dead.</p>
 <canvas id="totalCases" class="mb3"></canvas>
 
@@ -50,8 +50,15 @@ provide data for retirement homes</p>
 <canvas id="institutional-deaths" class="mb3"></canvas>
 
 <h2>Where does our data come from?</h2><a name="data-source-info" />
-<p>Data for this website comes from <a
+<p>Data for this website comes from the <a
 href="https://data.ontario.ca/dataset?keywords_en=COVID-19">Ontario Data
 Catalogue</a> and the <a
 href="https://data.ontario.ca/dataset?keywords_en=COVID-19">daily
-epidemiological summaries</a> from the Government of Ontario.</p>
+epidemiological summaries</a> from the Government of Ontario. This data is made
+available under <a
+href="https://github.com/Manifaust/ontario-covid-graph/blob/master/raw_reports/LICENSE">Ontario's Open Government License</a>.</p>
+
+<h2>About</h2>
+<p>This website was created by Tony Wong and Garry Ing. It's <a
+href="https://github.com/Manifaust/ontario-covid-graph">open source</a>.</p>
+
