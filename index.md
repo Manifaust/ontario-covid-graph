@@ -7,6 +7,12 @@ layout: default
 
 <a href="#data-source-info">What's the source of this data?</a>
 
+<p>Keep in mind that a <a
+href="https://www.theglobeandmail.com/canada/article-ontarios-covid-19-testing-continues-to-lag/">
+lag in testing</a> causes an unavoidable time lag in the data we rely on. Think of
+these graphs as days-old snapshots of reality. Infections and other changes happening
+today won't show in visualizations until a few days (or more) from now.</p>
+
 <h2>Total Cases</h2>
 <p>Total case for Ontario includes infected, but also resolved cases such as
 recovered and dead.</p>
