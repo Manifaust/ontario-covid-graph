@@ -30,10 +30,11 @@ jobs:
         ruby-version: 2.6
     - name: Install dependencies
       run: bundle install
+    # Build the Jekyll site using the bundled version
     - name: Build with Jekyll
       run: bundle exec jekyll build
-    # Runs a set of commands using the runners shell
+    # Run HTMLProofer
     - name: Run HTMLProofer
       run: |
         gem install html-proofer
-        bundle exec htmlproofer --check-html --allow-hash-href ./_site
+        htmlproofer --check-html --allow-hash-href ./_site
