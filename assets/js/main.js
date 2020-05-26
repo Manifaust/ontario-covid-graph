@@ -23,7 +23,7 @@ window.fetch(reportURL).then((response) => {
     data: data,
     title: 'Total Cases',
     key: 'total_cases',
-    color: '54, 162, 235'
+    color: '53, 126, 221'
   })
 
   chart.render({
@@ -48,7 +48,7 @@ window.fetch(reportURL).then((response) => {
     }, {
       title: 'Resolved',
       key: 'resolved',
-      color: '6, 255, 129'
+      color: '0, 160, 79'
     }]
   })
 
@@ -112,7 +112,7 @@ window.fetch(reportURL).then((response) => {
       title: 'Retirement Home Outbreaks',
       key: 'institutional_outbreaks',
       subKey: 'retirement_home',
-      color: '106, 230, 238'
+      color: '72, 159, 165'
     }, {
       title: 'Long-Term Care Outbreaks',
       key: 'institutional_outbreaks',
@@ -143,12 +143,12 @@ window.fetch(reportURL).then((response) => {
       title: 'Retirement Home Residents Cases',
       key: 'institutional_resident_patient_cases',
       subKey: 'retirement_home',
-      color: '106, 230, 238'
+      color: '72, 159, 165'
     }, {
       title: 'Retirement Home Staff Cases',
       key: 'institutional_staff_cases',
       subKey: 'retirement_home',
-      color: '123, 17, 33'
+      color: '191, 31, 55'
     }, {
       title: 'Long-Term Care Residents Cases',
       key: 'institutional_resident_patient_cases',
@@ -163,7 +163,7 @@ window.fetch(reportURL).then((response) => {
       title: 'Hospital Patients Cases',
       key: 'institutional_resident_patient_cases',
       subKey: 'hospitals',
-      color: '0, 252, 53'
+      color: '0, 167, 35'
     }, {
       title: 'Hospital Staff Cases',
       key: 'institutional_staff_cases',
@@ -189,12 +189,12 @@ window.fetch(reportURL).then((response) => {
       title: 'Retirement Home Residents Deaths',
       key: 'institutional_resident_patient_deaths',
       subKey: 'retirement_home',
-      color: '106, 230, 238'
+      color: '72, 159, 165'
     }, {
       title: 'Retirement Home Staff Deaths',
       key: 'institutional_staff_deaths',
       subKey: 'retirement_home',
-      color: '123, 17, 33'
+      color: '191, 31, 55'
     }, {
       title: 'Long-Term Care Deaths',
       key: 'institutional_resident_patient_deaths',
@@ -209,7 +209,7 @@ window.fetch(reportURL).then((response) => {
       title: 'Hospital Patients Deaths',
       key: 'institutional_resident_patient_deaths',
       subKey: 'hospitals',
-      color: '0, 252, 53'
+      color: '0, 167, 35'
     }, {
       title: 'Hospital Staff Deaths',
       key: 'institutional_staff_deaths',
@@ -250,6 +250,8 @@ const chart = {
           ],
           borderWidth: opt.borderWidth,
           fill: opt.fill,
+          pointBackgroundColor: `rgba(${opt.color}, 0.25)`,
+          pointBorderColor: `rgba(${opt.color}, 0.5)`,
           spanGaps: true
         }]
       },
@@ -269,6 +271,9 @@ const chart = {
         scales: {
           xAxes: [{
             type: 'time',
+            gridLines: {
+              zeroLineWidth: 0
+            },
             ticks: {
               unit: 'day',
               min: dateRange
@@ -321,12 +326,21 @@ const chart = {
       ],
       borderWidth: opt.borderWidth,
       fill: opt.fill,
+      pointBackgroundColor: `rgba(${opt.color}, 0.25)`,
+      pointBorderColor: `rgba(${opt.color}, 0.5)`,
       data: subChartData(),
       spanGaps: true
     })
     opt.chart.update()
   },
   collection: []
+}
+
+const updateElements = (fromClass, toCLass) => {
+  Array.from(document.getElementsByClassName(fromClass)).forEach((i) => {
+    i.classList.remove(fromClass)
+    i.classList.add(toCLass)
+  })
 }
 
 const darkMode = (e) => {
@@ -343,6 +357,7 @@ const darkMode = (e) => {
       chart.options.scales.yAxes[0].gridLines.color = 'rgba(255,255,255,0.1)'
       chart.update()
     })
+    updateElements('b--black-10', 'b--white-10')
     URLparams.set('dark', true)
   } else {
     body.classList.add('bg-near-white')
@@ -354,11 +369,12 @@ const darkMode = (e) => {
       chart.options.scales.yAxes[0].gridLines.color = 'rgba(0,0,0,0.1)'
       chart.update()
     })
+    updateElements('b--white-10', 'b--black-10')
     URLparams.delete('dark')
   }
 }
 
 darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
-  window.history.replaceState({}, '', `${window.location.pathname}?${URLparams}`)
+  window.history.replaceState({}, '', `${window.location.pathname}${e.target.checked ? '?' + URLparams : ''}`)
 }, false)
