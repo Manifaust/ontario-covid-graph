@@ -68,7 +68,7 @@ lag in testing</a> causes an unavoidable time lag in the data we rely on. Think 
   <canvas id="institutional-deaths" class="mb3"></canvas>
 </div>
 
-<h2 class="f3 fw3">Where does our data come from?</h2><a name="data-source-info" />
+<h2 class="f3 fw3" id="data-source-info">Where does our data come from?</h2>
 <p class="lh-copy f6">Data for this website comes from the <a class="link blue underline-hover"
 href="https://data.ontario.ca/dataset?keywords_en=COVID-19">Ontario Data
 Catalogue</a> and the <a class="link blue underline-hover"
