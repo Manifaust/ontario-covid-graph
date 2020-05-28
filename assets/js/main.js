@@ -37,7 +37,7 @@ window.fetch(reportURL).then((response) => {
   chart.render({
     ele: document.getElementById('newTests'),
     data: data,
-    title: 'New Tests',
+    title: "Previous Day's Tests",
     key: 'new_tests',
     color: '218, 112, 214'
   })
