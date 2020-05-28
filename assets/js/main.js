@@ -35,6 +35,14 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
+    ele: document.getElementById('newTests'),
+    data: data,
+    title: 'New Tests',
+    key: 'new_tests',
+    color: '218, 112, 214'
+  })
+
+  chart.render({
     ele: document.getElementById('infectedResolvedDeaths'),
     data: data,
     title: 'Infected',

@@ -33,6 +33,11 @@ lag in testing</a> causes an unavoidable time lag in the data we rely on. Think 
 </div>
 
 <div class="bb b--black-10">
+  <h2 class="f3 fw3">New Tests</h2>
+  <canvas id="newTests" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
   <h2 class="f3 fw3">Infections and Deaths</h2>
   <canvas id="infectedResolvedDeaths" class="mb3"></canvas>
 </div>
