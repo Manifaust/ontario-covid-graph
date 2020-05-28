@@ -11,7 +11,7 @@ group :development do
   gem 'solargraph'
 end
 
-gem "jekyll", "~> 4.0"
+gem "jekyll", "~> 4.1"
 
 gem "jekyll-seo-tag", "~> 2.6"
 
