@@ -18,7 +18,18 @@ def cities_new_cases(confirmed_cases_csv_path)
     date = row['Accurate_Episode_Date']
     next if date.nil?
 
-    next unless valid_date?(date)
+    begin
+      next unless valid_date?(date)
+    rescue Date::Error => e
+      error_message = <<~TEXT
+        Error: #{e.message}
+        Row being parsed:
+        #{row}
+      TEXT
+
+      puts error_message
+      next
+    end
 
     city = row['Reporting_PHU_City']
 
