@@ -29,4 +29,4 @@ This will create a local webserver for you to test.
 
 ## License
 - Code released under the MIT License. See the [LICENSE](./LICENSE)
-- Data released under [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario). See the reports [./raw_reports/LICENSE](./raw_reports/LICENSE)
+- Data released under [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario). See the reports [./raw_reports/LICENSE](LICENSE)
