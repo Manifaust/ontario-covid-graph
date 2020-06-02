@@ -24,13 +24,21 @@ def create_report_entries(status_csv_path, csv_mapping)
   last_total_cases = nil
   last_new_total_cases = nil
 
-  CSV.parse(File.read(status_csv_path), headers: true).each do |row|
+  CSV.parse(File.read(status_csv_path), headers: true).each_with_index do |row, index|
     report_entry = create_report_entry(row, csv_mapping)
 
     # total cases
     new_total_cases = nil
     unless last_total_cases.nil?
-      new_total_cases = report_entry[:total_cases] - last_total_cases
+      total_cases = report_entry[:total_cases]
+
+      if total_cases.nil?
+        puts "Skipping row with no 'Total Cases' at index #{index}:"
+        pp row
+        next
+      end
+
+      new_total_cases = total_cases - last_total_cases
       report_entry['new_total_cases'] = new_total_cases
     end
 
