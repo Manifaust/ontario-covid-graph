@@ -5,29 +5,41 @@ require 'net/http'
 
 RAW_REPORTS_DIR = ARGV[0]
 
-def download
+def download_pdf(pdf_basename, output_filepath)
+
+  url = "https://files.ontario.ca/#{pdf_basename}"
+
+  response = Net::HTTP.get_response(URI.parse(url))
+  if response.is_a?(Net::HTTPSuccess)
+    File.write(output_filepath, response.body)
+    puts "Downloaded #{url} to #{output_filepath}"
+    return true
+  else
+    puts "Cannot fetch from url: #{url}"
+    return false
+  end
+end
+
+def download_all
   min_date = Date.parse('2020-04-11')
 
   date_to_check = min_date
 
   while date_to_check <= Date.today
     date_to_check = date_to_check.next
+    output_filepath = File.join(
+      RAW_REPORTS_DIR,
+      "epidemiologic-summary-#{date_to_check}.pdf"
+    )
 
     pdf_basename = "moh-covid-19-report-en-#{date_to_check}.pdf"
-    pdf_path = File.join(RAW_REPORTS_DIR, pdf_basename)
+    success = download_pdf(pdf_basename, output_filepath)
 
-    url = "https://files.ontario.ca/#{pdf_basename}"
-
-    response = Net::HTTP.get_response(URI.parse(url))
-    if response.is_a?(Net::HTTPSuccess)
-      File.write(pdf_path, response.body)
-      puts "Downloaded #{url}"
-    else
-      puts "Cannot fetch from url: #{url}"
+    unless success
+      backup_basename = "moh-covid-19-report-#{date_to_check}-en.pdf"
+      download_pdf(backup_basename, output_filepath)
     end
-
   end
-
 end
 
-download
+download_all
