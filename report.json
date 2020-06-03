@@ -7897,6 +7897,48 @@
     "icu": 180,
     "icu_on_ventilator": 135,
     "infected": 3435,
+    "institutional_all_cases": {
+      "long_term": 4602,
+      "retirement_home": 1053,
+      "hospitals": 672,
+      "total": 6327
+    },
+    "institutional_all_deaths": {
+      "long_term": 836,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1040
+    },
+    "institutional_outbreaks": {
+      "long_term": 264,
+      "retirement_home": 113,
+      "hospitals": 77,
+      "total": 454
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2975,
+      "retirement_home": 714,
+      "hospitals": 318,
+      "total": 4007
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 835,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1039
+    },
+    "institutional_staff_cases": {
+      "long_term": 1621,
+      "retirement_home": 339,
+      "hospitals": 345,
+      "total": 2305
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    },
     "new_tests": 17768,
     "new_total_cases": 391,
     "resolved": 17020,
@@ -7974,6 +8016,48 @@
     "icu": 171,
     "icu_on_ventilator": 129,
     "infected": 3412,
+    "institutional_all_cases": {
+      "long_term": 4761,
+      "retirement_home": 1057,
+      "hospitals": 675,
+      "total": 6493
+    },
+    "institutional_all_deaths": {
+      "long_term": 868,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1072
+    },
+    "institutional_outbreaks": {
+      "long_term": 269,
+      "retirement_home": 114,
+      "hospitals": 77,
+      "total": 460
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 3067,
+      "retirement_home": 716,
+      "hospitals": 320,
+      "total": 4103
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 867,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1071
+    },
+    "institutional_staff_cases": {
+      "long_term": 1686,
+      "retirement_home": 341,
+      "hospitals": 347,
+      "total": 2374
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    },
     "new_tests": 16217,
     "new_total_cases": 340,
     "resolved": 17360,
