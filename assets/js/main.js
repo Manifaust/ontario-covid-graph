@@ -394,11 +394,11 @@ const createDateControl = (lastDay) => {
   const dateControl = document.createElement('input');
   dateControl.type = 'date'
   dateControl.name = 'dateControl'
-  dateControl.id = 'dateControl'
   dateControl.value = dateRange.toISOString().substring(0, 10)
   dateControl.max = lastDay
   dateControl.min = '2020-01-01'
-  dateControl.classList = 'f6'
+  dateControl.classList = 'f6 ba b--black-10 br2'
+  dateControl.id = 'dateControl'
   chartControls.appendChild(dateControl)
 
   dateControl.addEventListener('change', (e) => {
