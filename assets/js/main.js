@@ -3,6 +3,7 @@ Chart.defaults.global.defaultFontFamily = getComputedStyle(document.body).fontFa
 const URLparams = new URLSearchParams(window.location.search)
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
+const chartControls = document.getElementById('chartControls')
 const dateRange = new Date()
 dateRange.setMonth(dateRange.getMonth() - 2)
 
@@ -230,7 +231,9 @@ window.fetch(reportURL).then((response) => {
       color: '222, 222, 222'
     }]
   })
-}).then(() => {
+  return data.pop().date;
+}).then((lastDay) => {
+  createDateControl(lastDay)
   if (URLparams.get('dark') === 'true') {
     darkMode(true)
   }
@@ -386,3 +389,22 @@ darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
   window.history.replaceState({}, '', `${window.location.pathname}${e.target.checked ? '?' + URLparams : ''}`)
 }, false)
+
+const createDateControl = (lastDay) => {
+  const dateControl = document.createElement('input');
+  dateControl.type = 'date'
+  dateControl.name = 'dateControl'
+  dateControl.id = 'dateControl'
+  dateControl.value = dateRange.toISOString().substring(0, 10)
+  dateControl.max = lastDay
+  dateControl.min = '2020-01-01'
+  dateControl.classList = 'f6'
+  chartControls.appendChild(dateControl)
+
+  dateControl.addEventListener('change', (e) => {
+    chart.collection.map((chart) => {
+      chart.options.scales.xAxes[0].ticks.min = e.target.value
+      chart.update()
+    })
+  }, false)
+}

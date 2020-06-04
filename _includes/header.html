@@ -1,10 +1,13 @@
-<header class="mw7 center ph2 flex items-baseline justify-between bb b--black-10 pv3 mb3">
+<header class="mw7 center ph2 flex justify-between bb b--black-10 pv3 mb3">
   <a id="title" class="black no-underline f4 fw3" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
   <form>
-    <div class="flex mb2 items-center">
-      <input type="checkbox" name="darkMode" id="darkMode" class="mr2">
-      <label for="darkMode">☾</label>
+    <div class="flex items-center">
+      <label for="darkMode" class="mr2 f6">💡</label>
+      <input type="checkbox" name="darkMode" id="darkMode" class="mr3">
+      <div id="chartControls" class="dn db-ns">
+        <label for="dateControl" class="mr2 f6">🗓</label>
+      </div>
     </div>
   </form>
 </header>
