@@ -231,7 +231,7 @@ window.fetch(reportURL).then((response) => {
       color: '222, 222, 222'
     }]
   })
-  return data.pop().date;
+  return data.pop().date
 }).then((lastDay) => {
   createDateControl(lastDay)
   if (URLparams.get('dark') === 'true') {
@@ -391,13 +391,13 @@ darkModeToggle.addEventListener('change', (e) => {
 }, false)
 
 const createDateControl = (lastDay) => {
-  const dateControl = document.createElement('input');
+  const dateControl = document.createElement('input')
   dateControl.type = 'date'
   dateControl.name = 'dateControl'
   dateControl.value = dateRange.toISOString().substring(0, 10)
   dateControl.max = lastDay
   dateControl.min = '2020-01-01'
-  dateControl.classList = 'f6 ba b--black-10 br2'
+  dateControl.classList = 'f7 ba b--black-10 br2'
   dateControl.id = 'dateControl'
   chartControls.appendChild(dateControl)
 
