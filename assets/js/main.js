@@ -233,11 +233,22 @@ window.fetch(reportURL).then((response) => {
   })
   return data.pop().date
 }).then((lastDay) => {
+  if (isDateSupported()) {
+    chartControls.classList.add('db-ns')
+  }
   createDateControl(lastDay)
   if (URLparams.get('dark') === 'true') {
     darkMode(true)
   }
 })
+
+const isDateSupported = () => {
+  const input = document.createElement('input')
+  const value = 'a'
+  input.setAttribute('type', 'date')
+  input.setAttribute('value', value)
+  return (input.value !== value)
+}
 
 const chart = {
   render: (opt) => {
@@ -245,10 +256,10 @@ const chart = {
     const chartData = opt.data.map(i => i[opt.key])
     if (!('borderWidth' in opt)) { opt.borderWidth = 1 }
     if (!('fill' in opt)) { opt.fill = true }
-    var gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
+    const gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
     gradientFill.addColorStop(0, `rgba(${opt.color}, 0.6)`)
     gradientFill.addColorStop(1, `rgba(${opt.color}, 0)`)
-    var myChart = new Chart(opt.ele, {
+    const myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
         labels: chartLabels,
@@ -397,7 +408,7 @@ const createDateControl = (lastDay) => {
   dateControl.value = dateRange.toISOString().substring(0, 10)
   dateControl.max = lastDay
   dateControl.min = '2020-01-01'
-  dateControl.classList = 'f7 ba b--black-10 br2'
+  dateControl.classList = 'f7 ba br2'
   dateControl.id = 'dateControl'
   chartControls.appendChild(dateControl)
 
