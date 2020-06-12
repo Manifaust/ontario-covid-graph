@@ -3,6 +3,7 @@ Chart.defaults.global.defaultFontFamily = getComputedStyle(document.body).fontFa
 const URLparams = new URLSearchParams(window.location.search)
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
+const chartControls = document.getElementById('chartControls')
 const dateRange = new Date()
 dateRange.setMonth(dateRange.getMonth() - 2)
 
@@ -230,11 +231,24 @@ window.fetch(reportURL).then((response) => {
       color: '222, 222, 222'
     }]
   })
-}).then(() => {
+  return data.pop().date
+}).then((lastDay) => {
+  if (isDateSupported()) {
+    chartControls.classList.add('db-ns')
+  }
+  createDateControl(lastDay)
   if (URLparams.get('dark') === 'true') {
     darkMode(true)
   }
 })
+
+const isDateSupported = () => {
+  const input = document.createElement('input')
+  const value = 'a'
+  input.setAttribute('type', 'date')
+  input.setAttribute('value', value)
+  return (input.value !== value)
+}
 
 const chart = {
   render: (opt) => {
@@ -242,10 +256,10 @@ const chart = {
     const chartData = opt.data.map(i => i[opt.key])
     if (!('borderWidth' in opt)) { opt.borderWidth = 1 }
     if (!('fill' in opt)) { opt.fill = true }
-    var gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
+    const gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
     gradientFill.addColorStop(0, `rgba(${opt.color}, 0.6)`)
     gradientFill.addColorStop(1, `rgba(${opt.color}, 0)`)
-    var myChart = new Chart(opt.ele, {
+    const myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
         labels: chartLabels,
@@ -386,3 +400,22 @@ darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
   window.history.replaceState({}, '', `${window.location.pathname}${e.target.checked ? '?' + URLparams : ''}`)
 }, false)
+
+const createDateControl = (lastDay) => {
+  const dateControl = document.createElement('input')
+  dateControl.type = 'date'
+  dateControl.name = 'dateControl'
+  dateControl.value = dateRange.toISOString().substring(0, 10)
+  dateControl.max = lastDay
+  dateControl.min = '2020-01-01'
+  dateControl.classList = 'f7 ba br2'
+  dateControl.id = 'dateControl'
+  chartControls.appendChild(dateControl)
+
+  dateControl.addEventListener('change', (e) => {
+    chart.collection.map((chart) => {
+      chart.options.scales.xAxes[0].ticks.min = e.target.value
+      chart.update()
+    })
+  }, false)
+}
