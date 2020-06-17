@@ -32,6 +32,11 @@ def download_all
       "epidemiologic-summary-#{date_to_check}.pdf"
     )
 
+    if File.exist?(output_filepath)
+      puts "epidemiologic summary for #{date_to_check} already exists, skip downloading"
+      next
+    end
+
     pdf_basename = "moh-covid-19-report-en-#{date_to_check}.pdf"
     success = download_pdf(pdf_basename, output_filepath)
 
