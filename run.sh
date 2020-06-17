@@ -61,6 +61,7 @@ echo 'Generating cities report from epidemiologic summaries'
 scripts/generate_toronto_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
   "$raw_reports_dir" \
+  "$raw_reports_dir"/old_cities_from_epidemiologic_summaries.json \
   "$cities_epidemiologic_report_path"
 
 echo 'Generating final report'

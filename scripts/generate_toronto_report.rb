@@ -7,7 +7,8 @@ require_relative 'scrape_toronto_data'
 
 tabula_path = ARGV[0]
 raw_reports_dir = ARGV[1]
-output_report_path = ARGV[2]
+old_toronto_data_path = ARGV[2]
+output_report_path = ARGV[3]
 
 def day_before?(date, possible_date_before)
   return false if date.nil? || possible_date_before.nil?
@@ -20,14 +21,14 @@ def derive_new_cases(total_cases)
   last_total_cases = nil
   last_date = nil
   total_cases.each do |date_string, val_map|
-    total_cases = val_map[:'cities_total_cases_from_epidemiologic_summary'][:'Toronto Public Health']
+    total_cases = val_map['cities_total_cases_from_epidemiologic_summary']['Toronto Public Health']
     new_cases = nil
     date = Date.parse(date_string)
 
     if !last_total_cases.nil? && day_before?(date, last_date)
       new_cases = total_cases - last_total_cases
-      val_map[:'cities_new_cases_from_epidemiologic_summary'] = {
-        'Toronto Public Health': new_cases
+      val_map['cities_new_cases_from_epidemiologic_summary'] = {
+        'Toronto Public Health' => new_cases
       }
     end
 
@@ -42,7 +43,7 @@ epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
 scrape_toronto_data = ScrapeTorontoData.new(tabula_path)
 
-date_toronto_map = {}
+date_toronto_map = JSON.parse(File.read(old_toronto_data_path))
 
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
@@ -52,7 +53,15 @@ epidemiologic_report_paths.each do |pdf_path|
 
   date = Date.parse(matches[:date])
 
-  puts "Scraping #{pdf_basename}..."
+  # reports are on a different page before this date
+  min_date = Date.parse('2020-06-11')
+
+  if date < min_date
+    puts "Skipping report for #{date} because it is older than min date #{min_date}"
+    next
+  else
+    puts "Scraping #{pdf_basename}..."
+  end
 
   data = scrape_toronto_data.scrape(pdf_path)
   date_toronto_map[date.to_s] = data unless data.empty?
