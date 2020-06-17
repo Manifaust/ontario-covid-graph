@@ -105,6 +105,34 @@ LtcCollect = lambda do |rows|
   }
 end
 
+LtcCollect2 = lambda do |rows|
+  cases_resident = scrape_row(rows, 0, LastNumberScrape)
+  cases_staff = scrape_row(rows, 1, LastNumberScrape)
+  deaths_resident = scrape_row(rows, 2, LastNumberScrape)
+  deaths_staff = scrape_row(rows, 3, LastNumberScrape)
+
+  {
+    institutional_all_cases: {
+      long_term: cases_resident + cases_staff,
+    },
+    institutional_resident_patient_cases: {
+      long_term: cases_resident,
+    },
+    institutional_staff_cases: {
+      long_term: cases_staff,
+    },
+    institutional_all_deaths: {
+      long_term: deaths_resident + deaths_staff,
+    },
+    institutional_resident_patient_deaths: {
+      long_term: deaths_resident,
+    },
+    institutional_staff_deaths: {
+      long_term: deaths_staff,
+    }
+  }
+end
+
 RetirementHomeHospitalCollect = lambda do |rows|
   {
     institutional_all_cases: {
@@ -140,6 +168,12 @@ class ScrapeInstitutionData
       data = {}
       [:outbreak, :ltc, :retirement_home_hospital].each do |type|
         title, row_select, collect = determine_title(date, type)
+
+        if title.nil? && row_select.nil? && collect.nil?
+          puts "No longer collecting data for #{type}, skipping"
+          next
+        end
+
         page_number = find_page_number(report_path, title)
 
         if page_number <= 0
@@ -193,6 +227,12 @@ class ScrapeInstitutionData
             'outbreaks in institutions and public hospitals',
             EndsInTwoNumbersRowSelect,
             OutbreakCollect
+          ],
+          [
+            Date.parse('2020-06-11'),
+            'outbreaks',
+            EndsInTwoNumbersRowSelect,
+            OutbreakCollect
           ]
         ]
       when :ltc
@@ -202,6 +242,12 @@ class ScrapeInstitutionData
             'Table 4b.',
             PercentOfAlRowSelect,
             LtcCollect
+          ],
+          [
+            Date.parse('2020-06-11'),
+            'Table 2.',
+            EndsInTwoNumbersRowSelect,
+            LtcCollect2
           ]
         ]
       when :retirement_home_hospital
@@ -211,6 +257,12 @@ class ScrapeInstitutionData
             'Table 4c.',
             EndsInTwoNumbersRowSelect,
             RetirementHomeHospitalCollect
+          ],
+          [
+            Date.parse('2020-06-11'),
+            nil,
+            nil,
+            nil
           ]
         ]
       else
