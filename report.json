@@ -13770,6 +13770,36 @@
     "icu": 31,
     "icu_on_ventilator": 23,
     "infected": 1668,
+    "institutional_all_cases": {
+      "long_term": 7890,
+      "total": 7890
+    },
+    "institutional_all_deaths": {
+      "long_term": 1729,
+      "total": 1729
+    },
+    "institutional_outbreaks": {
+      "long_term": 371,
+      "retirement_home": 154,
+      "hospitals": 94,
+      "total": 619
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5526,
+      "total": 5526
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1722,
+      "total": 1722
+    },
+    "institutional_staff_cases": {
+      "long_term": 2364,
+      "total": 2364
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    },
     "new_tests": 26326,
     "new_total_cases": 170,
     "resolved": 31977,
