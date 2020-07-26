@@ -15546,6 +15546,12 @@
     "under_investigation": 26078
   },
   {
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 39
+    },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 14077
+    },
     "date": "2020-07-26",
     "deaths": 2763,
     "growth_factor_total_cases": "0.99",
@@ -15553,6 +15559,36 @@
     "icu": 29,
     "icu_on_ventilator": 21,
     "infected": 1558,
+    "institutional_all_cases": {
+      "long_term": 8412,
+      "total": 8412
+    },
+    "institutional_all_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_outbreaks": {
+      "long_term": 386,
+      "retirement_home": 167,
+      "hospitals": 96,
+      "total": 649
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5885,
+      "total": 5885
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1792,
+      "total": 1792
+    },
+    "institutional_staff_cases": {
+      "long_term": 2527,
+      "total": 2527
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
     "new_tests": 26144,
     "new_total_cases": 137,
     "resolved": 34359,
