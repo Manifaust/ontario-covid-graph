@@ -16327,5 +16327,33 @@
     "resolved": 35359,
     "total_cases": 39449,
     "under_investigation": 17839
+  },
+  {
+    "date": "2020-08-03",
+    "deaths": 2778,
+    "growth_factor_total_cases": "0.76",
+    "hospitalized": 75,
+    "icu": 25,
+    "icu_on_ventilator": 13,
+    "infected": 1274,
+    "new_tests": 23021,
+    "new_total_cases": 88,
+    "resolved": 35485,
+    "total_cases": 39537,
+    "under_investigation": 12953
+  },
+  {
+    "date": "2020-08-04",
+    "deaths": 2782,
+    "growth_factor_total_cases": "1.03",
+    "hospitalized": 78,
+    "icu": 28,
+    "icu_on_ventilator": 15,
+    "infected": 1245,
+    "new_tests": 19169,
+    "new_total_cases": 91,
+    "resolved": 35601,
+    "total_cases": 39628,
+    "under_investigation": 9285
   }
 ]
