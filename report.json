@@ -17574,6 +17574,12 @@
       "Toronto Public Health": 14305
     },
     "date": "2020-08-14",
+    "deaths": 2788,
+    "growth_factor_total_cases": "1.18",
+    "hospitalized": 41,
+    "icu": 17,
+    "icu_on_ventilator": 9,
+    "infected": 899,
     "institutional_all_cases": {
       "long_term": 8522,
       "total": 8522
@@ -17603,6 +17609,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
-    }
+    },
+    "new_tests": 30137,
+    "new_total_cases": 92,
+    "resolved": 36772,
+    "total_cases": 40459,
+    "under_investigation": 35426
   }
 ]
