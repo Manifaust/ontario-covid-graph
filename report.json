@@ -1467,7 +1467,7 @@
       "Toronto": 64,
       "Waterloo": 9,
       "Whitby": 14,
-      "Windsor": 7
+      "Windsor": 8
     },
     "cities_total_cases": {
       "Barrie": 28,
@@ -1503,7 +1503,7 @@
       "Toronto": 395,
       "Waterloo": 60,
       "Whitby": 64,
-      "Windsor": 31
+      "Windsor": 32
     },
     "date": "2020-03-16",
     "growth_factor_total_cases": "0.76",
@@ -1577,7 +1577,7 @@
       "Toronto": 475,
       "Waterloo": 68,
       "Whitby": 74,
-      "Windsor": 38
+      "Windsor": 39
     },
     "date": "2020-03-17",
     "deaths": 1,
@@ -1653,7 +1653,7 @@
       "Toronto": 544,
       "Waterloo": 79,
       "Whitby": 88,
-      "Windsor": 49
+      "Windsor": 50
     },
     "date": "2020-03-18",
     "deaths": 1,
@@ -1729,7 +1729,7 @@
       "Toronto": 606,
       "Waterloo": 88,
       "Whitby": 99,
-      "Windsor": 55
+      "Windsor": 56
     },
     "date": "2020-03-19",
     "deaths": 2,
@@ -1807,7 +1807,7 @@
       "Toronto": 671,
       "Waterloo": 100,
       "Whitby": 115,
-      "Windsor": 69
+      "Windsor": 70
     },
     "date": "2020-03-20",
     "deaths": 2,
@@ -1884,7 +1884,7 @@
       "Toronto": 727,
       "Waterloo": 107,
       "Whitby": 128,
-      "Windsor": 87
+      "Windsor": 88
     },
     "date": "2020-03-21",
     "deaths": 2,
@@ -1962,7 +1962,7 @@
       "Toronto": 772,
       "Waterloo": 115,
       "Whitby": 150,
-      "Windsor": 103
+      "Windsor": 104
     },
     "date": "2020-03-22",
     "deaths": 5,
@@ -2003,7 +2003,7 @@
       "Thorold": 15,
       "Thunder Bay": 3,
       "Timmins": 2,
-      "Toronto": 84,
+      "Toronto": 85,
       "Waterloo": 6,
       "Whitby": 11,
       "Windsor": 23
@@ -2039,10 +2039,10 @@
       "Thorold": 123,
       "Thunder Bay": 15,
       "Timmins": 22,
-      "Toronto": 856,
+      "Toronto": 857,
       "Waterloo": 121,
       "Whitby": 161,
-      "Windsor": 126
+      "Windsor": 127
     },
     "date": "2020-03-23",
     "deaths": 6,
@@ -2116,10 +2116,10 @@
       "Thorold": 129,
       "Thunder Bay": 16,
       "Timmins": 24,
-      "Toronto": 932,
+      "Toronto": 933,
       "Waterloo": 126,
       "Whitby": 177,
-      "Windsor": 140
+      "Windsor": 141
     },
     "date": "2020-03-24",
     "deaths": 8,
@@ -2191,10 +2191,10 @@
       "Thorold": 141,
       "Thunder Bay": 20,
       "Timmins": 25,
-      "Toronto": 1010,
+      "Toronto": 1011,
       "Waterloo": 138,
       "Whitby": 190,
-      "Windsor": 152
+      "Windsor": 153
     },
     "date": "2020-03-25",
     "deaths": 13,
@@ -2232,7 +2232,7 @@
       "Thorold": 7,
       "Thunder Bay": 1,
       "Timmins": 2,
-      "Toronto": 97,
+      "Toronto": 96,
       "Waterloo": 10,
       "Whitby": 12,
       "Windsor": 13
@@ -2271,7 +2271,7 @@
       "Toronto": 1107,
       "Waterloo": 148,
       "Whitby": 202,
-      "Windsor": 165
+      "Windsor": 166
     },
     "date": "2020-03-26",
     "deaths": 15,
@@ -2347,7 +2347,7 @@
       "Toronto": 1195,
       "Waterloo": 158,
       "Whitby": 219,
-      "Windsor": 188
+      "Windsor": 189
     },
     "date": "2020-03-27",
     "deaths": 18,
@@ -2422,7 +2422,7 @@
       "Toronto": 1287,
       "Waterloo": 167,
       "Whitby": 228,
-      "Windsor": 203
+      "Windsor": 204
     },
     "date": "2020-03-28",
     "deaths": 19,
@@ -2498,7 +2498,7 @@
       "Toronto": 1370,
       "Waterloo": 175,
       "Whitby": 243,
-      "Windsor": 211
+      "Windsor": 212
     },
     "date": "2020-03-29",
     "deaths": 23,
@@ -2574,7 +2574,7 @@
       "Toronto": 1470,
       "Waterloo": 193,
       "Whitby": 256,
-      "Windsor": 226
+      "Windsor": 227
     },
     "date": "2020-03-30",
     "deaths": 23,
@@ -2611,7 +2611,7 @@
       "Thorold": 8,
       "Thunder Bay": 1,
       "Timmins": 1,
-      "Toronto": 109,
+      "Toronto": 111,
       "Waterloo": 9,
       "Whitby": 11,
       "Windsor": 15
@@ -2647,10 +2647,10 @@
       "Thorold": 202,
       "Thunder Bay": 30,
       "Timmins": 37,
-      "Toronto": 1579,
+      "Toronto": 1581,
       "Waterloo": 202,
       "Whitby": 267,
-      "Windsor": 241
+      "Windsor": 242
     },
     "date": "2020-03-31",
     "deaths": 33,
@@ -2714,7 +2714,7 @@
       "Sudbury": 1,
       "Thorold": 24,
       "Timmins": 3,
-      "Toronto": 160,
+      "Toronto": 159,
       "Waterloo": 13,
       "Whitby": 28,
       "Windsor": 18
@@ -2750,10 +2750,10 @@
       "Thorold": 226,
       "Thunder Bay": 30,
       "Timmins": 40,
-      "Toronto": 1739,
+      "Toronto": 1740,
       "Waterloo": 215,
       "Whitby": 295,
-      "Windsor": 259
+      "Windsor": 260
     },
     "date": "2020-04-01",
     "deaths": 37,
@@ -2816,7 +2816,7 @@
       "Thorold": 12,
       "Thunder Bay": 4,
       "Timmins": 2,
-      "Toronto": 143,
+      "Toronto": 142,
       "Waterloo": 11,
       "Whitby": 13,
       "Windsor": 17
@@ -2855,7 +2855,7 @@
       "Toronto": 1882,
       "Waterloo": 226,
       "Whitby": 308,
-      "Windsor": 276
+      "Windsor": 277
     },
     "date": "2020-04-02",
     "deaths": 53,
@@ -2924,7 +2924,7 @@
       "Thorold": 14,
       "Thunder Bay": 2,
       "Timmins": 1,
-      "Toronto": 156,
+      "Toronto": 157,
       "Waterloo": 18,
       "Whitby": 18,
       "Windsor": 22
@@ -2960,10 +2960,10 @@
       "Thorold": 252,
       "Thunder Bay": 36,
       "Timmins": 43,
-      "Toronto": 2038,
+      "Toronto": 2039,
       "Waterloo": 244,
       "Whitby": 326,
-      "Windsor": 298
+      "Windsor": 299
     },
     "date": "2020-04-03",
     "deaths": 67,
@@ -3029,7 +3029,7 @@
       "Stratford": 2,
       "Thorold": 20,
       "Thunder Bay": 1,
-      "Toronto": 127,
+      "Toronto": 128,
       "Waterloo": 17,
       "Whitby": 11,
       "Windsor": 24
@@ -3065,10 +3065,10 @@
       "Thorold": 272,
       "Thunder Bay": 37,
       "Timmins": 43,
-      "Toronto": 2165,
+      "Toronto": 2167,
       "Waterloo": 261,
       "Whitby": 337,
-      "Windsor": 322
+      "Windsor": 323
     },
     "date": "2020-04-04",
     "deaths": 94,
@@ -3171,10 +3171,10 @@
       "Thorold": 288,
       "Thunder Bay": 40,
       "Timmins": 43,
-      "Toronto": 2266,
+      "Toronto": 2268,
       "Waterloo": 275,
       "Whitby": 358,
-      "Windsor": 334
+      "Windsor": 335
     },
     "date": "2020-04-05",
     "deaths": 119,
@@ -3249,7 +3249,7 @@
       "Thorold": 19,
       "Thunder Bay": 2,
       "Timmins": 2,
-      "Toronto": 150,
+      "Toronto": 151,
       "Waterloo": 15,
       "Whitby": 13,
       "Windsor": 21
@@ -3285,10 +3285,10 @@
       "Thorold": 307,
       "Thunder Bay": 42,
       "Timmins": 45,
-      "Toronto": 2416,
+      "Toronto": 2419,
       "Waterloo": 290,
       "Whitby": 371,
-      "Windsor": 355
+      "Windsor": 356
     },
     "date": "2020-04-06",
     "deaths": 132,
@@ -3361,7 +3361,7 @@
       "Stratford": 1,
       "Sudbury": 1,
       "Thorold": 15,
-      "Toronto": 146,
+      "Toronto": 147,
       "Waterloo": 14,
       "Whitby": 22,
       "Windsor": 23
@@ -3397,10 +3397,10 @@
       "Thorold": 322,
       "Thunder Bay": 42,
       "Timmins": 45,
-      "Toronto": 2562,
+      "Toronto": 2566,
       "Waterloo": 304,
       "Whitby": 393,
-      "Windsor": 378
+      "Windsor": 379
     },
     "date": "2020-04-07",
     "deaths": 153,
@@ -3473,7 +3473,7 @@
       "Thorold": 11,
       "Thunder Bay": 4,
       "Timmins": 2,
-      "Toronto": 160,
+      "Toronto": 162,
       "Waterloo": 20,
       "Whitby": 24,
       "Windsor": 18
@@ -3509,10 +3509,10 @@
       "Thorold": 333,
       "Thunder Bay": 46,
       "Timmins": 47,
-      "Toronto": 2722,
+      "Toronto": 2728,
       "Waterloo": 324,
       "Whitby": 417,
-      "Windsor": 396
+      "Windsor": 397
     },
     "date": "2020-04-08",
     "deaths": 174,
@@ -3588,7 +3588,7 @@
       "Thorold": 9,
       "Thunder Bay": 4,
       "Timmins": 1,
-      "Toronto": 167,
+      "Toronto": 168,
       "Waterloo": 19,
       "Whitby": 29,
       "Windsor": 13
@@ -3624,10 +3624,10 @@
       "Thorold": 342,
       "Thunder Bay": 50,
       "Timmins": 48,
-      "Toronto": 2889,
+      "Toronto": 2896,
       "Waterloo": 343,
       "Whitby": 446,
-      "Windsor": 409
+      "Windsor": 410
     },
     "date": "2020-04-09",
     "deaths": 200,
@@ -3698,7 +3698,7 @@
       "Thorold": 12,
       "Thunder Bay": 2,
       "Timmins": 2,
-      "Toronto": 189,
+      "Toronto": 190,
       "Waterloo": 19,
       "Whitby": 52,
       "Windsor": 17
@@ -3734,10 +3734,10 @@
       "Thorold": 354,
       "Thunder Bay": 52,
       "Timmins": 50,
-      "Toronto": 3078,
+      "Toronto": 3086,
       "Waterloo": 362,
       "Whitby": 498,
-      "Windsor": 426
+      "Windsor": 427
     },
     "date": "2020-04-10",
     "deaths": 222,
@@ -3793,7 +3793,7 @@
       "Chatham": 1,
       "Cornwall": 3,
       "Guelph": 5,
-      "Hamilton": 12,
+      "Hamilton": 13,
       "London": 9,
       "Mississauga": 59,
       "Newmarket": 51,
@@ -3819,7 +3819,7 @@
       "Chatham": 33,
       "Cornwall": 74,
       "Guelph": 182,
-      "Hamilton": 300,
+      "Hamilton": 301,
       "Kenora": 14,
       "Kingston": 55,
       "London": 282,
@@ -3842,10 +3842,10 @@
       "Thorold": 364,
       "Thunder Bay": 52,
       "Timmins": 52,
-      "Toronto": 3248,
+      "Toronto": 3256,
       "Waterloo": 404,
       "Whitby": 522,
-      "Windsor": 451
+      "Windsor": 452
     },
     "date": "2020-04-11",
     "deaths": 253,
@@ -3927,7 +3927,7 @@
       "Chatham": 34,
       "Cornwall": 74,
       "Guelph": 188,
-      "Hamilton": 306,
+      "Hamilton": 307,
       "Kenora": 14,
       "Kingston": 55,
       "London": 290,
@@ -3950,10 +3950,10 @@
       "Thorold": 376,
       "Thunder Bay": 55,
       "Timmins": 52,
-      "Toronto": 3424,
+      "Toronto": 3432,
       "Waterloo": 433,
       "Whitby": 557,
-      "Windsor": 469
+      "Windsor": 470
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2000
@@ -4028,7 +4028,7 @@
       "Sudbury": 1,
       "Thorold": 14,
       "Thunder Bay": 2,
-      "Toronto": 246,
+      "Toronto": 244,
       "Waterloo": 40,
       "Whitby": 39,
       "Windsor": 19
@@ -4044,7 +4044,7 @@
       "Chatham": 38,
       "Cornwall": 75,
       "Guelph": 194,
-      "Hamilton": 317,
+      "Hamilton": 318,
       "Kenora": 14,
       "Kingston": 55,
       "London": 300,
@@ -4067,10 +4067,10 @@
       "Thorold": 390,
       "Thunder Bay": 57,
       "Timmins": 52,
-      "Toronto": 3670,
+      "Toronto": 3676,
       "Waterloo": 473,
       "Whitby": 596,
-      "Windsor": 488
+      "Windsor": 489
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2148
@@ -4140,7 +4140,7 @@
       "Sault Ste. Marie": 1,
       "Simcoe": 3,
       "Thorold": 23,
-      "Toronto": 264,
+      "Toronto": 263,
       "Waterloo": 29,
       "Whitby": 28,
       "Windsor": 16
@@ -4156,7 +4156,7 @@
       "Chatham": 40,
       "Cornwall": 75,
       "Guelph": 198,
-      "Hamilton": 328,
+      "Hamilton": 329,
       "Kenora": 15,
       "Kingston": 55,
       "London": 320,
@@ -4179,10 +4179,10 @@
       "Thorold": 413,
       "Thunder Bay": 57,
       "Timmins": 52,
-      "Toronto": 3934,
+      "Toronto": 3939,
       "Waterloo": 502,
       "Whitby": 624,
-      "Windsor": 504
+      "Windsor": 505
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2283
@@ -4260,7 +4260,7 @@
       "Sudbury": 1,
       "Thorold": 12,
       "Thunder Bay": 1,
-      "Toronto": 290,
+      "Toronto": 291,
       "Waterloo": 29,
       "Whitby": 34,
       "Windsor": 22
@@ -4276,7 +4276,7 @@
       "Chatham": 42,
       "Cornwall": 77,
       "Guelph": 203,
-      "Hamilton": 355,
+      "Hamilton": 356,
       "Kenora": 15,
       "Kingston": 56,
       "London": 331,
@@ -4299,10 +4299,10 @@
       "Thorold": 425,
       "Thunder Bay": 58,
       "Timmins": 52,
-      "Toronto": 4224,
+      "Toronto": 4230,
       "Waterloo": 531,
       "Whitby": 658,
-      "Windsor": 526
+      "Windsor": 527
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2414
@@ -4388,7 +4388,7 @@
       "Chatham": 42,
       "Cornwall": 79,
       "Guelph": 212,
-      "Hamilton": 360,
+      "Hamilton": 361,
       "Kenora": 15,
       "Kingston": 56,
       "London": 343,
@@ -4411,10 +4411,10 @@
       "Thorold": 437,
       "Thunder Bay": 58,
       "Timmins": 54,
-      "Toronto": 4427,
+      "Toronto": 4433,
       "Waterloo": 575,
       "Whitby": 707,
-      "Windsor": 539
+      "Windsor": 540
     },
     "date": "2020-04-16",
     "deaths": 423,
@@ -4467,7 +4467,7 @@
       "Chatham": 44,
       "Cornwall": 81,
       "Guelph": 222,
-      "Hamilton": 367,
+      "Hamilton": 368,
       "Kenora": 15,
       "Kingston": 56,
       "London": 351,
@@ -4490,10 +4490,10 @@
       "Thorold": 447,
       "Thunder Bay": 62,
       "Timmins": 56,
-      "Toronto": 4703,
+      "Toronto": 4709,
       "Waterloo": 611,
       "Whitby": 752,
-      "Windsor": 550
+      "Windsor": 551
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2656
@@ -4570,7 +4570,7 @@
       "Thorold": 9,
       "Thunder Bay": 1,
       "Timmins": 2,
-      "Toronto": 232,
+      "Toronto": 230,
       "Waterloo": 21,
       "Whitby": 38,
       "Windsor": 10
@@ -4586,7 +4586,7 @@
       "Chatham": 46,
       "Cornwall": 84,
       "Guelph": 226,
-      "Hamilton": 381,
+      "Hamilton": 382,
       "Kenora": 15,
       "Kingston": 57,
       "London": 360,
@@ -4609,10 +4609,10 @@
       "Thorold": 456,
       "Thunder Bay": 63,
       "Timmins": 58,
-      "Toronto": 4935,
+      "Toronto": 4939,
       "Waterloo": 632,
       "Whitby": 790,
-      "Windsor": 560
+      "Windsor": 561
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 2861
@@ -4687,7 +4687,7 @@
       "Sudbury": 2,
       "Thorold": 8,
       "Thunder Bay": 1,
-      "Toronto": 138,
+      "Toronto": 134,
       "Waterloo": 10,
       "Whitby": 21,
       "Windsor": 13
@@ -4703,7 +4703,7 @@
       "Chatham": 49,
       "Cornwall": 86,
       "Guelph": 241,
-      "Hamilton": 387,
+      "Hamilton": 388,
       "Kenora": 15,
       "Kingston": 58,
       "London": 370,
@@ -4729,7 +4729,7 @@
       "Toronto": 5073,
       "Waterloo": 642,
       "Whitby": 811,
-      "Windsor": 573
+      "Windsor": 574
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3085
@@ -4822,7 +4822,7 @@
       "Chatham": 51,
       "Cornwall": 87,
       "Guelph": 249,
-      "Hamilton": 395,
+      "Hamilton": 396,
       "Kenora": 16,
       "Kingston": 59,
       "London": 377,
@@ -4848,7 +4848,7 @@
       "Toronto": 5293,
       "Waterloo": 666,
       "Whitby": 841,
-      "Windsor": 584
+      "Windsor": 585
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3241
@@ -4909,10 +4909,10 @@
       "Chatham": 5,
       "Cornwall": 1,
       "Guelph": 7,
-      "Hamilton": 5,
+      "Hamilton": 4,
       "London": 11,
       "Mississauga": 63,
-      "Newmarket": 38,
+      "Newmarket": 37,
       "Oakville": 7,
       "Ottawa": 36,
       "Owen Sound": 1,
@@ -4922,7 +4922,7 @@
       "St. Thomas": 1,
       "Stratford": 1,
       "Thorold": 12,
-      "Toronto": 162,
+      "Toronto": 163,
       "Waterloo": 25,
       "Whitby": 35,
       "Windsor": 8
@@ -4944,7 +4944,7 @@
       "London": 388,
       "Mississauga": 2352,
       "New Liskeard": 12,
-      "Newmarket": 1553,
+      "Newmarket": 1552,
       "North Bay": 15,
       "Oakville": 448,
       "Ottawa": 1116,
@@ -4961,10 +4961,10 @@
       "Thorold": 487,
       "Thunder Bay": 67,
       "Timmins": 58,
-      "Toronto": 5455,
+      "Toronto": 5456,
       "Waterloo": 691,
       "Whitby": 876,
-      "Windsor": 592
+      "Windsor": 593
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3372
@@ -5039,7 +5039,7 @@
       "St. Thomas": 1,
       "Thorold": 3,
       "Thunder Bay": 1,
-      "Toronto": 199,
+      "Toronto": 198,
       "Waterloo": 41,
       "Whitby": 22,
       "Windsor": 8
@@ -5061,7 +5061,7 @@
       "London": 399,
       "Mississauga": 2403,
       "New Liskeard": 12,
-      "Newmarket": 1589,
+      "Newmarket": 1588,
       "North Bay": 15,
       "Oakville": 452,
       "Ottawa": 1162,
@@ -5081,7 +5081,7 @@
       "Toronto": 5654,
       "Waterloo": 732,
       "Whitby": 898,
-      "Windsor": 600
+      "Windsor": 601
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3584
@@ -5179,7 +5179,7 @@
       "London": 404,
       "Mississauga": 2479,
       "New Liskeard": 14,
-      "Newmarket": 1620,
+      "Newmarket": 1619,
       "North Bay": 15,
       "Oakville": 460,
       "Ottawa": 1205,
@@ -5199,7 +5199,7 @@
       "Toronto": 5812,
       "Waterloo": 761,
       "Whitby": 925,
-      "Windsor": 606
+      "Windsor": 607
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3821
@@ -5293,7 +5293,7 @@
       "London": 412,
       "Mississauga": 2549,
       "New Liskeard": 14,
-      "Newmarket": 1648,
+      "Newmarket": 1647,
       "North Bay": 15,
       "Oakville": 465,
       "Ottawa": 1243,
@@ -5313,7 +5313,7 @@
       "Toronto": 5974,
       "Waterloo": 792,
       "Whitby": 949,
-      "Windsor": 615
+      "Windsor": 616
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 3989
@@ -5388,7 +5388,7 @@
       "Thorold": 10,
       "Toronto": 144,
       "Waterloo": 20,
-      "Whitby": 22,
+      "Whitby": 21,
       "Windsor": 10
     },
     "cities_new_cases_from_epidemiologic_summary": {
@@ -5408,7 +5408,7 @@
       "London": 415,
       "Mississauga": 2609,
       "New Liskeard": 15,
-      "Newmarket": 1667,
+      "Newmarket": 1666,
       "North Bay": 16,
       "Oakville": 470,
       "Ottawa": 1338,
@@ -5427,8 +5427,8 @@
       "Timmins": 59,
       "Toronto": 6118,
       "Waterloo": 812,
-      "Whitby": 971,
-      "Windsor": 625
+      "Whitby": 970,
+      "Windsor": 626
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4175
@@ -5522,7 +5522,7 @@
       "London": 416,
       "Mississauga": 2668,
       "New Liskeard": 15,
-      "Newmarket": 1698,
+      "Newmarket": 1697,
       "North Bay": 16,
       "Oakville": 473,
       "Ottawa": 1399,
@@ -5541,8 +5541,8 @@
       "Timmins": 60,
       "Toronto": 6238,
       "Waterloo": 826,
-      "Whitby": 986,
-      "Windsor": 639
+      "Whitby": 985,
+      "Windsor": 640
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4295
@@ -5621,7 +5621,7 @@
       "Thunder Bay": 2,
       "Toronto": 181,
       "Waterloo": 23,
-      "Whitby": 35,
+      "Whitby": 36,
       "Windsor": 14
     },
     "cities_new_cases_from_epidemiologic_summary": {
@@ -5641,7 +5641,7 @@
       "London": 422,
       "Mississauga": 2718,
       "New Liskeard": 17,
-      "Newmarket": 1743,
+      "Newmarket": 1742,
       "North Bay": 17,
       "Oakville": 477,
       "Ottawa": 1463,
@@ -5661,7 +5661,7 @@
       "Toronto": 6419,
       "Waterloo": 849,
       "Whitby": 1021,
-      "Windsor": 653
+      "Windsor": 654
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4430
@@ -5760,7 +5760,7 @@
       "London": 426,
       "Mississauga": 2767,
       "New Liskeard": 17,
-      "Newmarket": 1768,
+      "Newmarket": 1767,
       "North Bay": 18,
       "Oakville": 483,
       "Ottawa": 1485,
@@ -5780,7 +5780,7 @@
       "Toronto": 6615,
       "Waterloo": 873,
       "Whitby": 1040,
-      "Windsor": 662
+      "Windsor": 663
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4619
@@ -5873,7 +5873,7 @@
       "London": 431,
       "Mississauga": 2818,
       "New Liskeard": 18,
-      "Newmarket": 1795,
+      "Newmarket": 1794,
       "North Bay": 18,
       "Oakville": 490,
       "Ottawa": 1511,
@@ -5893,7 +5893,7 @@
       "Toronto": 6799,
       "Waterloo": 886,
       "Whitby": 1070,
-      "Windsor": 670
+      "Windsor": 671
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4668
@@ -5993,7 +5993,7 @@
       "London": 439,
       "Mississauga": 2872,
       "New Liskeard": 18,
-      "Newmarket": 1826,
+      "Newmarket": 1825,
       "North Bay": 18,
       "Oakville": 497,
       "Ottawa": 1532,
@@ -6013,7 +6013,7 @@
       "Toronto": 6974,
       "Waterloo": 915,
       "Whitby": 1094,
-      "Windsor": 681
+      "Windsor": 682
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 4901
@@ -6095,7 +6095,7 @@
       "Simcoe": 3,
       "St. Thomas": 1,
       "Thorold": 7,
-      "Toronto": 181,
+      "Toronto": 182,
       "Waterloo": 19,
       "Whitby": 22,
       "Windsor": 10
@@ -6117,7 +6117,7 @@
       "London": 441,
       "Mississauga": 2966,
       "New Liskeard": 18,
-      "Newmarket": 1857,
+      "Newmarket": 1856,
       "North Bay": 19,
       "Oakville": 499,
       "Ottawa": 1553,
@@ -6134,10 +6134,10 @@
       "Thorold": 556,
       "Thunder Bay": 77,
       "Timmins": 61,
-      "Toronto": 7155,
+      "Toronto": 7156,
       "Waterloo": 934,
       "Whitby": 1116,
-      "Windsor": 691
+      "Windsor": 692
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5041
@@ -6238,7 +6238,7 @@
       "London": 445,
       "Mississauga": 3027,
       "New Liskeard": 18,
-      "Newmarket": 1877,
+      "Newmarket": 1876,
       "North Bay": 20,
       "Oakville": 505,
       "Ottawa": 1578,
@@ -6255,10 +6255,10 @@
       "Thorold": 559,
       "Thunder Bay": 78,
       "Timmins": 62,
-      "Toronto": 7298,
+      "Toronto": 7299,
       "Waterloo": 945,
       "Whitby": 1129,
-      "Windsor": 701
+      "Windsor": 702
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5231
@@ -6356,7 +6356,7 @@
       "London": 447,
       "Mississauga": 3070,
       "New Liskeard": 18,
-      "Newmarket": 1902,
+      "Newmarket": 1901,
       "North Bay": 20,
       "Oakville": 514,
       "Ottawa": 1596,
@@ -6373,10 +6373,10 @@
       "Thorold": 562,
       "Thunder Bay": 78,
       "Timmins": 62,
-      "Toronto": 7395,
+      "Toronto": 7396,
       "Waterloo": 955,
       "Whitby": 1149,
-      "Windsor": 713
+      "Windsor": 714
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5388
@@ -6476,7 +6476,7 @@
       "London": 449,
       "Mississauga": 3127,
       "New Liskeard": 18,
-      "Newmarket": 1920,
+      "Newmarket": 1919,
       "North Bay": 20,
       "Oakville": 519,
       "Ottawa": 1608,
@@ -6493,10 +6493,10 @@
       "Thorold": 569,
       "Thunder Bay": 78,
       "Timmins": 64,
-      "Toronto": 7537,
+      "Toronto": 7538,
       "Waterloo": 965,
       "Whitby": 1166,
-      "Windsor": 719
+      "Windsor": 720
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5555
@@ -6574,7 +6574,7 @@
       "Simcoe": 1,
       "Thorold": 5,
       "Thunder Bay": 1,
-      "Toronto": 135,
+      "Toronto": 134,
       "Waterloo": 16,
       "Whitby": 23,
       "Windsor": 4
@@ -6596,7 +6596,7 @@
       "London": 451,
       "Mississauga": 3188,
       "New Liskeard": 18,
-      "Newmarket": 1943,
+      "Newmarket": 1942,
       "North Bay": 21,
       "Oakville": 524,
       "Ottawa": 1636,
@@ -6616,7 +6616,7 @@
       "Toronto": 7672,
       "Waterloo": 981,
       "Whitby": 1189,
-      "Windsor": 723
+      "Windsor": 724
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5737
@@ -6713,7 +6713,7 @@
       "London": 455,
       "Mississauga": 3243,
       "New Liskeard": 18,
-      "Newmarket": 1964,
+      "Newmarket": 1963,
       "North Bay": 21,
       "Oakville": 528,
       "Ottawa": 1654,
@@ -6733,7 +6733,7 @@
       "Toronto": 7784,
       "Waterloo": 992,
       "Whitby": 1199,
-      "Windsor": 736
+      "Windsor": 737
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 5928
@@ -6829,7 +6829,7 @@
       "London": 460,
       "Mississauga": 3303,
       "New Liskeard": 18,
-      "Newmarket": 1990,
+      "Newmarket": 1989,
       "North Bay": 21,
       "Oakville": 530,
       "Ottawa": 1680,
@@ -6849,7 +6849,7 @@
       "Toronto": 7948,
       "Waterloo": 1006,
       "Whitby": 1205,
-      "Windsor": 746
+      "Windsor": 747
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6103
@@ -6926,7 +6926,7 @@
       "Port Hope": 2,
       "Simcoe": 4,
       "Thorold": 6,
-      "Toronto": 169,
+      "Toronto": 170,
       "Waterloo": 10,
       "Whitby": 14,
       "Windsor": 11
@@ -6948,7 +6948,7 @@
       "London": 463,
       "Mississauga": 3365,
       "New Liskeard": 18,
-      "Newmarket": 2007,
+      "Newmarket": 2006,
       "North Bay": 21,
       "Oakville": 537,
       "Ottawa": 1693,
@@ -6965,10 +6965,10 @@
       "Thorold": 590,
       "Thunder Bay": 79,
       "Timmins": 65,
-      "Toronto": 8117,
+      "Toronto": 8118,
       "Waterloo": 1016,
       "Whitby": 1219,
-      "Windsor": 757
+      "Windsor": 758
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6364
@@ -7072,7 +7072,7 @@
       "London": 465,
       "Mississauga": 3434,
       "New Liskeard": 18,
-      "Newmarket": 2029,
+      "Newmarket": 2028,
       "North Bay": 22,
       "Oakville": 546,
       "Ottawa": 1708,
@@ -7089,10 +7089,10 @@
       "Thorold": 592,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8243,
+      "Toronto": 8244,
       "Waterloo": 1024,
       "Whitby": 1231,
-      "Windsor": 774
+      "Windsor": 775
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6494
@@ -7195,7 +7195,7 @@
       "London": 468,
       "Mississauga": 3491,
       "New Liskeard": 18,
-      "Newmarket": 2051,
+      "Newmarket": 2050,
       "North Bay": 22,
       "Oakville": 553,
       "Ottawa": 1718,
@@ -7212,10 +7212,10 @@
       "Thorold": 597,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8359,
+      "Toronto": 8360,
       "Waterloo": 1030,
       "Whitby": 1244,
-      "Windsor": 780
+      "Windsor": 781
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6639
@@ -7315,7 +7315,7 @@
       "London": 471,
       "Mississauga": 3558,
       "New Liskeard": 18,
-      "Newmarket": 2078,
+      "Newmarket": 2077,
       "North Bay": 22,
       "Oakville": 563,
       "Ottawa": 1740,
@@ -7332,10 +7332,10 @@
       "Thorold": 603,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8536,
+      "Toronto": 8537,
       "Waterloo": 1042,
       "Whitby": 1258,
-      "Windsor": 787
+      "Windsor": 788
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6768
@@ -7435,7 +7435,7 @@
       "London": 474,
       "Mississauga": 3630,
       "New Liskeard": 18,
-      "Newmarket": 2103,
+      "Newmarket": 2102,
       "North Bay": 22,
       "Oakville": 571,
       "Ottawa": 1760,
@@ -7452,10 +7452,10 @@
       "Thorold": 608,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8672,
+      "Toronto": 8673,
       "Waterloo": 1046,
       "Whitby": 1277,
-      "Windsor": 794
+      "Windsor": 795
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 6961
@@ -7557,7 +7557,7 @@
       "London": 478,
       "Mississauga": 3679,
       "New Liskeard": 18,
-      "Newmarket": 2117,
+      "Newmarket": 2116,
       "North Bay": 22,
       "Oakville": 576,
       "Ottawa": 1782,
@@ -7574,10 +7574,10 @@
       "Thorold": 615,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8811,
+      "Toronto": 8812,
       "Waterloo": 1054,
       "Whitby": 1292,
-      "Windsor": 802
+      "Windsor": 803
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7170
@@ -7678,7 +7678,7 @@
       "London": 483,
       "Mississauga": 3753,
       "New Liskeard": 18,
-      "Newmarket": 2147,
+      "Newmarket": 2146,
       "North Bay": 23,
       "Oakville": 583,
       "Ottawa": 1800,
@@ -7695,10 +7695,10 @@
       "Thorold": 627,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 8973,
+      "Toronto": 8974,
       "Waterloo": 1062,
       "Whitby": 1303,
-      "Windsor": 810
+      "Windsor": 811
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7215
@@ -7768,7 +7768,7 @@
       "Kenora": 1,
       "London": 4,
       "Mississauga": 77,
-      "Newmarket": 44,
+      "Newmarket": 45,
       "North Bay": 1,
       "Oakville": 12,
       "Ottawa": 21,
@@ -7815,10 +7815,10 @@
       "Thorold": 629,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 9161,
+      "Toronto": 9162,
       "Waterloo": 1071,
       "Whitby": 1320,
-      "Windsor": 819
+      "Windsor": 820
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7435
@@ -7896,7 +7896,7 @@
       "Thorold": 1,
       "Toronto": 174,
       "Waterloo": 8,
-      "Whitby": 14,
+      "Whitby": 15,
       "Windsor": 9
     },
     "cities_new_cases_from_epidemiologic_summary": {
@@ -7933,10 +7933,10 @@
       "Thorold": 630,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 9335,
+      "Toronto": 9336,
       "Waterloo": 1079,
-      "Whitby": 1334,
-      "Windsor": 828
+      "Whitby": 1335,
+      "Windsor": 829
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7599
@@ -8012,7 +8012,7 @@
       "Port Hope": 2,
       "Simcoe": 2,
       "Thorold": 2,
-      "Toronto": 135,
+      "Toronto": 136,
       "Waterloo": 5,
       "Whitby": 21,
       "Windsor": 5
@@ -8051,10 +8051,10 @@
       "Thorold": 632,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 9470,
+      "Toronto": 9472,
       "Waterloo": 1084,
-      "Whitby": 1355,
-      "Windsor": 833
+      "Whitby": 1356,
+      "Windsor": 834
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7704
@@ -8171,10 +8171,10 @@
       "Thorold": 634,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 9621,
+      "Toronto": 9623,
       "Waterloo": 1088,
-      "Whitby": 1375,
-      "Windsor": 849
+      "Whitby": 1376,
+      "Windsor": 850
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7780
@@ -8291,10 +8291,10 @@
       "Thorold": 636,
       "Thunder Bay": 80,
       "Timmins": 65,
-      "Toronto": 9805,
+      "Toronto": 9807,
       "Waterloo": 1091,
-      "Whitby": 1383,
-      "Windsor": 875
+      "Whitby": 1384,
+      "Windsor": 876
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 7989
@@ -8414,10 +8414,10 @@
       "Thorold": 640,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 9944,
+      "Toronto": 9946,
       "Waterloo": 1098,
-      "Whitby": 1400,
-      "Windsor": 891
+      "Whitby": 1401,
+      "Windsor": 892
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 8192
@@ -8494,7 +8494,7 @@
       "Point Edward": 4,
       "Port Hope": 1,
       "Thorold": 5,
-      "Toronto": 167,
+      "Toronto": 166,
       "Waterloo": 4,
       "Whitby": 19,
       "Windsor": 24
@@ -8533,10 +8533,10 @@
       "Thorold": 645,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10111,
+      "Toronto": 10112,
       "Waterloo": 1102,
-      "Whitby": 1419,
-      "Windsor": 915
+      "Whitby": 1420,
+      "Windsor": 916
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 8432
@@ -8650,10 +8650,10 @@
       "Thorold": 646,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10235,
+      "Toronto": 10236,
       "Waterloo": 1104,
-      "Whitby": 1430,
-      "Windsor": 924
+      "Whitby": 1431,
+      "Windsor": 925
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 8678
@@ -8730,9 +8730,9 @@
       "Simcoe": 4,
       "St. Thomas": 1,
       "Thorold": 2,
-      "Toronto": 119,
+      "Toronto": 120,
       "Waterloo": 5,
-      "Whitby": 20,
+      "Whitby": 19,
       "Windsor": 19
     },
     "cities_new_cases_from_epidemiologic_summary": {
@@ -8769,10 +8769,10 @@
       "Thorold": 648,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10354,
+      "Toronto": 10356,
       "Waterloo": 1109,
       "Whitby": 1450,
-      "Windsor": 943
+      "Windsor": 944
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 8877
@@ -8886,10 +8886,10 @@
       "Thorold": 652,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10475,
+      "Toronto": 10477,
       "Waterloo": 1117,
       "Whitby": 1459,
-      "Windsor": 952
+      "Windsor": 953
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9082
@@ -9003,10 +9003,10 @@
       "Thorold": 659,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10639,
+      "Toronto": 10641,
       "Waterloo": 1121,
       "Whitby": 1469,
-      "Windsor": 962
+      "Windsor": 963
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9274
@@ -9121,10 +9121,10 @@
       "Thorold": 662,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10803,
+      "Toronto": 10805,
       "Waterloo": 1125,
       "Whitby": 1481,
-      "Windsor": 970
+      "Windsor": 971
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9427
@@ -9237,10 +9237,10 @@
       "Thorold": 667,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 10962,
+      "Toronto": 10964,
       "Waterloo": 1132,
       "Whitby": 1493,
-      "Windsor": 982
+      "Windsor": 983
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9555
@@ -9315,9 +9315,9 @@
       "Port Hope": 1,
       "Simcoe": 8,
       "Thorold": 6,
-      "Toronto": 105,
+      "Toronto": 104,
       "Waterloo": 2,
-      "Whitby": 12,
+      "Whitby": 13,
       "Windsor": 6
     },
     "cities_new_cases_from_epidemiologic_summary": {
@@ -9354,10 +9354,10 @@
       "Thorold": 673,
       "Thunder Bay": 81,
       "Timmins": 65,
-      "Toronto": 11067,
+      "Toronto": 11068,
       "Waterloo": 1134,
-      "Whitby": 1505,
-      "Windsor": 988
+      "Whitby": 1506,
+      "Windsor": 989
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9740
@@ -9471,10 +9471,10 @@
       "Thorold": 689,
       "Thunder Bay": 82,
       "Timmins": 65,
-      "Toronto": 11198,
+      "Toronto": 11199,
       "Waterloo": 1143,
-      "Whitby": 1521,
-      "Windsor": 995
+      "Whitby": 1522,
+      "Windsor": 996
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9908
@@ -9536,7 +9536,7 @@
   },
   {
     "cities_new_cases": {
-      "Barrie": 3,
+      "Barrie": 4,
       "Brantford": 1,
       "Brockville": 1,
       "Chatham": 2,
@@ -9561,7 +9561,7 @@
       "Toronto Public Health": 110
     },
     "cities_total_cases": {
-      "Barrie": 489,
+      "Barrie": 490,
       "Belleville": 44,
       "Brantford": 120,
       "Brockville": 350,
@@ -9591,10 +9591,10 @@
       "Thorold": 692,
       "Thunder Bay": 82,
       "Timmins": 65,
-      "Toronto": 11291,
+      "Toronto": 11292,
       "Waterloo": 1151,
-      "Whitby": 1532,
-      "Windsor": 1008
+      "Whitby": 1533,
+      "Windsor": 1009
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10018
@@ -9678,7 +9678,7 @@
       "Toronto Public Health": 120
     },
     "cities_total_cases": {
-      "Barrie": 489,
+      "Barrie": 490,
       "Belleville": 44,
       "Brantford": 120,
       "Brockville": 351,
@@ -9708,10 +9708,10 @@
       "Thorold": 710,
       "Thunder Bay": 82,
       "Timmins": 65,
-      "Toronto": 11369,
+      "Toronto": 11370,
       "Waterloo": 1159,
-      "Whitby": 1541,
-      "Windsor": 1015
+      "Whitby": 1542,
+      "Windsor": 1016
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10138
@@ -9795,7 +9795,7 @@
       "Toronto Public Health": 152
     },
     "cities_total_cases": {
-      "Barrie": 493,
+      "Barrie": 494,
       "Belleville": 44,
       "Brantford": 122,
       "Brockville": 351,
@@ -9825,10 +9825,10 @@
       "Thorold": 715,
       "Thunder Bay": 82,
       "Timmins": 65,
-      "Toronto": 11538,
+      "Toronto": 11539,
       "Waterloo": 1165,
-      "Whitby": 1562,
-      "Windsor": 1031
+      "Whitby": 1563,
+      "Windsor": 1032
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10290
@@ -9893,7 +9893,7 @@
       "Barrie": 4,
       "Chatham": 2,
       "Guelph": 2,
-      "Hamilton": 7,
+      "Hamilton": 8,
       "London": 2,
       "Mississauga": 42,
       "Newmarket": 10,
@@ -9913,14 +9913,14 @@
       "Toronto Public Health": 165
     },
     "cities_total_cases": {
-      "Barrie": 497,
+      "Barrie": 498,
       "Belleville": 44,
       "Brantford": 122,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 150,
       "Guelph": 405,
-      "Hamilton": 727,
+      "Hamilton": 728,
       "Kenora": 22,
       "Kingston": 64,
       "London": 559,
@@ -9943,10 +9943,10 @@
       "Thorold": 723,
       "Thunder Bay": 83,
       "Timmins": 65,
-      "Toronto": 11642,
+      "Toronto": 11643,
       "Waterloo": 1174,
-      "Whitby": 1582,
-      "Windsor": 1042
+      "Whitby": 1583,
+      "Windsor": 1043
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10455
@@ -10032,14 +10032,14 @@
       "Toronto Public Health": 110
     },
     "cities_total_cases": {
-      "Barrie": 502,
+      "Barrie": 503,
       "Belleville": 44,
       "Brantford": 123,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 150,
       "Guelph": 407,
-      "Hamilton": 730,
+      "Hamilton": 731,
       "Kenora": 26,
       "Kingston": 64,
       "London": 564,
@@ -10062,10 +10062,10 @@
       "Thorold": 726,
       "Thunder Bay": 83,
       "Timmins": 65,
-      "Toronto": 11731,
+      "Toronto": 11732,
       "Waterloo": 1180,
-      "Whitby": 1591,
-      "Windsor": 1048
+      "Whitby": 1592,
+      "Windsor": 1049
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10565
@@ -10151,14 +10151,14 @@
       "Toronto Public Health": 181
     },
     "cities_total_cases": {
-      "Barrie": 505,
+      "Barrie": 506,
       "Belleville": 44,
       "Brantford": 124,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 151,
       "Guelph": 408,
-      "Hamilton": 736,
+      "Hamilton": 737,
       "Kenora": 26,
       "Kingston": 64,
       "London": 568,
@@ -10181,10 +10181,10 @@
       "Thorold": 727,
       "Thunder Bay": 84,
       "Timmins": 65,
-      "Toronto": 11839,
+      "Toronto": 11840,
       "Waterloo": 1189,
-      "Whitby": 1603,
-      "Windsor": 1061
+      "Whitby": 1604,
+      "Windsor": 1062
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10746
@@ -10269,14 +10269,14 @@
       "Toronto Public Health": 180
     },
     "cities_total_cases": {
-      "Barrie": 507,
+      "Barrie": 508,
       "Belleville": 44,
       "Brantford": 124,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 153,
       "Guelph": 410,
-      "Hamilton": 743,
+      "Hamilton": 744,
       "Kenora": 26,
       "Kingston": 64,
       "London": 572,
@@ -10299,10 +10299,10 @@
       "Thorold": 729,
       "Thunder Bay": 85,
       "Timmins": 65,
-      "Toronto": 11932,
+      "Toronto": 11933,
       "Waterloo": 1192,
-      "Whitby": 1609,
-      "Windsor": 1092
+      "Whitby": 1610,
+      "Windsor": 1093
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10926
@@ -10385,14 +10385,14 @@
       "Toronto Public Health": 195
     },
     "cities_total_cases": {
-      "Barrie": 509,
+      "Barrie": 510,
       "Belleville": 44,
       "Brantford": 124,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 153,
       "Guelph": 416,
-      "Hamilton": 750,
+      "Hamilton": 751,
       "Kenora": 27,
       "Kingston": 64,
       "London": 574,
@@ -10415,10 +10415,10 @@
       "Thorold": 730,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 11998,
+      "Toronto": 11999,
       "Waterloo": 1198,
-      "Whitby": 1616,
-      "Windsor": 1129
+      "Whitby": 1617,
+      "Windsor": 1130
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11121
@@ -10502,14 +10502,14 @@
       "Toronto Public Health": 310
     },
     "cities_total_cases": {
-      "Barrie": 515,
+      "Barrie": 516,
       "Belleville": 44,
       "Brantford": 125,
       "Brockville": 351,
       "Chatham": 149,
       "Cornwall": 154,
       "Guelph": 417,
-      "Hamilton": 757,
+      "Hamilton": 758,
       "Kenora": 27,
       "Kingston": 64,
       "London": 576,
@@ -10532,10 +10532,10 @@
       "Thorold": 731,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 12083,
+      "Toronto": 12084,
       "Waterloo": 1199,
-      "Whitby": 1619,
-      "Windsor": 1137
+      "Whitby": 1620,
+      "Windsor": 1138
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11431
@@ -10619,14 +10619,14 @@
       "Toronto Public Health": 123
     },
     "cities_total_cases": {
-      "Barrie": 519,
+      "Barrie": 520,
       "Belleville": 44,
       "Brantford": 127,
       "Brockville": 351,
       "Chatham": 150,
       "Cornwall": 155,
       "Guelph": 418,
-      "Hamilton": 763,
+      "Hamilton": 764,
       "Kenora": 27,
       "Kingston": 64,
       "London": 582,
@@ -10649,10 +10649,10 @@
       "Thorold": 733,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 12171,
+      "Toronto": 12172,
       "Waterloo": 1211,
-      "Whitby": 1632,
-      "Windsor": 1148
+      "Whitby": 1633,
+      "Windsor": 1149
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11554
@@ -10727,7 +10727,7 @@
       "Sault Ste. Marie": 1,
       "Simcoe": 3,
       "St. Thomas": 1,
-      "Toronto": 69,
+      "Toronto": 70,
       "Waterloo": 4,
       "Whitby": 5,
       "Windsor": 20
@@ -10736,14 +10736,14 @@
       "Toronto Public Health": 114
     },
     "cities_total_cases": {
-      "Barrie": 519,
+      "Barrie": 520,
       "Belleville": 44,
       "Brantford": 127,
       "Brockville": 351,
       "Chatham": 151,
       "Cornwall": 155,
       "Guelph": 422,
-      "Hamilton": 764,
+      "Hamilton": 765,
       "Kenora": 27,
       "Kingston": 64,
       "London": 588,
@@ -10766,10 +10766,10 @@
       "Thorold": 733,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 12240,
+      "Toronto": 12242,
       "Waterloo": 1215,
-      "Whitby": 1637,
-      "Windsor": 1168
+      "Whitby": 1638,
+      "Windsor": 1169
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11668
@@ -10853,14 +10853,14 @@
       "Toronto Public Health": 98
     },
     "cities_total_cases": {
-      "Barrie": 525,
+      "Barrie": 526,
       "Belleville": 44,
       "Brantford": 127,
       "Brockville": 351,
       "Chatham": 152,
       "Cornwall": 156,
       "Guelph": 427,
-      "Hamilton": 770,
+      "Hamilton": 771,
       "Kenora": 27,
       "Kingston": 64,
       "London": 592,
@@ -10883,10 +10883,10 @@
       "Thorold": 735,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 12308,
+      "Toronto": 12310,
       "Waterloo": 1218,
-      "Whitby": 1641,
-      "Windsor": 1209
+      "Whitby": 1642,
+      "Windsor": 1210
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11766
@@ -10973,14 +10973,14 @@
       "Toronto Public Health": 87
     },
     "cities_total_cases": {
-      "Barrie": 528,
+      "Barrie": 529,
       "Belleville": 44,
       "Brantford": 128,
       "Brockville": 351,
       "Chatham": 153,
       "Cornwall": 157,
       "Guelph": 431,
-      "Hamilton": 770,
+      "Hamilton": 771,
       "Kenora": 27,
       "Kingston": 64,
       "London": 594,
@@ -11003,10 +11003,10 @@
       "Thorold": 735,
       "Thunder Bay": 86,
       "Timmins": 65,
-      "Toronto": 12389,
+      "Toronto": 12391,
       "Waterloo": 1225,
-      "Whitby": 1648,
-      "Windsor": 1215
+      "Whitby": 1649,
+      "Windsor": 1216
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11853
@@ -11081,14 +11081,14 @@
       "Toronto Public Health": 90
     },
     "cities_total_cases": {
-      "Barrie": 536,
+      "Barrie": 537,
       "Belleville": 44,
       "Brantford": 128,
       "Brockville": 351,
       "Chatham": 154,
       "Cornwall": 159,
       "Guelph": 436,
-      "Hamilton": 773,
+      "Hamilton": 774,
       "Kenora": 27,
       "Kingston": 64,
       "London": 597,
@@ -11111,10 +11111,10 @@
       "Thorold": 739,
       "Thunder Bay": 87,
       "Timmins": 65,
-      "Toronto": 12449,
+      "Toronto": 12451,
       "Waterloo": 1231,
-      "Whitby": 1652,
-      "Windsor": 1238
+      "Whitby": 1653,
+      "Windsor": 1239
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 11943
@@ -11188,14 +11188,14 @@
       "Toronto Public Health": 104
     },
     "cities_total_cases": {
-      "Barrie": 541,
+      "Barrie": 542,
       "Belleville": 44,
       "Brantford": 129,
       "Brockville": 352,
       "Chatham": 154,
       "Cornwall": 160,
       "Guelph": 436,
-      "Hamilton": 774,
+      "Hamilton": 775,
       "Kenora": 28,
       "Kingston": 64,
       "London": 600,
@@ -11218,10 +11218,10 @@
       "Thorold": 739,
       "Thunder Bay": 87,
       "Timmins": 65,
-      "Toronto": 12485,
+      "Toronto": 12487,
       "Waterloo": 1236,
-      "Whitby": 1656,
-      "Windsor": 1253
+      "Whitby": 1657,
+      "Windsor": 1254
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12047
@@ -11295,14 +11295,14 @@
       "Toronto Public Health": 74
     },
     "cities_total_cases": {
-      "Barrie": 549,
+      "Barrie": 550,
       "Belleville": 44,
       "Brantford": 130,
       "Brockville": 352,
       "Chatham": 154,
       "Cornwall": 161,
       "Guelph": 441,
-      "Hamilton": 776,
+      "Hamilton": 777,
       "Kenora": 28,
       "Kingston": 64,
       "London": 600,
@@ -11325,10 +11325,10 @@
       "Thorold": 741,
       "Thunder Bay": 89,
       "Timmins": 65,
-      "Toronto": 12541,
+      "Toronto": 12543,
       "Waterloo": 1241,
-      "Whitby": 1658,
-      "Windsor": 1269
+      "Whitby": 1659,
+      "Windsor": 1270
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12121
@@ -11401,14 +11401,14 @@
       "Toronto Public Health": 85
     },
     "cities_total_cases": {
-      "Barrie": 560,
+      "Barrie": 561,
       "Belleville": 44,
       "Brantford": 130,
       "Brockville": 352,
       "Chatham": 156,
       "Cornwall": 161,
       "Guelph": 447,
-      "Hamilton": 778,
+      "Hamilton": 779,
       "Kenora": 31,
       "Kingston": 64,
       "London": 607,
@@ -11431,10 +11431,10 @@
       "Thorold": 741,
       "Thunder Bay": 89,
       "Timmins": 65,
-      "Toronto": 12609,
+      "Toronto": 12611,
       "Waterloo": 1249,
-      "Whitby": 1661,
-      "Windsor": 1292
+      "Whitby": 1662,
+      "Windsor": 1293
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12206
@@ -11506,14 +11506,14 @@
       "Toronto Public Health": 79
     },
     "cities_total_cases": {
-      "Barrie": 562,
+      "Barrie": 563,
       "Belleville": 44,
       "Brantford": 130,
       "Brockville": 352,
       "Chatham": 156,
       "Cornwall": 163,
       "Guelph": 450,
-      "Hamilton": 787,
+      "Hamilton": 788,
       "Kenora": 31,
       "Kingston": 66,
       "London": 610,
@@ -11536,10 +11536,10 @@
       "Thorold": 744,
       "Thunder Bay": 89,
       "Timmins": 65,
-      "Toronto": 12660,
+      "Toronto": 12662,
       "Waterloo": 1253,
-      "Whitby": 1664,
-      "Windsor": 1320
+      "Whitby": 1665,
+      "Windsor": 1321
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12285
@@ -11593,7 +11593,7 @@
       "Chatham": 1,
       "Guelph": 6,
       "Hamilton": 2,
-      "Mississauga": 44,
+      "Mississauga": 45,
       "Newmarket": 14,
       "Oakville": 4,
       "Ottawa": 4,
@@ -11610,18 +11610,18 @@
       "Toronto Public Health": 94
     },
     "cities_total_cases": {
-      "Barrie": 576,
+      "Barrie": 577,
       "Belleville": 44,
       "Brantford": 130,
       "Brockville": 352,
       "Chatham": 157,
       "Cornwall": 163,
       "Guelph": 456,
-      "Hamilton": 789,
+      "Hamilton": 790,
       "Kenora": 31,
       "Kingston": 66,
       "London": 610,
-      "Mississauga": 5509,
+      "Mississauga": 5510,
       "New Liskeard": 18,
       "Newmarket": 2880,
       "North Bay": 29,
@@ -11640,10 +11640,10 @@
       "Thorold": 745,
       "Thunder Bay": 89,
       "Timmins": 65,
-      "Toronto": 12728,
+      "Toronto": 12730,
       "Waterloo": 1261,
-      "Whitby": 1670,
-      "Windsor": 1326
+      "Whitby": 1671,
+      "Windsor": 1327
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12379
@@ -11697,7 +11697,7 @@
       "Brantford": 2,
       "Cornwall": 1,
       "Guelph": 2,
-      "Hamilton": 4,
+      "Hamilton": 3,
       "Kenora": 3,
       "Kingston": 1,
       "Mississauga": 33,
@@ -11707,7 +11707,7 @@
       "Peterborough": 2,
       "Point Edward": 1,
       "Thorold": 1,
-      "Toronto": 62,
+      "Toronto": 63,
       "Waterloo": 6,
       "Whitby": 1,
       "Windsor": 10
@@ -11716,7 +11716,7 @@
       "Toronto Public Health": 70
     },
     "cities_total_cases": {
-      "Barrie": 581,
+      "Barrie": 582,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -11727,7 +11727,7 @@
       "Kenora": 34,
       "Kingston": 67,
       "London": 610,
-      "Mississauga": 5542,
+      "Mississauga": 5543,
       "New Liskeard": 18,
       "Newmarket": 2892,
       "North Bay": 29,
@@ -11746,10 +11746,10 @@
       "Thorold": 746,
       "Thunder Bay": 89,
       "Timmins": 65,
-      "Toronto": 12790,
+      "Toronto": 12793,
       "Waterloo": 1267,
-      "Whitby": 1671,
-      "Windsor": 1336
+      "Whitby": 1672,
+      "Windsor": 1337
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12449
@@ -11817,7 +11817,7 @@
       "Sudbury": 1,
       "Thorold": 4,
       "Timmins": 1,
-      "Toronto": 58,
+      "Toronto": 57,
       "Waterloo": 6,
       "Whitby": 3,
       "Windsor": 18
@@ -11826,7 +11826,7 @@
       "Toronto Public Health": 56
     },
     "cities_total_cases": {
-      "Barrie": 587,
+      "Barrie": 588,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -11837,7 +11837,7 @@
       "Kenora": 36,
       "Kingston": 68,
       "London": 612,
-      "Mississauga": 5573,
+      "Mississauga": 5574,
       "New Liskeard": 18,
       "Newmarket": 2904,
       "North Bay": 29,
@@ -11856,10 +11856,10 @@
       "Thorold": 750,
       "Thunder Bay": 89,
       "Timmins": 66,
-      "Toronto": 12848,
+      "Toronto": 12850,
       "Waterloo": 1273,
-      "Whitby": 1674,
-      "Windsor": 1354
+      "Whitby": 1675,
+      "Windsor": 1355
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12505
@@ -11915,7 +11915,7 @@
       "Kenora": 1,
       "Kingston": 1,
       "London": 3,
-      "Mississauga": 39,
+      "Mississauga": 38,
       "Newmarket": 15,
       "Oakville": 2,
       "Ottawa": 6,
@@ -11929,7 +11929,7 @@
       "Toronto Public Health": 71
     },
     "cities_total_cases": {
-      "Barrie": 593,
+      "Barrie": 594,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -11959,10 +11959,10 @@
       "Thorold": 750,
       "Thunder Bay": 89,
       "Timmins": 66,
-      "Toronto": 12897,
+      "Toronto": 12899,
       "Waterloo": 1279,
-      "Whitby": 1683,
-      "Windsor": 1370
+      "Whitby": 1684,
+      "Windsor": 1371
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12576
@@ -12013,7 +12013,7 @@
   {
     "cities_new_cases": {
       "Barrie": 3,
-      "Guelph": 4,
+      "Guelph": 3,
       "Hamilton": 3,
       "Kingston": 3,
       "London": 2,
@@ -12026,7 +12026,7 @@
       "Thorold": 2,
       "Thunder Bay": 1,
       "Timmins": 1,
-      "Toronto": 46,
+      "Toronto": 45,
       "Waterloo": 2,
       "Whitby": 1,
       "Windsor": 12
@@ -12035,13 +12035,13 @@
       "Toronto Public Health": 63
     },
     "cities_total_cases": {
-      "Barrie": 596,
+      "Barrie": 597,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
       "Chatham": 157,
       "Cornwall": 164,
-      "Guelph": 466,
+      "Guelph": 465,
       "Hamilton": 810,
       "Kenora": 37,
       "Kingston": 72,
@@ -12065,10 +12065,10 @@
       "Thorold": 752,
       "Thunder Bay": 90,
       "Timmins": 67,
-      "Toronto": 12943,
+      "Toronto": 12944,
       "Waterloo": 1281,
-      "Whitby": 1684,
-      "Windsor": 1382
+      "Whitby": 1685,
+      "Windsor": 1383
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12639
@@ -12140,13 +12140,13 @@
       "Toronto Public Health": 36
     },
     "cities_total_cases": {
-      "Barrie": 600,
+      "Barrie": 601,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
       "Chatham": 157,
       "Cornwall": 164,
-      "Guelph": 470,
+      "Guelph": 469,
       "Hamilton": 815,
       "Kenora": 37,
       "Kingston": 78,
@@ -12170,10 +12170,10 @@
       "Thorold": 757,
       "Thunder Bay": 90,
       "Timmins": 67,
-      "Toronto": 12995,
+      "Toronto": 12996,
       "Waterloo": 1294,
-      "Whitby": 1686,
-      "Windsor": 1395
+      "Whitby": 1687,
+      "Windsor": 1396
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12675
@@ -12235,7 +12235,7 @@
       "Pembroke": 1,
       "Simcoe": 1,
       "Thorold": 1,
-      "Toronto": 56,
+      "Toronto": 57,
       "Waterloo": 4,
       "Whitby": 7,
       "Windsor": 9
@@ -12244,13 +12244,13 @@
       "Toronto Public Health": 63
     },
     "cities_total_cases": {
-      "Barrie": 600,
+      "Barrie": 601,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
       "Chatham": 157,
       "Cornwall": 164,
-      "Guelph": 471,
+      "Guelph": 470,
       "Hamilton": 819,
       "Kenora": 37,
       "Kingston": 81,
@@ -12274,10 +12274,10 @@
       "Thorold": 758,
       "Thunder Bay": 90,
       "Timmins": 67,
-      "Toronto": 13051,
+      "Toronto": 13053,
       "Waterloo": 1298,
-      "Whitby": 1693,
-      "Windsor": 1404
+      "Whitby": 1694,
+      "Windsor": 1405
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12738
@@ -12344,13 +12344,13 @@
       "Windsor": 20
     },
     "cities_total_cases": {
-      "Barrie": 604,
+      "Barrie": 605,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
       "Chatham": 157,
       "Cornwall": 164,
-      "Guelph": 474,
+      "Guelph": 473,
       "Hamilton": 824,
       "Kenora": 37,
       "Kingston": 84,
@@ -12374,10 +12374,10 @@
       "Thorold": 758,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13105,
+      "Toronto": 13107,
       "Waterloo": 1303,
-      "Whitby": 1694,
-      "Windsor": 1424
+      "Whitby": 1695,
+      "Windsor": 1425
     },
     "date": "2020-06-24",
     "deaths": 2631,
@@ -12426,7 +12426,7 @@
     "cities_new_cases": {
       "Barrie": 5,
       "Chatham": 2,
-      "Guelph": 4,
+      "Guelph": 5,
       "Hamilton": 7,
       "Kingston": 2,
       "London": 4,
@@ -12445,7 +12445,7 @@
       "Windsor": 135
     },
     "cities_total_cases": {
-      "Barrie": 609,
+      "Barrie": 610,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -12475,10 +12475,10 @@
       "Thorold": 761,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13152,
+      "Toronto": 13154,
       "Waterloo": 1304,
-      "Whitby": 1700,
-      "Windsor": 1559
+      "Whitby": 1701,
+      "Windsor": 1560
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12867
@@ -12548,7 +12548,7 @@
       "Toronto Public Health": 30
     },
     "cities_total_cases": {
-      "Barrie": 609,
+      "Barrie": 610,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -12578,10 +12578,10 @@
       "Thorold": 762,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13194,
+      "Toronto": 13196,
       "Waterloo": 1311,
-      "Whitby": 1700,
-      "Windsor": 1573
+      "Whitby": 1701,
+      "Windsor": 1574
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12897
@@ -12649,7 +12649,7 @@
       "Toronto Public Health": 56
     },
     "cities_total_cases": {
-      "Barrie": 610,
+      "Barrie": 611,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -12679,10 +12679,10 @@
       "Thorold": 763,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13240,
+      "Toronto": 13242,
       "Waterloo": 1314,
-      "Whitby": 1702,
-      "Windsor": 1605
+      "Whitby": 1703,
+      "Windsor": 1606
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 12953
@@ -12743,7 +12743,7 @@
       "Ottawa": 2,
       "Port Hope": 1,
       "Thorold": 3,
-      "Toronto": 35,
+      "Toronto": 36,
       "Waterloo": 1,
       "Whitby": 3,
       "Windsor": 25
@@ -12752,7 +12752,7 @@
       "Toronto Public Health": 73
     },
     "cities_total_cases": {
-      "Barrie": 612,
+      "Barrie": 613,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -12782,10 +12782,10 @@
       "Thorold": 766,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13275,
+      "Toronto": 13278,
       "Waterloo": 1315,
-      "Whitby": 1705,
-      "Windsor": 1630
+      "Whitby": 1706,
+      "Windsor": 1631
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13026
@@ -12858,7 +12858,7 @@
       "Toronto Public Health": -4
     },
     "cities_total_cases": {
-      "Barrie": 613,
+      "Barrie": 614,
       "Belleville": 44,
       "Brantford": 132,
       "Brockville": 352,
@@ -12888,10 +12888,10 @@
       "Thorold": 767,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13341,
+      "Toronto": 13344,
       "Waterloo": 1319,
-      "Whitby": 1708,
-      "Windsor": 1639
+      "Whitby": 1709,
+      "Windsor": 1640
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13022
@@ -12963,7 +12963,7 @@
       "Toronto Public Health": 47
     },
     "cities_total_cases": {
-      "Barrie": 614,
+      "Barrie": 615,
       "Belleville": 44,
       "Brantford": 134,
       "Brockville": 353,
@@ -12993,10 +12993,10 @@
       "Thorold": 768,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13390,
+      "Toronto": 13393,
       "Waterloo": 1321,
-      "Whitby": 1712,
-      "Windsor": 1657
+      "Whitby": 1713,
+      "Windsor": 1658
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13069
@@ -13068,7 +13068,7 @@
       "Toronto Public Health": 79
     },
     "cities_total_cases": {
-      "Barrie": 614,
+      "Barrie": 615,
       "Belleville": 44,
       "Brantford": 136,
       "Brockville": 354,
@@ -13098,10 +13098,10 @@
       "Thorold": 769,
       "Thunder Bay": 91,
       "Timmins": 67,
-      "Toronto": 13421,
+      "Toronto": 13424,
       "Waterloo": 1322,
-      "Whitby": 1717,
-      "Windsor": 1671
+      "Whitby": 1718,
+      "Windsor": 1672
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13148
@@ -13156,12 +13156,12 @@
       "Guelph": 4,
       "Hamilton": 1,
       "Kingston": 2,
-      "Mississauga": 37,
+      "Mississauga": 36,
       "Newmarket": 10,
       "Oakville": 2,
       "Ottawa": 5,
       "Thunder Bay": 1,
-      "Toronto": 30,
+      "Toronto": 29,
       "Waterloo": 1,
       "Whitby": 5,
       "Windsor": 13
@@ -13170,7 +13170,7 @@
       "Toronto Public Health": 71
     },
     "cities_total_cases": {
-      "Barrie": 615,
+      "Barrie": 616,
       "Belleville": 44,
       "Brantford": 136,
       "Brockville": 354,
@@ -13181,7 +13181,7 @@
       "Kenora": 41,
       "Kingston": 105,
       "London": 631,
-      "Mississauga": 5998,
+      "Mississauga": 5997,
       "New Liskeard": 18,
       "Newmarket": 3067,
       "North Bay": 35,
@@ -13200,10 +13200,10 @@
       "Thorold": 769,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13451,
+      "Toronto": 13453,
       "Waterloo": 1323,
-      "Whitby": 1722,
-      "Windsor": 1684
+      "Whitby": 1723,
+      "Windsor": 1685
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13219
@@ -13264,7 +13264,7 @@
       "Oakville": 4,
       "Ottawa": 7,
       "Thorold": 2,
-      "Toronto": 35,
+      "Toronto": 36,
       "Waterloo": 2,
       "Whitby": 4,
       "Windsor": 15
@@ -13273,7 +13273,7 @@
       "Toronto Public Health": 87
     },
     "cities_total_cases": {
-      "Barrie": 616,
+      "Barrie": 617,
       "Belleville": 44,
       "Brantford": 138,
       "Brockville": 354,
@@ -13284,7 +13284,7 @@
       "Kenora": 41,
       "Kingston": 105,
       "London": 632,
-      "Mississauga": 6021,
+      "Mississauga": 6020,
       "New Liskeard": 18,
       "Newmarket": 3075,
       "North Bay": 35,
@@ -13303,10 +13303,10 @@
       "Thorold": 771,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13486,
+      "Toronto": 13489,
       "Waterloo": 1325,
-      "Whitby": 1726,
-      "Windsor": 1699
+      "Whitby": 1727,
+      "Windsor": 1700
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13306
@@ -13360,13 +13360,13 @@
       "Brantford": 1,
       "Hamilton": 3,
       "London": 1,
-      "Mississauga": 29,
+      "Mississauga": 30,
       "Newmarket": 8,
       "Oakville": 5,
       "Ottawa": 4,
       "Stratford": 1,
       "Thorold": 2,
-      "Toronto": 27,
+      "Toronto": 26,
       "Waterloo": 5,
       "Whitby": 3,
       "Windsor": 13
@@ -13375,7 +13375,7 @@
       "Toronto Public Health": 27
     },
     "cities_total_cases": {
-      "Barrie": 617,
+      "Barrie": 618,
       "Belleville": 44,
       "Brantford": 139,
       "Brockville": 354,
@@ -13405,10 +13405,10 @@
       "Thorold": 773,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13513,
+      "Toronto": 13515,
       "Waterloo": 1330,
-      "Whitby": 1729,
-      "Windsor": 1712
+      "Whitby": 1730,
+      "Windsor": 1713
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13333
@@ -13473,7 +13473,7 @@
       "Toronto Public Health": 39
     },
     "cities_total_cases": {
-      "Barrie": 617,
+      "Barrie": 618,
       "Belleville": 44,
       "Brantford": 141,
       "Brockville": 354,
@@ -13503,10 +13503,10 @@
       "Thorold": 773,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13537,
+      "Toronto": 13539,
       "Waterloo": 1331,
-      "Whitby": 1733,
-      "Windsor": 1724
+      "Whitby": 1734,
+      "Windsor": 1725
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13372
@@ -13571,7 +13571,7 @@
       "Point Edward": 1,
       "St. Thomas": 1,
       "Thorold": 5,
-      "Toronto": 61,
+      "Toronto": 60,
       "Waterloo": 3,
       "Whitby": 10,
       "Windsor": 57
@@ -13580,7 +13580,7 @@
       "Toronto Public Health": 59
     },
     "cities_total_cases": {
-      "Barrie": 620,
+      "Barrie": 621,
       "Belleville": 44,
       "Brantford": 142,
       "Brockville": 355,
@@ -13610,10 +13610,10 @@
       "Thorold": 778,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13598,
+      "Toronto": 13599,
       "Waterloo": 1334,
-      "Whitby": 1743,
-      "Windsor": 1781
+      "Whitby": 1744,
+      "Windsor": 1782
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13431
@@ -13681,7 +13681,7 @@
       "Windsor": 30
     },
     "cities_total_cases": {
-      "Barrie": 620,
+      "Barrie": 621,
       "Belleville": 44,
       "Brantford": 144,
       "Brockville": 355,
@@ -13711,10 +13711,10 @@
       "Thorold": 782,
       "Thunder Bay": 92,
       "Timmins": 67,
-      "Toronto": 13637,
+      "Toronto": 13638,
       "Waterloo": 1338,
-      "Whitby": 1752,
-      "Windsor": 1811
+      "Whitby": 1753,
+      "Windsor": 1812
     },
     "date": "2020-07-07",
     "deaths": 2691,
@@ -13772,13 +13772,13 @@
       "Port Hope": 2,
       "St. Thomas": 2,
       "Thorold": 5,
-      "Toronto": 44,
+      "Toronto": 43,
       "Waterloo": 2,
       "Whitby": 6,
       "Windsor": 18
     },
     "cities_total_cases": {
-      "Barrie": 621,
+      "Barrie": 622,
       "Belleville": 44,
       "Brantford": 145,
       "Brockville": 355,
@@ -13810,8 +13810,8 @@
       "Timmins": 67,
       "Toronto": 13681,
       "Waterloo": 1340,
-      "Whitby": 1758,
-      "Windsor": 1829
+      "Whitby": 1759,
+      "Windsor": 1830
     },
     "date": "2020-07-08",
     "deaths": 2700,
@@ -13878,7 +13878,7 @@
       "Windsor": 19
     },
     "cities_total_cases": {
-      "Barrie": 623,
+      "Barrie": 624,
       "Belleville": 44,
       "Brantford": 145,
       "Brockville": 355,
@@ -13910,8 +13910,8 @@
       "Timmins": 68,
       "Toronto": 13705,
       "Waterloo": 1345,
-      "Whitby": 1761,
-      "Windsor": 1848
+      "Whitby": 1762,
+      "Windsor": 1849
     },
     "date": "2020-07-09",
     "deaths": 2703,
@@ -13975,7 +13975,7 @@
       "Windsor": 18
     },
     "cities_total_cases": {
-      "Barrie": 625,
+      "Barrie": 626,
       "Belleville": 44,
       "Brantford": 145,
       "Brockville": 355,
@@ -14007,8 +14007,8 @@
       "Timmins": 68,
       "Toronto": 13733,
       "Waterloo": 1346,
-      "Whitby": 1764,
-      "Windsor": 1866
+      "Whitby": 1765,
+      "Windsor": 1867
     },
     "date": "2020-07-10",
     "deaths": 2710,
@@ -14072,7 +14072,7 @@
       "Windsor": 24
     },
     "cities_total_cases": {
-      "Barrie": 628,
+      "Barrie": 629,
       "Belleville": 44,
       "Brantford": 147,
       "Brockville": 355,
@@ -14104,8 +14104,8 @@
       "Timmins": 68,
       "Toronto": 13762,
       "Waterloo": 1349,
-      "Whitby": 1770,
-      "Windsor": 1890
+      "Whitby": 1771,
+      "Windsor": 1891
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13603
@@ -14175,7 +14175,7 @@
       "Toronto Public Health": 36
     },
     "cities_total_cases": {
-      "Barrie": 630,
+      "Barrie": 631,
       "Belleville": 44,
       "Brantford": 148,
       "Brockville": 355,
@@ -14207,8 +14207,8 @@
       "Timmins": 68,
       "Toronto": 13781,
       "Waterloo": 1352,
-      "Whitby": 1771,
-      "Windsor": 1901
+      "Whitby": 1772,
+      "Windsor": 1902
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13639
@@ -14282,7 +14282,7 @@
       "Toronto Public Health": 34
     },
     "cities_total_cases": {
-      "Barrie": 636,
+      "Barrie": 637,
       "Belleville": 44,
       "Brantford": 148,
       "Brockville": 355,
@@ -14314,8 +14314,8 @@
       "Timmins": 69,
       "Toronto": 13825,
       "Waterloo": 1354,
-      "Whitby": 1775,
-      "Windsor": 1936
+      "Whitby": 1776,
+      "Windsor": 1937
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13673
@@ -14386,7 +14386,7 @@
       "Toronto Public Health": 14
     },
     "cities_total_cases": {
-      "Barrie": 641,
+      "Barrie": 642,
       "Belleville": 44,
       "Brantford": 148,
       "Brockville": 355,
@@ -14418,8 +14418,8 @@
       "Timmins": 69,
       "Toronto": 13851,
       "Waterloo": 1360,
-      "Whitby": 1780,
-      "Windsor": 1967
+      "Whitby": 1781,
+      "Windsor": 1968
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13687
@@ -14493,7 +14493,7 @@
       "Toronto Public Health": 49
     },
     "cities_total_cases": {
-      "Barrie": 645,
+      "Barrie": 646,
       "Belleville": 44,
       "Brantford": 148,
       "Brockville": 355,
@@ -14525,8 +14525,8 @@
       "Timmins": 69,
       "Toronto": 13888,
       "Waterloo": 1364,
-      "Whitby": 1781,
-      "Windsor": 2009
+      "Whitby": 1782,
+      "Windsor": 2010
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13736
@@ -14579,7 +14579,7 @@
       "Barrie": 2,
       "Chatham": 3,
       "Guelph": 1,
-      "Hamilton": 1,
+      "Hamilton": 3,
       "London": 1,
       "Mississauga": 27,
       "Newmarket": 8,
@@ -14599,14 +14599,14 @@
       "Toronto Public Health": 30
     },
     "cities_total_cases": {
-      "Barrie": 647,
+      "Barrie": 648,
       "Belleville": 44,
       "Brantford": 148,
       "Brockville": 355,
       "Chatham": 200,
       "Cornwall": 175,
       "Guelph": 516,
-      "Hamilton": 872,
+      "Hamilton": 874,
       "Kenora": 41,
       "Kingston": 106,
       "London": 648,
@@ -14631,8 +14631,8 @@
       "Timmins": 69,
       "Toronto": 13915,
       "Waterloo": 1365,
-      "Whitby": 1786,
-      "Windsor": 2037
+      "Whitby": 1787,
+      "Windsor": 2038
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13766
@@ -14686,7 +14686,7 @@
       "Brantford": 1,
       "Chatham": 4,
       "Guelph": 3,
-      "Hamilton": 1,
+      "Hamilton": 2,
       "London": 4,
       "Mississauga": 26,
       "Newmarket": 8,
@@ -14707,14 +14707,14 @@
       "Toronto Public Health": 38
     },
     "cities_total_cases": {
-      "Barrie": 650,
+      "Barrie": 651,
       "Belleville": 44,
       "Brantford": 149,
       "Brockville": 355,
       "Chatham": 204,
       "Cornwall": 175,
       "Guelph": 519,
-      "Hamilton": 873,
+      "Hamilton": 876,
       "Kenora": 41,
       "Kingston": 106,
       "London": 652,
@@ -14739,8 +14739,8 @@
       "Timmins": 69,
       "Toronto": 13931,
       "Waterloo": 1366,
-      "Whitby": 1788,
-      "Windsor": 2064
+      "Whitby": 1789,
+      "Windsor": 2065
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13804
@@ -14812,14 +14812,14 @@
       "Toronto Public Health": 47
     },
     "cities_total_cases": {
-      "Barrie": 651,
+      "Barrie": 652,
       "Belleville": 44,
       "Brantford": 150,
       "Brockville": 355,
       "Chatham": 206,
       "Cornwall": 175,
       "Guelph": 521,
-      "Hamilton": 875,
+      "Hamilton": 878,
       "Kenora": 42,
       "Kingston": 106,
       "London": 653,
@@ -14844,8 +14844,8 @@
       "Timmins": 69,
       "Toronto": 13949,
       "Waterloo": 1370,
-      "Whitby": 1790,
-      "Windsor": 2093
+      "Whitby": 1791,
+      "Windsor": 2094
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13851
@@ -14920,14 +14920,14 @@
       "Toronto Public Health": 25
     },
     "cities_total_cases": {
-      "Barrie": 652,
+      "Barrie": 653,
       "Belleville": 44,
       "Brantford": 150,
       "Brockville": 355,
       "Chatham": 210,
       "Cornwall": 175,
       "Guelph": 525,
-      "Hamilton": 876,
+      "Hamilton": 879,
       "Kenora": 42,
       "Kingston": 106,
       "London": 656,
@@ -14952,8 +14952,8 @@
       "Timmins": 69,
       "Toronto": 13965,
       "Waterloo": 1372,
-      "Whitby": 1791,
-      "Windsor": 2115
+      "Whitby": 1792,
+      "Windsor": 2116
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13876
@@ -15011,9 +15011,8 @@
       "Newmarket": 5,
       "Oakville": 1,
       "Ottawa": 37,
-      "Peterborough": 1,
       "Port Hope": 1,
-      "Simcoe": 3,
+      "Simcoe": 4,
       "St. Thomas": 2,
       "Stratford": 1,
       "Sudbury": 2,
@@ -15026,14 +15025,14 @@
       "Toronto Public Health": 26
     },
     "cities_total_cases": {
-      "Barrie": 656,
+      "Barrie": 657,
       "Belleville": 44,
       "Brantford": 150,
       "Brockville": 355,
       "Chatham": 213,
       "Cornwall": 175,
       "Guelph": 527,
-      "Hamilton": 876,
+      "Hamilton": 879,
       "Kenora": 42,
       "Kingston": 106,
       "London": 658,
@@ -15045,11 +15044,11 @@
       "Ottawa": 2404,
       "Owen Sound": 108,
       "Pembroke": 30,
-      "Peterborough": 96,
+      "Peterborough": 95,
       "Point Edward": 296,
       "Port Hope": 212,
       "Sault Ste. Marie": 27,
-      "Simcoe": 442,
+      "Simcoe": 443,
       "St. Thomas": 107,
       "Stratford": 68,
       "Sudbury": 70,
@@ -15058,8 +15057,8 @@
       "Timmins": 69,
       "Toronto": 13992,
       "Waterloo": 1372,
-      "Whitby": 1796,
-      "Windsor": 2146
+      "Whitby": 1797,
+      "Windsor": 2147
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13902
@@ -15121,26 +15120,26 @@
       "Owen Sound": 1,
       "Point Edward": 3,
       "Simcoe": 2,
-      "St. Thomas": 3,
+      "St. Thomas": 2,
       "Sudbury": 3,
       "Thorold": 6,
       "Toronto": 24,
       "Waterloo": 5,
       "Whitby": 1,
-      "Windsor": 30
+      "Windsor": 31
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 30
     },
     "cities_total_cases": {
-      "Barrie": 659,
+      "Barrie": 660,
       "Belleville": 44,
       "Brantford": 150,
       "Brockville": 355,
       "Chatham": 221,
       "Cornwall": 176,
       "Guelph": 527,
-      "Hamilton": 877,
+      "Hamilton": 880,
       "Kenora": 42,
       "Kingston": 106,
       "London": 662,
@@ -15152,12 +15151,12 @@
       "Ottawa": 2427,
       "Owen Sound": 109,
       "Pembroke": 30,
-      "Peterborough": 96,
+      "Peterborough": 95,
       "Point Edward": 299,
       "Port Hope": 212,
       "Sault Ste. Marie": 27,
-      "Simcoe": 444,
-      "St. Thomas": 110,
+      "Simcoe": 445,
+      "St. Thomas": 109,
       "Stratford": 68,
       "Sudbury": 73,
       "Thorold": 836,
@@ -15165,8 +15164,8 @@
       "Timmins": 69,
       "Toronto": 14016,
       "Waterloo": 1377,
-      "Whitby": 1797,
-      "Windsor": 2176
+      "Whitby": 1798,
+      "Windsor": 2178
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13932
@@ -15226,10 +15225,10 @@
       "London": 2,
       "Mississauga": 8,
       "Newmarket": 3,
-      "Oakville": 2,
+      "Oakville": 3,
       "Ottawa": 25,
       "Owen Sound": 2,
-      "Point Edward": 3,
+      "Point Edward": 4,
       "Simcoe": 2,
       "St. Thomas": 5,
       "Stratford": 1,
@@ -15244,14 +15243,14 @@
       "Toronto Public Health": 28
     },
     "cities_total_cases": {
-      "Barrie": 662,
+      "Barrie": 663,
       "Belleville": 44,
       "Brantford": 151,
       "Brockville": 355,
       "Chatham": 227,
       "Cornwall": 177,
       "Guelph": 528,
-      "Hamilton": 879,
+      "Hamilton": 882,
       "Kenora": 42,
       "Kingston": 108,
       "London": 664,
@@ -15259,16 +15258,16 @@
       "New Liskeard": 19,
       "Newmarket": 3233,
       "North Bay": 35,
-      "Oakville": 825,
+      "Oakville": 826,
       "Ottawa": 2452,
       "Owen Sound": 111,
       "Pembroke": 30,
-      "Peterborough": 96,
-      "Point Edward": 302,
+      "Peterborough": 95,
+      "Point Edward": 303,
       "Port Hope": 212,
       "Sault Ste. Marie": 27,
-      "Simcoe": 446,
-      "St. Thomas": 115,
+      "Simcoe": 447,
+      "St. Thomas": 114,
       "Stratford": 69,
       "Sudbury": 73,
       "Thorold": 842,
@@ -15276,8 +15275,8 @@
       "Timmins": 70,
       "Toronto": 14030,
       "Waterloo": 1382,
-      "Whitby": 1798,
-      "Windsor": 2210
+      "Whitby": 1799,
+      "Windsor": 2212
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13960
@@ -15345,20 +15344,20 @@
       "Thunder Bay": 1,
       "Toronto": 19,
       "Waterloo": 3,
-      "Windsor": 16
+      "Windsor": 15
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 24
     },
     "cities_total_cases": {
-      "Barrie": 664,
+      "Barrie": 665,
       "Belleville": 44,
       "Brantford": 152,
       "Brockville": 355,
       "Chatham": 234,
       "Cornwall": 178,
       "Guelph": 529,
-      "Hamilton": 879,
+      "Hamilton": 882,
       "Kenora": 42,
       "Kingston": 109,
       "London": 665,
@@ -15366,16 +15365,16 @@
       "New Liskeard": 19,
       "Newmarket": 3236,
       "North Bay": 35,
-      "Oakville": 827,
+      "Oakville": 828,
       "Ottawa": 2469,
       "Owen Sound": 111,
       "Pembroke": 30,
-      "Peterborough": 96,
-      "Point Edward": 306,
+      "Peterborough": 95,
+      "Point Edward": 307,
       "Port Hope": 212,
       "Sault Ste. Marie": 27,
-      "Simcoe": 447,
-      "St. Thomas": 124,
+      "Simcoe": 448,
+      "St. Thomas": 123,
       "Stratford": 69,
       "Sudbury": 73,
       "Thorold": 845,
@@ -15383,8 +15382,8 @@
       "Timmins": 70,
       "Toronto": 14049,
       "Waterloo": 1385,
-      "Whitby": 1798,
-      "Windsor": 2226
+      "Whitby": 1799,
+      "Windsor": 2227
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 13984
@@ -15440,14 +15439,13 @@
       "Hamilton": 2,
       "Kenora": 1,
       "Mississauga": 11,
-      "Oakville": 1,
       "Ottawa": 25,
       "Point Edward": 3,
       "Port Hope": 1,
       "St. Thomas": 8,
       "Stratford": 2,
       "Sudbury": 2,
-      "Thorold": 10,
+      "Thorold": 9,
       "Toronto": 17,
       "Whitby": 1,
       "Windsor": 24
@@ -15456,14 +15454,14 @@
       "Toronto Public Health": 31
     },
     "cities_total_cases": {
-      "Barrie": 664,
+      "Barrie": 665,
       "Belleville": 44,
       "Brantford": 154,
       "Brockville": 355,
       "Chatham": 238,
       "Cornwall": 178,
       "Guelph": 530,
-      "Hamilton": 881,
+      "Hamilton": 884,
       "Kenora": 43,
       "Kingston": 109,
       "London": 665,
@@ -15475,21 +15473,21 @@
       "Ottawa": 2494,
       "Owen Sound": 111,
       "Pembroke": 30,
-      "Peterborough": 96,
-      "Point Edward": 309,
+      "Peterborough": 95,
+      "Point Edward": 310,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 447,
-      "St. Thomas": 132,
+      "Simcoe": 448,
+      "St. Thomas": 131,
       "Stratford": 71,
       "Sudbury": 75,
-      "Thorold": 855,
+      "Thorold": 854,
       "Thunder Bay": 96,
       "Timmins": 70,
       "Toronto": 14066,
       "Waterloo": 1385,
-      "Whitby": 1799,
-      "Windsor": 2250
+      "Whitby": 1800,
+      "Windsor": 2251
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14015
@@ -15562,14 +15560,14 @@
       "Toronto Public Health": 23
     },
     "cities_total_cases": {
-      "Barrie": 665,
+      "Barrie": 666,
       "Belleville": 44,
       "Brantford": 155,
       "Brockville": 355,
       "Chatham": 242,
       "Cornwall": 179,
       "Guelph": 530,
-      "Hamilton": 881,
+      "Hamilton": 884,
       "Kenora": 43,
       "Kingston": 109,
       "London": 669,
@@ -15581,21 +15579,21 @@
       "Ottawa": 2505,
       "Owen Sound": 112,
       "Pembroke": 30,
-      "Peterborough": 96,
-      "Point Edward": 311,
+      "Peterborough": 95,
+      "Point Edward": 312,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 447,
-      "St. Thomas": 138,
+      "Simcoe": 448,
+      "St. Thomas": 137,
       "Stratford": 71,
       "Sudbury": 78,
-      "Thorold": 864,
+      "Thorold": 863,
       "Thunder Bay": 97,
       "Timmins": 70,
       "Toronto": 14081,
       "Waterloo": 1385,
-      "Whitby": 1802,
-      "Windsor": 2265
+      "Whitby": 1803,
+      "Windsor": 2266
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14038
@@ -15655,7 +15653,7 @@
       "Point Edward": 4,
       "St. Thomas": 6,
       "Sudbury": 1,
-      "Thorold": 4,
+      "Thorold": 5,
       "Timmins": 1,
       "Toronto": 16,
       "Waterloo": 3,
@@ -15666,14 +15664,14 @@
       "Toronto Public Health": 39
     },
     "cities_total_cases": {
-      "Barrie": 665,
+      "Barrie": 666,
       "Belleville": 44,
       "Brantford": 155,
       "Brockville": 355,
       "Chatham": 247,
       "Cornwall": 179,
       "Guelph": 530,
-      "Hamilton": 885,
+      "Hamilton": 888,
       "Kenora": 43,
       "Kingston": 109,
       "London": 670,
@@ -15685,12 +15683,12 @@
       "Ottawa": 2515,
       "Owen Sound": 112,
       "Pembroke": 30,
-      "Peterborough": 97,
-      "Point Edward": 315,
+      "Peterborough": 96,
+      "Point Edward": 316,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 447,
-      "St. Thomas": 144,
+      "Simcoe": 448,
+      "St. Thomas": 143,
       "Stratford": 71,
       "Sudbury": 79,
       "Thorold": 868,
@@ -15698,8 +15696,8 @@
       "Timmins": 71,
       "Toronto": 14097,
       "Waterloo": 1388,
-      "Whitby": 1805,
-      "Windsor": 2279
+      "Whitby": 1806,
+      "Windsor": 2280
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14077
@@ -15776,14 +15774,14 @@
       "Toronto Public Health": 20
     },
     "cities_total_cases": {
-      "Barrie": 668,
+      "Barrie": 669,
       "Belleville": 45,
       "Brantford": 158,
       "Brockville": 355,
       "Chatham": 254,
       "Cornwall": 180,
       "Guelph": 532,
-      "Hamilton": 886,
+      "Hamilton": 889,
       "Kenora": 43,
       "Kingston": 109,
       "London": 672,
@@ -15795,12 +15793,12 @@
       "Ottawa": 2530,
       "Owen Sound": 112,
       "Pembroke": 30,
-      "Peterborough": 97,
-      "Point Edward": 318,
+      "Peterborough": 96,
+      "Point Edward": 319,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 450,
-      "St. Thomas": 153,
+      "Simcoe": 451,
+      "St. Thomas": 152,
       "Stratford": 75,
       "Sudbury": 89,
       "Thorold": 875,
@@ -15808,8 +15806,8 @@
       "Timmins": 71,
       "Toronto": 14108,
       "Waterloo": 1391,
-      "Whitby": 1809,
-      "Windsor": 2305
+      "Whitby": 1810,
+      "Windsor": 2306
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14097
@@ -15874,14 +15872,14 @@
       "Windsor": 9
     },
     "cities_total_cases": {
-      "Barrie": 668,
+      "Barrie": 669,
       "Belleville": 45,
       "Brantford": 158,
       "Brockville": 355,
       "Chatham": 257,
       "Cornwall": 180,
       "Guelph": 534,
-      "Hamilton": 889,
+      "Hamilton": 892,
       "Kenora": 43,
       "Kingston": 109,
       "London": 675,
@@ -15893,12 +15891,12 @@
       "Ottawa": 2549,
       "Owen Sound": 112,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 318,
+      "Peterborough": 98,
+      "Point Edward": 319,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 450,
-      "St. Thomas": 162,
+      "Simcoe": 451,
+      "St. Thomas": 161,
       "Stratford": 75,
       "Sudbury": 89,
       "Thorold": 876,
@@ -15906,8 +15904,8 @@
       "Timmins": 71,
       "Toronto": 14123,
       "Waterloo": 1391,
-      "Whitby": 1815,
-      "Windsor": 2314
+      "Whitby": 1816,
+      "Windsor": 2315
     },
     "date": "2020-07-28",
     "deaths": 2768,
@@ -15942,14 +15940,14 @@
       "Windsor": 11
     },
     "cities_total_cases": {
-      "Barrie": 668,
+      "Barrie": 669,
       "Belleville": 45,
       "Brantford": 159,
       "Brockville": 355,
       "Chatham": 269,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 890,
+      "Hamilton": 893,
       "Kenora": 43,
       "Kingston": 109,
       "London": 678,
@@ -15961,12 +15959,12 @@
       "Ottawa": 2561,
       "Owen Sound": 113,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 318,
+      "Peterborough": 98,
+      "Point Edward": 319,
       "Port Hope": 213,
       "Sault Ste. Marie": 27,
-      "Simcoe": 450,
-      "St. Thomas": 166,
+      "Simcoe": 451,
+      "St. Thomas": 165,
       "Stratford": 75,
       "Sudbury": 90,
       "Thorold": 878,
@@ -15974,8 +15972,8 @@
       "Timmins": 71,
       "Toronto": 14142,
       "Waterloo": 1391,
-      "Whitby": 1819,
-      "Windsor": 2325
+      "Whitby": 1820,
+      "Windsor": 2326
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14090
@@ -16027,7 +16025,7 @@
     "cities_new_cases": {
       "Barrie": 3,
       "Chatham": 6,
-      "Hamilton": 3,
+      "Hamilton": 2,
       "London": 2,
       "Mississauga": 11,
       "Newmarket": 9,
@@ -16047,14 +16045,14 @@
       "Toronto Public Health": 10
     },
     "cities_total_cases": {
-      "Barrie": 671,
+      "Barrie": 672,
       "Belleville": 45,
       "Brantford": 159,
       "Brockville": 355,
       "Chatham": 275,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 893,
+      "Hamilton": 895,
       "Kenora": 43,
       "Kingston": 109,
       "London": 680,
@@ -16066,12 +16064,12 @@
       "Ottawa": 2580,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 320,
+      "Peterborough": 98,
+      "Point Edward": 321,
       "Port Hope": 214,
       "Sault Ste. Marie": 27,
-      "Simcoe": 451,
-      "St. Thomas": 172,
+      "Simcoe": 452,
+      "St. Thomas": 171,
       "Stratford": 75,
       "Sudbury": 90,
       "Thorold": 881,
@@ -16079,8 +16077,8 @@
       "Timmins": 71,
       "Toronto": 14152,
       "Waterloo": 1393,
-      "Whitby": 1820,
-      "Windsor": 2341
+      "Whitby": 1821,
+      "Windsor": 2342
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14100
@@ -16142,20 +16140,20 @@
       "Thunder Bay": 1,
       "Toronto": 13,
       "Waterloo": 2,
-      "Windsor": 7
+      "Windsor": 8
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 19
     },
     "cities_total_cases": {
-      "Barrie": 673,
+      "Barrie": 674,
       "Belleville": 45,
       "Brantford": 159,
       "Brockville": 355,
       "Chatham": 285,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 895,
+      "Hamilton": 897,
       "Kenora": 43,
       "Kingston": 109,
       "London": 680,
@@ -16167,12 +16165,12 @@
       "Ottawa": 2593,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 320,
+      "Peterborough": 98,
+      "Point Edward": 321,
       "Port Hope": 214,
       "Sault Ste. Marie": 27,
-      "Simcoe": 453,
-      "St. Thomas": 181,
+      "Simcoe": 454,
+      "St. Thomas": 180,
       "Stratford": 75,
       "Sudbury": 90,
       "Thorold": 884,
@@ -16180,8 +16178,8 @@
       "Timmins": 71,
       "Toronto": 14165,
       "Waterloo": 1395,
-      "Whitby": 1820,
-      "Windsor": 2348
+      "Whitby": 1821,
+      "Windsor": 2350
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14119
@@ -16232,10 +16230,10 @@
   {
     "cities_new_cases": {
       "Brantford": 1,
-      "Chatham": 11,
+      "Chatham": 12,
       "Hamilton": 2,
       "London": 1,
-      "Mississauga": 10,
+      "Mississauga": 11,
       "Newmarket": 4,
       "Oakville": 1,
       "Ottawa": 19,
@@ -16251,18 +16249,18 @@
       "Toronto Public Health": 16
     },
     "cities_total_cases": {
-      "Barrie": 673,
+      "Barrie": 674,
       "Belleville": 45,
       "Brantford": 160,
       "Brockville": 355,
-      "Chatham": 296,
+      "Chatham": 297,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 897,
+      "Hamilton": 899,
       "Kenora": 43,
       "Kingston": 109,
       "London": 681,
-      "Mississauga": 6643,
+      "Mississauga": 6644,
       "New Liskeard": 19,
       "Newmarket": 3287,
       "North Bay": 35,
@@ -16270,12 +16268,12 @@
       "Ottawa": 2612,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 320,
+      "Peterborough": 98,
+      "Point Edward": 321,
       "Port Hope": 215,
       "Sault Ste. Marie": 27,
-      "Simcoe": 453,
-      "St. Thomas": 190,
+      "Simcoe": 454,
+      "St. Thomas": 189,
       "Stratford": 75,
       "Sudbury": 90,
       "Thorold": 888,
@@ -16283,8 +16281,8 @@
       "Timmins": 72,
       "Toronto": 14172,
       "Waterloo": 1395,
-      "Whitby": 1822,
-      "Windsor": 2352
+      "Whitby": 1823,
+      "Windsor": 2354
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14135
@@ -16345,24 +16343,24 @@
       "Thorold": 3,
       "Toronto": 15,
       "Waterloo": 1,
-      "Windsor": 2
+      "Windsor": 3
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 9
     },
     "cities_total_cases": {
-      "Barrie": 673,
+      "Barrie": 674,
       "Belleville": 45,
       "Brantford": 160,
       "Brockville": 355,
-      "Chatham": 299,
+      "Chatham": 300,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 897,
+      "Hamilton": 899,
       "Kenora": 43,
       "Kingston": 109,
       "London": 683,
-      "Mississauga": 6658,
+      "Mississauga": 6659,
       "New Liskeard": 19,
       "Newmarket": 3297,
       "North Bay": 35,
@@ -16370,12 +16368,12 @@
       "Ottawa": 2621,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 322,
+      "Peterborough": 98,
+      "Point Edward": 323,
       "Port Hope": 215,
       "Sault Ste. Marie": 27,
-      "Simcoe": 453,
-      "St. Thomas": 193,
+      "Simcoe": 454,
+      "St. Thomas": 192,
       "Stratford": 75,
       "Sudbury": 90,
       "Thorold": 891,
@@ -16383,8 +16381,8 @@
       "Timmins": 72,
       "Toronto": 14187,
       "Waterloo": 1396,
-      "Whitby": 1822,
-      "Windsor": 2354
+      "Whitby": 1823,
+      "Windsor": 2357
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14144
@@ -16445,7 +16443,7 @@
       "Point Edward": 1,
       "Simcoe": 1,
       "St. Thomas": 6,
-      "Thorold": 2,
+      "Thorold": 1,
       "Toronto": 21,
       "Waterloo": 3,
       "Whitby": 4,
@@ -16455,18 +16453,18 @@
       "Toronto Public Health": 10
     },
     "cities_total_cases": {
-      "Barrie": 674,
+      "Barrie": 675,
       "Belleville": 45,
       "Brantford": 160,
       "Brockville": 355,
-      "Chatham": 312,
+      "Chatham": 313,
       "Cornwall": 180,
       "Guelph": 535,
-      "Hamilton": 899,
+      "Hamilton": 901,
       "Kenora": 43,
       "Kingston": 109,
       "London": 684,
-      "Mississauga": 6671,
+      "Mississauga": 6672,
       "New Liskeard": 19,
       "Newmarket": 3302,
       "North Bay": 35,
@@ -16474,21 +16472,21 @@
       "Ottawa": 2631,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 323,
+      "Peterborough": 98,
+      "Point Edward": 324,
       "Port Hope": 215,
       "Sault Ste. Marie": 27,
-      "Simcoe": 454,
-      "St. Thomas": 199,
+      "Simcoe": 455,
+      "St. Thomas": 198,
       "Stratford": 75,
       "Sudbury": 90,
-      "Thorold": 893,
+      "Thorold": 892,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14208,
       "Waterloo": 1399,
-      "Whitby": 1826,
-      "Windsor": 2357
+      "Whitby": 1827,
+      "Windsor": 2360
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14154
@@ -16547,9 +16545,9 @@
       "Oakville": 4,
       "Ottawa": 8,
       "St. Thomas": 1,
-      "Stratford": 2,
+      "Stratford": 1,
       "Sudbury": 1,
-      "Thorold": 3,
+      "Thorold": 4,
       "Toronto": 18,
       "Waterloo": 6,
       "Whitby": 3,
@@ -16559,18 +16557,18 @@
       "Toronto Public Health": 22
     },
     "cities_total_cases": {
-      "Barrie": 674,
+      "Barrie": 675,
       "Belleville": 45,
       "Brantford": 160,
       "Brockville": 355,
-      "Chatham": 320,
+      "Chatham": 321,
       "Cornwall": 180,
       "Guelph": 536,
-      "Hamilton": 904,
+      "Hamilton": 906,
       "Kenora": 43,
       "Kingston": 109,
       "London": 685,
-      "Mississauga": 6679,
+      "Mississauga": 6680,
       "New Liskeard": 19,
       "Newmarket": 3308,
       "North Bay": 35,
@@ -16578,21 +16576,21 @@
       "Ottawa": 2639,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 323,
+      "Peterborough": 98,
+      "Point Edward": 324,
       "Port Hope": 215,
       "Sault Ste. Marie": 27,
-      "Simcoe": 454,
-      "St. Thomas": 200,
-      "Stratford": 77,
+      "Simcoe": 455,
+      "St. Thomas": 199,
+      "Stratford": 76,
       "Sudbury": 91,
       "Thorold": 896,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14226,
       "Waterloo": 1405,
-      "Whitby": 1829,
-      "Windsor": 2360
+      "Whitby": 1830,
+      "Windsor": 2363
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14176
@@ -16664,18 +16662,18 @@
       "Toronto Public Health": 18
     },
     "cities_total_cases": {
-      "Barrie": 674,
+      "Barrie": 675,
       "Belleville": 45,
       "Brantford": 161,
       "Brockville": 355,
-      "Chatham": 326,
+      "Chatham": 327,
       "Cornwall": 180,
       "Guelph": 536,
-      "Hamilton": 908,
+      "Hamilton": 910,
       "Kenora": 43,
       "Kingston": 109,
       "London": 685,
-      "Mississauga": 6694,
+      "Mississauga": 6695,
       "New Liskeard": 19,
       "Newmarket": 3309,
       "North Bay": 35,
@@ -16683,21 +16681,21 @@
       "Ottawa": 2650,
       "Owen Sound": 114,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 324,
+      "Peterborough": 98,
+      "Point Edward": 325,
       "Port Hope": 215,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 204,
-      "Stratford": 79,
+      "Simcoe": 456,
+      "St. Thomas": 203,
+      "Stratford": 78,
       "Sudbury": 92,
       "Thorold": 899,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14249,
       "Waterloo": 1406,
-      "Whitby": 1837,
-      "Windsor": 2366
+      "Whitby": 1838,
+      "Windsor": 2369
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14194
@@ -16750,15 +16748,15 @@
       "Chatham": 4,
       "Hamilton": 2,
       "London": 1,
-      "Mississauga": 14,
+      "Mississauga": 15,
       "Newmarket": 5,
       "Oakville": 5,
-      "Ottawa": 12,
+      "Ottawa": 13,
       "Owen Sound": 1,
       "Port Hope": 1,
       "St. Thomas": 3,
       "Stratford": 1,
-      "Thorold": 3,
+      "Thorold": 4,
       "Toronto": 13,
       "Waterloo": 3,
       "Whitby": 4,
@@ -16768,40 +16766,40 @@
       "Toronto Public Health": 30
     },
     "cities_total_cases": {
-      "Barrie": 674,
+      "Barrie": 675,
       "Belleville": 45,
       "Brantford": 161,
       "Brockville": 355,
-      "Chatham": 330,
+      "Chatham": 331,
       "Cornwall": 180,
       "Guelph": 536,
-      "Hamilton": 910,
+      "Hamilton": 912,
       "Kenora": 43,
       "Kingston": 109,
       "London": 686,
-      "Mississauga": 6708,
+      "Mississauga": 6710,
       "New Liskeard": 19,
       "Newmarket": 3314,
       "North Bay": 35,
       "Oakville": 846,
-      "Ottawa": 2662,
+      "Ottawa": 2663,
       "Owen Sound": 115,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 324,
+      "Peterborough": 98,
+      "Point Edward": 325,
       "Port Hope": 216,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 207,
-      "Stratford": 80,
+      "Simcoe": 456,
+      "St. Thomas": 206,
+      "Stratford": 79,
       "Sudbury": 92,
-      "Thorold": 902,
+      "Thorold": 903,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14262,
       "Waterloo": 1409,
-      "Whitby": 1841,
-      "Windsor": 2372
+      "Whitby": 1842,
+      "Windsor": 2375
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14224
@@ -16855,9 +16853,9 @@
       "Belleville": 1,
       "Chatham": 5,
       "Guelph": 2,
-      "Hamilton": 4,
-      "London": 6,
-      "Mississauga": 27,
+      "Hamilton": 3,
+      "London": 7,
+      "Mississauga": 26,
       "Newmarket": 3,
       "Oakville": 2,
       "Ottawa": 12,
@@ -16874,40 +16872,40 @@
       "Toronto Public Health": 10
     },
     "cities_total_cases": {
-      "Barrie": 675,
+      "Barrie": 676,
       "Belleville": 46,
       "Brantford": 161,
       "Brockville": 355,
-      "Chatham": 335,
+      "Chatham": 336,
       "Cornwall": 180,
       "Guelph": 538,
-      "Hamilton": 914,
+      "Hamilton": 915,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 692,
-      "Mississauga": 6735,
+      "London": 693,
+      "Mississauga": 6736,
       "New Liskeard": 19,
       "Newmarket": 3317,
       "North Bay": 35,
       "Oakville": 848,
-      "Ottawa": 2674,
+      "Ottawa": 2675,
       "Owen Sound": 116,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 325,
+      "Peterborough": 98,
+      "Point Edward": 326,
       "Port Hope": 216,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 209,
-      "Stratford": 81,
+      "Simcoe": 456,
+      "St. Thomas": 208,
+      "Stratford": 80,
       "Sudbury": 92,
-      "Thorold": 904,
+      "Thorold": 905,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14281,
       "Waterloo": 1409,
-      "Whitby": 1843,
-      "Windsor": 2383
+      "Whitby": 1844,
+      "Windsor": 2386
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14234
@@ -16963,14 +16961,14 @@
       "Hamilton": 3,
       "London": 1,
       "Mississauga": 13,
-      "Newmarket": 6,
+      "Newmarket": 7,
       "Oakville": 2,
       "Ottawa": 9,
       "Point Edward": 1,
       "St. Thomas": 7,
       "Stratford": 1,
-      "Thorold": 1,
-      "Toronto": 12,
+      "Thorold": 2,
+      "Toronto": 13,
       "Waterloo": 1,
       "Whitby": 2,
       "Windsor": 11
@@ -16979,40 +16977,40 @@
       "Toronto Public Health": 0
     },
     "cities_total_cases": {
-      "Barrie": 675,
+      "Barrie": 676,
       "Belleville": 46,
       "Brantford": 162,
       "Brockville": 355,
-      "Chatham": 336,
+      "Chatham": 337,
       "Cornwall": 180,
       "Guelph": 539,
-      "Hamilton": 917,
+      "Hamilton": 918,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 693,
-      "Mississauga": 6748,
+      "London": 694,
+      "Mississauga": 6749,
       "New Liskeard": 19,
-      "Newmarket": 3323,
+      "Newmarket": 3324,
       "North Bay": 35,
       "Oakville": 850,
-      "Ottawa": 2683,
+      "Ottawa": 2684,
       "Owen Sound": 116,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 326,
+      "Peterborough": 98,
+      "Point Edward": 327,
       "Port Hope": 216,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 216,
-      "Stratford": 82,
+      "Simcoe": 456,
+      "St. Thomas": 215,
+      "Stratford": 81,
       "Sudbury": 92,
-      "Thorold": 905,
+      "Thorold": 907,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14293,
+      "Toronto": 14294,
       "Waterloo": 1410,
-      "Whitby": 1845,
-      "Windsor": 2394
+      "Whitby": 1846,
+      "Windsor": 2397
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14234
@@ -17081,40 +17079,40 @@
       "Toronto Public Health": 26
     },
     "cities_total_cases": {
-      "Barrie": 675,
+      "Barrie": 676,
       "Belleville": 46,
       "Brantford": 162,
       "Brockville": 355,
-      "Chatham": 336,
+      "Chatham": 337,
       "Cornwall": 180,
       "Guelph": 540,
-      "Hamilton": 919,
+      "Hamilton": 920,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 696,
-      "Mississauga": 6761,
+      "London": 697,
+      "Mississauga": 6762,
       "New Liskeard": 19,
-      "Newmarket": 3326,
+      "Newmarket": 3327,
       "North Bay": 35,
       "Oakville": 852,
-      "Ottawa": 2687,
+      "Ottawa": 2688,
       "Owen Sound": 117,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 331,
+      "Peterborough": 98,
+      "Point Edward": 332,
       "Port Hope": 218,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 220,
-      "Stratford": 82,
+      "Simcoe": 456,
+      "St. Thomas": 219,
+      "Stratford": 81,
       "Sudbury": 92,
-      "Thorold": 905,
+      "Thorold": 907,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14307,
+      "Toronto": 14308,
       "Waterloo": 1413,
-      "Whitby": 1845,
-      "Windsor": 2402
+      "Whitby": 1846,
+      "Windsor": 2405
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14260
@@ -17170,56 +17168,57 @@
       "Guelph": 1,
       "Hamilton": 9,
       "London": 2,
-      "Mississauga": 26,
+      "Mississauga": 27,
       "Newmarket": 6,
       "Oakville": 2,
       "Ottawa": 10,
       "Owen Sound": 1,
       "Point Edward": 1,
       "St. Thomas": 3,
+      "Thorold": 1,
       "Toronto": 21,
-      "Waterloo": 5,
-      "Whitby": 1,
-      "Windsor": 7
+      "Waterloo": 4,
+      "Whitby": 3,
+      "Windsor": 8
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 16
     },
     "cities_total_cases": {
-      "Barrie": 677,
+      "Barrie": 678,
       "Belleville": 46,
       "Brantford": 162,
       "Brockville": 355,
-      "Chatham": 338,
+      "Chatham": 339,
       "Cornwall": 181,
       "Guelph": 541,
-      "Hamilton": 928,
+      "Hamilton": 929,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 698,
-      "Mississauga": 6787,
+      "London": 699,
+      "Mississauga": 6789,
       "New Liskeard": 19,
-      "Newmarket": 3332,
+      "Newmarket": 3333,
       "North Bay": 35,
       "Oakville": 854,
-      "Ottawa": 2697,
+      "Ottawa": 2698,
       "Owen Sound": 118,
       "Pembroke": 30,
-      "Peterborough": 99,
-      "Point Edward": 332,
+      "Peterborough": 98,
+      "Point Edward": 333,
       "Port Hope": 218,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 223,
-      "Stratford": 82,
+      "Simcoe": 456,
+      "St. Thomas": 222,
+      "Stratford": 81,
       "Sudbury": 92,
-      "Thorold": 905,
+      "Thorold": 908,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14328,
-      "Waterloo": 1418,
-      "Whitby": 1846,
-      "Windsor": 2409
+      "Toronto": 14329,
+      "Waterloo": 1417,
+      "Whitby": 1849,
+      "Windsor": 2413
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14276
@@ -17271,59 +17270,59 @@
     "cities_new_cases": {
       "Belleville": 1,
       "Brantford": 1,
-      "Chatham": 6,
+      "Chatham": 5,
       "Guelph": 4,
       "Hamilton": 4,
       "London": 3,
-      "Mississauga": 14,
+      "Mississauga": 15,
       "Newmarket": 7,
-      "Ottawa": 8,
+      "Ottawa": 10,
       "Peterborough": 1,
       "St. Thomas": 3,
-      "Stratford": 1,
-      "Thorold": 1,
-      "Toronto": 18,
-      "Waterloo": 1,
+      "Stratford": 2,
+      "Thorold": 3,
+      "Toronto": 17,
+      "Waterloo": 2,
       "Windsor": 5
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": -21
     },
     "cities_total_cases": {
-      "Barrie": 677,
+      "Barrie": 678,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
       "Chatham": 344,
       "Cornwall": 181,
       "Guelph": 545,
-      "Hamilton": 932,
+      "Hamilton": 933,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 701,
-      "Mississauga": 6801,
+      "London": 702,
+      "Mississauga": 6804,
       "New Liskeard": 19,
-      "Newmarket": 3339,
+      "Newmarket": 3340,
       "North Bay": 35,
       "Oakville": 854,
-      "Ottawa": 2705,
+      "Ottawa": 2708,
       "Owen Sound": 118,
       "Pembroke": 30,
-      "Peterborough": 100,
-      "Point Edward": 332,
+      "Peterborough": 99,
+      "Point Edward": 333,
       "Port Hope": 218,
       "Sault Ste. Marie": 27,
-      "Simcoe": 455,
-      "St. Thomas": 226,
+      "Simcoe": 456,
+      "St. Thomas": 225,
       "Stratford": 83,
       "Sudbury": 92,
-      "Thorold": 906,
+      "Thorold": 911,
       "Thunder Bay": 100,
       "Timmins": 72,
       "Toronto": 14346,
       "Waterloo": 1419,
-      "Whitby": 1846,
-      "Windsor": 2414
+      "Whitby": 1849,
+      "Windsor": 2418
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14255
@@ -17373,22 +17372,23 @@
   },
   {
     "cities_new_cases": {
+      "Barrie": 1,
       "Chatham": 3,
       "Guelph": 3,
       "Hamilton": 4,
       "London": 4,
-      "Mississauga": 13,
+      "Mississauga": 14,
       "Newmarket": 3,
-      "Oakville": 1,
+      "Oakville": 3,
       "Ottawa": 7,
       "Peterborough": 1,
       "Port Hope": 1,
       "Simcoe": 1,
       "St. Thomas": 4,
       "Stratford": 7,
-      "Thorold": 3,
-      "Toronto": 13,
-      "Waterloo": 2,
+      "Thorold": 2,
+      "Toronto": 15,
+      "Waterloo": 1,
       "Whitby": 3,
       "Windsor": 3
     },
@@ -17396,40 +17396,40 @@
       "Toronto Public Health": 19
     },
     "cities_total_cases": {
-      "Barrie": 677,
+      "Barrie": 679,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
       "Chatham": 347,
       "Cornwall": 181,
       "Guelph": 548,
-      "Hamilton": 936,
+      "Hamilton": 937,
       "Kenora": 43,
       "Kingston": 109,
-      "London": 705,
-      "Mississauga": 6814,
+      "London": 706,
+      "Mississauga": 6818,
       "New Liskeard": 19,
-      "Newmarket": 3342,
+      "Newmarket": 3343,
       "North Bay": 35,
-      "Oakville": 855,
-      "Ottawa": 2712,
+      "Oakville": 857,
+      "Ottawa": 2715,
       "Owen Sound": 118,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 332,
+      "Peterborough": 100,
+      "Point Edward": 333,
       "Port Hope": 219,
       "Sault Ste. Marie": 27,
-      "Simcoe": 456,
-      "St. Thomas": 230,
+      "Simcoe": 457,
+      "St. Thomas": 229,
       "Stratford": 90,
       "Sudbury": 92,
-      "Thorold": 909,
+      "Thorold": 913,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14359,
-      "Waterloo": 1421,
-      "Whitby": 1849,
-      "Windsor": 2417
+      "Toronto": 14361,
+      "Waterloo": 1420,
+      "Whitby": 1852,
+      "Windsor": 2421
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14274
@@ -17481,58 +17481,58 @@
     "cities_new_cases": {
       "Chatham": 5,
       "Guelph": 1,
-      "Hamilton": 1,
-      "London": 5,
-      "Mississauga": 16,
+      "Hamilton": 2,
+      "London": 4,
+      "Mississauga": 19,
       "Newmarket": 2,
       "Oakville": 1,
-      "Ottawa": 17,
+      "Ottawa": 19,
       "Owen Sound": 2,
       "Point Edward": 3,
       "St. Thomas": 3,
       "Stratford": 1,
-      "Thorold": 3,
-      "Toronto": 16,
+      "Thorold": 2,
+      "Toronto": 18,
       "Windsor": 1
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 1
     },
     "cities_total_cases": {
-      "Barrie": 677,
+      "Barrie": 679,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
       "Chatham": 352,
       "Cornwall": 181,
       "Guelph": 549,
-      "Hamilton": 937,
+      "Hamilton": 939,
       "Kenora": 43,
       "Kingston": 109,
       "London": 710,
-      "Mississauga": 6830,
+      "Mississauga": 6837,
       "New Liskeard": 19,
-      "Newmarket": 3344,
+      "Newmarket": 3345,
       "North Bay": 35,
-      "Oakville": 856,
-      "Ottawa": 2729,
+      "Oakville": 858,
+      "Ottawa": 2734,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 219,
       "Sault Ste. Marie": 27,
-      "Simcoe": 456,
-      "St. Thomas": 233,
+      "Simcoe": 457,
+      "St. Thomas": 232,
       "Stratford": 91,
       "Sudbury": 92,
-      "Thorold": 912,
+      "Thorold": 915,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14375,
-      "Waterloo": 1421,
-      "Whitby": 1849,
-      "Windsor": 2418
+      "Toronto": 14379,
+      "Waterloo": 1420,
+      "Whitby": 1852,
+      "Windsor": 2422
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14275
@@ -17582,59 +17582,58 @@
   },
   {
     "cities_new_cases": {
-      "Barrie": 3,
+      "Barrie": 2,
       "Chatham": 1,
       "Cornwall": 1,
       "Guelph": 1,
       "Hamilton": 4,
-      "Mississauga": 7,
-      "Ottawa": 8,
+      "Mississauga": 6,
+      "Ottawa": 11,
       "Port Hope": 1,
-      "Simcoe": 1,
       "St. Thomas": 2,
-      "Thorold": 2,
+      "Thorold": 3,
       "Toronto": 10,
       "Waterloo": 4,
-      "Windsor": 16
+      "Windsor": 14
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 30
     },
     "cities_total_cases": {
-      "Barrie": 680,
+      "Barrie": 681,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
       "Chatham": 353,
       "Cornwall": 182,
       "Guelph": 550,
-      "Hamilton": 941,
+      "Hamilton": 943,
       "Kenora": 43,
       "Kingston": 109,
       "London": 710,
-      "Mississauga": 6837,
+      "Mississauga": 6843,
       "New Liskeard": 19,
-      "Newmarket": 3344,
+      "Newmarket": 3345,
       "North Bay": 35,
-      "Oakville": 856,
-      "Ottawa": 2737,
+      "Oakville": 858,
+      "Ottawa": 2745,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 220,
       "Sault Ste. Marie": 27,
       "Simcoe": 457,
-      "St. Thomas": 235,
+      "St. Thomas": 234,
       "Stratford": 91,
       "Sudbury": 92,
-      "Thorold": 914,
+      "Thorold": 918,
       "Thunder Bay": 100,
       "Timmins": 72,
-      "Toronto": 14385,
-      "Waterloo": 1425,
-      "Whitby": 1849,
-      "Windsor": 2434
+      "Toronto": 14389,
+      "Waterloo": 1424,
+      "Whitby": 1852,
+      "Windsor": 2436
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14305
@@ -17685,18 +17684,18 @@
   {
     "cities_new_cases": {
       "Barrie": 1,
-      "Chatham": 2,
+      "Chatham": 1,
       "Hamilton": 1,
       "London": 1,
-      "Mississauga": 10,
-      "Newmarket": 6,
+      "Mississauga": 12,
+      "Newmarket": 5,
       "Oakville": 1,
       "Ottawa": 5,
       "Port Hope": 1,
       "Stratford": 1,
-      "Thorold": 1,
+      "Thorold": 4,
       "Thunder Bay": 1,
-      "Toronto": 8,
+      "Toronto": 13,
       "Waterloo": 1,
       "Windsor": 4
     },
@@ -17704,40 +17703,40 @@
       "Toronto Public Health": 16
     },
     "cities_total_cases": {
-      "Barrie": 681,
+      "Barrie": 682,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
-      "Chatham": 355,
+      "Chatham": 354,
       "Cornwall": 182,
       "Guelph": 550,
-      "Hamilton": 942,
+      "Hamilton": 944,
       "Kenora": 43,
       "Kingston": 109,
       "London": 711,
-      "Mississauga": 6847,
+      "Mississauga": 6855,
       "New Liskeard": 19,
       "Newmarket": 3350,
       "North Bay": 35,
-      "Oakville": 857,
-      "Ottawa": 2742,
+      "Oakville": 859,
+      "Ottawa": 2750,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 221,
       "Sault Ste. Marie": 27,
       "Simcoe": 457,
-      "St. Thomas": 235,
+      "St. Thomas": 234,
       "Stratford": 92,
       "Sudbury": 92,
-      "Thorold": 915,
+      "Thorold": 922,
       "Thunder Bay": 101,
       "Timmins": 72,
-      "Toronto": 14393,
-      "Waterloo": 1426,
-      "Whitby": 1849,
-      "Windsor": 2438
+      "Toronto": 14402,
+      "Waterloo": 1425,
+      "Whitby": 1852,
+      "Windsor": 2440
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14321
@@ -17787,57 +17786,59 @@
   },
   {
     "cities_new_cases": {
+      "Barrie": 1,
       "Guelph": 1,
       "Hamilton": 1,
       "London": 1,
-      "Mississauga": 13,
+      "Mississauga": 15,
       "Newmarket": 4,
-      "Oakville": 1,
-      "Ottawa": 3,
-      "St. Thomas": 1,
+      "Oakville": 2,
+      "Ottawa": 4,
+      "St. Thomas": 3,
       "Stratford": 2,
-      "Toronto": 18,
+      "Thorold": 1,
+      "Toronto": 17,
       "Waterloo": 4,
-      "Windsor": 2
+      "Windsor": 1
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 10
     },
     "cities_total_cases": {
-      "Barrie": 681,
+      "Barrie": 683,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
-      "Chatham": 355,
+      "Chatham": 354,
       "Cornwall": 182,
       "Guelph": 551,
-      "Hamilton": 943,
+      "Hamilton": 945,
       "Kenora": 43,
       "Kingston": 109,
       "London": 712,
-      "Mississauga": 6860,
+      "Mississauga": 6870,
       "New Liskeard": 19,
       "Newmarket": 3354,
       "North Bay": 35,
-      "Oakville": 858,
-      "Ottawa": 2745,
+      "Oakville": 861,
+      "Ottawa": 2754,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 221,
       "Sault Ste. Marie": 27,
       "Simcoe": 457,
-      "St. Thomas": 236,
+      "St. Thomas": 237,
       "Stratford": 94,
       "Sudbury": 92,
-      "Thorold": 915,
+      "Thorold": 923,
       "Thunder Bay": 101,
       "Timmins": 72,
-      "Toronto": 14411,
-      "Waterloo": 1430,
-      "Whitby": 1849,
-      "Windsor": 2440
+      "Toronto": 14419,
+      "Waterloo": 1429,
+      "Whitby": 1852,
+      "Windsor": 2441
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14331
@@ -17888,58 +17889,61 @@
   {
     "cities_new_cases": {
       "Barrie": 1,
+      "Cornwall": 2,
       "Guelph": 1,
-      "Hamilton": 3,
+      "Hamilton": 1,
       "Kingston": 1,
-      "London": 6,
-      "Mississauga": 16,
-      "Ottawa": 11,
+      "London": 7,
+      "Mississauga": 18,
+      "Oakville": 1,
+      "Ottawa": 15,
       "Simcoe": 2,
       "St. Thomas": 1,
       "Stratford": 9,
       "Thorold": 1,
-      "Toronto": 18,
-      "Waterloo": 2,
-      "Windsor": 1
+      "Toronto": 13,
+      "Waterloo": 3,
+      "Whitby": 1,
+      "Windsor": 2
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 26
     },
     "cities_total_cases": {
-      "Barrie": 682,
+      "Barrie": 684,
       "Belleville": 47,
       "Brantford": 163,
       "Brockville": 355,
-      "Chatham": 355,
-      "Cornwall": 182,
+      "Chatham": 354,
+      "Cornwall": 184,
       "Guelph": 552,
       "Hamilton": 946,
       "Kenora": 43,
       "Kingston": 110,
-      "London": 718,
-      "Mississauga": 6876,
+      "London": 719,
+      "Mississauga": 6888,
       "New Liskeard": 19,
       "Newmarket": 3354,
       "North Bay": 35,
-      "Oakville": 858,
-      "Ottawa": 2756,
+      "Oakville": 862,
+      "Ottawa": 2769,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 221,
       "Sault Ste. Marie": 27,
       "Simcoe": 459,
-      "St. Thomas": 237,
+      "St. Thomas": 238,
       "Stratford": 103,
       "Sudbury": 92,
-      "Thorold": 916,
+      "Thorold": 924,
       "Thunder Bay": 101,
       "Timmins": 72,
-      "Toronto": 14429,
+      "Toronto": 14432,
       "Waterloo": 1432,
-      "Whitby": 1849,
-      "Windsor": 2441
+      "Whitby": 1853,
+      "Windsor": 2443
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14357
@@ -17989,53 +17993,55 @@
   },
   {
     "cities_new_cases": {
-      "Mississauga": 9,
-      "Newmarket": 2,
+      "Brantford": 1,
+      "Brockville": 1,
+      "Kingston": 1,
+      "Mississauga": 10,
+      "Newmarket": 7,
       "Oakville": 1,
-      "Ottawa": 1,
-      "St. Thomas": 1,
+      "Ottawa": 10,
       "Stratford": 2,
-      "Toronto": 7,
-      "Waterloo": 1
+      "Toronto": 15,
+      "Waterloo": 3
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 27
     },
     "cities_total_cases": {
-      "Barrie": 682,
+      "Barrie": 684,
       "Belleville": 47,
-      "Brantford": 163,
-      "Brockville": 355,
-      "Chatham": 355,
-      "Cornwall": 182,
+      "Brantford": 164,
+      "Brockville": 356,
+      "Chatham": 354,
+      "Cornwall": 184,
       "Guelph": 552,
       "Hamilton": 946,
       "Kenora": 43,
-      "Kingston": 110,
-      "London": 718,
-      "Mississauga": 6885,
+      "Kingston": 111,
+      "London": 719,
+      "Mississauga": 6898,
       "New Liskeard": 19,
-      "Newmarket": 3356,
+      "Newmarket": 3361,
       "North Bay": 35,
-      "Oakville": 859,
-      "Ottawa": 2757,
+      "Oakville": 863,
+      "Ottawa": 2779,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 221,
       "Sault Ste. Marie": 27,
       "Simcoe": 459,
       "St. Thomas": 238,
       "Stratford": 105,
       "Sudbury": 92,
-      "Thorold": 916,
+      "Thorold": 924,
       "Thunder Bay": 101,
       "Timmins": 72,
-      "Toronto": 14436,
-      "Waterloo": 1433,
-      "Whitby": 1849,
-      "Windsor": 2441
+      "Toronto": 14447,
+      "Waterloo": 1435,
+      "Whitby": 1853,
+      "Windsor": 2443
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14384
@@ -18085,48 +18091,56 @@
   },
   {
     "cities_new_cases": {
-      "Mississauga": 4,
-      "Waterloo": 1,
-      "Whitby": 1
+      "Barrie": 1,
+      "Brantford": 1,
+      "Chatham": 2,
+      "Hamilton": 6,
+      "Mississauga": 8,
+      "Newmarket": 2,
+      "Ottawa": 15,
+      "St. Thomas": 2,
+      "Stratford": 1,
+      "Toronto": 12,
+      "Windsor": 2
     },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 33
     },
     "cities_total_cases": {
-      "Barrie": 682,
+      "Barrie": 685,
       "Belleville": 47,
-      "Brantford": 163,
-      "Brockville": 355,
-      "Chatham": 355,
-      "Cornwall": 182,
+      "Brantford": 165,
+      "Brockville": 356,
+      "Chatham": 356,
+      "Cornwall": 184,
       "Guelph": 552,
-      "Hamilton": 946,
+      "Hamilton": 952,
       "Kenora": 43,
-      "Kingston": 110,
-      "London": 718,
-      "Mississauga": 6889,
+      "Kingston": 111,
+      "London": 719,
+      "Mississauga": 6906,
       "New Liskeard": 19,
-      "Newmarket": 3356,
+      "Newmarket": 3363,
       "North Bay": 35,
-      "Oakville": 859,
-      "Ottawa": 2757,
+      "Oakville": 863,
+      "Ottawa": 2794,
       "Owen Sound": 120,
       "Pembroke": 30,
-      "Peterborough": 101,
-      "Point Edward": 335,
+      "Peterborough": 100,
+      "Point Edward": 336,
       "Port Hope": 221,
       "Sault Ste. Marie": 27,
       "Simcoe": 459,
-      "St. Thomas": 238,
-      "Stratford": 105,
+      "St. Thomas": 240,
+      "Stratford": 106,
       "Sudbury": 92,
-      "Thorold": 916,
+      "Thorold": 924,
       "Thunder Bay": 101,
       "Timmins": 72,
-      "Toronto": 14436,
-      "Waterloo": 1434,
-      "Whitby": 1850,
-      "Windsor": 2441
+      "Toronto": 14459,
+      "Waterloo": 1435,
+      "Whitby": 1853,
+      "Windsor": 2445
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14417
@@ -18175,8 +18189,49 @@
     "under_investigation": 15490
   },
   {
+    "cities_new_cases": {
+      "Barrie": 1,
+      "Mississauga": 4,
+      "Toronto": 1
+    },
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 21
+    },
+    "cities_total_cases": {
+      "Barrie": 686,
+      "Belleville": 47,
+      "Brantford": 165,
+      "Brockville": 356,
+      "Chatham": 356,
+      "Cornwall": 184,
+      "Guelph": 552,
+      "Hamilton": 952,
+      "Kenora": 43,
+      "Kingston": 111,
+      "London": 719,
+      "Mississauga": 6910,
+      "New Liskeard": 19,
+      "Newmarket": 3363,
+      "North Bay": 35,
+      "Oakville": 863,
+      "Ottawa": 2794,
+      "Owen Sound": 120,
+      "Pembroke": 30,
+      "Peterborough": 100,
+      "Point Edward": 336,
+      "Port Hope": 221,
+      "Sault Ste. Marie": 27,
+      "Simcoe": 459,
+      "St. Thomas": 240,
+      "Stratford": 106,
+      "Sudbury": 92,
+      "Thorold": 924,
+      "Thunder Bay": 101,
+      "Timmins": 72,
+      "Toronto": 14460,
+      "Waterloo": 1435,
+      "Whitby": 1853,
+      "Windsor": 2445
     },
     "cities_total_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 14438
@@ -18223,5 +18278,19 @@
     "resolved": 37291,
     "total_cases": 41048,
     "under_investigation": 22104
+  },
+  {
+    "date": "2020-08-21",
+    "deaths": 2796,
+    "growth_factor_total_cases": "1.72",
+    "hospitalized": 35,
+    "icu": 13,
+    "icu_on_ventilator": 7,
+    "infected": 986,
+    "new_tests": 28073,
+    "new_total_cases": 131,
+    "resolved": 37397,
+    "total_cases": 41179,
+    "under_investigation": 19941
   }
 ]
