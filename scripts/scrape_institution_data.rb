@@ -4,6 +4,13 @@ require 'csv'
 require 'open3'
 require 'pdf-reader'
 
+LTC_KEYWORDS = [
+  'Residents',
+  'Health', # care workers
+  'Deaths', # among residents/health care
+  'workers'
+]
+
 LastNumberScrape = lambda do |row|
   words = row.split
   cumulative = words[-1].delete(',').to_i
@@ -51,6 +58,23 @@ EndsInTwoNumbersRowSelect = lambda do |line|
   if is_a_number?(words[-1]) && is_a_number?(words[-2])
     return true
   end
+
+  false
+end
+
+StartsWithLtcKeywordEndsInTwoNumbersRowSelect = lambda do |line|
+  words = line.split
+
+  return false if words.size < 2
+
+  # protect against intro paragraph that ends in a date,
+  # which occurs in the institutions page
+  return false if line.include?('2020')
+  return false if line.include?('January')
+
+  return false unless LTC_KEYWORDS.include?(words[0])
+
+  return true if is_a_number?(words[-1]) && is_a_number?(words[-2])
 
   false
 end
@@ -247,6 +271,12 @@ class ScrapeInstitutionData
             Date.parse('2020-06-11'),
             'Table 2.',
             EndsInTwoNumbersRowSelect,
+            LtcCollect2
+          ],
+          [
+            Date.parse('2020-08-25'),
+            'Table 1b.',
+            StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
             LtcCollect2
           ]
         ]

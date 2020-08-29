@@ -45,6 +45,8 @@ scrape_toronto_data = ScrapeTorontoData.new(tabula_path)
 
 date_toronto_map = JSON.parse(File.read(old_toronto_data_path))
 
+existing_dates = date_toronto_map.keys
+
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
 
@@ -58,6 +60,9 @@ epidemiologic_report_paths.each do |pdf_path|
 
   if date < min_date
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
+    next
+  elsif existing_dates.include?(date.to_s)
+    puts "Skipping report for #{date} because the date already exists in the previously generated report"
     next
   else
     puts "Scraping #{pdf_basename}..."

@@ -16,6 +16,8 @@ epidemiologic_report_paths = Dir.glob(raw_reports_glob).sort
 
 date_institutions_map = JSON.parse(File.read(old_institutions_data_path))
 
+existing_dates = date_institutions_map.keys
+
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
 
@@ -29,6 +31,9 @@ epidemiologic_report_paths.each do |pdf_path|
 
   if date < min_date
     puts "Skipping report for #{date} because it is older than min date #{min_date}"
+    next
+  elsif existing_dates.include?(date.to_s)
+    puts "Skipping report for #{date} because it already exists in the last saved report"
     next
   else
     puts "Scraping #{pdf_basename}..."

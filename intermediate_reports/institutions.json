@@ -1,0 +1,5359 @@
+{
+  "2020-03-31": {
+    "institutional_outbreaks": {
+      "long_term": 12,
+      "total": 12
+    },
+    "institutional_all_cases": {
+      "long_term": 230,
+      "total": 230
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 135,
+      "total": 135
+    },
+    "institutional_staff_cases": {
+      "long_term": 92,
+      "total": 92
+    },
+    "institutional_all_deaths": {
+      "long_term": 12,
+      "total": 12
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 11,
+      "total": 11
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "total": 0
+    }
+  },
+  "2020-04-01": {
+    "institutional_outbreaks": {
+      "long_term": 26,
+      "total": 26
+    },
+    "institutional_all_cases": {
+      "long_term": 287,
+      "total": 287
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 163,
+      "total": 163
+    },
+    "institutional_staff_cases": {
+      "long_term": 119,
+      "total": 119
+    },
+    "institutional_all_deaths": {
+      "long_term": 19,
+      "total": 19
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 18,
+      "total": 18
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "total": 0
+    }
+  },
+  "2020-04-02": {
+    "institutional_outbreaks": {
+      "long_term": 32,
+      "total": 32
+    },
+    "institutional_all_cases": {
+      "long_term": 292,
+      "total": 292
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 167,
+      "total": 167
+    },
+    "institutional_staff_cases": {
+      "long_term": 120,
+      "total": 120
+    },
+    "institutional_all_deaths": {
+      "long_term": 24,
+      "total": 24
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 23,
+      "total": 23
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "total": 0
+    }
+  },
+  "2020-04-03": {
+    "institutional_outbreaks": {
+      "long_term": 36,
+      "total": 36
+    },
+    "institutional_all_cases": {
+      "long_term": 526,
+      "total": 526
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 316,
+      "total": 316
+    },
+    "institutional_staff_cases": {
+      "long_term": 199,
+      "total": 199
+    },
+    "institutional_all_deaths": {
+      "long_term": 54,
+      "total": 54
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 51,
+      "total": 51
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "total": 0
+    }
+  },
+  "2020-04-04": {
+    "institutional_outbreaks": {
+      "long_term": 44,
+      "total": 44
+    },
+    "institutional_all_cases": {
+      "long_term": 858,
+      "total": 858
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 511,
+      "total": 511
+    },
+    "institutional_staff_cases": {
+      "long_term": 340,
+      "total": 340
+    },
+    "institutional_all_deaths": {
+      "long_term": 56,
+      "total": 56
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 54,
+      "total": 54
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "total": 0
+    }
+  },
+  "2020-04-05": {
+    "institutional_outbreaks": {
+      "long_term": 46,
+      "hospitals": 10,
+      "total": 56
+    },
+    "institutional_all_cases": {
+      "long_term": 745,
+      "hospitals": 89,
+      "total": 834
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 456,
+      "hospitals": 38,
+      "total": 494
+    },
+    "institutional_staff_cases": {
+      "long_term": 280,
+      "hospitals": 51,
+      "total": 331
+    },
+    "institutional_all_deaths": {
+      "long_term": 56,
+      "hospitals": 4,
+      "total": 60
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 54,
+      "hospitals": 4,
+      "total": 58
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-06": {
+    "institutional_outbreaks": {
+      "long_term": 51,
+      "hospitals": 15,
+      "total": 66
+    },
+    "institutional_all_cases": {
+      "long_term": 850,
+      "hospitals": 69,
+      "total": 919
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 478,
+      "hospitals": 38,
+      "total": 516
+    },
+    "institutional_staff_cases": {
+      "long_term": 363,
+      "hospitals": 31,
+      "total": 394
+    },
+    "institutional_all_deaths": {
+      "long_term": 69,
+      "hospitals": 5,
+      "total": 74
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 67,
+      "hospitals": 5,
+      "total": 72
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-07": {
+    "institutional_outbreaks": {
+      "long_term": 58,
+      "hospitals": 14,
+      "total": 72
+    },
+    "institutional_all_cases": {
+      "long_term": 827,
+      "hospitals": 71,
+      "total": 898
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 464,
+      "hospitals": 38,
+      "total": 502
+    },
+    "institutional_staff_cases": {
+      "long_term": 351,
+      "hospitals": 33,
+      "total": 384
+    },
+    "institutional_all_deaths": {
+      "long_term": 78,
+      "hospitals": 5,
+      "total": 83
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 76,
+      "hospitals": 5,
+      "total": 81
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-08": {
+    "institutional_outbreaks": {
+      "long_term": 69,
+      "hospitals": 15,
+      "total": 84
+    },
+    "institutional_all_cases": {
+      "long_term": 857,
+      "hospitals": 71,
+      "total": 928
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 498,
+      "hospitals": 38,
+      "total": 536
+    },
+    "institutional_staff_cases": {
+      "long_term": 347,
+      "hospitals": 33,
+      "total": 380
+    },
+    "institutional_all_deaths": {
+      "long_term": 88,
+      "hospitals": 5,
+      "total": 93
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 86,
+      "hospitals": 5,
+      "total": 91
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-09": {
+    "institutional_outbreaks": {
+      "long_term": 73,
+      "hospitals": 17,
+      "total": 90
+    },
+    "institutional_all_cases": {
+      "long_term": 931,
+      "hospitals": 90,
+      "total": 1021
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 560,
+      "hospitals": 50,
+      "total": 610
+    },
+    "institutional_staff_cases": {
+      "long_term": 366,
+      "hospitals": 40,
+      "total": 406
+    },
+    "institutional_all_deaths": {
+      "long_term": 99,
+      "hospitals": 8,
+      "total": 107
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 98,
+      "hospitals": 8,
+      "total": 106
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-10": {
+    "institutional_outbreaks": {
+      "long_term": 79,
+      "hospitals": 20,
+      "total": 99
+    },
+    "institutional_all_cases": {
+      "long_term": 1003,
+      "hospitals": 95,
+      "total": 1098
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 625,
+      "hospitals": 53,
+      "total": 678
+    },
+    "institutional_staff_cases": {
+      "long_term": 374,
+      "hospitals": 41,
+      "total": 415
+    },
+    "institutional_all_deaths": {
+      "long_term": 109,
+      "hospitals": 8,
+      "total": 117
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 108,
+      "hospitals": 8,
+      "total": 116
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-11": {
+    "institutional_outbreaks": {
+      "long_term": 86,
+      "hospitals": 21,
+      "total": 107
+    },
+    "institutional_all_cases": {
+      "long_term": 1153,
+      "hospitals": 95,
+      "total": 1248
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 719,
+      "hospitals": 53,
+      "total": 772
+    },
+    "institutional_staff_cases": {
+      "long_term": 430,
+      "hospitals": 41,
+      "total": 471
+    },
+    "institutional_all_deaths": {
+      "long_term": 115,
+      "hospitals": 8,
+      "total": 123
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 114,
+      "hospitals": 8,
+      "total": 122
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-12": {
+    "institutional_outbreaks": {
+      "long_term": 89,
+      "hospitals": 24,
+      "total": 113
+    },
+    "institutional_all_cases": {
+      "long_term": 1175,
+      "hospitals": 100,
+      "total": 1275
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 741,
+      "hospitals": 56,
+      "total": 797
+    },
+    "institutional_staff_cases": {
+      "long_term": 430,
+      "hospitals": 43,
+      "total": 473
+    },
+    "institutional_all_deaths": {
+      "long_term": 120,
+      "hospitals": 8,
+      "total": 128
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 119,
+      "hospitals": 8,
+      "total": 127
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-13": {
+    "institutional_outbreaks": {
+      "long_term": 93,
+      "hospitals": 27,
+      "total": 120
+    },
+    "institutional_all_cases": {
+      "long_term": 1254,
+      "hospitals": 113,
+      "total": 1367
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 813,
+      "hospitals": 62,
+      "total": 875
+    },
+    "institutional_staff_cases": {
+      "long_term": 437,
+      "hospitals": 50,
+      "total": 487
+    },
+    "institutional_all_deaths": {
+      "long_term": 136,
+      "hospitals": 8,
+      "total": 144
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 135,
+      "hospitals": 8,
+      "total": 143
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-14": {
+    "institutional_outbreaks": {
+      "long_term": 98,
+      "hospitals": 28,
+      "total": 126
+    },
+    "institutional_all_cases": {
+      "long_term": 1291,
+      "hospitals": 139,
+      "total": 1430
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 834,
+      "hospitals": 82,
+      "total": 916
+    },
+    "institutional_staff_cases": {
+      "long_term": 453,
+      "hospitals": 56,
+      "total": 509
+    },
+    "institutional_all_deaths": {
+      "long_term": 145,
+      "hospitals": 9,
+      "total": 154
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 144,
+      "hospitals": 9,
+      "total": 153
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-15": {
+    "institutional_outbreaks": {
+      "long_term": 104,
+      "hospitals": 29,
+      "total": 133
+    },
+    "institutional_all_cases": {
+      "long_term": 1467,
+      "hospitals": 146,
+      "total": 1613
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 933,
+      "hospitals": 87,
+      "total": 1020
+    },
+    "institutional_staff_cases": {
+      "long_term": 530,
+      "hospitals": 58,
+      "total": 588
+    },
+    "institutional_all_deaths": {
+      "long_term": 163,
+      "hospitals": 9,
+      "total": 172
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 162,
+      "hospitals": 9,
+      "total": 171
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-17": {
+    "institutional_outbreaks": {
+      "long_term": 106,
+      "hospitals": 30,
+      "total": 136
+    },
+    "institutional_all_cases": {
+      "long_term": 1854,
+      "hospitals": 194,
+      "total": 2048
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1229,
+      "hospitals": 117,
+      "total": 1346
+    },
+    "institutional_staff_cases": {
+      "long_term": 621,
+      "hospitals": 76,
+      "total": 697
+    },
+    "institutional_all_deaths": {
+      "long_term": 217,
+      "hospitals": 10,
+      "total": 227
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 216,
+      "hospitals": 10,
+      "total": 226
+    },
+    "institutional_staff_deaths": {
+      "long_term": 0,
+      "hospitals": 0,
+      "total": 0
+    }
+  },
+  "2020-04-18": {
+    "institutional_outbreaks": {
+      "long_term": 108,
+      "hospitals": 31,
+      "total": 139
+    },
+    "institutional_all_cases": {
+      "long_term": 1963,
+      "hospitals": 193,
+      "total": 2156
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1322,
+      "hospitals": 115,
+      "total": 1437
+    },
+    "institutional_staff_cases": {
+      "long_term": 637,
+      "hospitals": 77,
+      "total": 714
+    },
+    "institutional_all_deaths": {
+      "long_term": 234,
+      "hospitals": 10,
+      "total": 244
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 233,
+      "hospitals": 10,
+      "total": 243
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-19": {
+    "institutional_outbreaks": {
+      "long_term": 112,
+      "hospitals": 31,
+      "total": 143
+    },
+    "institutional_all_cases": {
+      "long_term": 1913,
+      "hospitals": 215,
+      "total": 2128
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1272,
+      "hospitals": 123,
+      "total": 1395
+    },
+    "institutional_staff_cases": {
+      "long_term": 637,
+      "hospitals": 90,
+      "total": 727
+    },
+    "institutional_all_deaths": {
+      "long_term": 241,
+      "hospitals": 11,
+      "total": 252
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 240,
+      "hospitals": 11,
+      "total": 251
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-20": {
+    "institutional_outbreaks": {
+      "long_term": 114,
+      "hospitals": 33,
+      "total": 147
+    },
+    "institutional_all_cases": {
+      "long_term": 1965,
+      "hospitals": 218,
+      "total": 2183
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1317,
+      "hospitals": 126,
+      "total": 1443
+    },
+    "institutional_staff_cases": {
+      "long_term": 644,
+      "hospitals": 90,
+      "total": 734
+    },
+    "institutional_all_deaths": {
+      "long_term": 250,
+      "hospitals": 12,
+      "total": 262
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 249,
+      "hospitals": 12,
+      "total": 261
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-21": {
+    "institutional_outbreaks": {
+      "long_term": 121,
+      "hospitals": 34,
+      "total": 155
+    },
+    "institutional_all_cases": {
+      "long_term": 2069,
+      "hospitals": 263,
+      "total": 2332
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1394,
+      "hospitals": 149,
+      "total": 1543
+    },
+    "institutional_staff_cases": {
+      "long_term": 671,
+      "hospitals": 112,
+      "total": 783
+    },
+    "institutional_all_deaths": {
+      "long_term": 274,
+      "hospitals": 14,
+      "total": 288
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 273,
+      "hospitals": 14,
+      "total": 287
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-22": {
+    "institutional_outbreaks": {
+      "long_term": 125,
+      "hospitals": 35,
+      "total": 160
+    },
+    "institutional_all_cases": {
+      "long_term": 2339,
+      "hospitals": 242,
+      "total": 2581
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1587,
+      "hospitals": 139,
+      "total": 1726
+    },
+    "institutional_staff_cases": {
+      "long_term": 748,
+      "hospitals": 101,
+      "total": 849
+    },
+    "institutional_all_deaths": {
+      "long_term": 296,
+      "hospitals": 13,
+      "total": 309
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 295,
+      "hospitals": 13,
+      "total": 308
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-23": {
+    "institutional_outbreaks": {
+      "long_term": 135,
+      "hospitals": 37,
+      "total": 172
+    },
+    "institutional_all_cases": {
+      "long_term": 2826,
+      "hospitals": 238,
+      "total": 3064
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 1933,
+      "hospitals": 135,
+      "total": 2068
+    },
+    "institutional_staff_cases": {
+      "long_term": 889,
+      "hospitals": 101,
+      "total": 990
+    },
+    "institutional_all_deaths": {
+      "long_term": 359,
+      "hospitals": 15,
+      "total": 374
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 358,
+      "hospitals": 15,
+      "total": 373
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-24": {
+    "institutional_outbreaks": {
+      "long_term": 143,
+      "hospitals": 41,
+      "total": 184
+    },
+    "institutional_all_cases": {
+      "long_term": 3085,
+      "hospitals": 259,
+      "total": 3344
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2166,
+      "hospitals": 149,
+      "total": 2315
+    },
+    "institutional_staff_cases": {
+      "long_term": 915,
+      "hospitals": 107,
+      "total": 1022
+    },
+    "institutional_all_deaths": {
+      "long_term": 464,
+      "hospitals": 16,
+      "total": 480
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 463,
+      "hospitals": 16,
+      "total": 479
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-25": {
+    "institutional_outbreaks": {
+      "long_term": 162,
+      "hospitals": 50,
+      "total": 212
+    },
+    "institutional_all_cases": {
+      "long_term": 3205,
+      "hospitals": 282,
+      "total": 3487
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2236,
+      "hospitals": 157,
+      "total": 2393
+    },
+    "institutional_staff_cases": {
+      "long_term": 965,
+      "hospitals": 122,
+      "total": 1087
+    },
+    "institutional_all_deaths": {
+      "long_term": 471,
+      "hospitals": 17,
+      "total": 488
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 470,
+      "hospitals": 17,
+      "total": 487
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-26": {
+    "institutional_outbreaks": {
+      "long_term": 167,
+      "hospitals": 52,
+      "total": 219
+    },
+    "institutional_all_cases": {
+      "long_term": 3202,
+      "hospitals": 297,
+      "total": 3499
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2185,
+      "hospitals": 156,
+      "total": 2341
+    },
+    "institutional_staff_cases": {
+      "long_term": 1013,
+      "hospitals": 138,
+      "total": 1151
+    },
+    "institutional_all_deaths": {
+      "long_term": 455,
+      "hospitals": 19,
+      "total": 474
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 454,
+      "hospitals": 19,
+      "total": 473
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-27": {
+    "institutional_outbreaks": {
+      "long_term": 170,
+      "hospitals": 54,
+      "total": 224
+    },
+    "institutional_all_cases": {
+      "long_term": 3451,
+      "hospitals": 308,
+      "total": 3759
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2346,
+      "hospitals": 165,
+      "total": 2511
+    },
+    "institutional_staff_cases": {
+      "long_term": 1101,
+      "hospitals": 140,
+      "total": 1241
+    },
+    "institutional_all_deaths": {
+      "long_term": 498,
+      "hospitals": 19,
+      "total": 517
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 497,
+      "hospitals": 19,
+      "total": 516
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-28": {
+    "institutional_outbreaks": {
+      "long_term": 176,
+      "hospitals": 55,
+      "total": 231
+    },
+    "institutional_all_cases": {
+      "long_term": 3277,
+      "hospitals": 364,
+      "total": 3641
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2240,
+      "hospitals": 180,
+      "total": 2420
+    },
+    "institutional_staff_cases": {
+      "long_term": 1033,
+      "hospitals": 181,
+      "total": 1214
+    },
+    "institutional_all_deaths": {
+      "long_term": 477,
+      "hospitals": 20,
+      "total": 497
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 476,
+      "hospitals": 20,
+      "total": 496
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-29": {
+    "institutional_outbreaks": {
+      "long_term": 181,
+      "retirement_home": 67,
+      "hospitals": 57,
+      "total": 305
+    },
+    "institutional_all_cases": {
+      "long_term": 3464,
+      "retirement_home": 642,
+      "hospitals": 382,
+      "total": 4488
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2352,
+      "retirement_home": 419,
+      "hospitals": 185,
+      "total": 2956
+    },
+    "institutional_staff_cases": {
+      "long_term": 1108,
+      "retirement_home": 223,
+      "hospitals": 194,
+      "total": 1525
+    },
+    "institutional_all_deaths": {
+      "long_term": 522,
+      "retirement_home": 77,
+      "hospitals": 27,
+      "total": 626
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 521,
+      "retirement_home": 77,
+      "hospitals": 27,
+      "total": 625
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-04-30": {
+    "institutional_outbreaks": {
+      "long_term": 190,
+      "retirement_home": 70,
+      "hospitals": 57,
+      "total": 317
+    },
+    "institutional_all_cases": {
+      "long_term": 3538,
+      "retirement_home": 701,
+      "hospitals": 523,
+      "total": 4762
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2385,
+      "retirement_home": 456,
+      "hospitals": 241,
+      "total": 3082
+    },
+    "institutional_staff_cases": {
+      "long_term": 1148,
+      "retirement_home": 245,
+      "hospitals": 279,
+      "total": 1672
+    },
+    "institutional_all_deaths": {
+      "long_term": 531,
+      "retirement_home": 83,
+      "hospitals": 41,
+      "total": 655
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 530,
+      "retirement_home": 83,
+      "hospitals": 41,
+      "total": 654
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-01": {
+    "institutional_outbreaks": {
+      "long_term": 198,
+      "retirement_home": 71,
+      "hospitals": 62,
+      "total": 331
+    },
+    "institutional_all_cases": {
+      "long_term": 3647,
+      "retirement_home": 707,
+      "hospitals": 424,
+      "total": 4778
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2455,
+      "retirement_home": 457,
+      "hospitals": 193,
+      "total": 3105
+    },
+    "institutional_staff_cases": {
+      "long_term": 1187,
+      "retirement_home": 250,
+      "hospitals": 224,
+      "total": 1661
+    },
+    "institutional_all_deaths": {
+      "long_term": 542,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 662
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 541,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 661
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-02": {
+    "institutional_outbreaks": {
+      "long_term": 205,
+      "retirement_home": 73,
+      "hospitals": 63,
+      "total": 341
+    },
+    "institutional_all_cases": {
+      "long_term": 3675,
+      "retirement_home": 707,
+      "hospitals": 454,
+      "total": 4836
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2462,
+      "retirement_home": 457,
+      "hospitals": 211,
+      "total": 3130
+    },
+    "institutional_staff_cases": {
+      "long_term": 1208,
+      "retirement_home": 250,
+      "hospitals": 236,
+      "total": 1694
+    },
+    "institutional_all_deaths": {
+      "long_term": 579,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 699
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 578,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 698
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-03": {
+    "institutional_outbreaks": {
+      "long_term": 209,
+      "retirement_home": 75,
+      "hospitals": 64,
+      "total": 348
+    },
+    "institutional_all_cases": {
+      "long_term": 3717,
+      "retirement_home": 710,
+      "hospitals": 472,
+      "total": 4899
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2488,
+      "retirement_home": 459,
+      "hospitals": 223,
+      "total": 3170
+    },
+    "institutional_staff_cases": {
+      "long_term": 1224,
+      "retirement_home": 251,
+      "hospitals": 242,
+      "total": 1717
+    },
+    "institutional_all_deaths": {
+      "long_term": 591,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 711
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 590,
+      "retirement_home": 87,
+      "hospitals": 33,
+      "total": 710
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-04": {
+    "institutional_outbreaks": {
+      "long_term": 212,
+      "retirement_home": 77,
+      "hospitals": 64,
+      "total": 353
+    },
+    "institutional_all_cases": {
+      "long_term": 3843,
+      "retirement_home": 719,
+      "hospitals": 498,
+      "total": 5060
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2564,
+      "retirement_home": 465,
+      "hospitals": 240,
+      "total": 3269
+    },
+    "institutional_staff_cases": {
+      "long_term": 1274,
+      "retirement_home": 254,
+      "hospitals": 251,
+      "total": 1779
+    },
+    "institutional_all_deaths": {
+      "long_term": 627,
+      "retirement_home": 88,
+      "hospitals": 40,
+      "total": 755
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 626,
+      "retirement_home": 88,
+      "hospitals": 40,
+      "total": 754
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-05": {
+    "institutional_outbreaks": {
+      "long_term": 218,
+      "retirement_home": 78,
+      "hospitals": 66,
+      "total": 362
+    },
+    "institutional_all_cases": {
+      "long_term": 4052,
+      "retirement_home": 836,
+      "hospitals": 520,
+      "total": 5408
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2707,
+      "retirement_home": 549,
+      "hospitals": 245,
+      "total": 3501
+    },
+    "institutional_staff_cases": {
+      "long_term": 1340,
+      "retirement_home": 287,
+      "hospitals": 268,
+      "total": 1895
+    },
+    "institutional_all_deaths": {
+      "long_term": 698,
+      "retirement_home": 108,
+      "hospitals": 38,
+      "total": 844
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 697,
+      "retirement_home": 108,
+      "hospitals": 38,
+      "total": 843
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-06": {
+    "institutional_outbreaks": {
+      "long_term": 223,
+      "retirement_home": 79,
+      "hospitals": 69,
+      "total": 371
+    },
+    "institutional_all_cases": {
+      "long_term": 3874,
+      "retirement_home": 774,
+      "hospitals": 532,
+      "total": 5180
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2576,
+      "retirement_home": 506,
+      "hospitals": 254,
+      "total": 3336
+    },
+    "institutional_staff_cases": {
+      "long_term": 1293,
+      "retirement_home": 268,
+      "hospitals": 271,
+      "total": 1832
+    },
+    "institutional_all_deaths": {
+      "long_term": 654,
+      "retirement_home": 98,
+      "hospitals": 40,
+      "total": 792
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 653,
+      "retirement_home": 98,
+      "hospitals": 40,
+      "total": 791
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-07": {
+    "institutional_outbreaks": {
+      "long_term": 225,
+      "retirement_home": 83,
+      "hospitals": 69,
+      "total": 377
+    },
+    "institutional_all_cases": {
+      "long_term": 4030,
+      "retirement_home": 784,
+      "hospitals": 549,
+      "total": 5363
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2693,
+      "retirement_home": 511,
+      "hospitals": 265,
+      "total": 3469
+    },
+    "institutional_staff_cases": {
+      "long_term": 1331,
+      "retirement_home": 273,
+      "hospitals": 277,
+      "total": 1881
+    },
+    "institutional_all_deaths": {
+      "long_term": 682,
+      "retirement_home": 99,
+      "hospitals": 45,
+      "total": 826
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 681,
+      "retirement_home": 99,
+      "hospitals": 45,
+      "total": 825
+    },
+    "institutional_staff_deaths": {
+      "long_term": 1,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 1
+    }
+  },
+  "2020-05-08": {
+    "institutional_outbreaks": {
+      "long_term": 234,
+      "retirement_home": 83,
+      "hospitals": 70,
+      "total": 387
+    },
+    "institutional_all_cases": {
+      "long_term": 4186,
+      "retirement_home": 790,
+      "hospitals": 566,
+      "total": 5542
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2783,
+      "retirement_home": 511,
+      "hospitals": 268,
+      "total": 3562
+    },
+    "institutional_staff_cases": {
+      "long_term": 1398,
+      "retirement_home": 279,
+      "hospitals": 291,
+      "total": 1968
+    },
+    "institutional_all_deaths": {
+      "long_term": 721,
+      "retirement_home": 103,
+      "hospitals": 47,
+      "total": 871
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 720,
+      "retirement_home": 103,
+      "hospitals": 47,
+      "total": 870
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-09": {
+    "institutional_outbreaks": {
+      "long_term": 237,
+      "retirement_home": 85,
+      "hospitals": 70,
+      "total": 392
+    },
+    "institutional_all_cases": {
+      "long_term": 4418,
+      "retirement_home": 792,
+      "hospitals": 569,
+      "total": 5779
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2898,
+      "retirement_home": 511,
+      "hospitals": 269,
+      "total": 3678
+    },
+    "institutional_staff_cases": {
+      "long_term": 1515,
+      "retirement_home": 281,
+      "hospitals": 293,
+      "total": 2089
+    },
+    "institutional_all_deaths": {
+      "long_term": 776,
+      "retirement_home": 104,
+      "hospitals": 47,
+      "total": 927
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 775,
+      "retirement_home": 104,
+      "hospitals": 47,
+      "total": 926
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-10": {
+    "institutional_outbreaks": {
+      "long_term": 239,
+      "retirement_home": 93,
+      "hospitals": 72,
+      "total": 404
+    },
+    "institutional_all_cases": {
+      "long_term": 4411,
+      "retirement_home": 807,
+      "hospitals": 580,
+      "total": 5798
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2885,
+      "retirement_home": 523,
+      "hospitals": 279,
+      "total": 3687
+    },
+    "institutional_staff_cases": {
+      "long_term": 1521,
+      "retirement_home": 284,
+      "hospitals": 294,
+      "total": 2099
+    },
+    "institutional_all_deaths": {
+      "long_term": 789,
+      "retirement_home": 104,
+      "hospitals": 50,
+      "total": 943
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 788,
+      "retirement_home": 104,
+      "hospitals": 50,
+      "total": 942
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-11": {
+    "institutional_outbreaks": {
+      "long_term": 245,
+      "retirement_home": 95,
+      "hospitals": 73,
+      "total": 413
+    },
+    "institutional_all_cases": {
+      "long_term": 4430,
+      "retirement_home": 817,
+      "hospitals": 597,
+      "total": 5844
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2895,
+      "retirement_home": 524,
+      "hospitals": 286,
+      "total": 3705
+    },
+    "institutional_staff_cases": {
+      "long_term": 1530,
+      "retirement_home": 293,
+      "hospitals": 304,
+      "total": 2127
+    },
+    "institutional_all_deaths": {
+      "long_term": 797,
+      "retirement_home": 104,
+      "hospitals": 50,
+      "total": 951
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 796,
+      "retirement_home": 104,
+      "hospitals": 50,
+      "total": 950
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-12": {
+    "institutional_outbreaks": {
+      "long_term": 249,
+      "retirement_home": 98,
+      "hospitals": 73,
+      "total": 420
+    },
+    "institutional_all_cases": {
+      "long_term": 4535,
+      "retirement_home": 820,
+      "hospitals": 619,
+      "total": 5974
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2972,
+      "retirement_home": 528,
+      "hospitals": 304,
+      "total": 3804
+    },
+    "institutional_staff_cases": {
+      "long_term": 1558,
+      "retirement_home": 292,
+      "hospitals": 308,
+      "total": 2158
+    },
+    "institutional_all_deaths": {
+      "long_term": 813,
+      "retirement_home": 105,
+      "hospitals": 52,
+      "total": 970
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 812,
+      "retirement_home": 105,
+      "hospitals": 52,
+      "total": 969
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-13": {
+    "institutional_outbreaks": {
+      "long_term": 256,
+      "retirement_home": 100,
+      "hospitals": 73,
+      "total": 429
+    },
+    "institutional_all_cases": {
+      "long_term": 4548,
+      "retirement_home": 849,
+      "hospitals": 622,
+      "total": 6019
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2982,
+      "retirement_home": 551,
+      "hospitals": 294,
+      "total": 3827
+    },
+    "institutional_staff_cases": {
+      "long_term": 1561,
+      "retirement_home": 298,
+      "hospitals": 319,
+      "total": 2178
+    },
+    "institutional_all_deaths": {
+      "long_term": 815,
+      "retirement_home": 107,
+      "hospitals": 52,
+      "total": 974
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 814,
+      "retirement_home": 107,
+      "hospitals": 52,
+      "total": 973
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-14": {
+    "institutional_outbreaks": {
+      "long_term": 254,
+      "retirement_home": 110,
+      "hospitals": 76,
+      "total": 440
+    },
+    "institutional_all_cases": {
+      "long_term": 4448,
+      "retirement_home": 1009,
+      "hospitals": 647,
+      "total": 6104
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2879,
+      "retirement_home": 681,
+      "hospitals": 312,
+      "total": 3872
+    },
+    "institutional_staff_cases": {
+      "long_term": 1564,
+      "retirement_home": 328,
+      "hospitals": 326,
+      "total": 2218
+    },
+    "institutional_all_deaths": {
+      "long_term": 815,
+      "retirement_home": 142,
+      "hospitals": 52,
+      "total": 1009
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 814,
+      "retirement_home": 142,
+      "hospitals": 52,
+      "total": 1008
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-15": {
+    "institutional_outbreaks": {
+      "long_term": 263,
+      "retirement_home": 112,
+      "hospitals": 77,
+      "total": 452
+    },
+    "institutional_all_cases": {
+      "long_term": 4539,
+      "retirement_home": 1012,
+      "hospitals": 661,
+      "total": 6212
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2953,
+      "retirement_home": 683,
+      "hospitals": 316,
+      "total": 3952
+    },
+    "institutional_staff_cases": {
+      "long_term": 1580,
+      "retirement_home": 329,
+      "hospitals": 336,
+      "total": 2245
+    },
+    "institutional_all_deaths": {
+      "long_term": 824,
+      "retirement_home": 142,
+      "hospitals": 52,
+      "total": 1018
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 823,
+      "retirement_home": 142,
+      "hospitals": 52,
+      "total": 1017
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-16": {
+    "institutional_outbreaks": {
+      "long_term": 264,
+      "retirement_home": 113,
+      "hospitals": 77,
+      "total": 454
+    },
+    "institutional_all_cases": {
+      "long_term": 4602,
+      "retirement_home": 1053,
+      "hospitals": 672,
+      "total": 6327
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 2975,
+      "retirement_home": 714,
+      "hospitals": 318,
+      "total": 4007
+    },
+    "institutional_staff_cases": {
+      "long_term": 1621,
+      "retirement_home": 339,
+      "hospitals": 345,
+      "total": 2305
+    },
+    "institutional_all_deaths": {
+      "long_term": 836,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1040
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 835,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1039
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-17": {
+    "institutional_outbreaks": {
+      "long_term": 269,
+      "retirement_home": 114,
+      "hospitals": 77,
+      "total": 460
+    },
+    "institutional_all_cases": {
+      "long_term": 4761,
+      "retirement_home": 1057,
+      "hospitals": 675,
+      "total": 6493
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 3067,
+      "retirement_home": 716,
+      "hospitals": 320,
+      "total": 4103
+    },
+    "institutional_staff_cases": {
+      "long_term": 1686,
+      "retirement_home": 341,
+      "hospitals": 347,
+      "total": 2374
+    },
+    "institutional_all_deaths": {
+      "long_term": 868,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1072
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 867,
+      "retirement_home": 152,
+      "hospitals": 52,
+      "total": 1071
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-18": {
+    "institutional_outbreaks": {
+      "long_term": 276,
+      "retirement_home": 114,
+      "hospitals": 77,
+      "total": 467
+    },
+    "institutional_all_cases": {
+      "long_term": 4850,
+      "retirement_home": 1061,
+      "hospitals": 679,
+      "total": 6590
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 3127,
+      "retirement_home": 731,
+      "hospitals": 323,
+      "total": 4181
+    },
+    "institutional_staff_cases": {
+      "long_term": 1715,
+      "retirement_home": 330,
+      "hospitals": 348,
+      "total": 2393
+    },
+    "institutional_all_deaths": {
+      "long_term": 911,
+      "retirement_home": 159,
+      "hospitals": 52,
+      "total": 1122
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 910,
+      "retirement_home": 159,
+      "hospitals": 52,
+      "total": 1121
+    },
+    "institutional_staff_deaths": {
+      "long_term": 2,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 2
+    }
+  },
+  "2020-05-19": {
+    "institutional_outbreaks": {
+      "long_term": 280,
+      "retirement_home": 115,
+      "hospitals": 77,
+      "total": 472
+    },
+    "institutional_all_cases": {
+      "long_term": 5691,
+      "retirement_home": 1062,
+      "hospitals": 684,
+      "total": 7437
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4235,
+      "retirement_home": 731,
+      "hospitals": 326,
+      "total": 5292
+    },
+    "institutional_staff_cases": {
+      "long_term": 1456,
+      "retirement_home": 331,
+      "hospitals": 350,
+      "total": 2137
+    },
+    "institutional_all_deaths": {
+      "long_term": 1118,
+      "retirement_home": 160,
+      "hospitals": 52,
+      "total": 1330
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1115,
+      "retirement_home": 160,
+      "hospitals": 52,
+      "total": 1327
+    },
+    "institutional_staff_deaths": {
+      "long_term": 3,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 3
+    }
+  },
+  "2020-05-20": {
+    "institutional_outbreaks": {
+      "long_term": 284,
+      "retirement_home": 115,
+      "hospitals": 78,
+      "total": 477
+    },
+    "institutional_all_cases": {
+      "long_term": 6091,
+      "retirement_home": 909,
+      "hospitals": 687,
+      "total": 7687
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4518,
+      "retirement_home": 602,
+      "hospitals": 329,
+      "total": 5449
+    },
+    "institutional_staff_cases": {
+      "long_term": 1573,
+      "retirement_home": 307,
+      "hospitals": 350,
+      "total": 2230
+    },
+    "institutional_all_deaths": {
+      "long_term": 1228,
+      "retirement_home": 125,
+      "hospitals": 53,
+      "total": 1406
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1224,
+      "retirement_home": 125,
+      "hospitals": 53,
+      "total": 1402
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 4
+    }
+  },
+  "2020-05-21": {
+    "institutional_outbreaks": {
+      "long_term": 287,
+      "retirement_home": 117,
+      "hospitals": 78,
+      "total": 482
+    },
+    "institutional_all_cases": {
+      "long_term": 6257,
+      "retirement_home": 911,
+      "hospitals": 690,
+      "total": 7858
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4656,
+      "retirement_home": 604,
+      "hospitals": 335,
+      "total": 5595
+    },
+    "institutional_staff_cases": {
+      "long_term": 1601,
+      "retirement_home": 307,
+      "hospitals": 347,
+      "total": 2255
+    },
+    "institutional_all_deaths": {
+      "long_term": 1246,
+      "retirement_home": 126,
+      "hospitals": 55,
+      "total": 1427
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1242,
+      "retirement_home": 126,
+      "hospitals": 55,
+      "total": 1423
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 4
+    }
+  },
+  "2020-05-22": {
+    "institutional_outbreaks": {
+      "long_term": 287,
+      "retirement_home": 119,
+      "hospitals": 79,
+      "total": 485
+    },
+    "institutional_all_cases": {
+      "long_term": 6334,
+      "retirement_home": 918,
+      "hospitals": 693,
+      "total": 7945
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4711,
+      "retirement_home": 608,
+      "hospitals": 339,
+      "total": 5658
+    },
+    "institutional_staff_cases": {
+      "long_term": 1623,
+      "retirement_home": 310,
+      "hospitals": 346,
+      "total": 2279
+    },
+    "institutional_all_deaths": {
+      "long_term": 1266,
+      "retirement_home": 126,
+      "hospitals": 55,
+      "total": 1447
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1262,
+      "retirement_home": 126,
+      "hospitals": 55,
+      "total": 1443
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 4
+    }
+  },
+  "2020-05-23": {
+    "institutional_outbreaks": {
+      "long_term": 292,
+      "retirement_home": 120,
+      "hospitals": 80,
+      "total": 492
+    },
+    "institutional_all_cases": {
+      "long_term": 6434,
+      "retirement_home": 946,
+      "hospitals": 700,
+      "total": 8080
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4784,
+      "retirement_home": 628,
+      "hospitals": 347,
+      "total": 5759
+    },
+    "institutional_staff_cases": {
+      "long_term": 1650,
+      "retirement_home": 318,
+      "hospitals": 345,
+      "total": 2313
+    },
+    "institutional_all_deaths": {
+      "long_term": 1286,
+      "retirement_home": 133,
+      "hospitals": 58,
+      "total": 1477
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1282,
+      "retirement_home": 133,
+      "hospitals": 58,
+      "total": 1473
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 1,
+      "total": 5
+    }
+  },
+  "2020-05-24": {
+    "institutional_outbreaks": {
+      "long_term": 292,
+      "retirement_home": 123,
+      "hospitals": 82,
+      "total": 497
+    },
+    "institutional_all_cases": {
+      "long_term": 6502,
+      "retirement_home": 950,
+      "hospitals": 702,
+      "total": 8154
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4834,
+      "retirement_home": 629,
+      "hospitals": 347,
+      "total": 5810
+    },
+    "institutional_staff_cases": {
+      "long_term": 1668,
+      "retirement_home": 321,
+      "hospitals": 347,
+      "total": 2336
+    },
+    "institutional_all_deaths": {
+      "long_term": 1304,
+      "retirement_home": 134,
+      "hospitals": 58,
+      "total": 1496
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1300,
+      "retirement_home": 134,
+      "hospitals": 58,
+      "total": 1492
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 1,
+      "total": 5
+    }
+  },
+  "2020-05-25": {
+    "institutional_outbreaks": {
+      "long_term": 295,
+      "retirement_home": 123,
+      "hospitals": 82,
+      "total": 500
+    },
+    "institutional_all_cases": {
+      "long_term": 6540,
+      "retirement_home": 950,
+      "hospitals": 702,
+      "total": 8192
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4862,
+      "retirement_home": 629,
+      "hospitals": 347,
+      "total": 5838
+    },
+    "institutional_staff_cases": {
+      "long_term": 1678,
+      "retirement_home": 321,
+      "hospitals": 347,
+      "total": 2346
+    },
+    "institutional_all_deaths": {
+      "long_term": 1327,
+      "retirement_home": 134,
+      "hospitals": 59,
+      "total": 1520
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1323,
+      "retirement_home": 134,
+      "hospitals": 59,
+      "total": 1516
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 1,
+      "total": 5
+    }
+  },
+  "2020-05-26": {
+    "institutional_outbreaks": {
+      "long_term": 297,
+      "retirement_home": 123,
+      "hospitals": 82,
+      "total": 502
+    },
+    "institutional_all_cases": {
+      "long_term": 6595,
+      "retirement_home": 957,
+      "hospitals": 706,
+      "total": 8258
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4892,
+      "retirement_home": 630,
+      "hospitals": 349,
+      "total": 5871
+    },
+    "institutional_staff_cases": {
+      "long_term": 1703,
+      "retirement_home": 327,
+      "hospitals": 349,
+      "total": 2379
+    },
+    "institutional_all_deaths": {
+      "long_term": 1339,
+      "retirement_home": 134,
+      "hospitals": 64,
+      "total": 1537
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1335,
+      "retirement_home": 134,
+      "hospitals": 64,
+      "total": 1533
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 4
+    }
+  },
+  "2020-05-27": {
+    "institutional_outbreaks": {
+      "long_term": 298,
+      "retirement_home": 136,
+      "hospitals": 84,
+      "total": 518
+    },
+    "institutional_all_cases": {
+      "long_term": 6657,
+      "retirement_home": 979,
+      "hospitals": 718,
+      "total": 8354
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4936,
+      "retirement_home": 646,
+      "hospitals": 351,
+      "total": 5933
+    },
+    "institutional_staff_cases": {
+      "long_term": 1721,
+      "retirement_home": 333,
+      "hospitals": 359,
+      "total": 2413
+    },
+    "institutional_all_deaths": {
+      "long_term": 1356,
+      "retirement_home": 134,
+      "hospitals": 66,
+      "total": 1556
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1352,
+      "retirement_home": 134,
+      "hospitals": 66,
+      "total": 1552
+    },
+    "institutional_staff_deaths": {
+      "long_term": 4,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 4
+    }
+  },
+  "2020-05-28": {
+    "institutional_outbreaks": {
+      "long_term": 298,
+      "retirement_home": 138,
+      "hospitals": 84,
+      "total": 520
+    },
+    "institutional_all_cases": {
+      "long_term": 6709,
+      "retirement_home": 981,
+      "hospitals": 717,
+      "total": 8407
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4964,
+      "retirement_home": 647,
+      "hospitals": 351,
+      "total": 5962
+    },
+    "institutional_staff_cases": {
+      "long_term": 1745,
+      "retirement_home": 334,
+      "hospitals": 358,
+      "total": 2437
+    },
+    "institutional_all_deaths": {
+      "long_term": 1382,
+      "retirement_home": 134,
+      "hospitals": 66,
+      "total": 1582
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1377,
+      "retirement_home": 134,
+      "hospitals": 66,
+      "total": 1577
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-05-29": {
+    "institutional_outbreaks": {
+      "long_term": 300,
+      "retirement_home": 140,
+      "hospitals": 84,
+      "total": 524
+    },
+    "institutional_all_cases": {
+      "long_term": 6764,
+      "retirement_home": 986,
+      "hospitals": 725,
+      "total": 8475
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 4989,
+      "retirement_home": 649,
+      "hospitals": 351,
+      "total": 5989
+    },
+    "institutional_staff_cases": {
+      "long_term": 1775,
+      "retirement_home": 337,
+      "hospitals": 366,
+      "total": 2478
+    },
+    "institutional_all_deaths": {
+      "long_term": 1417,
+      "retirement_home": 135,
+      "hospitals": 66,
+      "total": 1618
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1412,
+      "retirement_home": 135,
+      "hospitals": 66,
+      "total": 1613
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-05-30": {
+    "institutional_outbreaks": {
+      "long_term": 305,
+      "retirement_home": 140,
+      "hospitals": 84,
+      "total": 529
+    },
+    "institutional_all_cases": {
+      "long_term": 6796,
+      "retirement_home": 992,
+      "hospitals": 726,
+      "total": 8514
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5003,
+      "retirement_home": 650,
+      "hospitals": 351,
+      "total": 6004
+    },
+    "institutional_staff_cases": {
+      "long_term": 1793,
+      "retirement_home": 342,
+      "hospitals": 366,
+      "total": 2501
+    },
+    "institutional_all_deaths": {
+      "long_term": 1428,
+      "retirement_home": 135,
+      "hospitals": 66,
+      "total": 1629
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1423,
+      "retirement_home": 135,
+      "hospitals": 66,
+      "total": 1624
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-05-31": {
+    "institutional_outbreaks": {
+      "long_term": 306,
+      "retirement_home": 142,
+      "hospitals": 84,
+      "total": 532
+    },
+    "institutional_all_cases": {
+      "long_term": 6837,
+      "retirement_home": 997,
+      "hospitals": 730,
+      "total": 8564
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5035,
+      "retirement_home": 651,
+      "hospitals": 352,
+      "total": 6038
+    },
+    "institutional_staff_cases": {
+      "long_term": 1802,
+      "retirement_home": 346,
+      "hospitals": 366,
+      "total": 2514
+    },
+    "institutional_all_deaths": {
+      "long_term": 1444,
+      "retirement_home": 136,
+      "hospitals": 67,
+      "total": 1647
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1438,
+      "retirement_home": 136,
+      "hospitals": 67,
+      "total": 1641
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 6
+    }
+  },
+  "2020-06-01": {
+    "institutional_outbreaks": {
+      "long_term": 306,
+      "retirement_home": 144,
+      "hospitals": 84,
+      "total": 534
+    },
+    "institutional_all_cases": {
+      "long_term": 6911,
+      "retirement_home": 1065,
+      "hospitals": 730,
+      "total": 8706
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5097,
+      "retirement_home": 697,
+      "hospitals": 352,
+      "total": 6146
+    },
+    "institutional_staff_cases": {
+      "long_term": 1814,
+      "retirement_home": 368,
+      "hospitals": 366,
+      "total": 2548
+    },
+    "institutional_all_deaths": {
+      "long_term": 1451,
+      "retirement_home": 148,
+      "hospitals": 67,
+      "total": 1666
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1445,
+      "retirement_home": 148,
+      "hospitals": 67,
+      "total": 1660
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 6
+    }
+  },
+  "2020-06-02": {
+    "institutional_outbreaks": {
+      "long_term": 309,
+      "retirement_home": 144,
+      "hospitals": 84,
+      "total": 537
+    },
+    "institutional_all_cases": {
+      "long_term": 6983,
+      "retirement_home": 1090,
+      "hospitals": 730,
+      "total": 8803
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5158,
+      "retirement_home": 714,
+      "hospitals": 352,
+      "total": 6224
+    },
+    "institutional_staff_cases": {
+      "long_term": 1825,
+      "retirement_home": 376,
+      "hospitals": 366,
+      "total": 2567
+    },
+    "institutional_all_deaths": {
+      "long_term": 1470,
+      "retirement_home": 151,
+      "hospitals": 68,
+      "total": 1689
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1465,
+      "retirement_home": 151,
+      "hospitals": 68,
+      "total": 1684
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-03": {
+    "institutional_outbreaks": {
+      "long_term": 308,
+      "retirement_home": 145,
+      "hospitals": 84,
+      "total": 537
+    },
+    "institutional_all_cases": {
+      "long_term": 7015,
+      "retirement_home": 1098,
+      "hospitals": 746,
+      "total": 8859
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5172,
+      "retirement_home": 717,
+      "hospitals": 360,
+      "total": 6249
+    },
+    "institutional_staff_cases": {
+      "long_term": 1843,
+      "retirement_home": 381,
+      "hospitals": 374,
+      "total": 2598
+    },
+    "institutional_all_deaths": {
+      "long_term": 1477,
+      "retirement_home": 150,
+      "hospitals": 69,
+      "total": 1696
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1472,
+      "retirement_home": 150,
+      "hospitals": 69,
+      "total": 1691
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-04": {
+    "institutional_outbreaks": {
+      "long_term": 308,
+      "retirement_home": 147,
+      "hospitals": 86,
+      "total": 541
+    },
+    "institutional_all_cases": {
+      "long_term": 7067,
+      "retirement_home": 1111,
+      "hospitals": 816,
+      "total": 8994
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5202,
+      "retirement_home": 727,
+      "hospitals": 395,
+      "total": 6324
+    },
+    "institutional_staff_cases": {
+      "long_term": 1865,
+      "retirement_home": 384,
+      "hospitals": 409,
+      "total": 2658
+    },
+    "institutional_all_deaths": {
+      "long_term": 1514,
+      "retirement_home": 155,
+      "hospitals": 75,
+      "total": 1744
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1509,
+      "retirement_home": 155,
+      "hospitals": 75,
+      "total": 1739
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-05": {
+    "institutional_outbreaks": {
+      "long_term": 310,
+      "retirement_home": 147,
+      "hospitals": 86,
+      "total": 543
+    },
+    "institutional_all_cases": {
+      "long_term": 7105,
+      "retirement_home": 1194,
+      "hospitals": 815,
+      "total": 9114
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5222,
+      "retirement_home": 789,
+      "hospitals": 393,
+      "total": 6404
+    },
+    "institutional_staff_cases": {
+      "long_term": 1883,
+      "retirement_home": 405,
+      "hospitals": 410,
+      "total": 2698
+    },
+    "institutional_all_deaths": {
+      "long_term": 1524,
+      "retirement_home": 167,
+      "hospitals": 75,
+      "total": 1766
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1519,
+      "retirement_home": 167,
+      "hospitals": 75,
+      "total": 1761
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-06": {
+    "institutional_outbreaks": {
+      "long_term": 311,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 546
+    },
+    "institutional_all_cases": {
+      "long_term": 7140,
+      "retirement_home": 1207,
+      "hospitals": 816,
+      "total": 9163
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5248,
+      "retirement_home": 800,
+      "hospitals": 394,
+      "total": 6442
+    },
+    "institutional_staff_cases": {
+      "long_term": 1892,
+      "retirement_home": 407,
+      "hospitals": 410,
+      "total": 2709
+    },
+    "institutional_all_deaths": {
+      "long_term": 1554,
+      "retirement_home": 168,
+      "hospitals": 75,
+      "total": 1797
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1549,
+      "retirement_home": 168,
+      "hospitals": 75,
+      "total": 1792
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-07": {
+    "institutional_outbreaks": {
+      "long_term": 311,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 546
+    },
+    "institutional_all_cases": {
+      "long_term": 7175,
+      "retirement_home": 1242,
+      "hospitals": 820,
+      "total": 9237
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5254,
+      "retirement_home": 819,
+      "hospitals": 395,
+      "total": 6468
+    },
+    "institutional_staff_cases": {
+      "long_term": 1921,
+      "retirement_home": 423,
+      "hospitals": 413,
+      "total": 2757
+    },
+    "institutional_all_deaths": {
+      "long_term": 1562,
+      "retirement_home": 170,
+      "hospitals": 80,
+      "total": 1812
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1557,
+      "retirement_home": 170,
+      "hospitals": 80,
+      "total": 1807
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-08": {
+    "institutional_outbreaks": {
+      "long_term": 312,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 547
+    },
+    "institutional_all_cases": {
+      "long_term": 7188,
+      "retirement_home": 1244,
+      "hospitals": 875,
+      "total": 9307
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5256,
+      "retirement_home": 820,
+      "hospitals": 420,
+      "total": 6496
+    },
+    "institutional_staff_cases": {
+      "long_term": 1932,
+      "retirement_home": 424,
+      "hospitals": 443,
+      "total": 2799
+    },
+    "institutional_all_deaths": {
+      "long_term": 1580,
+      "retirement_home": 170,
+      "hospitals": 92,
+      "total": 1842
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1575,
+      "retirement_home": 170,
+      "hospitals": 92,
+      "total": 1837
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-09": {
+    "institutional_outbreaks": {
+      "long_term": 312,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 547
+    },
+    "institutional_all_cases": {
+      "long_term": 7222,
+      "retirement_home": 1244,
+      "hospitals": 882,
+      "total": 9348
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5274,
+      "retirement_home": 820,
+      "hospitals": 421,
+      "total": 6515
+    },
+    "institutional_staff_cases": {
+      "long_term": 1948,
+      "retirement_home": 424,
+      "hospitals": 449,
+      "total": 2821
+    },
+    "institutional_all_deaths": {
+      "long_term": 1590,
+      "retirement_home": 171,
+      "hospitals": 93,
+      "total": 1854
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1585,
+      "retirement_home": 171,
+      "hospitals": 93,
+      "total": 1849
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-10": {
+    "institutional_outbreaks": {
+      "long_term": 312,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 547
+    },
+    "institutional_all_cases": {
+      "long_term": 7257,
+      "retirement_home": 1244,
+      "hospitals": 901,
+      "total": 9402
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5294,
+      "retirement_home": 820,
+      "hospitals": 435,
+      "total": 6549
+    },
+    "institutional_staff_cases": {
+      "long_term": 1963,
+      "retirement_home": 424,
+      "hospitals": 454,
+      "total": 2841
+    },
+    "institutional_all_deaths": {
+      "long_term": 1596,
+      "retirement_home": 171,
+      "hospitals": 94,
+      "total": 1861
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1591,
+      "retirement_home": 171,
+      "hospitals": 94,
+      "total": 1856
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "retirement_home": 0,
+      "hospitals": 0,
+      "total": 5
+    }
+  },
+  "2020-06-11": {
+    "institutional_outbreaks": {
+      "long_term": 316,
+      "retirement_home": 149,
+      "hospitals": 86,
+      "total": 551
+    },
+    "institutional_all_cases": {
+      "long_term": 7274,
+      "total": 7274
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5307,
+      "total": 5307
+    },
+    "institutional_staff_cases": {
+      "long_term": 1967,
+      "total": 1967
+    },
+    "institutional_all_deaths": {
+      "long_term": 1605,
+      "total": 1605
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1600,
+      "total": 1600
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-12": {
+    "institutional_outbreaks": {
+      "long_term": 319,
+      "retirement_home": 150,
+      "hospitals": 86,
+      "total": 555
+    },
+    "institutional_all_cases": {
+      "long_term": 7298,
+      "total": 7298
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5314,
+      "total": 5314
+    },
+    "institutional_staff_cases": {
+      "long_term": 1984,
+      "total": 1984
+    },
+    "institutional_all_deaths": {
+      "long_term": 1611,
+      "total": 1611
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1606,
+      "total": 1606
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-13": {
+    "institutional_outbreaks": {
+      "long_term": 324,
+      "retirement_home": 151,
+      "hospitals": 86,
+      "total": 561
+    },
+    "institutional_all_cases": {
+      "long_term": 7328,
+      "total": 7328
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5327,
+      "total": 5327
+    },
+    "institutional_staff_cases": {
+      "long_term": 2001,
+      "total": 2001
+    },
+    "institutional_all_deaths": {
+      "long_term": 1615,
+      "total": 1615
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1610,
+      "total": 1610
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-14": {
+    "institutional_outbreaks": {
+      "long_term": 327,
+      "retirement_home": 151,
+      "hospitals": 87,
+      "total": 565
+    },
+    "institutional_all_cases": {
+      "long_term": 7397,
+      "total": 7397
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5368,
+      "total": 5368
+    },
+    "institutional_staff_cases": {
+      "long_term": 2029,
+      "total": 2029
+    },
+    "institutional_all_deaths": {
+      "long_term": 1631,
+      "total": 1631
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1625,
+      "total": 1625
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-15": {
+    "institutional_outbreaks": {
+      "long_term": 331,
+      "retirement_home": 151,
+      "hospitals": 87,
+      "total": 569
+    },
+    "institutional_all_cases": {
+      "long_term": 7421,
+      "total": 7421
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5380,
+      "total": 5380
+    },
+    "institutional_staff_cases": {
+      "long_term": 2041,
+      "total": 2041
+    },
+    "institutional_all_deaths": {
+      "long_term": 1635,
+      "total": 1635
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1629,
+      "total": 1629
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-16": {
+    "institutional_outbreaks": {
+      "long_term": 334,
+      "retirement_home": 151,
+      "hospitals": 87,
+      "total": 572
+    },
+    "institutional_all_cases": {
+      "long_term": 7417,
+      "total": 7417
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5357,
+      "total": 5357
+    },
+    "institutional_staff_cases": {
+      "long_term": 2060,
+      "total": 2060
+    },
+    "institutional_all_deaths": {
+      "long_term": 1638,
+      "total": 1638
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1632,
+      "total": 1632
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-17": {
+    "institutional_outbreaks": {
+      "long_term": 335,
+      "retirement_home": 151,
+      "hospitals": 87,
+      "total": 573
+    },
+    "institutional_all_cases": {
+      "long_term": 7456,
+      "total": 7456
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5359,
+      "total": 5359
+    },
+    "institutional_staff_cases": {
+      "long_term": 2097,
+      "total": 2097
+    },
+    "institutional_all_deaths": {
+      "long_term": 1642,
+      "total": 1642
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1636,
+      "total": 1636
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-18": {
+    "institutional_outbreaks": {
+      "long_term": 340,
+      "retirement_home": 152,
+      "hospitals": 88,
+      "total": 580
+    },
+    "institutional_all_cases": {
+      "long_term": 7475,
+      "total": 7475
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5360,
+      "total": 5360
+    },
+    "institutional_staff_cases": {
+      "long_term": 2115,
+      "total": 2115
+    },
+    "institutional_all_deaths": {
+      "long_term": 1642,
+      "total": 1642
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1636,
+      "total": 1636
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-19": {
+    "institutional_outbreaks": {
+      "long_term": 346,
+      "retirement_home": 152,
+      "hospitals": 89,
+      "total": 587
+    },
+    "institutional_all_cases": {
+      "long_term": 7526,
+      "total": 7526
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5384,
+      "total": 5384
+    },
+    "institutional_staff_cases": {
+      "long_term": 2142,
+      "total": 2142
+    },
+    "institutional_all_deaths": {
+      "long_term": 1651,
+      "total": 1651
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1645,
+      "total": 1645
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-20": {
+    "institutional_outbreaks": {
+      "long_term": 350,
+      "retirement_home": 152,
+      "hospitals": 89,
+      "total": 591
+    },
+    "institutional_all_cases": {
+      "long_term": 7498,
+      "total": 7498
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5345,
+      "total": 5345
+    },
+    "institutional_staff_cases": {
+      "long_term": 2153,
+      "total": 2153
+    },
+    "institutional_all_deaths": {
+      "long_term": 1657,
+      "total": 1657
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1651,
+      "total": 1651
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-21": {
+    "institutional_outbreaks": {
+      "long_term": 350,
+      "retirement_home": 152,
+      "hospitals": 89,
+      "total": 591
+    },
+    "institutional_all_cases": {
+      "long_term": 7531,
+      "total": 7531
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5355,
+      "total": 5355
+    },
+    "institutional_staff_cases": {
+      "long_term": 2176,
+      "total": 2176
+    },
+    "institutional_all_deaths": {
+      "long_term": 1663,
+      "total": 1663
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1657,
+      "total": 1657
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-22": {
+    "institutional_outbreaks": {
+      "long_term": 352,
+      "retirement_home": 153,
+      "hospitals": 89,
+      "total": 594
+    },
+    "institutional_all_cases": {
+      "long_term": 7556,
+      "total": 7556
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5364,
+      "total": 5364
+    },
+    "institutional_staff_cases": {
+      "long_term": 2192,
+      "total": 2192
+    },
+    "institutional_all_deaths": {
+      "long_term": 1660,
+      "total": 1660
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1654,
+      "total": 1654
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-23": {
+    "institutional_outbreaks": {
+      "long_term": 353,
+      "retirement_home": 153,
+      "hospitals": 90,
+      "total": 596
+    },
+    "institutional_all_cases": {
+      "long_term": 7597,
+      "total": 7597
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5392,
+      "total": 5392
+    },
+    "institutional_staff_cases": {
+      "long_term": 2205,
+      "total": 2205
+    },
+    "institutional_all_deaths": {
+      "long_term": 1670,
+      "total": 1670
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1664,
+      "total": 1664
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-06-24": {
+    "institutional_outbreaks": {
+      "long_term": 355,
+      "retirement_home": 153,
+      "hospitals": 90,
+      "total": 598
+    },
+    "institutional_all_cases": {
+      "long_term": 7671,
+      "total": 7671
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5427,
+      "total": 5427
+    },
+    "institutional_staff_cases": {
+      "long_term": 2244,
+      "total": 2244
+    },
+    "institutional_all_deaths": {
+      "long_term": 1688,
+      "total": 1688
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1683,
+      "total": 1683
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-25": {
+    "institutional_outbreaks": {
+      "long_term": 356,
+      "retirement_home": 153,
+      "hospitals": 91,
+      "total": 600
+    },
+    "institutional_all_cases": {
+      "long_term": 7694,
+      "total": 7694
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5436,
+      "total": 5436
+    },
+    "institutional_staff_cases": {
+      "long_term": 2258,
+      "total": 2258
+    },
+    "institutional_all_deaths": {
+      "long_term": 1694,
+      "total": 1694
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1689,
+      "total": 1689
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-26": {
+    "institutional_outbreaks": {
+      "long_term": 356,
+      "retirement_home": 153,
+      "hospitals": 91,
+      "total": 600
+    },
+    "institutional_all_cases": {
+      "long_term": 7713,
+      "total": 7713
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5445,
+      "total": 5445
+    },
+    "institutional_staff_cases": {
+      "long_term": 2268,
+      "total": 2268
+    },
+    "institutional_all_deaths": {
+      "long_term": 1697,
+      "total": 1697
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1692,
+      "total": 1692
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-27": {
+    "institutional_outbreaks": {
+      "long_term": 359,
+      "retirement_home": 152,
+      "hospitals": 91,
+      "total": 602
+    },
+    "institutional_all_cases": {
+      "long_term": 7739,
+      "total": 7739
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5457,
+      "total": 5457
+    },
+    "institutional_staff_cases": {
+      "long_term": 2282,
+      "total": 2282
+    },
+    "institutional_all_deaths": {
+      "long_term": 1703,
+      "total": 1703
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1698,
+      "total": 1698
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-28": {
+    "institutional_outbreaks": {
+      "long_term": 360,
+      "retirement_home": 152,
+      "hospitals": 91,
+      "total": 603
+    },
+    "institutional_all_cases": {
+      "long_term": 7756,
+      "total": 7756
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5468,
+      "total": 5468
+    },
+    "institutional_staff_cases": {
+      "long_term": 2288,
+      "total": 2288
+    },
+    "institutional_all_deaths": {
+      "long_term": 1705,
+      "total": 1705
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1700,
+      "total": 1700
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-29": {
+    "institutional_outbreaks": {
+      "long_term": 363,
+      "retirement_home": 152,
+      "hospitals": 91,
+      "total": 606
+    },
+    "institutional_all_cases": {
+      "long_term": 7751,
+      "total": 7751
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5468,
+      "total": 5468
+    },
+    "institutional_staff_cases": {
+      "long_term": 2283,
+      "total": 2283
+    },
+    "institutional_all_deaths": {
+      "long_term": 1711,
+      "total": 1711
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1706,
+      "total": 1706
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-06-30": {
+    "institutional_outbreaks": {
+      "long_term": 367,
+      "retirement_home": 152,
+      "hospitals": 91,
+      "total": 610
+    },
+    "institutional_all_cases": {
+      "long_term": 7757,
+      "total": 7757
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5473,
+      "total": 5473
+    },
+    "institutional_staff_cases": {
+      "long_term": 2284,
+      "total": 2284
+    },
+    "institutional_all_deaths": {
+      "long_term": 1715,
+      "total": 1715
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1710,
+      "total": 1710
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-07-01": {
+    "institutional_outbreaks": {
+      "long_term": 366,
+      "retirement_home": 152,
+      "hospitals": 91,
+      "total": 609
+    },
+    "institutional_all_cases": {
+      "long_term": 7768,
+      "total": 7768
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5476,
+      "total": 5476
+    },
+    "institutional_staff_cases": {
+      "long_term": 2292,
+      "total": 2292
+    },
+    "institutional_all_deaths": {
+      "long_term": 1715,
+      "total": 1715
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1710,
+      "total": 1710
+    },
+    "institutional_staff_deaths": {
+      "long_term": 5,
+      "total": 5
+    }
+  },
+  "2020-07-02": {
+    "institutional_outbreaks": {
+      "long_term": 366,
+      "retirement_home": 153,
+      "hospitals": 92,
+      "total": 611
+    },
+    "institutional_all_cases": {
+      "long_term": 7778,
+      "total": 7778
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5488,
+      "total": 5488
+    },
+    "institutional_staff_cases": {
+      "long_term": 2290,
+      "total": 2290
+    },
+    "institutional_all_deaths": {
+      "long_term": 1718,
+      "total": 1718
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1712,
+      "total": 1712
+    },
+    "institutional_staff_deaths": {
+      "long_term": 6,
+      "total": 6
+    }
+  },
+  "2020-07-03": {
+    "institutional_outbreaks": {
+      "long_term": 367,
+      "retirement_home": 153,
+      "hospitals": 94,
+      "total": 614
+    },
+    "institutional_all_cases": {
+      "long_term": 7809,
+      "total": 7809
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5508,
+      "total": 5508
+    },
+    "institutional_staff_cases": {
+      "long_term": 2301,
+      "total": 2301
+    },
+    "institutional_all_deaths": {
+      "long_term": 1719,
+      "total": 1719
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1712,
+      "total": 1712
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-04": {
+    "institutional_outbreaks": {
+      "long_term": 368,
+      "retirement_home": 152,
+      "hospitals": 94,
+      "total": 614
+    },
+    "institutional_all_cases": {
+      "long_term": 7824,
+      "total": 7824
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5512,
+      "total": 5512
+    },
+    "institutional_staff_cases": {
+      "long_term": 2312,
+      "total": 2312
+    },
+    "institutional_all_deaths": {
+      "long_term": 1724,
+      "total": 1724
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1717,
+      "total": 1717
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-05": {
+    "institutional_outbreaks": {
+      "long_term": 368,
+      "retirement_home": 153,
+      "hospitals": 94,
+      "total": 615
+    },
+    "institutional_all_cases": {
+      "long_term": 7836,
+      "total": 7836
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5515,
+      "total": 5515
+    },
+    "institutional_staff_cases": {
+      "long_term": 2321,
+      "total": 2321
+    },
+    "institutional_all_deaths": {
+      "long_term": 1725,
+      "total": 1725
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1718,
+      "total": 1718
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-06": {
+    "institutional_outbreaks": {
+      "long_term": 368,
+      "retirement_home": 153,
+      "hospitals": 94,
+      "total": 615
+    },
+    "institutional_all_cases": {
+      "long_term": 7840,
+      "total": 7840
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5514,
+      "total": 5514
+    },
+    "institutional_staff_cases": {
+      "long_term": 2326,
+      "total": 2326
+    },
+    "institutional_all_deaths": {
+      "long_term": 1724,
+      "total": 1724
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1717,
+      "total": 1717
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-07": {
+    "institutional_outbreaks": {
+      "long_term": 371,
+      "retirement_home": 153,
+      "hospitals": 94,
+      "total": 618
+    },
+    "institutional_all_cases": {
+      "long_term": 7843,
+      "total": 7843
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5516,
+      "total": 5516
+    },
+    "institutional_staff_cases": {
+      "long_term": 2327,
+      "total": 2327
+    },
+    "institutional_all_deaths": {
+      "long_term": 1724,
+      "total": 1724
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1717,
+      "total": 1717
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-08": {
+    "institutional_outbreaks": {
+      "long_term": 370,
+      "retirement_home": 154,
+      "hospitals": 94,
+      "total": 618
+    },
+    "institutional_all_cases": {
+      "long_term": 7864,
+      "total": 7864
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5521,
+      "total": 5521
+    },
+    "institutional_staff_cases": {
+      "long_term": 2343,
+      "total": 2343
+    },
+    "institutional_all_deaths": {
+      "long_term": 1729,
+      "total": 1729
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1722,
+      "total": 1722
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-09": {
+    "institutional_outbreaks": {
+      "long_term": 371,
+      "retirement_home": 154,
+      "hospitals": 94,
+      "total": 619
+    },
+    "institutional_all_cases": {
+      "long_term": 7890,
+      "total": 7890
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5526,
+      "total": 5526
+    },
+    "institutional_staff_cases": {
+      "long_term": 2364,
+      "total": 2364
+    },
+    "institutional_all_deaths": {
+      "long_term": 1729,
+      "total": 1729
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1722,
+      "total": 1722
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-10": {
+    "institutional_outbreaks": {
+      "long_term": 373,
+      "retirement_home": 154,
+      "hospitals": 95,
+      "total": 622
+    },
+    "institutional_all_cases": {
+      "long_term": 7895,
+      "total": 7895
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5527,
+      "total": 5527
+    },
+    "institutional_staff_cases": {
+      "long_term": 2368,
+      "total": 2368
+    },
+    "institutional_all_deaths": {
+      "long_term": 1731,
+      "total": 1731
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1724,
+      "total": 1724
+    },
+    "institutional_staff_deaths": {
+      "long_term": 7,
+      "total": 7
+    }
+  },
+  "2020-07-11": {
+    "institutional_outbreaks": {
+      "long_term": 376,
+      "retirement_home": 154,
+      "hospitals": 95,
+      "total": 625
+    },
+    "institutional_all_cases": {
+      "long_term": 7918,
+      "total": 7918
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5535,
+      "total": 5535
+    },
+    "institutional_staff_cases": {
+      "long_term": 2383,
+      "total": 2383
+    },
+    "institutional_all_deaths": {
+      "long_term": 1736,
+      "total": 1736
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1728,
+      "total": 1728
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-12": {
+    "institutional_outbreaks": {
+      "long_term": 377,
+      "retirement_home": 154,
+      "hospitals": 95,
+      "total": 626
+    },
+    "institutional_all_cases": {
+      "long_term": 7932,
+      "total": 7932
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5537,
+      "total": 5537
+    },
+    "institutional_staff_cases": {
+      "long_term": 2395,
+      "total": 2395
+    },
+    "institutional_all_deaths": {
+      "long_term": 1737,
+      "total": 1737
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1729,
+      "total": 1729
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-13": {
+    "institutional_outbreaks": {
+      "long_term": 378,
+      "retirement_home": 155,
+      "hospitals": 95,
+      "total": 628
+    },
+    "institutional_all_cases": {
+      "long_term": 7943,
+      "total": 7943
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5540,
+      "total": 5540
+    },
+    "institutional_staff_cases": {
+      "long_term": 2403,
+      "total": 2403
+    },
+    "institutional_all_deaths": {
+      "long_term": 1738,
+      "total": 1738
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1730,
+      "total": 1730
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-14": {
+    "institutional_outbreaks": {
+      "long_term": 379,
+      "retirement_home": 155,
+      "hospitals": 95,
+      "total": 629
+    },
+    "institutional_all_cases": {
+      "long_term": 7959,
+      "total": 7959
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5540,
+      "total": 5540
+    },
+    "institutional_staff_cases": {
+      "long_term": 2419,
+      "total": 2419
+    },
+    "institutional_all_deaths": {
+      "long_term": 1737,
+      "total": 1737
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1729,
+      "total": 1729
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-15": {
+    "institutional_outbreaks": {
+      "long_term": 379,
+      "retirement_home": 155,
+      "hospitals": 95,
+      "total": 629
+    },
+    "institutional_all_cases": {
+      "long_term": 7998,
+      "total": 7998
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5545,
+      "total": 5545
+    },
+    "institutional_staff_cases": {
+      "long_term": 2453,
+      "total": 2453
+    },
+    "institutional_all_deaths": {
+      "long_term": 1738,
+      "total": 1738
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1730,
+      "total": 1730
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-16": {
+    "institutional_outbreaks": {
+      "long_term": 380,
+      "retirement_home": 156,
+      "hospitals": 95,
+      "total": 631
+    },
+    "institutional_all_cases": {
+      "long_term": 8003,
+      "total": 8003
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5548,
+      "total": 5548
+    },
+    "institutional_staff_cases": {
+      "long_term": 2455,
+      "total": 2455
+    },
+    "institutional_all_deaths": {
+      "long_term": 1739,
+      "total": 1739
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1731,
+      "total": 1731
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-17": {
+    "institutional_outbreaks": {
+      "long_term": 381,
+      "retirement_home": 157,
+      "hospitals": 95,
+      "total": 633
+    },
+    "institutional_all_cases": {
+      "long_term": 8007,
+      "total": 8007
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5545,
+      "total": 5545
+    },
+    "institutional_staff_cases": {
+      "long_term": 2462,
+      "total": 2462
+    },
+    "institutional_all_deaths": {
+      "long_term": 1740,
+      "total": 1740
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1732,
+      "total": 1732
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-18": {
+    "institutional_outbreaks": {
+      "long_term": 383,
+      "retirement_home": 161,
+      "hospitals": 95,
+      "total": 639
+    },
+    "institutional_all_cases": {
+      "long_term": 8016,
+      "total": 8016
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5547,
+      "total": 5547
+    },
+    "institutional_staff_cases": {
+      "long_term": 2469,
+      "total": 2469
+    },
+    "institutional_all_deaths": {
+      "long_term": 1740,
+      "total": 1740
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1732,
+      "total": 1732
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-19": {
+    "institutional_outbreaks": {
+      "long_term": 383,
+      "retirement_home": 161,
+      "hospitals": 95,
+      "total": 639
+    },
+    "institutional_all_cases": {
+      "long_term": 8026,
+      "total": 8026
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5549,
+      "total": 5549
+    },
+    "institutional_staff_cases": {
+      "long_term": 2477,
+      "total": 2477
+    },
+    "institutional_all_deaths": {
+      "long_term": 1739,
+      "total": 1739
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1731,
+      "total": 1731
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-20": {
+    "institutional_outbreaks": {
+      "long_term": 383,
+      "retirement_home": 161,
+      "hospitals": 95,
+      "total": 639
+    },
+    "institutional_all_cases": {
+      "long_term": 8026,
+      "total": 8026
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5546,
+      "total": 5546
+    },
+    "institutional_staff_cases": {
+      "long_term": 2480,
+      "total": 2480
+    },
+    "institutional_all_deaths": {
+      "long_term": 1738,
+      "total": 1738
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1730,
+      "total": 1730
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-21": {
+    "institutional_outbreaks": {
+      "long_term": 383,
+      "retirement_home": 162,
+      "hospitals": 95,
+      "total": 640
+    },
+    "institutional_all_cases": {
+      "long_term": 8030,
+      "total": 8030
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5546,
+      "total": 5546
+    },
+    "institutional_staff_cases": {
+      "long_term": 2484,
+      "total": 2484
+    },
+    "institutional_all_deaths": {
+      "long_term": 1740,
+      "total": 1740
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1732,
+      "total": 1732
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-22": {
+    "institutional_outbreaks": {
+      "long_term": 384,
+      "retirement_home": 163,
+      "hospitals": 95,
+      "total": 642
+    },
+    "institutional_all_cases": {
+      "long_term": 8373,
+      "total": 8373
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5877,
+      "total": 5877
+    },
+    "institutional_staff_cases": {
+      "long_term": 2496,
+      "total": 2496
+    },
+    "institutional_all_deaths": {
+      "long_term": 1796,
+      "total": 1796
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1788,
+      "total": 1788
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-23": {
+    "institutional_outbreaks": {
+      "long_term": 385,
+      "retirement_home": 164,
+      "hospitals": 95,
+      "total": 644
+    },
+    "institutional_all_cases": {
+      "long_term": 8378,
+      "total": 8378
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5877,
+      "total": 5877
+    },
+    "institutional_staff_cases": {
+      "long_term": 2501,
+      "total": 2501
+    },
+    "institutional_all_deaths": {
+      "long_term": 1797,
+      "total": 1797
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1789,
+      "total": 1789
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-24": {
+    "institutional_outbreaks": {
+      "long_term": 385,
+      "retirement_home": 165,
+      "hospitals": 95,
+      "total": 645
+    },
+    "institutional_all_cases": {
+      "long_term": 8384,
+      "total": 8384
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5881,
+      "total": 5881
+    },
+    "institutional_staff_cases": {
+      "long_term": 2503,
+      "total": 2503
+    },
+    "institutional_all_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1791,
+      "total": 1791
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-25": {
+    "institutional_outbreaks": {
+      "long_term": 385,
+      "retirement_home": 166,
+      "hospitals": 96,
+      "total": 647
+    },
+    "institutional_all_cases": {
+      "long_term": 8401,
+      "total": 8401
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5884,
+      "total": 5884
+    },
+    "institutional_staff_cases": {
+      "long_term": 2517,
+      "total": 2517
+    },
+    "institutional_all_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1791,
+      "total": 1791
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-26": {
+    "institutional_outbreaks": {
+      "long_term": 386,
+      "retirement_home": 167,
+      "hospitals": 96,
+      "total": 649
+    },
+    "institutional_all_cases": {
+      "long_term": 8412,
+      "total": 8412
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5885,
+      "total": 5885
+    },
+    "institutional_staff_cases": {
+      "long_term": 2527,
+      "total": 2527
+    },
+    "institutional_all_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1792,
+      "total": 1792
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-27": {
+    "institutional_outbreaks": {
+      "long_term": 386,
+      "retirement_home": 167,
+      "hospitals": 96,
+      "total": 649
+    },
+    "institutional_all_cases": {
+      "long_term": 8411,
+      "total": 8411
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5884,
+      "total": 5884
+    },
+    "institutional_staff_cases": {
+      "long_term": 2527,
+      "total": 2527
+    },
+    "institutional_all_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1792,
+      "total": 1792
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-29": {
+    "institutional_outbreaks": {
+      "long_term": 388,
+      "retirement_home": 168,
+      "hospitals": 97,
+      "total": 653
+    },
+    "institutional_all_cases": {
+      "long_term": 8424,
+      "total": 8424
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5887,
+      "total": 5887
+    },
+    "institutional_staff_cases": {
+      "long_term": 2537,
+      "total": 2537
+    },
+    "institutional_all_deaths": {
+      "long_term": 1801,
+      "total": 1801
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1793,
+      "total": 1793
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-30": {
+    "institutional_outbreaks": {
+      "long_term": 391,
+      "retirement_home": 168,
+      "hospitals": 97,
+      "total": 656
+    },
+    "institutional_all_cases": {
+      "long_term": 8432,
+      "total": 8432
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5889,
+      "total": 5889
+    },
+    "institutional_staff_cases": {
+      "long_term": 2543,
+      "total": 2543
+    },
+    "institutional_all_deaths": {
+      "long_term": 1801,
+      "total": 1801
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1793,
+      "total": 1793
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-07-31": {
+    "institutional_outbreaks": {
+      "long_term": 393,
+      "retirement_home": 169,
+      "hospitals": 97,
+      "total": 659
+    },
+    "institutional_all_cases": {
+      "long_term": 8447,
+      "total": 8447
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5891,
+      "total": 5891
+    },
+    "institutional_staff_cases": {
+      "long_term": 2556,
+      "total": 2556
+    },
+    "institutional_all_deaths": {
+      "long_term": 1803,
+      "total": 1803
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1795,
+      "total": 1795
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-01": {
+    "institutional_outbreaks": {
+      "long_term": 394,
+      "retirement_home": 170,
+      "hospitals": 97,
+      "total": 661
+    },
+    "institutional_all_cases": {
+      "long_term": 8451,
+      "total": 8451
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5893,
+      "total": 5893
+    },
+    "institutional_staff_cases": {
+      "long_term": 2558,
+      "total": 2558
+    },
+    "institutional_all_deaths": {
+      "long_term": 1805,
+      "total": 1805
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1797,
+      "total": 1797
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-02": {
+    "institutional_outbreaks": {
+      "long_term": 396,
+      "retirement_home": 170,
+      "hospitals": 97,
+      "total": 663
+    },
+    "institutional_all_cases": {
+      "long_term": 8449,
+      "total": 8449
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5894,
+      "total": 5894
+    },
+    "institutional_staff_cases": {
+      "long_term": 2555,
+      "total": 2555
+    },
+    "institutional_all_deaths": {
+      "long_term": 1805,
+      "total": 1805
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1797,
+      "total": 1797
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-03": {
+    "institutional_outbreaks": {
+      "long_term": 398,
+      "retirement_home": 171,
+      "hospitals": 97,
+      "total": 666
+    },
+    "institutional_all_cases": {
+      "long_term": 8451,
+      "total": 8451
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5895,
+      "total": 5895
+    },
+    "institutional_staff_cases": {
+      "long_term": 2556,
+      "total": 2556
+    },
+    "institutional_all_deaths": {
+      "long_term": 1805,
+      "total": 1805
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1797,
+      "total": 1797
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-04": {
+    "institutional_outbreaks": {
+      "long_term": 399,
+      "retirement_home": 171,
+      "hospitals": 97,
+      "total": 667
+    },
+    "institutional_all_cases": {
+      "long_term": 8453,
+      "total": 8453
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5896,
+      "total": 5896
+    },
+    "institutional_staff_cases": {
+      "long_term": 2557,
+      "total": 2557
+    },
+    "institutional_all_deaths": {
+      "long_term": 1806,
+      "total": 1806
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1798,
+      "total": 1798
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-05": {
+    "institutional_outbreaks": {
+      "long_term": 401,
+      "retirement_home": 171,
+      "hospitals": 97,
+      "total": 669
+    },
+    "institutional_all_cases": {
+      "long_term": 8477,
+      "total": 8477
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5896,
+      "total": 5896
+    },
+    "institutional_staff_cases": {
+      "long_term": 2581,
+      "total": 2581
+    },
+    "institutional_all_deaths": {
+      "long_term": 1806,
+      "total": 1806
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1798,
+      "total": 1798
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-06": {
+    "institutional_outbreaks": {
+      "long_term": 401,
+      "retirement_home": 170,
+      "hospitals": 97,
+      "total": 668
+    },
+    "institutional_all_cases": {
+      "long_term": 8492,
+      "total": 8492
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5899,
+      "total": 5899
+    },
+    "institutional_staff_cases": {
+      "long_term": 2593,
+      "total": 2593
+    },
+    "institutional_all_deaths": {
+      "long_term": 1806,
+      "total": 1806
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1798,
+      "total": 1798
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-07": {
+    "institutional_outbreaks": {
+      "long_term": 402,
+      "retirement_home": 172,
+      "hospitals": 97,
+      "total": 671
+    },
+    "institutional_all_cases": {
+      "long_term": 8496,
+      "total": 8496
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5901,
+      "total": 5901
+    },
+    "institutional_staff_cases": {
+      "long_term": 2595,
+      "total": 2595
+    },
+    "institutional_all_deaths": {
+      "long_term": 1807,
+      "total": 1807
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-08": {
+    "institutional_outbreaks": {
+      "long_term": 402,
+      "retirement_home": 172,
+      "hospitals": 97,
+      "total": 671
+    },
+    "institutional_all_cases": {
+      "long_term": 8496,
+      "total": 8496
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5901,
+      "total": 5901
+    },
+    "institutional_staff_cases": {
+      "long_term": 2595,
+      "total": 2595
+    },
+    "institutional_all_deaths": {
+      "long_term": 1807,
+      "total": 1807
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-09": {
+    "institutional_outbreaks": {
+      "long_term": 403,
+      "retirement_home": 174,
+      "hospitals": 98,
+      "total": 675
+    },
+    "institutional_all_cases": {
+      "long_term": 8506,
+      "total": 8506
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5901,
+      "total": 5901
+    },
+    "institutional_staff_cases": {
+      "long_term": 2605,
+      "total": 2605
+    },
+    "institutional_all_deaths": {
+      "long_term": 1807,
+      "total": 1807
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-10": {
+    "institutional_outbreaks": {
+      "long_term": 403,
+      "retirement_home": 174,
+      "hospitals": 98,
+      "total": 675
+    },
+    "institutional_all_cases": {
+      "long_term": 8508,
+      "total": 8508
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5903,
+      "total": 5903
+    },
+    "institutional_staff_cases": {
+      "long_term": 2605,
+      "total": 2605
+    },
+    "institutional_all_deaths": {
+      "long_term": 1807,
+      "total": 1807
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1799,
+      "total": 1799
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-11": {
+    "institutional_outbreaks": {
+      "long_term": 403,
+      "retirement_home": 174,
+      "hospitals": 98,
+      "total": 675
+    },
+    "institutional_all_cases": {
+      "long_term": 8510,
+      "total": 8510
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5902,
+      "total": 5902
+    },
+    "institutional_staff_cases": {
+      "long_term": 2608,
+      "total": 2608
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-12": {
+    "institutional_outbreaks": {
+      "long_term": 403,
+      "retirement_home": 175,
+      "hospitals": 98,
+      "total": 676
+    },
+    "institutional_all_cases": {
+      "long_term": 8513,
+      "total": 8513
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5902,
+      "total": 5902
+    },
+    "institutional_staff_cases": {
+      "long_term": 2611,
+      "total": 2611
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-13": {
+    "institutional_outbreaks": {
+      "long_term": 403,
+      "retirement_home": 176,
+      "hospitals": 98,
+      "total": 677
+    },
+    "institutional_all_cases": {
+      "long_term": 8520,
+      "total": 8520
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5903,
+      "total": 5903
+    },
+    "institutional_staff_cases": {
+      "long_term": 2617,
+      "total": 2617
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-14": {
+    "institutional_outbreaks": {
+      "long_term": 404,
+      "retirement_home": 175,
+      "hospitals": 98,
+      "total": 677
+    },
+    "institutional_all_cases": {
+      "long_term": 8522,
+      "total": 8522
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5904,
+      "total": 5904
+    },
+    "institutional_staff_cases": {
+      "long_term": 2618,
+      "total": 2618
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-15": {
+    "institutional_outbreaks": {
+      "long_term": 404,
+      "retirement_home": 175,
+      "hospitals": 98,
+      "total": 677
+    },
+    "institutional_all_cases": {
+      "long_term": 8519,
+      "total": 8519
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5905,
+      "total": 5905
+    },
+    "institutional_staff_cases": {
+      "long_term": 2614,
+      "total": 2614
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-16": {
+    "institutional_outbreaks": {
+      "long_term": 404,
+      "retirement_home": 175,
+      "hospitals": 98,
+      "total": 677
+    },
+    "institutional_all_cases": {
+      "long_term": 8521,
+      "total": 8521
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5905,
+      "total": 5905
+    },
+    "institutional_staff_cases": {
+      "long_term": 2616,
+      "total": 2616
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-17": {
+    "institutional_outbreaks": {
+      "long_term": 404,
+      "retirement_home": 175,
+      "hospitals": 98,
+      "total": 677
+    },
+    "institutional_all_cases": {
+      "long_term": 8522,
+      "total": 8522
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5905,
+      "total": 5905
+    },
+    "institutional_staff_cases": {
+      "long_term": 2617,
+      "total": 2617
+    },
+    "institutional_all_deaths": {
+      "long_term": 1808,
+      "total": 1808
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1800,
+      "total": 1800
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-18": {
+    "institutional_outbreaks": {
+      "long_term": 405,
+      "retirement_home": 176,
+      "hospitals": 98,
+      "total": 679
+    },
+    "institutional_all_cases": {
+      "long_term": 8534,
+      "total": 8534
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5912,
+      "total": 5912
+    },
+    "institutional_staff_cases": {
+      "long_term": 2622,
+      "total": 2622
+    },
+    "institutional_all_deaths": {
+      "long_term": 1811,
+      "total": 1811
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1803,
+      "total": 1803
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-19": {
+    "institutional_outbreaks": {
+      "long_term": 406,
+      "retirement_home": 176,
+      "hospitals": 98,
+      "total": 680
+    },
+    "institutional_all_cases": {
+      "long_term": 8544,
+      "total": 8544
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5918,
+      "total": 5918
+    },
+    "institutional_staff_cases": {
+      "long_term": 2626,
+      "total": 2626
+    },
+    "institutional_all_deaths": {
+      "long_term": 1810,
+      "total": 1810
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1802,
+      "total": 1802
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-20": {
+    "institutional_outbreaks": {
+      "long_term": 407,
+      "retirement_home": 177,
+      "hospitals": 98,
+      "total": 682
+    },
+    "institutional_all_cases": {
+      "long_term": 8547,
+      "total": 8547
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5919,
+      "total": 5919
+    },
+    "institutional_staff_cases": {
+      "long_term": 2628,
+      "total": 2628
+    },
+    "institutional_all_deaths": {
+      "long_term": 1811,
+      "total": 1811
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1803,
+      "total": 1803
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-21": {
+    "institutional_outbreaks": {
+      "long_term": 407,
+      "retirement_home": 176,
+      "hospitals": 98,
+      "total": 681
+    },
+    "institutional_all_cases": {
+      "long_term": 8558,
+      "total": 8558
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5922,
+      "total": 5922
+    },
+    "institutional_staff_cases": {
+      "long_term": 2636,
+      "total": 2636
+    },
+    "institutional_all_deaths": {
+      "long_term": 1812,
+      "total": 1812
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1804,
+      "total": 1804
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-22": {
+    "institutional_outbreaks": {
+      "long_term": 408,
+      "retirement_home": 176,
+      "hospitals": 98,
+      "total": 682
+    },
+    "institutional_all_cases": {
+      "long_term": 8559,
+      "total": 8559
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5923,
+      "total": 5923
+    },
+    "institutional_staff_cases": {
+      "long_term": 2636,
+      "total": 2636
+    },
+    "institutional_all_deaths": {
+      "long_term": 1812,
+      "total": 1812
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1804,
+      "total": 1804
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-23": {
+    "institutional_outbreaks": {
+      "long_term": 409,
+      "retirement_home": 177,
+      "hospitals": 98,
+      "total": 684
+    },
+    "institutional_all_cases": {
+      "long_term": 8562,
+      "total": 8562
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5924,
+      "total": 5924
+    },
+    "institutional_staff_cases": {
+      "long_term": 2638,
+      "total": 2638
+    },
+    "institutional_all_deaths": {
+      "long_term": 1812,
+      "total": 1812
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1804,
+      "total": 1804
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-24": {
+    "institutional_outbreaks": {
+      "long_term": 409,
+      "retirement_home": 177,
+      "hospitals": 99,
+      "total": 685
+    },
+    "institutional_all_cases": {
+      "long_term": 8563,
+      "total": 8563
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5924,
+      "total": 5924
+    },
+    "institutional_staff_cases": {
+      "long_term": 2639,
+      "total": 2639
+    },
+    "institutional_all_deaths": {
+      "long_term": 1812,
+      "total": 1812
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1804,
+      "total": 1804
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-25": {
+    "institutional_outbreaks": {
+      "long_term": 409,
+      "retirement_home": 178,
+      "hospitals": 99,
+      "total": 686
+    },
+    "institutional_all_cases": {
+      "long_term": 8565,
+      "total": 8565
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5926,
+      "total": 5926
+    },
+    "institutional_staff_cases": {
+      "long_term": 2639,
+      "total": 2639
+    },
+    "institutional_all_deaths": {
+      "long_term": 1813,
+      "total": 1813
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1805,
+      "total": 1805
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-26": {
+    "institutional_outbreaks": {
+      "long_term": 411,
+      "retirement_home": 178,
+      "hospitals": 99,
+      "total": 688
+    },
+    "institutional_all_cases": {
+      "long_term": 8568,
+      "total": 8568
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5927,
+      "total": 5927
+    },
+    "institutional_staff_cases": {
+      "long_term": 2641,
+      "total": 2641
+    },
+    "institutional_all_deaths": {
+      "long_term": 1813,
+      "total": 1813
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1805,
+      "total": 1805
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  },
+  "2020-08-27": {
+    "institutional_outbreaks": {
+      "long_term": 411,
+      "retirement_home": 183,
+      "hospitals": 99,
+      "total": 693
+    },
+    "institutional_all_cases": {
+      "long_term": 8571,
+      "total": 8571
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5932,
+      "total": 5932
+    },
+    "institutional_staff_cases": {
+      "long_term": 2639,
+      "total": 2639
+    },
+    "institutional_all_deaths": {
+      "long_term": 1822,
+      "total": 1822
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1814,
+      "total": 1814
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
+  }
+}

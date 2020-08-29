@@ -54,14 +54,14 @@ echo 'Generating institutions report'
 scripts/generate_institutions_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
   "$raw_reports_dir" \
-  "$raw_reports_dir"/old_institutions_data.json \
+  "$institutions_report_path" \
   "$institutions_report_path"
 
 echo 'Generating cities report from epidemiologic summaries'
 scripts/generate_toronto_report.rb \
   'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
   "$raw_reports_dir" \
-  "$raw_reports_dir"/old_cities_from_epidemiologic_summaries.json \
+  "$cities_epidemiologic_report_path" \
   "$cities_epidemiologic_report_path"
 
 echo 'Generating final report'
