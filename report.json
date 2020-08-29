@@ -19049,6 +19049,9 @@
     "cities_new_cases": {
       "Newmarket": 1
     },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 41
+    },
     "cities_total_cases": {
       "Barrie": 709,
       "Belleville": 51,
@@ -19085,6 +19088,9 @@
       "Whitby": 1889,
       "Windsor": 2501
     },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 14696
+    },
     "date": "2020-08-28",
     "deaths": 2809,
     "growth_factor_total_cases": "1.03",
@@ -19092,6 +19098,36 @@
     "icu": 18,
     "icu_on_ventilator": 12,
     "infected": 1103,
+    "institutional_all_cases": {
+      "long_term": 8572,
+      "total": 8572
+    },
+    "institutional_all_deaths": {
+      "long_term": 1822,
+      "total": 1822
+    },
+    "institutional_outbreaks": {
+      "long_term": 412,
+      "retirement_home": 185,
+      "hospitals": 98,
+      "total": 695
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 5935,
+      "total": 5935
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1814,
+      "total": 1814
+    },
+    "institutional_staff_cases": {
+      "long_term": 2637,
+      "total": 2637
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
     "new_tests": 31823,
     "new_total_cases": 122,
     "resolved": 38023,
