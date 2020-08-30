@@ -19147,5 +19147,19 @@
     "resolved": 38126,
     "total_cases": 42083,
     "under_investigation": 29491
+  },
+  {
+    "date": "2020-08-30",
+    "deaths": 2810,
+    "growth_factor_total_cases": "0.76",
+    "hospitalized": 51,
+    "icu": 20,
+    "icu_on_ventilator": 10,
+    "infected": 1181,
+    "new_tests": 24970,
+    "new_total_cases": 112,
+    "resolved": 38204,
+    "total_cases": 42195,
+    "under_investigation": 23880
   }
 ]
