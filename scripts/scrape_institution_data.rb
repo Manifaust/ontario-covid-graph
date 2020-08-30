@@ -186,6 +186,27 @@ RetirementHomeHospitalCollect = lambda do |rows|
   }
 end
 
+LtcTextMunger = lambda do |text|
+  lines = text.lines
+
+  lines.map.with_index do |line, i|
+    words = line.split
+
+    # if it ends with at least 2 numbers and starts with a number
+    next line unless words.size >= 2
+
+    next line unless is_a_number?(words[-1]) && is_a_number?(words[-2]) && is_a_number?(words[0])
+
+    # combine line with previous line
+    puts "Found stranded line of digits: #{line.strip}"
+    puts "Combining with previous line: #{lines[i - 1].strip}"
+
+    new_line = "#{lines[i - 1].strip} #{line}"
+    puts "Resutling new line: #{new_line}"
+    new_line
+  end.join
+end
+
 class ScrapeInstitutionData
   class << self
     def scrape(report_path, date)
@@ -208,7 +229,9 @@ class ScrapeInstitutionData
 
         puts "Scraping #{report_path} at page #{page_number}"
         reader = PDF::Reader.new(report_path)
+
         page_text = reader.pages[page_number - 1].text
+        page_text = LtcTextMunger.call(page_text)
 
         rows = page_text.lines.select do |line|
           row_select.call(line) == true
