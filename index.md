@@ -5,23 +5,42 @@
 layout: default
 ---
 
+<p class="lh-copy f6">Update Aug 30: We reprioritized which graphs to show at the top of the page.</p>
+
 <a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a>
 
-<p class="lh-copy f6">Keep in mind that a <a
-href="https://www.theglobeandmail.com/canada/article-ontarios-covid-19-testing-continues-to-lag/" class="link blue underline-hover">
-lag in testing</a> causes an unavoidable time lag in the data we rely on. Think of these graphs as days-old snapshots of reality. Infections and other changes happening today won't show in visualizations until a few days (or more) from now.</p>
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Ontario New Cases</h2>
+  <p class="lh-copy f6">New cases are calculated using the difference between daily total cases.</p>
+  <canvas id="newCases" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Severe Cases</h2>
+  <canvas id="severity" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">New Tests Completed</h2>
+  <p class="lh-copy f6">Total tests completed from the day before.</p>
+  <canvas id="newTests" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Toronto New Cases</h2>
+  <canvas id="cities-new-cases" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Infections and Deaths</h2>
+  <canvas id="infectedResolvedDeaths" class="mb3"></canvas>
+</div>
 
 <div class="bt bb b--black-10">
   <h2 class="f3 fw3">Total Cases</h2>
   <p class="lh-copy f6">Total case for Ontario includes infected, but also resolved cases such as
   recovered and dead.</p>
   <canvas id="totalCases" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">New Cases</h2>
-  <p class="lh-copy f6">New cases are calculated using the difference between daily total cases.</p>
-  <canvas id="newCases" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
@@ -33,29 +52,8 @@ lag in testing</a> causes an unavoidable time lag in the data we rely on. Think 
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">New Tests Completed</h2>
-  <p class="lh-copy f6">Total tests completed from the day before.</p>
-  <canvas id="newTests" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Infections and Deaths</h2>
-  <canvas id="infectedResolvedDeaths" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Severe Cases</h2>
-  <canvas id="severity" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
   <h2 class="f3 fw3">Total Cases for Toronto</h2>
   <canvas id="cities-total-cases" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">New Cases for Toronto</h2>
-  <canvas id="cities-new-cases" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
