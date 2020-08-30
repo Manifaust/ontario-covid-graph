@@ -37,9 +37,8 @@ layout: default
 </div>
 
 <div class="bt bb b--black-10">
-  <h2 class="f3 fw3">Total Cases</h2>
-  <p class="lh-copy f6">Total case for Ontario includes infected, but also resolved cases such as
-  recovered and dead.</p>
+  <h2 class="f3 fw3">Ontario Total Cases</h2>
+  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and dead.</p>
   <canvas id="totalCases" class="mb3"></canvas>
 </div>
 
@@ -52,7 +51,8 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Total Cases for Toronto</h2>
+  <h2 class="f3 fw3">Toronto Total Cases</h2>
+  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and dead.</p>
   <canvas id="cities-total-cases" class="mb3"></canvas>
 </div>
 
