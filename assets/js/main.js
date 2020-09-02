@@ -5,7 +5,7 @@ const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
 const chartControls = document.getElementById('chartControls')
 const dateRange = new Date()
-dateRange.setMonth(dateRange.getMonth() - 2)
+dateRange.setMonth(dateRange.getMonth() - 4)
 
 window.fetch(reportURL).then((response) => {
   return response.json()
@@ -407,7 +407,7 @@ const createDateControl = (lastDay) => {
   dateControl.name = 'dateControl'
   dateControl.value = dateRange.toISOString().substring(0, 10)
   dateControl.max = lastDay
-  dateControl.min = '2020-01-01'
+  dateControl.min = '2020-05-01'
   dateControl.classList = 'f7 ba br2'
   dateControl.id = 'dateControl'
   chartControls.appendChild(dateControl)
