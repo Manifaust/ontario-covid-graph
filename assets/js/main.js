@@ -54,10 +54,6 @@ window.fetch(reportURL).then((response) => {
       title: 'Deaths',
       key: 'deaths',
       color: '229, 0, 93'
-    }, {
-      title: 'Resolved',
-      key: 'resolved',
-      color: '0, 160, 79'
     }]
   })
 

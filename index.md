@@ -5,12 +5,14 @@
 layout: default
 ---
 
-<p class="lh-copy f6">Update Aug 30: We reprioritized which graphs to show at the top of the page.</p>
+<div class="bb b--black-10">
+  <p class="lh-copy f6">Update Aug 30: We reprioritized which graphs to show at the top of the page.</p>
 
-<a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a>
+  <p class="lh-copy f6"><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
+</div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Ontario New Cases</h2>
+  <h2 class="f3 fw3">New Cases</h2>
   <p class="lh-copy f6">New cases are calculated using the difference between daily total cases.</p>
   <canvas id="newCases" class="mb3"></canvas>
 </div>
@@ -36,9 +38,9 @@ layout: default
   <canvas id="infectedResolvedDeaths" class="mb3"></canvas>
 </div>
 
-<div class="bt bb b--black-10">
-  <h2 class="f3 fw3">Ontario Total Cases</h2>
-  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and dead.</p>
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Total Cases</h2>
+  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and deaths.</p>
   <canvas id="totalCases" class="mb3"></canvas>
 </div>
 
