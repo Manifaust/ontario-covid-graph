@@ -2462,5 +2462,31 @@
     "icu_on_ventilator": 9,
     "new_total_cases": 158,
     "growth_factor_total_cases": "0.93"
+  },
+  "2020-09-07": {
+    "infected": 1461,
+    "resolved": 39077,
+    "deaths": 2813,
+    "total_cases": 43351,
+    "new_tests": 23725,
+    "under_investigation": 10540,
+    "hospitalized": 55,
+    "icu": 18,
+    "icu_on_ventilator": 8,
+    "new_total_cases": 190,
+    "growth_factor_total_cases": "1.20"
+  },
+  "2020-09-08": {
+    "infected": 1527,
+    "resolved": 39196,
+    "deaths": 2813,
+    "total_cases": 43536,
+    "new_tests": 20929,
+    "under_investigation": 8357,
+    "hospitalized": 54,
+    "icu": 17,
+    "icu_on_ventilator": 7,
+    "new_total_cases": 185,
+    "growth_factor_total_cases": "0.97"
   }
 }
