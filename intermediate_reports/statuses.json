@@ -2540,5 +2540,18 @@
     "icu_on_ventilator": 8,
     "new_total_cases": 232,
     "growth_factor_total_cases": "1.09"
+  },
+  "2020-09-13": {
+    "infected": 1848,
+    "resolved": 39841,
+    "deaths": 2815,
+    "total_cases": 44504,
+    "new_tests": 31143,
+    "under_investigation": 26765,
+    "hospitalized": 39,
+    "icu": 14,
+    "icu_on_ventilator": 9,
+    "new_total_cases": 204,
+    "growth_factor_total_cases": "0.88"
   }
 }
