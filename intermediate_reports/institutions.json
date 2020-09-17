@@ -5963,5 +5963,37 @@
       "long_term": 8,
       "total": 8
     }
+  },
+  "2020-09-17": {
+    "institutional_outbreaks": {
+      "long_term": 447,
+      "retirement_home": 195,
+      "hospitals": 98,
+      "total": 740
+    },
+    "institutional_all_cases": {
+      "long_term": 8678,
+      "total": 8678
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 6006,
+      "total": 6006
+    },
+    "institutional_staff_cases": {
+      "long_term": 2672,
+      "total": 2672
+    },
+    "institutional_all_deaths": {
+      "long_term": 1832,
+      "total": 1832
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1824,
+      "total": 1824
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    }
   }
 }
