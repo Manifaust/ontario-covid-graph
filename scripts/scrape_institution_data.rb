@@ -13,7 +13,11 @@ LTC_KEYWORDS = [
 
 LastNumberScrape = lambda do |row|
   words = row.split
-  cumulative = words[-1].delete(',').to_i
+  last_word = words[-1]
+
+  return nil if last_word == 'N/A'
+
+  cumulative = last_word.delete(',').to_i
 
   cumulative
 end
@@ -36,6 +40,8 @@ LtcNumberScrape = lambda do |row|
 end
 
 def is_a_number?(potential_number)
+  return true if potential_number == 'N/A'
+
   true if Float(potential_number.delete(',')) rescue false
 end
 
@@ -135,26 +141,34 @@ LtcCollect2 = lambda do |rows|
   deaths_resident = scrape_row(rows, 2, LastNumberScrape)
   deaths_staff = scrape_row(rows, 3, LastNumberScrape)
 
-  {
-    institutional_all_cases: {
-      long_term: cases_resident + cases_staff,
-    },
+  ltc_stats = {
     institutional_resident_patient_cases: {
-      long_term: cases_resident,
-    },
-    institutional_staff_cases: {
-      long_term: cases_staff,
+      long_term: cases_resident
     },
     institutional_all_deaths: {
-      long_term: deaths_resident + deaths_staff,
+      long_term: deaths_resident + deaths_staff
     },
     institutional_resident_patient_deaths: {
-      long_term: deaths_resident,
+      long_term: deaths_resident
     },
     institutional_staff_deaths: {
-      long_term: deaths_staff,
+      long_term: deaths_staff
     }
   }
+
+  if cases_staff.nil?
+    ltc_stats[:institutional_all_cases] = {}
+    ltc_stats[:institutional_staff_cases] = {}
+  else
+    ltc_stats[:institutional_all_cases] = {
+      long_term: cases_resident + cases_staff
+    }
+    ltc_stats[:institutional_staff_cases] = {
+      long_term: cases_staff
+    }
+  end
+
+  ltc_stats
 end
 
 RetirementHomeHospitalCollect = lambda do |rows|
@@ -341,6 +355,7 @@ class ScrapeInstitutionData
     def sum_data(data)
       data.each do |_, section|
         next if section.key?(:total)
+        next if section.keys.empty?
 
         total = 0
         section.each do |_, v|
