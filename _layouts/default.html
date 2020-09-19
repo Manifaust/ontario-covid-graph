@@ -13,7 +13,8 @@
 
     {%- include footer.html -%}
 
-    <script src="{{ "/assets/js/Chart.bundle.min.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
+    <script src="{{ "/assets/js/chart.min.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
+    <script src="{{ "/assets/js/chartjs-adapter-date-fns.bundle.min.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
     <script src="{{ "/assets/js/main.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
   </body>
 
