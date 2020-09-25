@@ -2,7 +2,6 @@ Chart.defaults.font.family = getComputedStyle(document.body).fontFamily
 Chart.defaults.elements.line.borderWidth = 1
 Chart.defaults.line.spanGaps = true
 
-const URLparams = new URLSearchParams(window.location.search)
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
 const chartControls = document.getElementById('chartControls')
@@ -226,7 +225,7 @@ window.fetch(reportURL).then((response) => {
     chartControls.classList.add('db-ns')
   }
   createDateControl(lastDay)
-  if (URLparams.get('dark') === 'true') {
+  if (localStorage.getItem('darkMode') === 'true') {
     darkMode(true)
   }
 })
@@ -353,7 +352,6 @@ const darkMode = (e) => {
       chart.update()
     })
     updateElements('b--black-10', 'b--white-10')
-    URLparams.set('dark', true)
   } else {
     body.classList.add('bg-near-white')
     body.classList.remove('bg-near-black', 'white')
@@ -365,13 +363,12 @@ const darkMode = (e) => {
       chart.update()
     })
     updateElements('b--white-10', 'b--black-10')
-    URLparams.delete('dark')
   }
 }
 
 darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
-  window.history.replaceState({}, '', `${window.location.pathname}${e.target.checked ? '?' + URLparams : ''}`)
+  localStorage.setItem('darkMode', e.target.checked);
 }, false)
 
 const createDateControl = (lastDay) => {
