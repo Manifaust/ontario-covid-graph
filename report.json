@@ -22188,6 +22188,36 @@
     "icu": 28,
     "icu_on_ventilator": 16,
     "infected": 4196,
+    "institutional_all_cases": {
+      "long_term": 8747,
+      "total": 8747
+    },
+    "institutional_all_deaths": {
+      "long_term": 1840,
+      "total": 1840
+    },
+    "institutional_outbreaks": {
+      "long_term": 455,
+      "retirement_home": 207,
+      "hospitals": 100,
+      "total": 762
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 6051,
+      "total": 6051
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1832,
+      "total": 1832
+    },
+    "institutional_staff_cases": {
+      "long_term": 2696,
+      "total": 2696
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
     "new_tests": 42509,
     "new_total_cases": 491,
     "resolved": 42796,
