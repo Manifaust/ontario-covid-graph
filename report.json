@@ -22397,5 +22397,55 @@
     "resolved": 43127,
     "total_cases": 50531,
     "under_investigation": 49586
+  },
+  {
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 251
+    },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 17795
+    },
+    "date": "2020-09-29",
+    "deaths": 2844,
+    "growth_factor_total_cases": "0.79",
+    "hospitalized": 137,
+    "icu": 30,
+    "icu_on_ventilator": 16,
+    "infected": 4791,
+    "institutional_all_cases": {
+      "long_term": 8770,
+      "total": 8770
+    },
+    "institutional_all_deaths": {
+      "long_term": 1841,
+      "total": 1841
+    },
+    "institutional_outbreaks": {
+      "long_term": 465,
+      "retirement_home": 212,
+      "hospitals": 99,
+      "total": 776
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 6062,
+      "total": 6062
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1833,
+      "total": 1833
+    },
+    "institutional_staff_cases": {
+      "long_term": 2708,
+      "total": 2708
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "new_tests": 38375,
+    "new_total_cases": 554,
+    "resolved": 43450,
+    "total_cases": 51085,
+    "under_investigation": 54759
   }
 ]
