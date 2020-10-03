@@ -1,19 +1,5 @@
 [
   {
-    "date": "",
-    "deaths": 2968,
-    "growth_factor_total_cases": "0.89",
-    "hospitalized": 155,
-    "icu": 41,
-    "icu_on_ventilator": 23,
-    "infected": 5380,
-    "new_tests": 46254,
-    "new_total_cases": 653,
-    "resolved": 45285,
-    "total_cases": 53633,
-    "under_investigation": 91322
-  },
-  {
     "cities_new_cases": {
       "Newmarket": 1
     },
@@ -22856,5 +22842,51 @@
     "resolved": 44850,
     "total_cases": 52980,
     "under_investigation": 90513
+  },
+  {
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 284
+    },
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 18919
+    },
+    "date": "2020-10-03",
+    "deaths": 2968,
+    "growth_factor_total_cases": "0.89",
+    "hospitalized": 155,
+    "icu": 41,
+    "icu_on_ventilator": 23,
+    "infected": 5380,
+    "institutional_all_cases": {
+    },
+    "institutional_all_deaths": {
+      "long_term": 1956,
+      "total": 1956
+    },
+    "institutional_outbreaks": {
+      "long_term": 471,
+      "retirement_home": 215,
+      "hospitals": 103,
+      "total": 789
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 6207,
+      "total": 6207
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 1948,
+      "total": 1948
+    },
+    "institutional_staff_cases": {
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "new_tests": 46254,
+    "new_total_cases": 653,
+    "resolved": 45285,
+    "total_cases": 53633,
+    "under_investigation": 91322
   }
 ]
