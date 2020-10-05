@@ -2822,7 +2822,22 @@
     "new_tests": 39661,
     "under_investigation": 78953,
     "hospitalized": 169,
+    "icu": 43,
+    "icu_on_ventilator": 25,
     "new_total_cases": 566,
     "growth_factor_total_cases": "0.87"
+  },
+  "2020-10-05": {
+    "infected": 5474,
+    "resolved": 46360,
+    "deaths": 2980,
+    "total_cases": 54814,
+    "new_tests": 38196,
+    "under_investigation": 68006,
+    "hospitalized": 176,
+    "icu": 43,
+    "icu_on_ventilator": 26,
+    "new_total_cases": 615,
+    "growth_factor_total_cases": "1.09"
   }
 }
