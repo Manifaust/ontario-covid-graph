@@ -2904,5 +2904,18 @@
     "icu_on_ventilator": 29,
     "new_total_cases": 809,
     "growth_factor_total_cases": "0.86"
+  },
+  "": {
+    "infected": 5697,
+    "resolved": 50437,
+    "deaths": 3005,
+    "total_cases": 59139,
+    "new_tests": 44138,
+    "under_investigation": 45837,
+    "hospitalized": 217,
+    "icu": 51,
+    "icu_on_ventilator": 32,
+    "new_total_cases": 649,
+    "growth_factor_total_cases": "0.80"
   }
 }
