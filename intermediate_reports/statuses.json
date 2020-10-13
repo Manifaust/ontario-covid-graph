@@ -2917,5 +2917,31 @@
     "icu_on_ventilator": 32,
     "new_total_cases": 649,
     "growth_factor_total_cases": "0.80"
+  },
+  "2020-10-12": {
+    "infected": 5833,
+    "resolved": 51105,
+    "deaths": 3008,
+    "total_cases": 59946,
+    "new_tests": 36473,
+    "under_investigation": 32473,
+    "hospitalized": 203,
+    "icu": 53,
+    "icu_on_ventilator": 30,
+    "new_total_cases": 807,
+    "growth_factor_total_cases": "1.24"
+  },
+  "2020-10-13": {
+    "infected": 5946,
+    "resolved": 51729,
+    "deaths": 3017,
+    "total_cases": 60692,
+    "new_tests": 31233,
+    "under_investigation": 24420,
+    "hospitalized": 230,
+    "icu": 60,
+    "icu_on_ventilator": 34,
+    "new_total_cases": 746,
+    "growth_factor_total_cases": "0.92"
   }
 }
