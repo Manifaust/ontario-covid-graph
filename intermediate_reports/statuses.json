@@ -2995,5 +2995,18 @@
     "icu_on_ventilator": 42,
     "new_total_cases": 805,
     "growth_factor_total_cases": "1.13"
+  },
+  "2020-10-18": {
+    "infected": 5954,
+    "resolved": 55371,
+    "deaths": 3046,
+    "total_cases": 64371,
+    "new_tests": 40850,
+    "under_investigation": 23609,
+    "hospitalized": 247,
+    "icu": 71,
+    "icu_on_ventilator": 43,
+    "new_total_cases": 658,
+    "growth_factor_total_cases": "0.82"
   }
 }
