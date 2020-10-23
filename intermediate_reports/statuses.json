@@ -3060,5 +3060,18 @@
     "icu_on_ventilator": 48,
     "new_total_cases": 841,
     "growth_factor_total_cases": "1.06"
+  },
+  "2020-10-23": {
+    "infected": 6474,
+    "resolved": 58799,
+    "deaths": 3080,
+    "total_cases": 68353,
+    "new_tests": 40019,
+    "under_investigation": 35436,
+    "hospitalized": 276,
+    "icu": 78,
+    "icu_on_ventilator": 47,
+    "new_total_cases": 826,
+    "growth_factor_total_cases": "0.98"
   }
 }
