@@ -315,6 +315,12 @@ class ScrapeInstitutionData
             'Table 1b.',
             StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
             LtcCollect2
+          ],
+          [
+            Date.parse('2020-10-29'),
+            'Table 3.',
+            StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
+            LtcCollect2
           ]
         ]
       when :retirement_home_hospital
