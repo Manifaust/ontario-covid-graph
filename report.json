@@ -26532,5 +26532,19 @@
     "resolved": 69137,
     "total_cases": 80690,
     "under_investigation": 41787
+  },
+  {
+    "date": "2020-11-06",
+    "deaths": 3209,
+    "growth_factor_total_cases": "1.01",
+    "hospitalized": 380,
+    "icu": 86,
+    "icu_on_ventilator": 49,
+    "infected": 8398,
+    "new_tests": 41268,
+    "new_total_cases": 1003,
+    "resolved": 70086,
+    "total_cases": 81693,
+    "under_investigation": 47074
   }
 ]
