@@ -3255,5 +3255,18 @@
     "icu_on_ventilator": 49,
     "new_total_cases": 1003,
     "growth_factor_total_cases": "1.01"
+  },
+  "2020-11-07": {
+    "infected": 8667,
+    "resolved": 70938,
+    "deaths": 3220,
+    "total_cases": 82825,
+    "new_tests": 39165,
+    "under_investigation": 44572,
+    "hospitalized": 384,
+    "icu": 88,
+    "icu_on_ventilator": 52,
+    "new_total_cases": 1132,
+    "growth_factor_total_cases": "1.13"
   }
 }
