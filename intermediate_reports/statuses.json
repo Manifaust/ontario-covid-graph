@@ -3277,7 +3277,22 @@
     "new_tests": 37577,
     "under_investigation": 35776,
     "hospitalized": 374,
+    "icu": 86,
+    "icu_on_ventilator": 51,
     "new_total_cases": 1328,
     "growth_factor_total_cases": "1.17"
+  },
+  "2020-11-09": {
+    "infected": 9514,
+    "resolved": 72636,
+    "deaths": 3245,
+    "total_cases": 85395,
+    "new_tests": 28401,
+    "under_investigation": 26646,
+    "hospitalized": 367,
+    "icu": 84,
+    "icu_on_ventilator": 54,
+    "new_total_cases": 1242,
+    "growth_factor_total_cases": "0.94"
   }
 }
