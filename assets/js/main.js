@@ -368,7 +368,7 @@ const darkMode = (e) => {
 
 darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
-  localStorage.setItem('darkMode', e.target.checked);
+  localStorage.setItem('darkMode', e.target.checked)
 }, false)
 
 const createDateControl = (lastDay) => {
