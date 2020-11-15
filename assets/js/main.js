@@ -1,6 +1,6 @@
 Chart.defaults.font.family = getComputedStyle(document.body).fontFamily
 Chart.defaults.elements.line.borderWidth = 1
-Chart.defaults.line.spanGaps = true
+Chart.defaults.controllers.line.spanGaps = true
 
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
