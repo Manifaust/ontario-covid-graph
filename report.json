@@ -27032,7 +27032,7 @@
       "Windsor": 24
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -29621
+      "Toronto Public Health": 483
     },
     "cities_total_cases": {
       "Barrie": 1648,
@@ -27071,7 +27071,7 @@
       "Windsor": 3007
     },
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 74
+      "Toronto Public Health": 30178
     },
     "date": "2020-11-09",
     "deaths": 3245,
@@ -27146,7 +27146,7 @@
       "Windsor": 12
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -2
+      "Toronto Public Health": 520
     },
     "cities_total_cases": {
       "Barrie": 1657,
@@ -27185,7 +27185,7 @@
       "Windsor": 3019
     },
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 72
+      "Toronto Public Health": 30698
     },
     "date": "2020-11-10",
     "deaths": 3260,
@@ -27259,7 +27259,7 @@
       "Windsor": 30
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31010
+      "Toronto Public Health": 384
     },
     "cities_total_cases": {
       "Barrie": 1673,
@@ -27547,10 +27547,10 @@
   },
   {
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -31912
+      "Toronto Public Health": 456
     },
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 82
+      "Toronto Public Health": 32450
     },
     "date": "2020-11-14",
     "deaths": 3332,

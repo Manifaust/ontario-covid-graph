@@ -22,12 +22,11 @@ class ScrapeTorontoData
 
     toronto_cases = nil
 
-    old_toronto_cases_regex = /^Toronto Public Health (?<cases>\d+)$/
-
     CSV.parse(stdout, headers: false).each do |row|
-      if row[0] == 'Toronto Public Health'
-        toronto_cases = row[3]
-      end
+      next unless row[0] == 'Toronto Public Health'
+
+      toronto_cases = row[3]
+      break
     end
 
     if toronto_cases.nil?

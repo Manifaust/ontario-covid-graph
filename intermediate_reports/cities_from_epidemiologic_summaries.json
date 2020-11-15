@@ -1569,18 +1569,18 @@
   },
   "2020-11-09": {
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 74
+      "Toronto Public Health": 30178
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -29621
+      "Toronto Public Health": 483
     }
   },
   "2020-11-10": {
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 72
+      "Toronto Public Health": 30698
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -2
+      "Toronto Public Health": 520
     }
   },
   "2020-11-11": {
@@ -1588,7 +1588,7 @@
       "Toronto Public Health": 31082
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31010
+      "Toronto Public Health": 384
     }
   },
   "2020-11-12": {
@@ -1609,10 +1609,10 @@
   },
   "2020-11-14": {
     "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 82
+      "Toronto Public Health": 32450
     },
     "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -31912
+      "Toronto Public Health": 456
     }
   }
 }
