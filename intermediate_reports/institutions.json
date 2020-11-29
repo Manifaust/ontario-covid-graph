@@ -8163,5 +8163,59 @@
       "long_term": 3267,
       "total": 3267
     }
+  },
+  "2020-11-28": {
+    "institutional_outbreaks": {
+      "long_term": 687,
+      "retirement_home": 339,
+      "hospitals": 165,
+      "total": 1191
+    },
+    "institutional_resident_patient_cases": {
+    },
+    "institutional_all_deaths": {
+      "long_term": 2302,
+      "total": 2302
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 2294,
+      "total": 2294
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "institutional_all_cases": {
+    },
+    "institutional_staff_cases": {
+    }
+  },
+  "2020-11-29": {
+    "institutional_outbreaks": {
+      "long_term": 690,
+      "retirement_home": 338,
+      "hospitals": 169,
+      "total": 1197
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 8361,
+      "total": 8361
+    },
+    "institutional_all_deaths": {
+      "long_term": 2309,
+      "total": 2309
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 2301,
+      "total": 2301
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "institutional_all_cases": {
+    },
+    "institutional_staff_cases": {
+    }
   }
 }
