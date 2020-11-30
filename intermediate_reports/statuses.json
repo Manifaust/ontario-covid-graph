@@ -3550,6 +3550,8 @@
     "new_tests": 53959,
     "under_investigation": 38724,
     "hospitalized": 586,
+    "icu": 156,
+    "icu_on_ventilator": 91,
     "new_total_cases": 1708,
     "growth_factor_total_cases": "0.94"
   },

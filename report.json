@@ -29402,6 +29402,8 @@
     "deaths": 3648,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 586,
+    "icu": 156,
+    "icu_on_ventilator": 91,
     "infected": 13779,
     "institutional_all_cases": {
     },
