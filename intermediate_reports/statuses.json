@@ -3550,9 +3550,20 @@
     "new_tests": 53959,
     "under_investigation": 38724,
     "hospitalized": 586,
-    "icu": 156,
-    "icu_on_ventilator": 91,
     "new_total_cases": 1708,
     "growth_factor_total_cases": "0.94"
+  },
+  "2020-11-30": {
+    "infected": 14197,
+    "resolved": 98639,
+    "deaths": 3656,
+    "total_cases": 116492,
+    "new_tests": 39406,
+    "under_investigation": 27388,
+    "hospitalized": 618,
+    "icu": 168,
+    "icu_on_ventilator": 108,
+    "new_total_cases": 1746,
+    "growth_factor_total_cases": "1.02"
   }
 }
