@@ -225,37 +225,54 @@ class ScrapeInstitutionData
   class << self
     def scrape(report_path, date)
       data = {}
+
+      # There are three types of data:
+      # 1. Institution outbreaks
+      # 2. Cases and deaths from Long Term Care (LTC)
+      # 3. Cases and deaths from Retirement homes, and hospitals
       [:outbreak, :ltc, :retirement_home_hospital].each do |type|
-        title, row_select, collect = determine_title(date, type)
+        # For each type, determine:
+        # 1. The title of the table from the PDF we are looking for
+        # 2. The row filter to isolate only the important rows of that table
+        # 3. A scraper
+        title, row_select, collect = determine_title_and_row_filter_and_scraper(date, type)
 
         if title.nil? && row_select.nil? && collect.nil?
           puts "No longer collecting data for #{type}, skipping"
           next
         end
 
+        # Find the page number where the target table appears by looking for the title
         page_number = find_page_number(report_path, title)
 
         if page_number <= 0
           raise 'Cannot find page with that title'
         else
-          puts "Outbreak info is on page #{page_number}"
+          puts "#{type} info is on page #{page_number}"
         end
 
         puts "Scraping #{report_path} at page #{page_number}"
         reader = PDF::Reader.new(report_path)
 
+        # Obtain the text from that page
         page_text = reader.pages[page_number - 1].text
         page_text = LtcTextMunger.call(page_text)
 
+        # Isolate only the rows we're looking for
         rows = page_text.lines.select do |line|
           row_select.call(line) == true
         end
 
+        # Print
+        puts "Isolated rows from page #{page_number}:"
         pp rows
 
+        # Scrape the rows we have isolated
+        puts "Scraping rows for data..."
         data = deep_merge(data, collect.call(rows))
       end
 
+      # Decorate the data with sums
       sum_data(data)
 
       data
@@ -277,7 +294,7 @@ class ScrapeInstitutionData
       return 0
     end
 
-    def determine_title(date, type)
+    def determine_title_and_row_filter_and_scraper(date, type)
       puts "Finding title for date #{date}, type #{type}"
 
       case type

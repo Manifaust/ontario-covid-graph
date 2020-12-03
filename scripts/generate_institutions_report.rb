@@ -18,9 +18,11 @@ date_institutions_map = JSON.parse(File.read(old_institutions_data_path))
 
 existing_dates = date_institutions_map.keys
 
+# iterate through each government report
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
 
+  # get the date of the report
   date_regex = /epidemiologic-summary-(?<date>\d{4}-\d{2}-\d{2})\.pdf/
   matches = date_regex.match(pdf_basename)
 
@@ -42,6 +44,7 @@ epidemiologic_report_paths.each do |pdf_path|
   date_institutions_map[date.to_s] = ScrapeInstitutionData.scrape(pdf_path, date)
 end
 
+# write scraped data to a file
 File.write(
   institutions_report_path,
   JSON.pretty_generate(date_institutions_map.sort.to_h)
