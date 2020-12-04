@@ -3580,5 +3580,31 @@
     "icu_on_ventilator": 112,
     "new_total_cases": 1707,
     "growth_factor_total_cases": "0.98"
+  },
+  "2020-12-02": {
+    "infected": 14526,
+    "resolved": 101698,
+    "deaths": 3698,
+    "total_cases": 119922,
+    "new_tests": 44226,
+    "under_investigation": 49574,
+    "hospitalized": 656,
+    "icu": 183,
+    "icu_on_ventilator": 106,
+    "new_total_cases": 1723,
+    "growth_factor_total_cases": "1.01"
+  },
+  "2020-12-03": {
+    "infected": 14795,
+    "resolved": 103239,
+    "deaths": 3712,
+    "total_cases": 121746,
+    "new_tests": 52873,
+    "under_investigation": 58320,
+    "hospitalized": 666,
+    "icu": 195,
+    "icu_on_ventilator": 107,
+    "new_total_cases": 1824,
+    "growth_factor_total_cases": "1.06"
   }
 }
