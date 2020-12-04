@@ -259,41 +259,31 @@ class ScrapeInstitutionData
         # 1. The title of the table from the PDF we are looking for
         # 2. The row filter to isolate only the important rows of that table
         # 3. A scraper
-        title, row_select, collect = determine_title_and_row_filter_and_scraper(date, type)
+        title, row_filter, scraper = determine_title_and_row_filter_and_scraper(date, type)
 
-        if title.nil? && row_select.nil? && collect.nil?
+        if title.nil? && row_filter.nil? && scraper.nil?
           puts "No longer collecting data for #{type}, skipping"
           next
         end
 
         # Find the page number where the target table appears by looking for the title
-        page_number = find_page_number(report_path, title)
+        page_number = find_page_number_with_title(report_path, title)
 
-        if page_number <= 0
-          raise 'Cannot find page with that title'
-        else
-          puts "#{type} info is on page #{page_number}"
-        end
+        page_text = get_page_text(report_path, page_number)
 
-        puts "Scraping #{report_path} at page #{page_number}"
-        reader = PDF::Reader.new(report_path)
-
-        # Obtain the text from that page
-        page_text = reader.pages[page_number - 1].text
-        page_text = LtcTextMunger.call(page_text)
-
-        # Clean up the text, give us only table row from the text
+        # Clean up the text, filter for text that is inside the target table.
+        # Each line of text represents a row in that table.
         rows = page_text.lines.select do |line|
-          row_select.call(line) == true
+          row_filter.call(line) == true
         end
 
-        # Print
+        # Print found table rows
         puts "Isolated rows from page #{page_number}:"
         pp rows
 
         # Scrape the rows we have isolated
         puts "Scraping rows for data..."
-        data = deep_merge(data, collect.call(rows))
+        data = deep_merge(data, scraper.call(rows))
       end
 
       # Decorate the data with sums
@@ -302,7 +292,16 @@ class ScrapeInstitutionData
       data
     end
 
-    def find_page_number(report_path, title)
+    def get_page_text(report_path, page_number)
+      puts "Getting page text from #{report_path} at page #{page_number}"
+      reader = PDF::Reader.new(report_path)
+
+      # Obtain the text from that page
+      page_text = reader.pages[page_number - 1].text
+      page_text = LtcTextMunger.call(page_text)
+    end
+
+    def find_page_number_with_title(report_path, title)
       reader = PDF::Reader.new(report_path)
 
       reader.pages.each_with_index do |page, i|
