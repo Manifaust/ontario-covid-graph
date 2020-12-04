@@ -4,19 +4,7 @@ require 'csv'
 require 'open3'
 require 'pdf-reader'
 
-LTC_KEYWORDS = [
-  'Residents',
-  'Health', # care workers
-  'Deaths', # among residents/health care
-  'workers'
-]
-
-LTC_KEYWORDS2 = [
-  'Residents*',
-  'Health', # care workers
-  'Deaths', # among residents/health care
-  'workers'
-]
+require_relative 'row_filter_factory'
 
 LastNumberScrape = lambda do |row|
   words = row.split
@@ -56,63 +44,6 @@ def scrape_row(rows, target_row, scrape_proc)
   row = rows[target_row]
 
   scrape_proc.call(row)
-end
-
-EndsInTwoNumbersRowSelect = lambda do |line|
-  words = line.split
-
-  return false if words.size < 2
-
-  # protect against intro paragraph that ends in a date,
-  # which occurs in the institutions page
-  return false if line.include?('2020')
-  return false if line.include?('January')
-
-  if is_a_number?(words[-1]) && is_a_number?(words[-2])
-    return true
-  end
-
-  false
-end
-
-StartsWithLtcKeywordEndsInTwoNumbersRowSelect = lambda do |line|
-  words = line.split
-
-  return false if words.size < 2
-
-  # protect against intro paragraph that ends in a date,
-  # which occurs in the institutions page
-  return false if line.include?('2020')
-  return false if line.include?('January')
-
-  return false unless LTC_KEYWORDS.include?(words[0])
-
-  return true if is_a_number?(words[-1]) && is_a_number?(words[-2])
-
-  false
-end
-
-StartsWithLtcKeywordEndsInTwoNumbersRowSelect2 = lambda do |line|
-  words = line.split
-
-  return false if words.size < 2
-
-  # protect against intro paragraph that ends in a date,
-  # which occurs in the institutions page
-  return false if line.include?('2020')
-  return false if line.include?('January')
-
-  return false unless LTC_KEYWORDS2.include?(words[0])
-
-  return true if is_a_number?(words[-1]) && is_a_number?(words[-2])
-
-  false
-end
-
-PercentOfAlRowSelect = lambda do |line|
-  rx = %r[\% of all]
-
-  rx.match(line) != nil
 end
 
 OutbreakCollect = lambda do |rows|
@@ -259,7 +190,8 @@ class ScrapeInstitutionData
         # 1. The title of the table from the PDF we are looking for
         # 2. The row filter to isolate only the important rows of that table
         # 3. A scraper
-        title, row_filter, scraper = determine_title_and_row_filter_and_scraper(date, type)
+        title, scraper = determine_title_and_row_filter_and_scraper(date, type)
+        row_filter = RowFilterFactory.get_row_filter(date, type)
 
         if title.nil? && row_filter.nil? && scraper.nil?
           puts "No longer collecting data for #{type}, skipping"
@@ -326,13 +258,11 @@ class ScrapeInstitutionData
           [
             Date.parse('2020-05-19'),
             'outbreaks in institutions and public hospitals',
-            EndsInTwoNumbersRowSelect,
             OutbreakCollect
           ],
           [
             Date.parse('2020-06-11'),
             'outbreaks',
-            EndsInTwoNumbersRowSelect,
             OutbreakCollect
           ]
         ]
@@ -341,31 +271,26 @@ class ScrapeInstitutionData
           [
             Date.parse('2020-05-19'),
             'Table 4b.',
-            PercentOfAlRowSelect,
             LtcCollect
           ],
           [
             Date.parse('2020-06-11'),
             'Table 2.',
-            EndsInTwoNumbersRowSelect,
             LtcCollect2
           ],
           [
             Date.parse('2020-08-25'),
             'Table 1b.',
-            StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
             LtcCollect2
           ],
           [
             Date.parse('2020-10-29'),
             'Table 3.',
-            StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
             LtcCollect2
           ],
           [
             Date.parse('2020-12-02'),
             'Table 3.',
-            StartsWithLtcKeywordEndsInTwoNumbersRowSelect2,
             LtcCollect2
           ]
         ]
@@ -374,12 +299,10 @@ class ScrapeInstitutionData
           [
             Date.parse('2020-05-19'),
             'Table 4c.',
-            EndsInTwoNumbersRowSelect,
             RetirementHomeHospitalCollect
           ],
           [
             Date.parse('2020-06-11'),
-            nil,
             nil,
             nil
           ]
@@ -389,19 +312,17 @@ class ScrapeInstitutionData
       end
 
       correct_title = nil
-      correct_row_select = nil
       correct_collect = nil
 
       row_scraper_map.each do |date_scraper_tuple|
         if date >= date_scraper_tuple[0]
           correct_title = date_scraper_tuple[1]
-          correct_row_select = date_scraper_tuple[2]
-          correct_collect = date_scraper_tuple[3]
+          correct_collect = date_scraper_tuple[2]
         end
       end
 
       puts "Title should be #{correct_title}"
-      return correct_title, correct_row_select, correct_collect
+      return correct_title, correct_collect
     end
 
     def sum_data(data)
