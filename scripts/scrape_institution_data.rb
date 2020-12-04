@@ -6,6 +6,7 @@ require 'pdf-reader'
 
 require_relative 'row_filter_factory'
 require_relative 'row_scraper_factory'
+require_relative 'table_title_lookup'
 
 LtcTextMunger = lambda do |text|
   lines = text.lines
@@ -42,17 +43,17 @@ class ScrapeInstitutionData
         # 1. The title of the table from the PDF we are looking for
         # 2. The row filter to isolate only the important rows of that table
         # 3. A scraper
-        title = determine_title_and_row_filter_and_scraper(date, type)
+        table_title = TableTitleLookup.get_title(date, type)
         row_filter = RowFilterFactory.get_row_filter(date, type)
         row_scraper = RowScraperFactory.get_row_scraper(date, type)
 
-        if title.nil? && row_filter.nil? && row_scraper.nil?
-          puts "No longer collecting data for #{type}, skipping"
+        if table_title.nil? && row_filter.nil? && row_scraper.nil?
+          puts "Data no longer available for #{type}, skipping..."
           next
         end
 
         # Find the page number where the target table appears by looking for the title
-        page_number = find_page_number_with_title(report_path, title)
+        page_number = find_page_number_with_table_title(report_path, table_title)
 
         page_text = get_page_text(report_path, page_number)
 
@@ -86,85 +87,20 @@ class ScrapeInstitutionData
       page_text = LtcTextMunger.call(page_text)
     end
 
-    def find_page_number_with_title(report_path, title)
+    def find_page_number_with_table_title(report_path, table_title)
       reader = PDF::Reader.new(report_path)
 
       reader.pages.each_with_index do |page, i|
         # sometimes formatting errors push title to second line
         first_two_lines = page.text.downcase.lines[0..1]
         first_two_lines.each do |line|
-          if line.start_with?(title.downcase)
+          if line.start_with?(table_title.downcase)
             return i + 1
           end
         end
       end
 
       return 0
-    end
-
-    def determine_title_and_row_filter_and_scraper(date, type)
-      puts "Finding title for date #{date}, type #{type}"
-
-      case type
-      when :outbreak
-        row_scraper_map = [
-          [
-            Date.parse('2020-05-19'),
-            'outbreaks in institutions and public hospitals'
-          ],
-          [
-            Date.parse('2020-06-11'),
-            'outbreaks'
-          ]
-        ]
-      when :ltc
-        row_scraper_map = [
-          [
-            Date.parse('2020-05-19'),
-            'Table 4b.'
-          ],
-          [
-            Date.parse('2020-06-11'),
-            'Table 2.'
-          ],
-          [
-            Date.parse('2020-08-25'),
-            'Table 1b.'
-          ],
-          [
-            Date.parse('2020-10-29'),
-            'Table 3.'
-          ],
-          [
-            Date.parse('2020-12-02'),
-            'Table 3.'
-          ]
-        ]
-      when :retirement_home_hospital
-        row_scraper_map = [
-          [
-            Date.parse('2020-05-19'),
-            'Table 4c.'
-          ],
-          [
-            Date.parse('2020-06-11'),
-            nil
-          ]
-        ]
-      else
-        raise "Unsupported type: #{type}"
-      end
-
-      correct_title = nil
-
-      row_scraper_map.each do |date_scraper_tuple|
-        if date >= date_scraper_tuple[0]
-          correct_title = date_scraper_tuple[1]
-        end
-      end
-
-      puts "Title should be #{correct_title}"
-      return correct_title
     end
 
     def sum_data(data)
