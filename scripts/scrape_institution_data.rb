@@ -34,7 +34,7 @@ class ScrapeInstitutionData
     def scrape(report_path, date)
       data = {}
 
-      # There are three types of data:
+      # There are three types of tables:
       # 1. Institution outbreaks
       # 2. Cases and deaths from Long Term Care (LTC)
       # 3. Cases and deaths from Retirement homes, and hospitals
@@ -110,7 +110,9 @@ class ScrapeInstitutionData
 
         total = 0
         section.each do |_, v|
-          total = total + v
+          if v.is_a?(Integer)
+            total = total + v
+          end
         end
 
         section[:total] = total

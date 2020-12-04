@@ -20,6 +20,60 @@ describe ScrapeInstitutionData do
       expect(text).to eq('hey')
     end
   end
+
+  describe '#sum_data' do
+    it 'sums data' do
+      sample_data = {
+        section1: {
+          foo: 1,
+          bar: 2
+        }
+      }
+      described_class.sum_data(sample_data)
+
+      expect(sample_data[:section1][:total]).to eq(3)
+    end
+
+    it 'does not remove fields from input' do
+      sample_data = {
+        section1: {
+          foo: 1,
+          bar: 2
+        }
+      }
+      expected_sample_data = {
+        section1: {
+          foo: 1,
+          bar: 2,
+          total: 3
+        }
+      }
+      described_class.sum_data(sample_data)
+
+      expect(sample_data).to eq(expected_sample_data)
+    end
+
+    it 'does handle non number values' do
+      sample_data = {
+        section1: {
+          foo: 1,
+          bar: 2,
+          nan: 'N/A'
+        }
+      }
+      expected_sample_data = {
+        section1: {
+          foo: 1,
+          bar: 2,
+          nan: 'N/A',
+          total: 3
+        }
+      }
+      described_class.sum_data(sample_data)
+
+      expect(sample_data).to eq(expected_sample_data)
+    end
+  end
 end
 
 describe 'StartsWithLtcKeywordEndsInTwoNumbersRowSelect2' do
