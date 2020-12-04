@@ -18,6 +18,10 @@ date_institutions_map = JSON.parse(File.read(old_institutions_data_path))
 
 existing_dates = date_institutions_map.keys
 
+num_outdated_reports = 0
+num_existing_reports = 0
+num_new_reports = 0
+
 # iterate through each government report
 epidemiologic_report_paths.each do |pdf_path|
   pdf_basename = File.basename(pdf_path)
@@ -32,12 +36,14 @@ epidemiologic_report_paths.each do |pdf_path|
   min_date = Date.parse('2020-05-19')
 
   if date < min_date
-    puts "Skipping report for #{date} because it is older than min date #{min_date}"
+    num_outdated_reports = num_outdated_reports + 1
     next
   elsif existing_dates.include?(date.to_s)
-    puts "Skipping report for #{date} because it already exists in the last saved report"
+    # Skipping report for this date because it already exists in the saved
+    num_existing_reports = num_existing_reports + 1
     next
   else
+    num_new_reports = num_new_reports + 1
     puts "Scraping #{pdf_basename}..."
   end
 
@@ -49,5 +55,9 @@ File.write(
   institutions_report_path,
   JSON.pretty_generate(date_institutions_map.sort.to_h)
 )
-puts "Wrote institutions report: #{institutions_report_path}"
 
+puts "Outdated institution reports:\t#{num_outdated_reports}"
+puts "Existing institution reports:\t#{num_existing_reports}"
+puts "New institution reports:\t#{num_new_reports}"
+
+puts "Wrote collected institution data: #{institutions_report_path}"
