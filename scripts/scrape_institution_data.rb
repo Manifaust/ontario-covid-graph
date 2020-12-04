@@ -11,6 +11,13 @@ LTC_KEYWORDS = [
   'workers'
 ]
 
+LTC_KEYWORDS2 = [
+  'Residents*',
+  'Health', # care workers
+  'Deaths', # among residents/health care
+  'workers'
+]
+
 LastNumberScrape = lambda do |row|
   words = row.split
   last_word = words[-1]
@@ -79,6 +86,23 @@ StartsWithLtcKeywordEndsInTwoNumbersRowSelect = lambda do |line|
   return false if line.include?('January')
 
   return false unless LTC_KEYWORDS.include?(words[0])
+
+  return true if is_a_number?(words[-1]) && is_a_number?(words[-2])
+
+  false
+end
+
+StartsWithLtcKeywordEndsInTwoNumbersRowSelect2 = lambda do |line|
+  words = line.split
+
+  return false if words.size < 2
+
+  # protect against intro paragraph that ends in a date,
+  # which occurs in the institutions page
+  return false if line.include?('2020')
+  return false if line.include?('January')
+
+  return false unless LTC_KEYWORDS2.include?(words[0])
 
   return true if is_a_number?(words[-1]) && is_a_number?(words[-2])
 
@@ -258,7 +282,7 @@ class ScrapeInstitutionData
         page_text = reader.pages[page_number - 1].text
         page_text = LtcTextMunger.call(page_text)
 
-        # Isolate only the rows we're looking for
+        # Clean up the text, give us only table row from the text
         rows = page_text.lines.select do |line|
           row_select.call(line) == true
         end
@@ -337,6 +361,12 @@ class ScrapeInstitutionData
             Date.parse('2020-10-29'),
             'Table 3.',
             StartsWithLtcKeywordEndsInTwoNumbersRowSelect,
+            LtcCollect2
+          ],
+          [
+            Date.parse('2020-12-02'),
+            'Table 3.',
+            StartsWithLtcKeywordEndsInTwoNumbersRowSelect2,
             LtcCollect2
           ]
         ]
