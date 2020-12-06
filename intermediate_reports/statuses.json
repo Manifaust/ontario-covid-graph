@@ -3630,7 +3630,19 @@
     "hospitalized": 709,
     "icu": 202,
     "icu_on_ventilator": 116,
-    "new_total_cases": 1859,
-    "growth_factor_total_cases": "1.04"
+    "new_total_cases": 0,
+    "growth_factor_total_cases": "0.00"
+  },
+  "2020-12-06": {
+    "infected": 15547,
+    "resolved": 107990,
+    "deaths": 3772,
+    "total_cases": 127309,
+    "new_tests": 59251,
+    "under_investigation": 47850,
+    "hospitalized": 701,
+    "icu": 204,
+    "icu_on_ventilator": 109,
+    "new_total_cases": 1924
   }
 }
