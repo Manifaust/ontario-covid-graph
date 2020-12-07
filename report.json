@@ -30088,7 +30088,7 @@
     },
     "date": "2020-12-05",
     "deaths": 3757,
-    "growth_factor_total_cases": "0.00",
+    "growth_factor_total_cases": "1.04",
     "hospitalized": 709,
     "icu": 202,
     "icu_on_ventilator": 116,
@@ -30124,7 +30124,7 @@
       "total": 8
     },
     "new_tests": 59399,
-    "new_total_cases": 0,
+    "new_total_cases": 1859,
     "resolved": 106416,
     "total_cases": 125385,
     "under_investigation": 63193
@@ -30138,6 +30138,7 @@
     },
     "date": "2020-12-06",
     "deaths": 3772,
+    "growth_factor_total_cases": "1.03",
     "hospitalized": 701,
     "icu": 204,
     "icu_on_ventilator": 109,
