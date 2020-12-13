@@ -68,7 +68,7 @@ LTC_KEYWORDS = [
 ]
 
 LTC_KEYWORDS2 = [
-  'Residents*',
+  'Residents*', 'Residents',
   'Health', # care workers
   'Deaths', # among residents/health care
   'workers'
