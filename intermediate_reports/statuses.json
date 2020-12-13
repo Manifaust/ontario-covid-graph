@@ -27,7 +27,8 @@
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 29,
-    "new_total_cases": 1
+    "new_total_cases": 1,
+    "weekly_growth_factor_total_cases": "Inf"
   },
   "2020-02-04": {
     "infected": 3,
@@ -58,7 +59,8 @@
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 8,
-    "new_total_cases": 0
+    "new_total_cases": 0,
+    "weekly_growth_factor_total_cases": "0.00"
   },
   "2020-02-11": {
     "infected": 3,
@@ -92,7 +94,8 @@
     "resolved": 1,
     "total_cases": 3,
     "under_investigation": 0,
-    "new_total_cases": 0
+    "new_total_cases": 0,
+    "weekly_growth_factor_total_cases": "NaN"
   },
   "2020-02-18": {
     "infected": 2,
@@ -127,7 +130,8 @@
     "resolved": 3,
     "total_cases": 4,
     "under_investigation": 9,
-    "new_total_cases": 1
+    "new_total_cases": 1,
+    "weekly_growth_factor_total_cases": "Inf"
   },
   "2020-02-25": {
     "infected": 1,
@@ -165,7 +169,8 @@
     "total_cases": 18,
     "under_investigation": 12,
     "new_total_cases": 12,
-    "growth_factor_total_cases": "12.00"
+    "growth_factor_total_cases": "12.00",
+    "weekly_growth_factor_total_cases": "14.00"
   },
   "2020-03-03": {
     "infected": 17,
@@ -220,7 +225,8 @@
     "total_cases": 35,
     "under_investigation": 22,
     "new_total_cases": 6,
-    "growth_factor_total_cases": "6.00"
+    "growth_factor_total_cases": "6.00",
+    "weekly_growth_factor_total_cases": "1.21"
   },
   "2020-03-10": {
     "infected": 31,
@@ -276,7 +282,8 @@
     "total_cases": 177,
     "under_investigation": 1537,
     "new_total_cases": 32,
-    "growth_factor_total_cases": "0.76"
+    "growth_factor_total_cases": "0.76",
+    "weekly_growth_factor_total_cases": "8.35"
   },
   "2020-03-17": {
     "infected": 183,
@@ -339,7 +346,8 @@
     "total_cases": 503,
     "under_investigation": 8417,
     "new_total_cases": 78,
-    "growth_factor_total_cases": "1.62"
+    "growth_factor_total_cases": "1.62",
+    "weekly_growth_factor_total_cases": "2.30"
   },
   "2020-03-24": {
     "infected": 572,
@@ -402,7 +410,8 @@
     "total_cases": 1706,
     "under_investigation": 5651,
     "new_total_cases": 351,
-    "growth_factor_total_cases": "1.66"
+    "growth_factor_total_cases": "1.66",
+    "weekly_growth_factor_total_cases": "3.69"
   },
   "2020-03-31": {
     "infected": 1399,
@@ -480,7 +489,8 @@
     "icu": 216,
     "icu_on_ventilator": 160,
     "new_total_cases": 309,
-    "growth_factor_total_cases": "0.76"
+    "growth_factor_total_cases": "0.76",
+    "weekly_growth_factor_total_cases": "2.20"
   },
   "2020-04-07": {
     "infected": 2771,
@@ -564,7 +574,8 @@
     "icu": 263,
     "icu_on_ventilator": 203,
     "new_total_cases": 421,
-    "growth_factor_total_cases": "1.05"
+    "growth_factor_total_cases": "1.05",
+    "weekly_growth_factor_total_cases": "1.18"
   },
   "2020-04-14": {
     "infected": 4051,
@@ -654,7 +665,8 @@
     "icu": 247,
     "icu_on_ventilator": 193,
     "new_total_cases": 606,
-    "growth_factor_total_cases": "1.07"
+    "growth_factor_total_cases": "1.07",
+    "weekly_growth_factor_total_cases": "1.19"
   },
   "2020-04-21": {
     "infected": 5307,
@@ -745,7 +757,8 @@
     "icu": 241,
     "icu_on_ventilator": 191,
     "new_total_cases": 424,
-    "growth_factor_total_cases": "0.97"
+    "growth_factor_total_cases": "0.97",
+    "weekly_growth_factor_total_cases": "0.99"
   },
   "2020-04-28": {
     "infected": 5466,
@@ -836,7 +849,8 @@
     "icu": 225,
     "icu_on_ventilator": 175,
     "new_total_cases": 370,
-    "growth_factor_total_cases": "0.85"
+    "growth_factor_total_cases": "0.85",
+    "weekly_growth_factor_total_cases": "0.84"
   },
   "2020-05-05": {
     "infected": 4170,
@@ -927,7 +941,8 @@
     "icu": 194,
     "icu_on_ventilator": 147,
     "new_total_cases": 308,
-    "growth_factor_total_cases": "1.05"
+    "growth_factor_total_cases": "1.05",
+    "weekly_growth_factor_total_cases": "0.86"
   },
   "2020-05-12": {
     "infected": 3791,
@@ -1018,7 +1033,8 @@
     "icu": 174,
     "icu_on_ventilator": 133,
     "new_total_cases": 304,
-    "growth_factor_total_cases": "0.89"
+    "growth_factor_total_cases": "0.89",
+    "weekly_growth_factor_total_cases": "0.92"
   },
   "2020-05-19": {
     "infected": 3567,
@@ -1109,7 +1125,8 @@
     "icu": 148,
     "icu_on_ventilator": 114,
     "new_total_cases": 404,
-    "growth_factor_total_cases": "0.88"
+    "growth_factor_total_cases": "0.88",
+    "weekly_growth_factor_total_cases": "1.22"
   },
   "2020-05-26": {
     "infected": 4110,
@@ -1200,7 +1217,8 @@
     "icu": 125,
     "icu_on_ventilator": 89,
     "new_total_cases": 404,
-    "growth_factor_total_cases": "1.24"
+    "growth_factor_total_cases": "1.24",
+    "weekly_growth_factor_total_cases": "0.80"
   },
   "2020-06-02": {
     "infected": 3932,
@@ -1291,7 +1309,8 @@
     "icu": 118,
     "icu_on_ventilator": 81,
     "new_total_cases": 243,
-    "growth_factor_total_cases": "0.59"
+    "growth_factor_total_cases": "0.59",
+    "weekly_growth_factor_total_cases": "1.10"
   },
   "2020-06-09": {
     "infected": 3797,
@@ -1382,7 +1401,8 @@
     "icu": 104,
     "icu_on_ventilator": 69,
     "new_total_cases": 181,
-    "growth_factor_total_cases": "0.92"
+    "growth_factor_total_cases": "0.92",
+    "weekly_growth_factor_total_cases": "0.58"
   },
   "2020-06-16": {
     "infected": 2585,
@@ -1473,7 +1493,8 @@
     "icu": 76,
     "icu_on_ventilator": 58,
     "new_total_cases": 161,
-    "growth_factor_total_cases": "0.92"
+    "growth_factor_total_cases": "0.92",
+    "weekly_growth_factor_total_cases": "0.84"
   },
   "2020-06-23": {
     "infected": 2127,
@@ -1564,7 +1585,8 @@
     "icu": 46,
     "icu_on_ventilator": 35,
     "new_total_cases": 257,
-    "growth_factor_total_cases": "1.44"
+    "growth_factor_total_cases": "1.44",
+    "weekly_growth_factor_total_cases": "1.01"
   },
   "2020-06-30": {
     "infected": 2052,
@@ -1655,7 +1677,8 @@
     "icu": 36,
     "icu_on_ventilator": 21,
     "new_total_cases": 154,
-    "growth_factor_total_cases": "1.12"
+    "growth_factor_total_cases": "1.12",
+    "weekly_growth_factor_total_cases": "0.81"
   },
   "2020-07-07": {
     "infected": 1766,
@@ -1746,7 +1769,8 @@
     "icu": 28,
     "icu_on_ventilator": 20,
     "new_total_cases": 116,
-    "growth_factor_total_cases": "0.90"
+    "growth_factor_total_cases": "0.90",
+    "weekly_growth_factor_total_cases": "0.86"
   },
   "2020-07-14": {
     "infected": 1442,
@@ -1837,7 +1861,8 @@
     "icu": 37,
     "icu_on_ventilator": 24,
     "new_total_cases": 135,
-    "growth_factor_total_cases": "0.82"
+    "growth_factor_total_cases": "0.82",
+    "weekly_growth_factor_total_cases": "1.01"
   },
   "2020-07-21": {
     "infected": 1584,
@@ -1928,7 +1953,8 @@
     "icu": 30,
     "icu_on_ventilator": 18,
     "new_total_cases": 119,
-    "growth_factor_total_cases": "0.87"
+    "growth_factor_total_cases": "0.87",
+    "weekly_growth_factor_total_cases": "1.18"
   },
   "2020-07-28": {
     "infected": 1575,
@@ -2019,7 +2045,8 @@
     "icu": 25,
     "icu_on_ventilator": 13,
     "new_total_cases": 88,
-    "growth_factor_total_cases": "0.76"
+    "growth_factor_total_cases": "0.76",
+    "weekly_growth_factor_total_cases": "0.70"
   },
   "2020-08-04": {
     "infected": 1245,
@@ -2110,7 +2137,8 @@
     "icu": 25,
     "icu_on_ventilator": 14,
     "new_total_cases": 115,
-    "growth_factor_total_cases": "1.46"
+    "growth_factor_total_cases": "1.46",
+    "weekly_growth_factor_total_cases": "0.85"
   },
   "2020-08-11": {
     "infected": 952,
@@ -2201,7 +2229,8 @@
     "icu": 16,
     "icu_on_ventilator": 10,
     "new_total_cases": 99,
-    "growth_factor_total_cases": "1.22"
+    "growth_factor_total_cases": "1.22",
+    "weekly_growth_factor_total_cases": "0.94"
   },
   "2020-08-18": {
     "infected": 951,
@@ -2292,7 +2321,8 @@
     "icu": 12,
     "icu_on_ventilator": 7,
     "new_total_cases": 105,
-    "growth_factor_total_cases": "0.91"
+    "growth_factor_total_cases": "0.91",
+    "weekly_growth_factor_total_cases": "1.30"
   },
   "2020-08-25": {
     "infected": 1059,
@@ -2383,7 +2413,8 @@
     "icu": 18,
     "icu_on_ventilator": 9,
     "new_total_cases": 114,
-    "growth_factor_total_cases": "1.02"
+    "growth_factor_total_cases": "1.02",
+    "weekly_growth_factor_total_cases": "1.05"
   },
   "2020-09-01": {
     "infected": 1240,
@@ -2474,7 +2505,8 @@
     "icu": 18,
     "icu_on_ventilator": 8,
     "new_total_cases": 190,
-    "growth_factor_total_cases": "1.20"
+    "growth_factor_total_cases": "1.20",
+    "weekly_growth_factor_total_cases": "1.30"
   },
   "2020-09-08": {
     "infected": 1527,
@@ -2565,7 +2597,8 @@
     "icu": 17,
     "icu_on_ventilator": 8,
     "new_total_cases": 313,
-    "growth_factor_total_cases": "1.53"
+    "growth_factor_total_cases": "1.53",
+    "weekly_growth_factor_total_cases": "1.41"
   },
   "2020-09-15": {
     "infected": 2157,
@@ -2656,7 +2689,8 @@
     "icu": 22,
     "icu_on_ventilator": 12,
     "new_total_cases": 425,
-    "growth_factor_total_cases": "1.16"
+    "growth_factor_total_cases": "1.16",
+    "weekly_growth_factor_total_cases": "1.68"
   },
   "2020-09-22": {
     "infected": 3578,
@@ -2747,7 +2781,8 @@
     "icu": 29,
     "icu_on_ventilator": 17,
     "new_total_cases": 700,
-    "growth_factor_total_cases": "1.43"
+    "growth_factor_total_cases": "1.43",
+    "weekly_growth_factor_total_cases": "1.33"
   },
   "2020-09-29": {
     "infected": 4791,
@@ -2838,7 +2873,8 @@
     "icu": 43,
     "icu_on_ventilator": 26,
     "new_total_cases": 615,
-    "growth_factor_total_cases": "1.09"
+    "growth_factor_total_cases": "1.09",
+    "weekly_growth_factor_total_cases": "1.32"
   },
   "2020-10-06": {
     "infected": 5469,
@@ -2929,7 +2965,8 @@
     "icu": 53,
     "icu_on_ventilator": 30,
     "new_total_cases": 807,
-    "growth_factor_total_cases": "1.24"
+    "growth_factor_total_cases": "1.24",
+    "weekly_growth_factor_total_cases": "1.20"
   },
   "2020-10-13": {
     "infected": 5946,
@@ -3020,7 +3057,8 @@
     "icu": 69,
     "icu_on_ventilator": 40,
     "new_total_cases": 704,
-    "growth_factor_total_cases": "1.07"
+    "growth_factor_total_cases": "1.07",
+    "weekly_growth_factor_total_cases": "1.00"
   },
   "2020-10-20": {
     "infected": 6237,
@@ -3111,7 +3149,8 @@
     "icu": 78,
     "icu_on_ventilator": 51,
     "new_total_cases": 851,
-    "growth_factor_total_cases": "0.82"
+    "growth_factor_total_cases": "0.82",
+    "weekly_growth_factor_total_cases": "1.20"
   },
   "2020-10-27": {
     "infected": 7418,
@@ -3202,7 +3241,8 @@
     "icu": 75,
     "icu_on_ventilator": 45,
     "new_total_cases": 948,
-    "growth_factor_total_cases": "0.97"
+    "growth_factor_total_cases": "0.97",
+    "weekly_growth_factor_total_cases": "1.05"
   },
   "2020-11-03": {
     "infected": 8295,
@@ -3293,7 +3333,8 @@
     "icu": 84,
     "icu_on_ventilator": 54,
     "new_total_cases": 1242,
-    "growth_factor_total_cases": "0.94"
+    "growth_factor_total_cases": "0.94",
+    "weekly_growth_factor_total_cases": "1.20"
   },
   "2020-11-10": {
     "infected": 10106,
@@ -3384,7 +3425,8 @@
     "icu": 125,
     "icu_on_ventilator": 70,
     "new_total_cases": 1487,
-    "growth_factor_total_cases": "1.19"
+    "growth_factor_total_cases": "1.19",
+    "weekly_growth_factor_total_cases": "1.31"
   },
   "2020-11-17": {
     "infected": 12932,
@@ -3475,7 +3517,8 @@
     "icu": 156,
     "icu_on_ventilator": 92,
     "new_total_cases": 1589,
-    "growth_factor_total_cases": "1.04"
+    "growth_factor_total_cases": "1.04",
+    "weekly_growth_factor_total_cases": "0.99"
   },
   "2020-11-24": {
     "infected": 12917,
@@ -3566,7 +3609,8 @@
     "icu": 168,
     "icu_on_ventilator": 108,
     "new_total_cases": 1746,
-    "growth_factor_total_cases": "1.02"
+    "growth_factor_total_cases": "1.02",
+    "weekly_growth_factor_total_cases": "1.10"
   },
   "2020-12-01": {
     "infected": 14524,
@@ -3657,7 +3701,8 @@
     "icu": 213,
     "icu_on_ventilator": 121,
     "new_total_cases": 1925,
-    "growth_factor_total_cases": "1.00"
+    "growth_factor_total_cases": "1.00",
+    "weekly_growth_factor_total_cases": "1.16"
   },
   "2020-12-08": {
     "infected": 16151,

@@ -161,7 +161,8 @@
     "infected": 3,
     "new_total_cases": 1,
     "total_cases": 3,
-    "under_investigation": 29
+    "under_investigation": 29,
+    "weekly_growth_factor_total_cases": "Inf"
   },
   {
     "date": "2020-02-04",
@@ -241,7 +242,8 @@
     "infected": 3,
     "new_total_cases": 0,
     "total_cases": 3,
-    "under_investigation": 8
+    "under_investigation": 8,
+    "weekly_growth_factor_total_cases": "0.00"
   },
   {
     "date": "2020-02-11",
@@ -343,7 +345,8 @@
     "new_total_cases": 0,
     "resolved": 1,
     "total_cases": 3,
-    "under_investigation": 0
+    "under_investigation": 0,
+    "weekly_growth_factor_total_cases": "NaN"
   },
   {
     "date": "2020-02-18",
@@ -497,7 +500,8 @@
     "new_total_cases": 1,
     "resolved": 3,
     "total_cases": 4,
-    "under_investigation": 9
+    "under_investigation": 9,
+    "weekly_growth_factor_total_cases": "Inf"
   },
   {
     "cities_new_cases": {
@@ -713,7 +717,8 @@
     "new_total_cases": 12,
     "resolved": 3,
     "total_cases": 18,
-    "under_investigation": 12
+    "under_investigation": 12,
+    "weekly_growth_factor_total_cases": "14.00"
   },
   {
     "cities_new_cases": {
@@ -1070,7 +1075,8 @@
     "new_total_cases": 6,
     "resolved": 4,
     "total_cases": 35,
-    "under_investigation": 22
+    "under_investigation": 22,
+    "weekly_growth_factor_total_cases": "1.21"
   },
   {
     "cities_new_cases": {
@@ -1554,7 +1560,8 @@
     "new_total_cases": 32,
     "resolved": 5,
     "total_cases": 177,
-    "under_investigation": 1537
+    "under_investigation": 1537,
+    "weekly_growth_factor_total_cases": "8.35"
   },
   {
     "cities_new_cases": {
@@ -2090,7 +2097,8 @@
     "new_total_cases": 78,
     "resolved": 8,
     "total_cases": 503,
-    "under_investigation": 8417
+    "under_investigation": 8417,
+    "weekly_growth_factor_total_cases": "2.30"
   },
   {
     "cities_new_cases": {
@@ -2622,7 +2630,8 @@
     "new_total_cases": 351,
     "resolved": 431,
     "total_cases": 1706,
-    "under_investigation": 5651
+    "under_investigation": 5651,
+    "weekly_growth_factor_total_cases": "3.69"
   },
   {
     "cities_new_cases": {
@@ -3376,7 +3385,8 @@
     "new_total_cases": 309,
     "resolved": 1624,
     "total_cases": 4347,
-    "under_investigation": 329
+    "under_investigation": 329,
+    "weekly_growth_factor_total_cases": "2.20"
   },
   {
     "cities_new_cases": {
@@ -4160,7 +4170,8 @@
     "new_total_cases": 421,
     "resolved": 3357,
     "total_cases": 7470,
-    "under_investigation": 1534
+    "under_investigation": 1534,
+    "weekly_growth_factor_total_cases": "1.18"
   },
   {
     "cities_new_cases": {
@@ -4939,7 +4950,8 @@
     "new_total_cases": 606,
     "resolved": 5515,
     "total_cases": 11184,
-    "under_investigation": 3799
+    "under_investigation": 3799,
+    "weekly_growth_factor_total_cases": "1.19"
   },
   {
     "cities_new_cases": {
@@ -5752,7 +5764,8 @@
     "new_total_cases": 424,
     "resolved": 8525,
     "total_cases": 14856,
-    "under_investigation": 5001
+    "under_investigation": 5001,
+    "weekly_growth_factor_total_cases": "0.99"
   },
   {
     "cities_new_cases": {
@@ -6595,7 +6608,8 @@
     "new_total_cases": 370,
     "resolved": 12505,
     "total_cases": 17923,
-    "under_investigation": 6265
+    "under_investigation": 6265,
+    "weekly_growth_factor_total_cases": "0.84"
   },
   {
     "cities_new_cases": {
@@ -7434,7 +7448,8 @@
     "new_total_cases": 308,
     "resolved": 15131,
     "total_cases": 20546,
-    "under_investigation": 9018
+    "under_investigation": 9018,
+    "weekly_growth_factor_total_cases": "0.86"
   },
   {
     "cities_new_cases": {
@@ -8273,7 +8288,8 @@
     "new_total_cases": 304,
     "resolved": 17638,
     "total_cases": 22957,
-    "under_investigation": 2189
+    "under_investigation": 2189,
+    "weekly_growth_factor_total_cases": "0.92"
   },
   {
     "cities_new_cases": {
@@ -9104,7 +9120,8 @@
     "new_total_cases": 404,
     "resolved": 19698,
     "total_cases": 25904,
-    "under_investigation": 3883
+    "under_investigation": 3883,
+    "weekly_growth_factor_total_cases": "1.22"
   },
   {
     "cities_new_cases": {
@@ -9926,7 +9943,8 @@
     "new_total_cases": 404,
     "resolved": 22153,
     "total_cases": 28263,
-    "under_investigation": 6427
+    "under_investigation": 6427,
+    "weekly_growth_factor_total_cases": "0.80"
   },
   {
     "cities_new_cases": {
@@ -10750,7 +10768,8 @@
     "new_total_cases": 243,
     "resolved": 24492,
     "total_cases": 30860,
-    "under_investigation": 4811
+    "under_investigation": 4811,
+    "weekly_growth_factor_total_cases": "1.10"
   },
   {
     "cities_new_cases": {
@@ -11520,7 +11539,8 @@
     "new_total_cases": 181,
     "resolved": 27213,
     "total_cases": 32370,
-    "under_investigation": 18258
+    "under_investigation": 18258,
+    "weekly_growth_factor_total_cases": "0.58"
   },
   {
     "cities_new_cases": {
@@ -12261,7 +12281,8 @@
     "new_total_cases": 161,
     "resolved": 28933,
     "total_cases": 33637,
-    "under_investigation": 10027
+    "under_investigation": 10027,
+    "weekly_growth_factor_total_cases": "0.84"
   },
   {
     "cities_new_cases": {
@@ -12980,7 +13001,8 @@
     "new_total_cases": 257,
     "resolved": 30196,
     "total_cases": 34911,
-    "under_investigation": 16701
+    "under_investigation": 16701,
+    "weekly_growth_factor_total_cases": "1.01"
   },
   {
     "cities_new_cases": {
@@ -13706,7 +13728,8 @@
     "new_total_cases": 154,
     "resolved": 31426,
     "total_cases": 35948,
-    "under_investigation": 8931
+    "under_investigation": 8931,
+    "weekly_growth_factor_total_cases": "0.81"
   },
   {
     "cities_new_cases": {
@@ -14409,7 +14432,8 @@
     "new_total_cases": 116,
     "resolved": 32663,
     "total_cases": 36839,
-    "under_investigation": 7837
+    "under_investigation": 7837,
+    "weekly_growth_factor_total_cases": "0.86"
   },
   {
     "cities_new_cases": {
@@ -15149,7 +15173,8 @@
     "new_total_cases": 135,
     "resolved": 33513,
     "total_cases": 37739,
-    "under_investigation": 11351
+    "under_investigation": 11351,
+    "weekly_growth_factor_total_cases": "1.01"
   },
   {
     "cities_new_cases": {
@@ -15898,7 +15923,8 @@
     "new_total_cases": 119,
     "resolved": 34461,
     "total_cases": 38799,
-    "under_investigation": 9249
+    "under_investigation": 9249,
+    "weekly_growth_factor_total_cases": "1.18"
   },
   {
     "cities_new_cases": {
@@ -16581,7 +16607,8 @@
     "new_total_cases": 88,
     "resolved": 35485,
     "total_cases": 39537,
-    "under_investigation": 12953
+    "under_investigation": 12953,
+    "weekly_growth_factor_total_cases": "0.70"
   },
   {
     "cities_new_cases": {
@@ -17315,7 +17342,8 @@
     "new_total_cases": 115,
     "resolved": 36381,
     "total_cases": 40161,
-    "under_investigation": 10865
+    "under_investigation": 10865,
+    "weekly_growth_factor_total_cases": "0.85"
   },
   {
     "cities_new_cases": {
@@ -18057,7 +18085,8 @@
     "new_total_cases": 99,
     "resolved": 37036,
     "total_cases": 40745,
-    "under_investigation": 15076
+    "under_investigation": 15076,
+    "weekly_growth_factor_total_cases": "0.94"
   },
   {
     "cities_new_cases": {
@@ -18792,7 +18821,8 @@
     "new_total_cases": 105,
     "resolved": 37673,
     "total_cases": 41507,
-    "under_investigation": 9229
+    "under_investigation": 9229,
+    "weekly_growth_factor_total_cases": "1.30"
   },
   {
     "cities_new_cases": {
@@ -19470,7 +19500,8 @@
     "new_total_cases": 114,
     "resolved": 38277,
     "total_cases": 42309,
-    "under_investigation": 13542
+    "under_investigation": 13542,
+    "weekly_growth_factor_total_cases": "1.05"
   },
   {
     "cities_new_cases": {
@@ -20207,7 +20238,8 @@
     "new_total_cases": 190,
     "resolved": 39077,
     "total_cases": 43351,
-    "under_investigation": 10540
+    "under_investigation": 10540,
+    "weekly_growth_factor_total_cases": "1.30"
   },
   {
     "cities_new_cases": {
@@ -20964,7 +20996,8 @@
     "new_total_cases": 313,
     "resolved": 39974,
     "total_cases": 44817,
-    "under_investigation": 19260
+    "under_investigation": 19260,
+    "weekly_growth_factor_total_cases": "1.41"
   },
   {
     "cities_new_cases": {
@@ -21726,7 +21759,8 @@
     "new_total_cases": 425,
     "resolved": 41146,
     "total_cases": 47274,
-    "under_investigation": 32489
+    "under_investigation": 32489,
+    "weekly_growth_factor_total_cases": "1.68"
   },
   {
     "cities_new_cases": {
@@ -22500,7 +22534,8 @@
     "new_total_cases": 700,
     "resolved": 43127,
     "total_cases": 50531,
-    "under_investigation": 49586
+    "under_investigation": 49586,
+    "weekly_growth_factor_total_cases": "1.33"
   },
   {
     "cities_new_cases": {
@@ -23234,7 +23269,8 @@
     "new_total_cases": 615,
     "resolved": 46360,
     "total_cases": 54814,
-    "under_investigation": 68006
+    "under_investigation": 68006,
+    "weekly_growth_factor_total_cases": "1.32"
   },
   {
     "cities_new_cases": {
@@ -23936,7 +23972,8 @@
     "new_total_cases": 807,
     "resolved": 51105,
     "total_cases": 59946,
-    "under_investigation": 32473
+    "under_investigation": 32473,
+    "weekly_growth_factor_total_cases": "1.20"
   },
   {
     "cities_new_cases": {
@@ -24723,7 +24760,8 @@
     "new_total_cases": 704,
     "resolved": 55978,
     "total_cases": 65075,
-    "under_investigation": 16303
+    "under_investigation": 16303,
+    "weekly_growth_factor_total_cases": "1.00"
   },
   {
     "cities_new_cases": {
@@ -25516,7 +25554,8 @@
     "new_total_cases": 851,
     "resolved": 60839,
     "total_cases": 71224,
-    "under_investigation": 17603
+    "under_investigation": 17603,
+    "weekly_growth_factor_total_cases": "1.20"
   },
   {
     "cities_new_cases": {
@@ -26319,7 +26358,8 @@
     "new_total_cases": 948,
     "resolved": 66407,
     "total_cases": 77655,
-    "under_investigation": 15397
+    "under_investigation": 15397,
+    "weekly_growth_factor_total_cases": "1.05"
   },
   {
     "cities_new_cases": {
@@ -27136,7 +27176,8 @@
     "new_total_cases": 1242,
     "resolved": 72636,
     "total_cases": 85395,
-    "under_investigation": 26646
+    "under_investigation": 26646,
+    "weekly_growth_factor_total_cases": "1.20"
   },
   {
     "cities_new_cases": {
@@ -27952,7 +27993,8 @@
     "new_total_cases": 1487,
     "resolved": 79295,
     "total_cases": 95496,
-    "under_investigation": 16254
+    "under_investigation": 16254,
+    "weekly_growth_factor_total_cases": "1.31"
   },
   {
     "cities_new_cases": {
@@ -28780,7 +28822,8 @@
     "new_total_cases": 1589,
     "resolved": 88992,
     "total_cases": 105501,
-    "under_investigation": 18394
+    "under_investigation": 18394,
+    "weekly_growth_factor_total_cases": "0.99"
   },
   {
     "cities_new_cases": {
@@ -29599,7 +29642,8 @@
     "new_total_cases": 1746,
     "resolved": 98639,
     "total_cases": 116492,
-    "under_investigation": 27388
+    "under_investigation": 27388,
+    "weekly_growth_factor_total_cases": "1.10"
   },
   {
     "cities_new_cases": {
@@ -30420,7 +30464,8 @@
     "new_total_cases": 1925,
     "resolved": 109402,
     "total_cases": 129234,
-    "under_investigation": 31238
+    "under_investigation": 31238,
+    "weekly_growth_factor_total_cases": "1.16"
   },
   {
     "cities_new_cases": {
