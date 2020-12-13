@@ -6,8 +6,6 @@ layout: default
 ---
 
 <div class="bb b--black-10">
-  <p class="lh-copy f6">Update Aug 30: We reprioritized which graphs to show at the top of the page.</p>
-
   <p class="lh-copy f6"><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
 </div>
 
