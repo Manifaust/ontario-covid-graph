@@ -45,11 +45,11 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Growth Factor</h2>
-  <p class="lh-copy f6">The growth factor measures the acceleration of new cases. For example, if the number of new cases today is 10% more than the number of new cases yesterday, then the growth factor is 1.10.</p>
+  <h2 class="f3 fw3">Weekly Growth Factor</h2>
+  <p class="lh-copy f6">The growth factor measures the acceleration of new cases. For example, if the number of new cases this week is 10% more than the number of new cases last week, then the growth factor is 1.10.</p>
 
   <p class="lh-copy f6">A growth factor that's consistently above 1.00 means the virus is spreading faster and faster. Conversely, a growth factor that's consistently below 1.00 means the virus's spread is slowing down.</p>
-  <canvas id="growthFactorChart" class="mb3"></canvas>
+  <canvas id="weeklyGrowthFactorChart" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">

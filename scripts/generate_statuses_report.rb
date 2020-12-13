@@ -23,6 +23,8 @@ def create_report_entries(status_csv_path, csv_mapping)
 
   last_total_cases = nil
   last_new_total_cases = nil
+  last_new_weekly_total_cases = nil
+  weekly_new_cases = []
 
   CSV.parse(File.read(status_csv_path), headers: true).each_with_index do |row, index|
     report_entry = create_report_entry(row, csv_mapping)
@@ -40,6 +42,7 @@ def create_report_entries(status_csv_path, csv_mapping)
 
       new_total_cases = total_cases - last_total_cases
       report_entry['new_total_cases'] = new_total_cases
+      weekly_new_cases.push(new_total_cases)
     end
 
     if last_new_total_cases != nil && last_new_total_cases > 0
@@ -47,10 +50,24 @@ def create_report_entries(status_csv_path, csv_mapping)
       report_entry['growth_factor_total_cases'] = growth_factor_total
     end
 
+    date = row['Reported Date']
+    day_number = Date.parse(date).jd
+
+    if (day_number % 7).zero?
+      weekly_new_cases_sum = weekly_new_cases.sum
+
+      if last_new_weekly_total_cases != nil
+        weekly_growth_factor_total = '%.2f' % weekly_new_cases_sum.fdiv(last_new_weekly_total_cases)
+        report_entry['weekly_growth_factor_total_cases'] = weekly_growth_factor_total
+      end
+
+      last_new_weekly_total_cases = weekly_new_cases_sum
+      weekly_new_cases.clear
+    end
+
     last_total_cases = report_entry[:total_cases]
     last_new_total_cases = new_total_cases
 
-    date = row['Reported Date']
     report_entries[date] = report_entry
   end
 

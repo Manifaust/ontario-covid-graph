@@ -14,11 +14,11 @@ window.fetch(reportURL).then((response) => {
 }).then((data) => {
   fetchedData = data
   chart.render({
-    ele: document.getElementById('growthFactorChart'),
-    title: 'Growth Factor (Total Cases)',
-    key: 'growth_factor_total_cases',
+    ele: document.getElementById('weeklyGrowthFactorChart'),
+    title: 'Weekly Growth Factor',
+    key: 'weekly_growth_factor_total_cases',
     color: '255, 99, 132',
-    maxValue: 2
+    maxValue: 2,
   })
 
   chart.render({
