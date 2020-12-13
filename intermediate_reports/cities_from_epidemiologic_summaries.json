@@ -1790,5 +1790,61 @@
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 568
     }
+  },
+  "2020-12-07": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 43568
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 601
+    }
+  },
+  "2020-12-08": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 44156
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 588
+    }
+  },
+  "2020-12-09": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 44673
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 517
+    }
+  },
+  "2020-12-10": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 45169
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 496
+    }
+  },
+  "2020-12-11": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 45638
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 469
+    }
+  },
+  "2020-12-12": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 46160
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 522
+    }
+  },
+  "2020-12-13": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 46616
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 456
+    }
   }
 }

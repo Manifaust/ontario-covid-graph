@@ -3658,5 +3658,83 @@
     "icu_on_ventilator": 121,
     "new_total_cases": 1925,
     "growth_factor_total_cases": "1.00"
+  },
+  "2020-12-08": {
+    "infected": 16151,
+    "resolved": 110951,
+    "deaths": 3808,
+    "total_cases": 130910,
+    "new_tests": 39198,
+    "under_investigation": 40732,
+    "hospitalized": 794,
+    "icu": 219,
+    "icu_on_ventilator": 132,
+    "new_total_cases": 1676,
+    "growth_factor_total_cases": "0.87"
+  },
+  "2020-12-09": {
+    "infected": 16089,
+    "resolved": 112875,
+    "deaths": 3836,
+    "total_cases": 132800,
+    "new_tests": 48546,
+    "under_investigation": 54613,
+    "hospitalized": 811,
+    "icu": 221,
+    "icu_on_ventilator": 129,
+    "new_total_cases": 1890,
+    "growth_factor_total_cases": "1.13"
+  },
+  "2020-12-10": {
+    "infected": 16233,
+    "resolved": 114679,
+    "deaths": 3871,
+    "total_cases": 134783,
+    "new_tests": 61809,
+    "under_investigation": 66326,
+    "hospitalized": 829,
+    "icu": 228,
+    "icu_on_ventilator": 132,
+    "new_total_cases": 1983,
+    "growth_factor_total_cases": "1.05"
+  },
+  "2020-12-11": {
+    "infected": 16283,
+    "resolved": 116432,
+    "deaths": 3916,
+    "total_cases": 136631,
+    "new_tests": 63051,
+    "under_investigation": 69280,
+    "hospitalized": 808,
+    "icu": 235,
+    "icu_on_ventilator": 124,
+    "new_total_cases": 1848,
+    "growth_factor_total_cases": "0.93"
+  },
+  "2020-12-12": {
+    "infected": 16221,
+    "resolved": 118350,
+    "deaths": 3933,
+    "total_cases": 138504,
+    "new_tests": 65260,
+    "under_investigation": 67654,
+    "hospitalized": 855,
+    "icu": 237,
+    "icu_on_ventilator": 143,
+    "new_total_cases": 1873,
+    "growth_factor_total_cases": "1.01"
+  },
+  "2020-12-13": {
+    "infected": 16204,
+    "resolved": 120028,
+    "deaths": 3949,
+    "total_cases": 140181,
+    "new_tests": 58190,
+    "under_investigation": 51051,
+    "hospitalized": 813,
+    "icu": 253,
+    "icu_on_ventilator": 142,
+    "new_total_cases": 1677,
+    "growth_factor_total_cases": "0.90"
   }
 }
