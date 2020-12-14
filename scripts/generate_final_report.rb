@@ -34,6 +34,6 @@ entries_array = entries.sort.map do |entry|
   map.sort.to_h
 end
 
-File.write(final_report_path, JSON.pretty_generate(entries_array))
+File.write(final_report_path, JSON.generate(entries_array))
 puts "Wrote final report: #{final_report_path}"
 
