@@ -3795,5 +3795,18 @@
     "new_total_cases": 1940,
     "growth_factor_total_cases": "1.16",
     "weekly_growth_factor_total_cases": "1.01"
+  },
+  "2020-12-15": {
+    "infected": 17031,
+    "resolved": 123373,
+    "deaths": 3992,
+    "total_cases": 144396,
+    "new_tests": 39566,
+    "under_investigation": 45770,
+    "hospitalized": 921,
+    "icu": 249,
+    "icu_on_ventilator": 156,
+    "new_total_cases": 2275,
+    "growth_factor_total_cases": "1.17"
   }
 }
