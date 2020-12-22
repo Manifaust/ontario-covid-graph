@@ -3887,5 +3887,18 @@
     "new_total_cases": 2123,
     "growth_factor_total_cases": "0.92",
     "weekly_growth_factor_total_cases": "1.24"
+  },
+  "2020-12-22": {
+    "infected": 19300,
+    "resolved": 136767,
+    "deaths": 4188,
+    "total_cases": 160255,
+    "new_tests": 45265,
+    "under_investigation": 47872,
+    "hospitalized": 1005,
+    "icu": 273,
+    "icu_on_ventilator": 172,
+    "new_total_cases": 2202,
+    "growth_factor_total_cases": "1.04"
   }
 }
