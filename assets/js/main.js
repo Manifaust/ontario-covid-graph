@@ -18,7 +18,7 @@ window.fetch(reportURL).then((response) => {
     title: 'Weekly Growth Factor',
     key: 'weekly_growth_factor_total_cases',
     color: '255, 99, 132',
-    maxValue: 2,
+    maxValue: 2
   })
 
   chart.render({
@@ -262,14 +262,17 @@ const chart = {
       },
       options: {
         aspectRatio: window.matchMedia('(max-width: 600px)').matches ? 1.2 : 2,
-        legend: {
-          labels: {
-            boxWidth: 15,
-            filter: (legendItem, chartData) => {
-              if (opt.hideInLegend && legendItem.datasetIndex === 0) {
-                return false
+        plugins: {
+          legend: {
+            labels: {
+              boxWidth: 15,
+              color: '#666',
+              filter: (legendItem, chartData) => {
+                if (opt.hideInLegend && legendItem.datasetIndex === 0) {
+                  return false
+                }
+                return true
               }
-              return true
             }
           }
         },
