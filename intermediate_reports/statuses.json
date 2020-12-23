@@ -3900,5 +3900,18 @@
     "icu_on_ventilator": 172,
     "new_total_cases": 2202,
     "growth_factor_total_cases": "1.04"
+  },
+  "2020-12-23": {
+    "infected": 19424,
+    "resolved": 139010,
+    "deaths": 4229,
+    "total_cases": 162663,
+    "new_tests": 56660,
+    "under_investigation": 66976,
+    "hospitalized": 1002,
+    "icu": 275,
+    "icu_on_ventilator": 186,
+    "new_total_cases": 2408,
+    "growth_factor_total_cases": "1.09"
   }
 }
