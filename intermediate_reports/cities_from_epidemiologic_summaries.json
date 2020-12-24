@@ -1926,5 +1926,13 @@
     "cities_new_cases_from_epidemiologic_summary": {
       "Toronto Public Health": 629
     }
+  },
+  "2020-12-24": {
+    "cities_total_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 53752
+    },
+    "cities_new_cases_from_epidemiologic_summary": {
+      "Toronto Public Health": 646
+    }
   }
 }
