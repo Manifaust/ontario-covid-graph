@@ -3926,5 +3926,44 @@
     "icu_on_ventilator": 176,
     "new_total_cases": 2447,
     "growth_factor_total_cases": "1.02"
+  },
+  "2020-12-25": {
+    "infected": 19688,
+    "resolved": 143260,
+    "deaths": 4321,
+    "total_cases": 167269,
+    "new_tests": 61465,
+    "under_investigation": 65675,
+    "hospitalized": 998,
+    "icu": 280,
+    "icu_on_ventilator": 156,
+    "new_total_cases": 2159,
+    "growth_factor_total_cases": "0.88"
+  },
+  "2020-12-26": {
+    "infected": 19879,
+    "resolved": 145173,
+    "deaths": 4359,
+    "total_cases": 169411,
+    "new_tests": 49511,
+    "under_investigation": 37010,
+    "hospitalized": 755,
+    "icu": 286,
+    "icu_on_ventilator": 187,
+    "new_total_cases": 2142,
+    "growth_factor_total_cases": "0.99"
+  },
+  "2020-12-27": {
+    "infected": 19861,
+    "resolved": 147178,
+    "deaths": 4377,
+    "total_cases": 171416,
+    "new_tests": 41783,
+    "under_investigation": 27278,
+    "hospitalized": 823,
+    "icu": 285,
+    "icu_on_ventilator": 194,
+    "new_total_cases": 2005,
+    "growth_factor_total_cases": "0.94"
   }
 }

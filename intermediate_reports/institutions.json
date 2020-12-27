@@ -9005,5 +9005,101 @@
       "long_term": 4068,
       "total": 4068
     }
+  },
+  "2020-12-25": {
+    "institutional_outbreaks": {
+      "long_term": 869,
+      "retirement_home": 451,
+      "hospitals": 229,
+      "total": 1549
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 10412,
+      "total": 10412
+    },
+    "institutional_all_deaths": {
+      "long_term": 2673,
+      "total": 2673
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 2665,
+      "total": 2665
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "institutional_all_cases": {
+      "long_term": 14528,
+      "total": 14528
+    },
+    "institutional_staff_cases": {
+      "long_term": 4116,
+      "total": 4116
+    }
+  },
+  "2020-12-26": {
+    "institutional_outbreaks": {
+      "long_term": 879,
+      "retirement_home": 454,
+      "hospitals": 231,
+      "total": 1564
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 10492,
+      "total": 10492
+    },
+    "institutional_all_deaths": {
+      "long_term": 2690,
+      "total": 2690
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 2682,
+      "total": 2682
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "institutional_all_cases": {
+      "long_term": 14627,
+      "total": 14627
+    },
+    "institutional_staff_cases": {
+      "long_term": 4135,
+      "total": 4135
+    }
+  },
+  "2020-12-27": {
+    "institutional_outbreaks": {
+      "long_term": 887,
+      "retirement_home": 457,
+      "hospitals": 233,
+      "total": 1577
+    },
+    "institutional_resident_patient_cases": {
+      "long_term": 10577,
+      "total": 10577
+    },
+    "institutional_all_deaths": {
+      "long_term": 2704,
+      "total": 2704
+    },
+    "institutional_resident_patient_deaths": {
+      "long_term": 2696,
+      "total": 2696
+    },
+    "institutional_staff_deaths": {
+      "long_term": 8,
+      "total": 8
+    },
+    "institutional_all_cases": {
+      "long_term": 14737,
+      "total": 14737
+    },
+    "institutional_staff_cases": {
+      "long_term": 4160,
+      "total": 4160
+    }
   }
 }
