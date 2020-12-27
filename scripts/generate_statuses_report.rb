@@ -3,6 +3,8 @@
 require 'csv'
 require 'json'
 
+require_relative 'report_date'
+
 status_csv_path = ARGV[0]
 output_path = ARGV[1]
 
@@ -50,8 +52,8 @@ def create_report_entries(status_csv_path, csv_mapping)
       report_entry['growth_factor_total_cases'] = growth_factor_total
     end
 
-    date = row['Reported Date']
-    day_number = Date.parse(date).jd
+    date = ReportDate.new(row['Reported Date'])
+    day_number = date.day_number
 
     if (day_number % 7).zero?
       weekly_new_cases_sum = weekly_new_cases.sum
@@ -68,7 +70,7 @@ def create_report_entries(status_csv_path, csv_mapping)
     last_total_cases = report_entry[:total_cases]
     last_new_total_cases = new_total_cases
 
-    report_entries[date] = report_entry
+    report_entries[date.to_s] = report_entry
   end
 
   report_entries
