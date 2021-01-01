@@ -38,6 +38,7 @@ mkdir -p "$intermediate_reports_dir"
 statuses_report_path="$intermediate_reports_dir"/statuses.json
 institutions_report_path="$intermediate_reports_dir"/institutions.json
 toronto_report_path="$intermediate_reports_dir"/toronto_statuses.json
+ltc_report_path="$intermediate_reports_dir"/ltc_statuses.json
 
 set -x
 echo 'Generating statuses report from status CSV'
@@ -57,11 +58,17 @@ scripts/generate_toronto_cases_report.rb \
   "$daily_change_phu_report_csv_save_path" \
   "$toronto_report_path"
 
+echo 'Generating Long Term Care cases report'
+scripts/generate_ltc_report.rb \
+  "$status_report_csv_save_path" \
+  "$ltc_report_path"
+
 echo 'Generating final report'
 scripts/generate_final_report.rb \
   "$statuses_report_path" \
   "$institutions_report_path" \
   "$toronto_report_path" \
+  "$ltc_report_path" \
   "$DIR/report.json"
 
 set +x

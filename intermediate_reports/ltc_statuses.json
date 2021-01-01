@@ -1,0 +1,1584 @@
+{
+  "2020-05-19": {
+    "ltc": {
+      "resident_total_cases": 4235,
+      "resident_total_deaths": 1115
+    }
+  },
+  "2020-05-20": {
+    "ltc": {
+      "resident_total_cases": 4518,
+      "resident_total_deaths": 1224,
+      "resident_new_cases": 283
+    }
+  },
+  "2020-05-21": {
+    "ltc": {
+      "resident_total_cases": 4656,
+      "resident_total_deaths": 1242,
+      "resident_new_cases": 138
+    }
+  },
+  "2020-05-22": {
+    "ltc": {
+      "resident_total_cases": 4711,
+      "resident_total_deaths": 1262,
+      "resident_new_cases": 55
+    }
+  },
+  "2020-05-23": {
+    "ltc": {
+      "resident_total_cases": 4784,
+      "resident_total_deaths": 1282,
+      "resident_new_cases": 73
+    }
+  },
+  "2020-05-24": {
+    "ltc": {
+      "resident_total_cases": 4834,
+      "resident_total_deaths": 1300,
+      "resident_new_cases": 50
+    }
+  },
+  "2020-05-25": {
+    "ltc": {
+      "resident_total_cases": 4862,
+      "resident_total_deaths": 1323,
+      "resident_new_cases": 28
+    }
+  },
+  "2020-05-26": {
+    "ltc": {
+      "resident_total_cases": 4892,
+      "resident_total_deaths": 1335,
+      "resident_new_cases": 30
+    }
+  },
+  "2020-05-27": {
+    "ltc": {
+      "resident_total_cases": 4936,
+      "resident_total_deaths": 1352,
+      "resident_new_cases": 44
+    }
+  },
+  "2020-05-28": {
+    "ltc": {
+      "resident_total_cases": 4964,
+      "resident_total_deaths": 1377,
+      "resident_new_cases": 28
+    }
+  },
+  "2020-05-29": {
+    "ltc": {
+      "resident_total_cases": 4989,
+      "resident_total_deaths": 1412,
+      "resident_new_cases": 25
+    }
+  },
+  "2020-05-30": {
+    "ltc": {
+      "resident_total_cases": 5003,
+      "resident_total_deaths": 1423,
+      "resident_new_cases": 14
+    }
+  },
+  "2020-05-31": {
+    "ltc": {
+      "resident_total_cases": 5035,
+      "resident_total_deaths": 1438,
+      "resident_new_cases": 32
+    }
+  },
+  "2020-06-01": {
+    "ltc": {
+      "resident_total_cases": 5097,
+      "resident_total_deaths": 1445,
+      "resident_new_cases": 62
+    }
+  },
+  "2020-06-02": {
+    "ltc": {
+      "resident_total_cases": 5158,
+      "resident_total_deaths": 1465,
+      "resident_new_cases": 61
+    }
+  },
+  "2020-06-03": {
+    "ltc": {
+      "resident_total_cases": 5172,
+      "resident_total_deaths": 1472,
+      "resident_new_cases": 14
+    }
+  },
+  "2020-06-04": {
+    "ltc": {
+      "resident_total_cases": 5202,
+      "resident_total_deaths": 1509,
+      "resident_new_cases": 30
+    }
+  },
+  "2020-06-05": {
+    "ltc": {
+      "resident_total_cases": 5222,
+      "resident_total_deaths": 1519,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-06-06": {
+    "ltc": {
+      "resident_total_cases": 5248,
+      "resident_total_deaths": 1549,
+      "resident_new_cases": 26
+    }
+  },
+  "2020-06-07": {
+    "ltc": {
+      "resident_total_cases": 5254,
+      "resident_total_deaths": 1557,
+      "resident_new_cases": 6
+    }
+  },
+  "2020-06-08": {
+    "ltc": {
+      "resident_total_cases": 5256,
+      "resident_total_deaths": 1575,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-06-09": {
+    "ltc": {
+      "resident_total_cases": 5274,
+      "resident_total_deaths": 1585,
+      "resident_new_cases": 18
+    }
+  },
+  "2020-06-10": {
+    "ltc": {
+      "resident_total_cases": 5294,
+      "resident_total_deaths": 1591,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-06-11": {
+    "ltc": {
+      "resident_total_cases": 5307,
+      "resident_total_deaths": 1600,
+      "resident_new_cases": 13
+    }
+  },
+  "2020-06-12": {
+    "ltc": {
+      "resident_total_cases": 5314,
+      "resident_total_deaths": 1606,
+      "resident_new_cases": 7
+    }
+  },
+  "2020-06-13": {
+    "ltc": {
+      "resident_total_cases": 5327,
+      "resident_total_deaths": 1610,
+      "resident_new_cases": 13
+    }
+  },
+  "2020-06-14": {
+    "ltc": {
+      "resident_total_cases": 5368,
+      "resident_total_deaths": 1625,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-06-15": {
+    "ltc": {
+      "resident_total_cases": 5380,
+      "resident_total_deaths": 1629,
+      "resident_new_cases": 12
+    }
+  },
+  "2020-06-16": {
+    "ltc": {
+      "resident_total_cases": 5357,
+      "resident_total_deaths": 1632,
+      "resident_new_cases": -23
+    }
+  },
+  "2020-06-17": {
+    "ltc": {
+      "resident_total_cases": 5359,
+      "resident_total_deaths": 1636,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-06-18": {
+    "ltc": {
+      "resident_total_cases": 5360,
+      "resident_total_deaths": 1636,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-06-19": {
+    "ltc": {
+      "resident_total_cases": 5384,
+      "resident_total_deaths": 1645,
+      "resident_new_cases": 24
+    }
+  },
+  "2020-06-20": {
+    "ltc": {
+      "resident_total_cases": 5345,
+      "resident_total_deaths": 1651,
+      "resident_new_cases": -39
+    }
+  },
+  "2020-06-21": {
+    "ltc": {
+      "resident_total_cases": 5355,
+      "resident_total_deaths": 1657,
+      "resident_new_cases": 10
+    }
+  },
+  "2020-06-22": {
+    "ltc": {
+      "resident_total_cases": 5364,
+      "resident_total_deaths": 1654,
+      "resident_new_cases": 9
+    }
+  },
+  "2020-06-23": {
+    "ltc": {
+      "resident_total_cases": 5392,
+      "resident_total_deaths": 1664,
+      "resident_new_cases": 28
+    }
+  },
+  "2020-06-24": {
+    "ltc": {
+      "resident_total_cases": 5427,
+      "resident_total_deaths": 1683,
+      "resident_new_cases": 35
+    }
+  },
+  "2020-06-25": {
+    "ltc": {
+      "resident_total_cases": 5436,
+      "resident_total_deaths": 1689,
+      "resident_new_cases": 9
+    }
+  },
+  "2020-06-26": {
+    "ltc": {
+      "resident_total_cases": 5445,
+      "resident_total_deaths": 1692,
+      "resident_new_cases": 9
+    }
+  },
+  "2020-06-27": {
+    "ltc": {
+      "resident_total_cases": 5457,
+      "resident_total_deaths": 1698,
+      "resident_new_cases": 12
+    }
+  },
+  "2020-06-28": {
+    "ltc": {
+      "resident_total_cases": 5468,
+      "resident_total_deaths": 1700,
+      "resident_new_cases": 11
+    }
+  },
+  "2020-06-29": {
+    "ltc": {
+      "resident_total_cases": 5468,
+      "resident_total_deaths": 1706,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-06-30": {
+    "ltc": {
+      "resident_total_cases": 5473,
+      "resident_total_deaths": 1710,
+      "resident_new_cases": 5
+    }
+  },
+  "2020-07-01": {
+    "ltc": {
+      "resident_total_cases": 5476,
+      "resident_total_deaths": 1710,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-07-02": {
+    "ltc": {
+      "resident_total_cases": 5488,
+      "resident_total_deaths": 1712,
+      "resident_new_cases": 12
+    }
+  },
+  "2020-07-03": {
+    "ltc": {
+      "resident_total_cases": 5508,
+      "resident_total_deaths": 1712,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-07-04": {
+    "ltc": {
+      "resident_total_cases": 5512,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": 4
+    }
+  },
+  "2020-07-05": {
+    "ltc": {
+      "resident_total_cases": 5515,
+      "resident_total_deaths": 1718,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-07-06": {
+    "ltc": {
+      "resident_total_cases": 5514,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": -1
+    }
+  },
+  "2020-07-07": {
+    "ltc": {
+      "resident_total_cases": 5516,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-08": {
+    "ltc": {
+      "resident_total_cases": 5521,
+      "resident_total_deaths": 1722,
+      "resident_new_cases": 5
+    }
+  },
+  "2020-07-09": {
+    "ltc": {
+      "resident_total_cases": 5526,
+      "resident_total_deaths": 1722,
+      "resident_new_cases": 5
+    }
+  },
+  "2020-07-10": {
+    "ltc": {
+      "resident_total_cases": 5527,
+      "resident_total_deaths": 1724,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-07-11": {
+    "ltc": {
+      "resident_total_cases": 5535,
+      "resident_total_deaths": 1728,
+      "resident_new_cases": 8
+    }
+  },
+  "2020-07-12": {
+    "ltc": {
+      "resident_total_cases": 5537,
+      "resident_total_deaths": 1729,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-13": {
+    "ltc": {
+      "resident_total_cases": 5540,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-07-14": {
+    "ltc": {
+      "resident_total_cases": 5540,
+      "resident_total_deaths": 1729,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-07-15": {
+    "ltc": {
+      "resident_total_cases": 5545,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": 5
+    }
+  },
+  "2020-07-16": {
+    "ltc": {
+      "resident_total_cases": 5548,
+      "resident_total_deaths": 1731,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-07-17": {
+    "ltc": {
+      "resident_total_cases": 5545,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": -3
+    }
+  },
+  "2020-07-18": {
+    "ltc": {
+      "resident_total_cases": 5547,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-19": {
+    "ltc": {
+      "resident_total_cases": 5549,
+      "resident_total_deaths": 1731,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-20": {
+    "ltc": {
+      "resident_total_cases": 5546,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": -3
+    }
+  },
+  "2020-07-21": {
+    "ltc": {
+      "resident_total_cases": 5546,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-07-22": {
+    "ltc": {
+      "resident_total_cases": 5877,
+      "resident_total_deaths": 1788,
+      "resident_new_cases": 331
+    }
+  },
+  "2020-07-23": {
+    "ltc": {
+      "resident_total_cases": 5877,
+      "resident_total_deaths": 1789,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-07-24": {
+    "ltc": {
+      "resident_total_cases": 5881,
+      "resident_total_deaths": 1791,
+      "resident_new_cases": 4
+    }
+  },
+  "2020-07-25": {
+    "ltc": {
+      "resident_total_cases": 5884,
+      "resident_total_deaths": 1791,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-07-26": {
+    "ltc": {
+      "resident_total_cases": 5885,
+      "resident_total_deaths": 1792,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-07-27": {
+    "ltc": {
+      "resident_total_cases": 5884,
+      "resident_total_deaths": 1792,
+      "resident_new_cases": -1
+    }
+  },
+  "2020-07-28": {
+    "ltc": {
+      "resident_total_cases": 5885,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-07-29": {
+    "ltc": {
+      "resident_total_cases": 5887,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-30": {
+    "ltc": {
+      "resident_total_cases": 5889,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-07-31": {
+    "ltc": {
+      "resident_total_cases": 5891,
+      "resident_total_deaths": 1795,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-01": {
+    "ltc": {
+      "resident_total_cases": 5893,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-02": {
+    "ltc": {
+      "resident_total_cases": 5894,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-03": {
+    "ltc": {
+      "resident_total_cases": 5895,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-04": {
+    "ltc": {
+      "resident_total_cases": 5896,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-05": {
+    "ltc": {
+      "resident_total_cases": 5896,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-06": {
+    "ltc": {
+      "resident_total_cases": 5899,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-08-07": {
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-08": {
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-09": {
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-10": {
+    "ltc": {
+      "resident_total_cases": 5903,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-11": {
+    "ltc": {
+      "resident_total_cases": 5902,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": -1
+    }
+  },
+  "2020-08-12": {
+    "ltc": {
+      "resident_total_cases": 5902,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-13": {
+    "ltc": {
+      "resident_total_cases": 5903,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-14": {
+    "ltc": {
+      "resident_total_cases": 5904,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-15": {
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-16": {
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-17": {
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-18": {
+    "ltc": {
+      "resident_total_cases": 5912,
+      "resident_total_deaths": 1803,
+      "resident_new_cases": 7
+    }
+  },
+  "2020-08-19": {
+    "ltc": {
+      "resident_total_cases": 5918,
+      "resident_total_deaths": 1802,
+      "resident_new_cases": 6
+    }
+  },
+  "2020-08-20": {
+    "ltc": {
+      "resident_total_cases": 5919,
+      "resident_total_deaths": 1803,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-21": {
+    "ltc": {
+      "resident_total_cases": 5922,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-08-22": {
+    "ltc": {
+      "resident_total_cases": 5923,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-23": {
+    "ltc": {
+      "resident_total_cases": 5924,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-24": {
+    "ltc": {
+      "resident_total_cases": 5924,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-08-25": {
+    "ltc": {
+      "resident_total_cases": 5926,
+      "resident_total_deaths": 1805,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-26": {
+    "ltc": {
+      "resident_total_cases": 5927,
+      "resident_total_deaths": 1805,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-27": {
+    "ltc": {
+      "resident_total_cases": 5930,
+      "resident_total_deaths": 1807,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-08-28": {
+    "ltc": {
+      "resident_total_cases": 5932,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-08-29": {
+    "ltc": {
+      "resident_total_cases": 5935,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-08-30": {
+    "ltc": {
+      "resident_total_cases": 5936,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-08-31": {
+    "ltc": {
+      "resident_total_cases": 5936,
+      "resident_total_deaths": 1815,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-09-01": {
+    "ltc": {
+      "resident_total_cases": 5937,
+      "resident_total_deaths": 1815,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-09-02": {
+    "ltc": {
+      "resident_total_cases": 5937,
+      "resident_total_deaths": 1816,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-09-03": {
+    "ltc": {
+      "resident_total_cases": 5938,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-09-04": {
+    "ltc": {
+      "resident_total_cases": 5946,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 8
+    }
+  },
+  "2020-09-05": {
+    "ltc": {
+      "resident_total_cases": 5944,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -2
+    }
+  },
+  "2020-09-06": {
+    "ltc": {
+      "resident_total_cases": 5945,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-09-07": {
+    "ltc": {
+      "resident_total_cases": 5951,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 6
+    }
+  },
+  "2020-09-08": {
+    "ltc": {
+      "resident_total_cases": 5965,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 14
+    }
+  },
+  "2020-09-09": {
+    "ltc": {
+      "resident_total_cases": 5967,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-10": {
+    "ltc": {
+      "resident_total_cases": 5966,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -1
+    }
+  },
+  "2020-09-11": {
+    "ltc": {
+      "resident_total_cases": 5965,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -1
+    }
+  },
+  "2020-09-12": {
+    "ltc": {
+      "resident_total_cases": 5967,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-13": {
+    "ltc": {
+      "resident_total_cases": 5974,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 7
+    }
+  },
+  "2020-09-14": {
+    "ltc": {
+      "resident_total_cases": 5975,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-09-15": {
+    "ltc": {
+      "resident_total_cases": 5983,
+      "resident_total_deaths": 1822,
+      "resident_new_cases": 8
+    }
+  },
+  "2020-09-16": {
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 23
+    }
+  },
+  "2020-09-17": {
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 0
+    }
+  },
+  "2020-09-18": {
+    "ltc": {
+      "resident_total_cases": 6008,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-19": {
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": -2
+    }
+  },
+  "2020-09-20": {
+    "ltc": {
+      "resident_total_cases": 6023,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 17
+    }
+  },
+  "2020-09-21": {
+    "ltc": {
+      "resident_total_cases": 6024,
+      "resident_total_deaths": 1825,
+      "resident_new_cases": 1
+    }
+  },
+  "2020-09-22": {
+    "ltc": {
+      "resident_total_cases": 6026,
+      "resident_total_deaths": 1828,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-23": {
+    "ltc": {
+      "resident_total_cases": 6030,
+      "resident_total_deaths": 1830,
+      "resident_new_cases": 4
+    }
+  },
+  "2020-09-24": {
+    "ltc": {
+      "resident_total_cases": 6043,
+      "resident_total_deaths": 1829,
+      "resident_new_cases": 13
+    }
+  },
+  "2020-09-25": {
+    "ltc": {
+      "resident_total_cases": 6047,
+      "resident_total_deaths": 1831,
+      "resident_new_cases": 4
+    }
+  },
+  "2020-09-26": {
+    "ltc": {
+      "resident_total_cases": 6049,
+      "resident_total_deaths": 1831,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-27": {
+    "ltc": {
+      "resident_total_cases": 6051,
+      "resident_total_deaths": 1832,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-09-28": {
+    "ltc": {
+      "resident_total_cases": 6059,
+      "resident_total_deaths": 1833,
+      "resident_new_cases": 8
+    }
+  },
+  "2020-09-29": {
+    "ltc": {
+      "resident_total_cases": 6062,
+      "resident_total_deaths": 1833,
+      "resident_new_cases": 3
+    }
+  },
+  "2020-09-30": {
+    "ltc": {
+      "resident_total_cases": 6071,
+      "resident_total_deaths": 1836,
+      "resident_new_cases": 9
+    }
+  },
+  "2020-10-01": {
+    "ltc": {
+      "resident_total_cases": 6085,
+      "resident_total_deaths": 1838,
+      "resident_new_cases": 14
+    }
+  },
+  "2020-10-02": {
+    "ltc": {
+      "resident_total_cases": 6166,
+      "resident_total_deaths": 1909,
+      "resident_new_cases": 81
+    }
+  },
+  "2020-10-03": {
+    "ltc": {
+      "resident_total_cases": 6207,
+      "resident_total_deaths": 1948,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-10-04": {
+    "ltc": {
+      "resident_total_cases": 6209,
+      "resident_total_deaths": 1949,
+      "resident_new_cases": 2
+    }
+  },
+  "2020-10-05": {
+    "ltc": {
+      "resident_total_cases": 6216,
+      "resident_total_deaths": 1951,
+      "resident_new_cases": 7
+    }
+  },
+  "2020-10-06": {
+    "ltc": {
+      "resident_total_cases": 6230,
+      "resident_total_deaths": 1953,
+      "resident_new_cases": 14
+    }
+  },
+  "2020-10-07": {
+    "ltc": {
+      "resident_total_cases": 6253,
+      "resident_total_deaths": 1952,
+      "resident_new_cases": 23
+    }
+  },
+  "2020-10-08": {
+    "ltc": {
+      "resident_total_cases": 6274,
+      "resident_total_deaths": 1954,
+      "resident_new_cases": 21
+    }
+  },
+  "2020-10-09": {
+    "ltc": {
+      "resident_total_cases": 6286,
+      "resident_total_deaths": 1956,
+      "resident_new_cases": 12
+    }
+  },
+  "2020-10-10": {
+    "ltc": {
+      "resident_total_cases": 6296,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 10
+    }
+  },
+  "2020-10-11": {
+    "ltc": {
+      "resident_total_cases": 6301,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 5
+    }
+  },
+  "2020-10-12": {
+    "ltc": {
+      "resident_total_cases": 6310,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 9
+    }
+  },
+  "2020-10-13": {
+    "ltc": {
+      "resident_total_cases": 6318,
+      "resident_total_deaths": 1968,
+      "resident_new_cases": 8
+    }
+  },
+  "2020-10-14": {
+    "ltc": {
+      "resident_total_cases": 6335,
+      "resident_total_deaths": 1968,
+      "resident_new_cases": 17
+    }
+  },
+  "2020-10-15": {
+    "ltc": {
+      "resident_total_cases": 6355,
+      "resident_total_deaths": 1969,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-10-16": {
+    "ltc": {
+      "resident_total_cases": 6365,
+      "resident_total_deaths": 1974,
+      "resident_new_cases": 10
+    }
+  },
+  "2020-10-17": {
+    "ltc": {
+      "resident_total_cases": 6380,
+      "resident_total_deaths": 1979,
+      "resident_new_cases": 15
+    }
+  },
+  "2020-10-18": {
+    "ltc": {
+      "resident_total_cases": 6402,
+      "resident_total_deaths": 1980,
+      "resident_new_cases": 22
+    }
+  },
+  "2020-10-19": {
+    "ltc": {
+      "resident_total_cases": 6419,
+      "resident_total_deaths": 1980,
+      "resident_new_cases": 17
+    }
+  },
+  "2020-10-20": {
+    "ltc": {
+      "resident_total_cases": 6442,
+      "resident_total_deaths": 1979,
+      "resident_new_cases": 23
+    }
+  },
+  "2020-10-21": {
+    "ltc": {
+      "resident_total_cases": 6462,
+      "resident_total_deaths": 1981,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-10-22": {
+    "ltc": {
+      "resident_total_cases": 6487,
+      "resident_total_deaths": 1984,
+      "resident_new_cases": 25
+    }
+  },
+  "2020-10-23": {
+    "ltc": {
+      "resident_total_cases": 6524,
+      "resident_total_deaths": 1987,
+      "resident_new_cases": 37
+    }
+  },
+  "2020-10-24": {
+    "ltc": {
+      "resident_total_cases": 6607,
+      "resident_total_deaths": 1989,
+      "resident_new_cases": 83
+    }
+  },
+  "2020-10-25": {
+    "ltc": {
+      "resident_total_cases": 6637,
+      "resident_total_deaths": 1989,
+      "resident_new_cases": 30
+    }
+  },
+  "2020-10-26": {
+    "ltc": {
+      "resident_total_cases": 6678,
+      "resident_total_deaths": 1991,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-10-27": {
+    "ltc": {
+      "resident_total_cases": 6705,
+      "resident_total_deaths": 1994,
+      "resident_new_cases": 27
+    }
+  },
+  "2020-10-28": {
+    "ltc": {
+      "resident_total_cases": 6737,
+      "resident_total_deaths": 1996,
+      "resident_new_cases": 32
+    }
+  },
+  "2020-10-29": {
+    "ltc": {
+      "resident_total_cases": 6765,
+      "resident_total_deaths": 2001,
+      "resident_new_cases": 28
+    }
+  },
+  "2020-10-30": {
+    "ltc": {
+      "resident_total_cases": 6829,
+      "resident_total_deaths": 2004,
+      "resident_new_cases": 64
+    }
+  },
+  "2020-10-31": {
+    "ltc": {
+      "resident_total_cases": 6873,
+      "resident_total_deaths": 2009,
+      "resident_new_cases": 44
+    }
+  },
+  "2020-11-01": {
+    "ltc": {
+      "resident_total_cases": 6941,
+      "resident_total_deaths": 2013,
+      "resident_new_cases": 68
+    }
+  },
+  "2020-11-02": {
+    "ltc": {
+      "resident_total_cases": 6963,
+      "resident_total_deaths": 2016,
+      "resident_new_cases": 22
+    }
+  },
+  "2020-11-03": {
+    "ltc": {
+      "resident_total_cases": 6998,
+      "resident_total_deaths": 2024,
+      "resident_new_cases": 35
+    }
+  },
+  "2020-11-04": {
+    "ltc": {
+      "resident_total_cases": 7042,
+      "resident_total_deaths": 2035,
+      "resident_new_cases": 44
+    }
+  },
+  "2020-11-05": {
+    "ltc": {
+      "resident_total_cases": 7094,
+      "resident_total_deaths": 2042,
+      "resident_new_cases": 52
+    }
+  },
+  "2020-11-06": {
+    "ltc": {
+      "resident_total_cases": 7183,
+      "resident_total_deaths": 2050,
+      "resident_new_cases": 89
+    }
+  },
+  "2020-11-07": {
+    "ltc": {
+      "resident_total_cases": 7213,
+      "resident_total_deaths": 2056,
+      "resident_new_cases": 30
+    }
+  },
+  "2020-11-08": {
+    "ltc": {
+      "resident_total_cases": 7288,
+      "resident_total_deaths": 2063,
+      "resident_new_cases": 75
+    }
+  },
+  "2020-11-09": {
+    "ltc": {
+      "resident_total_cases": 7329,
+      "resident_total_deaths": 2069,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-11-10": {
+    "ltc": {
+      "resident_total_cases": 7391,
+      "resident_total_deaths": 2080,
+      "resident_new_cases": 62
+    }
+  },
+  "2020-11-11": {
+    "ltc": {
+      "resident_total_cases": 7470,
+      "resident_total_deaths": 2087,
+      "resident_new_cases": 79
+    }
+  },
+  "2020-11-12": {
+    "ltc": {
+      "resident_total_cases": 7527,
+      "resident_total_deaths": 2099,
+      "resident_new_cases": 57
+    }
+  },
+  "2020-11-13": {
+    "ltc": {
+      "resident_total_cases": 7554,
+      "resident_total_deaths": 2109,
+      "resident_new_cases": 27
+    }
+  },
+  "2020-11-14": {
+    "ltc": {
+      "resident_total_cases": 7624,
+      "resident_total_deaths": 2121,
+      "resident_new_cases": 70
+    }
+  },
+  "2020-11-15": {
+    "ltc": {
+      "resident_total_cases": 7685,
+      "resident_total_deaths": 2141,
+      "resident_new_cases": 61
+    }
+  },
+  "2020-11-16": {
+    "ltc": {
+      "resident_total_cases": 7747,
+      "resident_total_deaths": 2145,
+      "resident_new_cases": 62
+    }
+  },
+  "2020-11-17": {
+    "ltc": {
+      "resident_total_cases": 7788,
+      "resident_total_deaths": 2148,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-11-18": {
+    "ltc": {
+      "resident_total_cases": 7857,
+      "resident_total_deaths": 2174,
+      "resident_new_cases": 69
+    }
+  },
+  "2020-11-19": {
+    "ltc": {
+      "resident_total_cases": 7915,
+      "resident_total_deaths": 2189,
+      "resident_new_cases": 58
+    }
+  },
+  "2020-11-20": {
+    "ltc": {
+      "resident_total_cases": 7934,
+      "resident_total_deaths": 2193,
+      "resident_new_cases": 19
+    }
+  },
+  "2020-11-21": {
+    "ltc": {
+      "resident_total_cases": 7984,
+      "resident_total_deaths": 2206,
+      "resident_new_cases": 50
+    }
+  },
+  "2020-11-22": {
+    "ltc": {
+      "resident_total_cases": 8020,
+      "resident_total_deaths": 2213,
+      "resident_new_cases": 36
+    }
+  },
+  "2020-11-23": {
+    "ltc": {
+      "resident_total_cases": 8078,
+      "resident_total_deaths": 2224,
+      "resident_new_cases": 58
+    }
+  },
+  "2020-11-24": {
+    "ltc": {
+      "resident_total_cases": 8118,
+      "resident_total_deaths": 2234,
+      "resident_new_cases": 40
+    }
+  },
+  "2020-11-25": {
+    "ltc": {
+      "resident_total_cases": 8177,
+      "resident_total_deaths": 2256,
+      "resident_new_cases": 59
+    }
+  },
+  "2020-11-26": {
+    "ltc": {
+      "resident_total_cases": 8237,
+      "resident_total_deaths": 2270,
+      "resident_new_cases": 60
+    }
+  },
+  "2020-11-27": {
+    "ltc": {
+      "resident_total_cases": 8330,
+      "resident_total_deaths": 2283,
+      "resident_new_cases": 93
+    }
+  },
+  "2020-11-28": {
+    "ltc": {
+      "resident_total_deaths": 2294
+    }
+  },
+  "2020-11-29": {
+    "ltc": {
+      "resident_total_cases": 8361,
+      "resident_total_deaths": 2301
+    }
+  },
+  "2020-11-30": {
+    "ltc": {
+      "resident_total_cases": 8399,
+      "resident_total_deaths": 2303,
+      "resident_new_cases": 38
+    }
+  },
+  "2020-12-01": {
+    "ltc": {
+      "resident_total_cases": 8493,
+      "resident_total_deaths": 2309,
+      "resident_new_cases": 94
+    }
+  },
+  "2020-12-02": {
+    "ltc": {
+      "resident_total_cases": 8674,
+      "resident_total_deaths": 2331,
+      "resident_new_cases": 181
+    }
+  },
+  "2020-12-03": {
+    "ltc": {
+      "resident_total_cases": 8726,
+      "resident_total_deaths": 2342,
+      "resident_new_cases": 52
+    }
+  },
+  "2020-12-04": {
+    "ltc": {
+      "resident_total_deaths": 2357
+    }
+  },
+  "2020-12-05": {
+    "ltc": {
+      "resident_total_cases": 8850,
+      "resident_total_deaths": 2370
+    }
+  },
+  "2020-12-06": {
+    "ltc": {
+      "resident_total_cases": 8895,
+      "resident_total_deaths": 2378,
+      "resident_new_cases": 45
+    }
+  },
+  "2020-12-07": {
+    "ltc": {
+      "resident_total_cases": 8966,
+      "resident_total_deaths": 2391,
+      "resident_new_cases": 71
+    }
+  },
+  "2020-12-08": {
+    "ltc": {
+      "resident_total_cases": 9004,
+      "resident_total_deaths": 2396,
+      "resident_new_cases": 38
+    }
+  },
+  "2020-12-09": {
+    "ltc": {
+      "resident_total_cases": 9045,
+      "resident_total_deaths": 2407,
+      "resident_new_cases": 41
+    }
+  },
+  "2020-12-10": {
+    "ltc": {
+      "resident_total_cases": 9093,
+      "resident_total_deaths": 2431,
+      "resident_new_cases": 48
+    }
+  },
+  "2020-12-11": {
+    "ltc": {
+      "resident_total_cases": 9156,
+      "resident_total_deaths": 2460,
+      "resident_new_cases": 63
+    }
+  },
+  "2020-12-12": {
+    "ltc": {
+      "resident_total_cases": 9206,
+      "resident_total_deaths": 2469,
+      "resident_new_cases": 50
+    }
+  },
+  "2020-12-13": {
+    "ltc": {
+      "resident_total_cases": 9279,
+      "resident_total_deaths": 2479,
+      "resident_new_cases": 73
+    }
+  },
+  "2020-12-14": {
+    "ltc": {
+      "resident_total_cases": 9358,
+      "resident_total_deaths": 2490,
+      "resident_new_cases": 79
+    }
+  },
+  "2020-12-15": {
+    "ltc": {
+      "resident_total_cases": 9378,
+      "resident_total_deaths": 2491,
+      "resident_new_cases": 20
+    }
+  },
+  "2020-12-16": {
+    "ltc": {
+      "resident_total_cases": 9462,
+      "resident_total_deaths": 2513,
+      "resident_new_cases": 84
+    }
+  },
+  "2020-12-17": {
+    "ltc": {
+      "resident_total_cases": 9538,
+      "resident_total_deaths": 2526,
+      "resident_new_cases": 76
+    }
+  },
+  "2020-12-18": {
+    "ltc": {
+      "resident_total_cases": 9625,
+      "resident_total_deaths": 2537,
+      "resident_new_cases": 87
+    }
+  },
+  "2020-12-19": {
+    "ltc": {
+      "resident_total_cases": 9755,
+      "resident_total_deaths": 2546,
+      "resident_new_cases": 130
+    }
+  },
+  "2020-12-20": {
+    "ltc": {
+      "resident_total_cases": 9845,
+      "resident_total_deaths": 2564,
+      "resident_new_cases": 90
+    }
+  },
+  "2020-12-21": {
+    "ltc": {
+      "resident_total_cases": 9938,
+      "resident_total_deaths": 2581,
+      "resident_new_cases": 93
+    }
+  },
+  "2020-12-22": {
+    "ltc": {
+      "resident_total_cases": 10056,
+      "resident_total_deaths": 2592,
+      "resident_new_cases": 118
+    }
+  },
+  "2020-12-23": {
+    "ltc": {
+      "resident_total_cases": 10206,
+      "resident_total_deaths": 2608,
+      "resident_new_cases": 150
+    }
+  },
+  "2020-12-24": {
+    "ltc": {
+      "resident_total_cases": 10315,
+      "resident_total_deaths": 2643,
+      "resident_new_cases": 109
+    }
+  },
+  "2020-12-25": {
+    "ltc": {
+      "resident_total_cases": 10412,
+      "resident_total_deaths": 2665,
+      "resident_new_cases": 97
+    }
+  },
+  "2020-12-26": {
+    "ltc": {
+      "resident_total_cases": 10492,
+      "resident_total_deaths": 2682,
+      "resident_new_cases": 80
+    }
+  },
+  "2020-12-27": {
+    "ltc": {
+      "resident_total_cases": 10577,
+      "resident_total_deaths": 2696,
+      "resident_new_cases": 85
+    }
+  },
+  "2020-12-28": {
+    "ltc": {
+      "resident_total_cases": 10647,
+      "resident_total_deaths": 2708,
+      "resident_new_cases": 70
+    }
+  },
+  "2020-12-29": {
+    "ltc": {
+      "resident_total_cases": 10725,
+      "resident_total_deaths": 2726,
+      "resident_new_cases": 78
+    }
+  },
+  "2020-12-30": {
+    "ltc": {
+      "resident_total_cases": 10830,
+      "resident_total_deaths": 2738,
+      "resident_new_cases": 105
+    }
+  },
+  "2020-12-31": {
+    "ltc": {
+      "resident_total_cases": 11027,
+      "resident_total_deaths": 2777,
+      "resident_new_cases": 197
+    }
+  }
+}

@@ -15,6 +15,18 @@ class ReportDate
     end
   end
 
+  def eql?(other)
+    other.to_s == to_s
+  end
+
+  def prev_day
+    ReportDate.new(@date.prev_day.to_s)
+  end
+
+  def hash
+    to_s.hash
+  end
+
   def day_number
     @date.jd
   end
@@ -23,4 +35,3 @@ class ReportDate
     @date.to_s
   end
 end
-

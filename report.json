@@ -3139,6 +3139,10 @@
       "hospitals": 0,
       "total": 3
     },
+    "ltc": {
+      "resident_total_cases": 4235,
+      "resident_total_deaths": 1115
+    },
     "new_tests": 5813,
     "new_total_cases": 427,
     "resolved": 17898,
@@ -3197,6 +3201,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 4
+    },
+    "ltc": {
+      "resident_total_cases": 4518,
+      "resident_total_deaths": 1224,
+      "resident_new_cases": 283
     },
     "new_tests": 7382,
     "new_total_cases": 390,
@@ -3257,6 +3266,11 @@
       "hospitals": 0,
       "total": 4
     },
+    "ltc": {
+      "resident_total_cases": 4656,
+      "resident_total_deaths": 1242,
+      "resident_new_cases": 138
+    },
     "new_tests": 10506,
     "new_total_cases": 413,
     "resolved": 18509,
@@ -3315,6 +3329,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 4
+    },
+    "ltc": {
+      "resident_total_cases": 4711,
+      "resident_total_deaths": 1262,
+      "resident_new_cases": 55
     },
     "new_tests": 11276,
     "new_total_cases": 441,
@@ -3375,6 +3394,11 @@
       "hospitals": 1,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 4784,
+      "resident_total_deaths": 1282,
+      "resident_new_cases": 73
+    },
     "new_tests": 11028,
     "new_total_cases": 412,
     "resolved": 19146,
@@ -3434,6 +3458,11 @@
       "hospitals": 1,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 4834,
+      "resident_total_deaths": 1300,
+      "resident_new_cases": 50
+    },
     "new_tests": 11383,
     "new_total_cases": 460,
     "resolved": 19477,
@@ -3492,6 +3521,11 @@
       "retirement_home": 0,
       "hospitals": 1,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 4862,
+      "resident_total_deaths": 1323,
+      "resident_new_cases": 28
     },
     "new_tests": 8170,
     "new_total_cases": 404,
@@ -3553,6 +3587,11 @@
       "hospitals": 0,
       "total": 4
     },
+    "ltc": {
+      "resident_total_cases": 4892,
+      "resident_total_deaths": 1335,
+      "resident_new_cases": 30
+    },
     "new_tests": 9875,
     "new_total_cases": 287,
     "resolved": 19958,
@@ -3611,6 +3650,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 4
+    },
+    "ltc": {
+      "resident_total_cases": 4936,
+      "resident_total_deaths": 1352,
+      "resident_new_cases": 44
     },
     "new_tests": 15133,
     "new_total_cases": 292,
@@ -3671,6 +3715,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 4964,
+      "resident_total_deaths": 1377,
+      "resident_new_cases": 28
+    },
     "new_tests": 17615,
     "new_total_cases": 383,
     "resolved": 20673,
@@ -3729,6 +3778,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 4989,
+      "resident_total_deaths": 1412,
+      "resident_new_cases": 25
     },
     "new_tests": 18525,
     "new_total_cases": 344,
@@ -3789,6 +3843,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5003,
+      "resident_total_deaths": 1423,
+      "resident_new_cases": 14
+    },
     "new_tests": 20640,
     "new_total_cases": 323,
     "resolved": 21353,
@@ -3848,6 +3907,11 @@
       "hospitals": 0,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5035,
+      "resident_total_deaths": 1438,
+      "resident_new_cases": 32
+    },
     "new_tests": 17014,
     "new_total_cases": 326,
     "resolved": 21810,
@@ -3906,6 +3970,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 6
+    },
+    "ltc": {
+      "resident_total_cases": 5097,
+      "resident_total_deaths": 1445,
+      "resident_new_cases": 62
     },
     "new_tests": 14379,
     "new_total_cases": 404,
@@ -3967,6 +4036,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5158,
+      "resident_total_deaths": 1465,
+      "resident_new_cases": 61
+    },
     "new_tests": 15244,
     "new_total_cases": 446,
     "resolved": 22484,
@@ -4025,6 +4099,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5172,
+      "resident_total_deaths": 1472,
+      "resident_new_cases": 14
     },
     "new_tests": 17537,
     "new_total_cases": 338,
@@ -4085,6 +4164,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5202,
+      "resident_total_deaths": 1509,
+      "resident_new_cases": 30
+    },
     "new_tests": 20822,
     "new_total_cases": 356,
     "resolved": 23208,
@@ -4143,6 +4227,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5222,
+      "resident_total_deaths": 1519,
+      "resident_new_cases": 20
     },
     "new_tests": 22730,
     "new_total_cases": 344,
@@ -4203,6 +4292,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5248,
+      "resident_total_deaths": 1549,
+      "resident_new_cases": 26
+    },
     "new_tests": 23105,
     "new_total_cases": 455,
     "resolved": 23947,
@@ -4262,6 +4356,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5254,
+      "resident_total_deaths": 1557,
+      "resident_new_cases": 6
+    },
     "new_tests": 19374,
     "new_total_cases": 415,
     "resolved": 24252,
@@ -4320,6 +4419,11 @@
       "retirement_home": 0,
       "hospitals": 0,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5256,
+      "resident_total_deaths": 1575,
+      "resident_new_cases": 2
     },
     "new_tests": 15357,
     "new_total_cases": 243,
@@ -4381,6 +4485,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5274,
+      "resident_total_deaths": 1585,
+      "resident_new_cases": 18
+    },
     "new_tests": 13509,
     "new_total_cases": 230,
     "resolved": 24829,
@@ -4440,6 +4549,11 @@
       "hospitals": 0,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5294,
+      "resident_total_deaths": 1591,
+      "resident_new_cases": 20
+    },
     "new_tests": 19941,
     "new_total_cases": 251,
     "resolved": 25380,
@@ -4486,6 +4600,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5307,
+      "resident_total_deaths": 1600,
+      "resident_new_cases": 13
     },
     "new_tests": 24341,
     "new_total_cases": 203,
@@ -4534,6 +4653,11 @@
       "long_term": 5,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5314,
+      "resident_total_deaths": 1606,
+      "resident_new_cases": 7
+    },
     "new_tests": 28335,
     "new_total_cases": 182,
     "resolved": 26187,
@@ -4580,6 +4704,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5327,
+      "resident_total_deaths": 1610,
+      "resident_new_cases": 13
     },
     "new_tests": 27456,
     "new_total_cases": 266,
@@ -4628,6 +4757,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5368,
+      "resident_total_deaths": 1625,
+      "resident_new_cases": 41
+    },
     "new_tests": 23278,
     "new_total_cases": 197,
     "resolved": 26961,
@@ -4674,6 +4808,11 @@
     "institutional_staff_deaths": {
       "long_term": 6,
       "total": 6
+    },
+    "ltc": {
+      "resident_total_cases": 5380,
+      "resident_total_deaths": 1629,
+      "resident_new_cases": 12
     },
     "new_tests": 21751,
     "new_total_cases": 181,
@@ -4723,6 +4862,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5357,
+      "resident_total_deaths": 1632,
+      "resident_new_cases": -23
+    },
     "new_tests": 21724,
     "new_total_cases": 184,
     "resolved": 27431,
@@ -4769,6 +4913,11 @@
     "institutional_staff_deaths": {
       "long_term": 6,
       "total": 6
+    },
+    "ltc": {
+      "resident_total_cases": 5359,
+      "resident_total_deaths": 1636,
+      "resident_new_cases": 2
     },
     "new_tests": 24205,
     "new_total_cases": 190,
@@ -4817,6 +4966,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5360,
+      "resident_total_deaths": 1636,
+      "resident_new_cases": 1
+    },
     "new_tests": 25278,
     "new_total_cases": 173,
     "resolved": 28004,
@@ -4863,6 +5017,11 @@
     "institutional_staff_deaths": {
       "long_term": 6,
       "total": 6
+    },
+    "ltc": {
+      "resident_total_cases": 5384,
+      "resident_total_deaths": 1645,
+      "resident_new_cases": 24
     },
     "new_tests": 27225,
     "new_total_cases": 178,
@@ -4911,6 +5070,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5345,
+      "resident_total_deaths": 1651,
+      "resident_new_cases": -39
+    },
     "new_tests": 27387,
     "new_total_cases": 206,
     "resolved": 28468,
@@ -4958,6 +5122,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5355,
+      "resident_total_deaths": 1657,
+      "resident_new_cases": 10
+    },
     "new_tests": 23408,
     "new_total_cases": 175,
     "resolved": 28719,
@@ -5004,6 +5173,11 @@
     "institutional_staff_deaths": {
       "long_term": 6,
       "total": 6
+    },
+    "ltc": {
+      "resident_total_cases": 5364,
+      "resident_total_deaths": 1654,
+      "resident_new_cases": 9
     },
     "new_tests": 21900,
     "new_total_cases": 161,
@@ -5053,6 +5227,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5392,
+      "resident_total_deaths": 1664,
+      "resident_new_cases": 28
+    },
     "new_tests": 16189,
     "new_total_cases": 216,
     "resolved": 29107,
@@ -5099,6 +5278,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5427,
+      "resident_total_deaths": 1683,
+      "resident_new_cases": 35
     },
     "new_tests": 23207,
     "new_total_cases": 163,
@@ -5147,6 +5331,11 @@
       "long_term": 5,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5436,
+      "resident_total_deaths": 1689,
+      "resident_new_cases": 9
+    },
     "new_tests": 27511,
     "new_total_cases": 189,
     "resolved": 29528,
@@ -5193,6 +5382,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5445,
+      "resident_total_deaths": 1692,
+      "resident_new_cases": 9
     },
     "new_tests": 30780,
     "new_total_cases": 111,
@@ -5241,6 +5435,11 @@
       "long_term": 5,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5457,
+      "resident_total_deaths": 1698,
+      "resident_new_cases": 12
+    },
     "new_tests": 33492,
     "new_total_cases": 160,
     "resolved": 29932,
@@ -5288,6 +5487,11 @@
       "long_term": 5,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5468,
+      "resident_total_deaths": 1700,
+      "resident_new_cases": 11
+    },
     "new_tests": 28633,
     "new_total_cases": 178,
     "resolved": 30107,
@@ -5334,6 +5538,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5468,
+      "resident_total_deaths": 1706,
+      "resident_new_cases": 0
     },
     "new_tests": 27127,
     "new_total_cases": 257,
@@ -5383,6 +5592,11 @@
       "long_term": 5,
       "total": 5
     },
+    "ltc": {
+      "resident_total_cases": 5473,
+      "resident_total_deaths": 1710,
+      "resident_new_cases": 5
+    },
     "new_tests": 23759,
     "new_total_cases": 157,
     "resolved": 30344,
@@ -5429,6 +5643,11 @@
     "institutional_staff_deaths": {
       "long_term": 5,
       "total": 5
+    },
+    "ltc": {
+      "resident_total_cases": 5476,
+      "resident_total_deaths": 1710,
+      "resident_new_cases": 3
     },
     "new_tests": 26056,
     "new_total_cases": 149,
@@ -5477,6 +5696,11 @@
       "long_term": 6,
       "total": 6
     },
+    "ltc": {
+      "resident_total_cases": 5488,
+      "resident_total_deaths": 1712,
+      "resident_new_cases": 12
+    },
     "new_tests": 24322,
     "new_total_cases": 153,
     "resolved": 30730,
@@ -5523,6 +5747,11 @@
     "institutional_staff_deaths": {
       "long_term": 7,
       "total": 7
+    },
+    "ltc": {
+      "resident_total_cases": 5508,
+      "resident_total_deaths": 1712,
+      "resident_new_cases": 20
     },
     "new_tests": 24194,
     "new_total_cases": 165,
@@ -5571,6 +5800,11 @@
       "long_term": 7,
       "total": 7
     },
+    "ltc": {
+      "resident_total_cases": 5512,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": 4
+    },
     "new_tests": 21425,
     "new_total_cases": 121,
     "resolved": 31083,
@@ -5618,6 +5852,11 @@
       "long_term": 7,
       "total": 7
     },
+    "ltc": {
+      "resident_total_cases": 5515,
+      "resident_total_deaths": 1718,
+      "resident_new_cases": 3
+    },
     "new_tests": 23792,
     "new_total_cases": 138,
     "resolved": 31266,
@@ -5664,6 +5903,11 @@
     "institutional_staff_deaths": {
       "long_term": 7,
       "total": 7
+    },
+    "ltc": {
+      "resident_total_cases": 5514,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": -1
     },
     "new_tests": 17303,
     "new_total_cases": 154,
@@ -5713,6 +5957,11 @@
       "long_term": 7,
       "total": 7
     },
+    "ltc": {
+      "resident_total_cases": 5516,
+      "resident_total_deaths": 1717,
+      "resident_new_cases": 2
+    },
     "new_tests": 15112,
     "new_total_cases": 112,
     "resolved": 31603,
@@ -5759,6 +6008,11 @@
     "institutional_staff_deaths": {
       "long_term": 7,
       "total": 7
+    },
+    "ltc": {
+      "resident_total_cases": 5521,
+      "resident_total_deaths": 1722,
+      "resident_new_cases": 5
     },
     "new_tests": 22832,
     "new_total_cases": 118,
@@ -5807,6 +6061,11 @@
       "long_term": 7,
       "total": 7
     },
+    "ltc": {
+      "resident_total_cases": 5526,
+      "resident_total_deaths": 1722,
+      "resident_new_cases": 5
+    },
     "new_tests": 26326,
     "new_total_cases": 170,
     "resolved": 31977,
@@ -5853,6 +6112,11 @@
     "institutional_staff_deaths": {
       "long_term": 7,
       "total": 7
+    },
+    "ltc": {
+      "resident_total_cases": 5527,
+      "resident_total_deaths": 1724,
+      "resident_new_cases": 1
     },
     "new_tests": 27484,
     "new_total_cases": 116,
@@ -5901,6 +6165,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5535,
+      "resident_total_deaths": 1728,
+      "resident_new_cases": 8
+    },
     "new_tests": 29522,
     "new_total_cases": 130,
     "resolved": 32422,
@@ -5948,6 +6217,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5537,
+      "resident_total_deaths": 1729,
+      "resident_new_cases": 2
+    },
     "new_tests": 25726,
     "new_total_cases": 129,
     "resolved": 32534,
@@ -5994,6 +6268,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5540,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": 3
     },
     "new_tests": 20896,
     "new_total_cases": 116,
@@ -6043,6 +6322,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5540,
+      "resident_total_deaths": 1729,
+      "resident_new_cases": 0
+    },
     "new_tests": 16744,
     "new_total_cases": 111,
     "resolved": 32785,
@@ -6089,6 +6373,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5545,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": 5
     },
     "new_tests": 23769,
     "new_total_cases": 102,
@@ -6137,6 +6426,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5548,
+      "resident_total_deaths": 1731,
+      "resident_new_cases": 3
+    },
     "new_tests": 26492,
     "new_total_cases": 111,
     "resolved": 33061,
@@ -6183,6 +6477,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5545,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": -3
     },
     "new_tests": 31163,
     "new_total_cases": 111,
@@ -6231,6 +6530,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5547,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": 2
+    },
     "new_tests": 28849,
     "new_total_cases": 166,
     "resolved": 33294,
@@ -6278,6 +6582,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5549,
+      "resident_total_deaths": 1731,
+      "resident_new_cases": 2
+    },
     "new_tests": 26890,
     "new_total_cases": 164,
     "resolved": 33407,
@@ -6324,6 +6633,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5546,
+      "resident_total_deaths": 1730,
+      "resident_new_cases": -3
     },
     "new_tests": 20913,
     "new_total_cases": 135,
@@ -6373,6 +6687,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5546,
+      "resident_total_deaths": 1732,
+      "resident_new_cases": 0
+    },
     "new_tests": 22974,
     "new_total_cases": 203,
     "resolved": 33605,
@@ -6419,6 +6738,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5877,
+      "resident_total_deaths": 1788,
+      "resident_new_cases": 331
     },
     "new_tests": 23990,
     "new_total_cases": 165,
@@ -6467,6 +6791,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5877,
+      "resident_total_deaths": 1789,
+      "resident_new_cases": 0
+    },
     "new_tests": 26001,
     "new_total_cases": 103,
     "resolved": 33963,
@@ -6513,6 +6842,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5881,
+      "resident_total_deaths": 1791,
+      "resident_new_cases": 4
     },
     "new_tests": 28809,
     "new_total_cases": 195,
@@ -6561,6 +6895,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5884,
+      "resident_total_deaths": 1791,
+      "resident_new_cases": 3
+    },
     "new_tests": 29904,
     "new_total_cases": 138,
     "resolved": 34240,
@@ -6607,6 +6946,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5885,
+      "resident_total_deaths": 1792,
+      "resident_new_cases": 1
     },
     "new_tests": 26144,
     "new_total_cases": 137,
@@ -6655,6 +6999,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5884,
+      "resident_total_deaths": 1792,
+      "resident_new_cases": -1
+    },
     "new_tests": 24664,
     "new_total_cases": 119,
     "resolved": 34461,
@@ -6673,6 +7022,11 @@
     "icu": 31,
     "icu_on_ventilator": 18,
     "infected": 1575,
+    "ltc": {
+      "resident_total_cases": 5885,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 1
+    },
     "new_tests": 17334,
     "new_total_cases": 111,
     "resolved": 34567,
@@ -6719,6 +7073,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5887,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 2
     },
     "new_tests": 27308,
     "new_total_cases": 76,
@@ -6767,6 +7126,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5889,
+      "resident_total_deaths": 1793,
+      "resident_new_cases": 2
+    },
     "new_tests": 27676,
     "new_total_cases": 89,
     "resolved": 34906,
@@ -6813,6 +7177,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5891,
+      "resident_total_deaths": 1795,
+      "resident_new_cases": 2
     },
     "new_tests": 30033,
     "new_total_cases": 134,
@@ -6861,6 +7230,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5893,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 2
+    },
     "new_tests": 33282,
     "new_total_cases": 124,
     "resolved": 35237,
@@ -6908,6 +7282,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5894,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 1
+    },
     "new_tests": 30443,
     "new_total_cases": 116,
     "resolved": 35359,
@@ -6954,6 +7333,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5895,
+      "resident_total_deaths": 1797,
+      "resident_new_cases": 1
     },
     "new_tests": 23021,
     "new_total_cases": 88,
@@ -7003,6 +7387,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5896,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 1
+    },
     "new_tests": 19169,
     "new_total_cases": 91,
     "resolved": 35601,
@@ -7049,6 +7438,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5896,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 0
     },
     "new_tests": 17229,
     "new_total_cases": 86,
@@ -7097,6 +7491,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5899,
+      "resident_total_deaths": 1798,
+      "resident_new_cases": 3
+    },
     "new_tests": 26181,
     "new_total_cases": 95,
     "resolved": 35906,
@@ -7143,6 +7542,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 2
     },
     "new_tests": 25136,
     "new_total_cases": 88,
@@ -7191,6 +7595,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 0
+    },
     "new_tests": 26008,
     "new_total_cases": 70,
     "resolved": 36131,
@@ -7238,6 +7647,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5901,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 0
+    },
     "new_tests": 27771,
     "new_total_cases": 79,
     "resolved": 36279,
@@ -7284,6 +7698,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5903,
+      "resident_total_deaths": 1799,
+      "resident_new_cases": 2
     },
     "new_tests": 22275,
     "new_total_cases": 115,
@@ -7333,6 +7752,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5902,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": -1
+    },
     "new_tests": 21581,
     "new_total_cases": 33,
     "resolved": 36456,
@@ -7379,6 +7803,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5902,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
     },
     "new_tests": 24572,
     "new_total_cases": 95,
@@ -7427,6 +7856,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5903,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
+    },
     "new_tests": 29626,
     "new_total_cases": 78,
     "resolved": 36689,
@@ -7473,6 +7907,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5904,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
     },
     "new_tests": 30137,
     "new_total_cases": 92,
@@ -7521,6 +7960,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 1
+    },
     "new_tests": 30436,
     "new_total_cases": 106,
     "resolved": 36873,
@@ -7568,6 +8012,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
+    },
     "new_tests": 23813,
     "new_total_cases": 81,
     "resolved": 36953,
@@ -7614,6 +8063,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5905,
+      "resident_total_deaths": 1800,
+      "resident_new_cases": 0
     },
     "new_tests": 25567,
     "new_total_cases": 99,
@@ -7663,6 +8117,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5912,
+      "resident_total_deaths": 1803,
+      "resident_new_cases": 7
+    },
     "new_tests": 23067,
     "new_total_cases": 125,
     "resolved": 37126,
@@ -7709,6 +8168,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5918,
+      "resident_total_deaths": 1802,
+      "resident_new_cases": 6
     },
     "new_tests": 25642,
     "new_total_cases": 102,
@@ -7757,6 +8221,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5919,
+      "resident_total_deaths": 1803,
+      "resident_new_cases": 1
+    },
     "new_tests": 25917,
     "new_total_cases": 76,
     "resolved": 37291,
@@ -7803,6 +8272,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5922,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 3
     },
     "new_tests": 28073,
     "new_total_cases": 131,
@@ -7851,6 +8325,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5923,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 1
+    },
     "new_tests": 28656,
     "new_total_cases": 108,
     "resolved": 37487,
@@ -7898,6 +8377,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5924,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 1
+    },
     "new_tests": 23384,
     "new_total_cases": 115,
     "resolved": 37595,
@@ -7944,6 +8428,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5924,
+      "resident_total_deaths": 1804,
+      "resident_new_cases": 0
     },
     "new_tests": 18790,
     "new_total_cases": 105,
@@ -7993,6 +8482,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5926,
+      "resident_total_deaths": 1805,
+      "resident_new_cases": 2
+    },
     "new_tests": 20013,
     "new_total_cases": 100,
     "resolved": 37748,
@@ -8039,6 +8533,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5927,
+      "resident_total_deaths": 1805,
+      "resident_new_cases": 1
     },
     "new_tests": 21960,
     "new_total_cases": 88,
@@ -8087,6 +8586,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5930,
+      "resident_total_deaths": 1807,
+      "resident_new_cases": 3
+    },
     "new_tests": 28625,
     "new_total_cases": 118,
     "resolved": 37940,
@@ -8133,6 +8637,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5932,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 2
     },
     "new_tests": 31823,
     "new_total_cases": 122,
@@ -8181,6 +8690,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5935,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 3
+    },
     "new_tests": 32106,
     "new_total_cases": 148,
     "resolved": 38126,
@@ -8198,6 +8712,11 @@
     "icu": 20,
     "icu_on_ventilator": 10,
     "infected": 1181,
+    "ltc": {
+      "resident_total_cases": 5936,
+      "resident_total_deaths": 1814,
+      "resident_new_cases": 1
+    },
     "new_tests": 24970,
     "new_total_cases": 112,
     "resolved": 38204,
@@ -8244,6 +8763,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5936,
+      "resident_total_deaths": 1815,
+      "resident_new_cases": 0
     },
     "new_tests": 25098,
     "new_total_cases": 114,
@@ -8293,6 +8817,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5937,
+      "resident_total_deaths": 1815,
+      "resident_new_cases": 1
+    },
     "new_tests": 23545,
     "new_total_cases": 112,
     "resolved": 38369,
@@ -8339,6 +8868,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5937,
+      "resident_total_deaths": 1816,
+      "resident_new_cases": 0
     },
     "new_tests": 24004,
     "new_total_cases": 133,
@@ -8387,6 +8921,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5938,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 1
+    },
     "new_tests": 26298,
     "new_total_cases": 132,
     "resolved": 38625,
@@ -8433,6 +8972,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5946,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 8
     },
     "new_tests": 28591,
     "new_total_cases": 148,
@@ -8481,6 +9025,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5944,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -2
+    },
     "new_tests": 28672,
     "new_total_cases": 169,
     "resolved": 38847,
@@ -8528,6 +9077,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5945,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 1
+    },
     "new_tests": 28955,
     "new_total_cases": 158,
     "resolved": 38958,
@@ -8574,6 +9128,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5951,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 6
     },
     "new_tests": 23725,
     "new_total_cases": 190,
@@ -8623,6 +9182,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5965,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 14
+    },
     "new_tests": 20929,
     "new_total_cases": 185,
     "resolved": 39196,
@@ -8669,6 +9233,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5967,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 2
     },
     "new_tests": 17605,
     "new_total_cases": 149,
@@ -8717,6 +9286,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5966,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -1
+    },
     "new_tests": 24669,
     "new_total_cases": 170,
     "resolved": 39474,
@@ -8763,6 +9337,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5965,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": -1
     },
     "new_tests": 32501,
     "new_total_cases": 213,
@@ -8811,6 +9390,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5967,
+      "resident_total_deaths": 1817,
+      "resident_new_cases": 2
+    },
     "new_tests": 35618,
     "new_total_cases": 232,
     "resolved": 39717,
@@ -8858,6 +9442,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5974,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 7
+    },
     "new_tests": 31143,
     "new_total_cases": 204,
     "resolved": 39841,
@@ -8904,6 +9493,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 5975,
+      "resident_total_deaths": 1818,
+      "resident_new_cases": 1
     },
     "new_tests": 29540,
     "new_total_cases": 313,
@@ -8953,6 +9547,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 5983,
+      "resident_total_deaths": 1822,
+      "resident_new_cases": 8
+    },
     "new_tests": 27664,
     "new_total_cases": 251,
     "resolved": 40091,
@@ -8999,6 +9598,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 23
     },
     "new_tests": 28761,
     "new_total_cases": 315,
@@ -9047,6 +9651,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 0
+    },
     "new_tests": 35134,
     "new_total_cases": 293,
     "resolved": 40424,
@@ -9094,6 +9703,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6008,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 2
+    },
     "new_tests": 35826,
     "new_total_cases": 401,
     "resolved": 40600,
@@ -9136,6 +9750,11 @@
     "institutional_staff_deaths": {
       "long_term": 7,
       "total": 7
+    },
+    "ltc": {
+      "resident_total_cases": 6006,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": -2
     },
     "new_tests": 38940,
     "new_total_cases": 407,
@@ -9184,6 +9803,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6023,
+      "resident_total_deaths": 1824,
+      "resident_new_cases": 17
+    },
     "new_tests": 40127,
     "new_total_cases": 365,
     "resolved": 40968,
@@ -9230,6 +9854,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6024,
+      "resident_total_deaths": 1825,
+      "resident_new_cases": 1
     },
     "new_tests": 31753,
     "new_total_cases": 425,
@@ -9279,6 +9908,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6026,
+      "resident_total_deaths": 1828,
+      "resident_new_cases": 2
+    },
     "new_tests": 34201,
     "new_total_cases": 478,
     "resolved": 41342,
@@ -9325,6 +9959,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6030,
+      "resident_total_deaths": 1830,
+      "resident_new_cases": 4
     },
     "new_tests": 35436,
     "new_total_cases": 335,
@@ -9373,6 +10012,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6043,
+      "resident_total_deaths": 1829,
+      "resident_new_cases": 13
+    },
     "new_tests": 30634,
     "new_total_cases": 409,
     "resolved": 41886,
@@ -9419,6 +10063,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6047,
+      "resident_total_deaths": 1831,
+      "resident_new_cases": 4
     },
     "new_tests": 41865,
     "new_total_cases": 409,
@@ -9467,6 +10116,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6049,
+      "resident_total_deaths": 1831,
+      "resident_new_cases": 2
+    },
     "new_tests": 43238,
     "new_total_cases": 435,
     "resolved": 42507,
@@ -9514,6 +10168,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6051,
+      "resident_total_deaths": 1832,
+      "resident_new_cases": 2
+    },
     "new_tests": 42509,
     "new_total_cases": 491,
     "resolved": 42796,
@@ -9560,6 +10219,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6059,
+      "resident_total_deaths": 1833,
+      "resident_new_cases": 8
     },
     "new_tests": 41111,
     "new_total_cases": 700,
@@ -9609,6 +10273,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6062,
+      "resident_total_deaths": 1833,
+      "resident_new_cases": 3
+    },
     "new_tests": 38375,
     "new_total_cases": 554,
     "resolved": 43450,
@@ -9655,6 +10324,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6071,
+      "resident_total_deaths": 1836,
+      "resident_new_cases": 9
     },
     "new_tests": 35753,
     "new_total_cases": 625,
@@ -9703,6 +10377,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6085,
+      "resident_total_deaths": 1838,
+      "resident_new_cases": 14
+    },
     "new_tests": 39646,
     "new_total_cases": 538,
     "resolved": 44422,
@@ -9750,6 +10429,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6166,
+      "resident_total_deaths": 1909,
+      "resident_new_cases": 81
+    },
     "new_tests": 40093,
     "new_total_cases": 732,
     "resolved": 44850,
@@ -9792,6 +10476,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6207,
+      "resident_total_deaths": 1948,
+      "resident_new_cases": 41
     },
     "new_tests": 46254,
     "new_total_cases": 653,
@@ -9840,6 +10529,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6209,
+      "resident_total_deaths": 1949,
+      "resident_new_cases": 2
+    },
     "new_tests": 39661,
     "new_total_cases": 566,
     "resolved": 45819,
@@ -9857,6 +10551,11 @@
     "icu": 43,
     "icu_on_ventilator": 26,
     "infected": 5474,
+    "ltc": {
+      "resident_total_cases": 6216,
+      "resident_total_deaths": 1951,
+      "resident_new_cases": 7
+    },
     "new_tests": 38196,
     "new_total_cases": 615,
     "resolved": 46360,
@@ -9875,6 +10574,11 @@
     "icu": 41,
     "icu_on_ventilator": 26,
     "infected": 5469,
+    "ltc": {
+      "resident_total_cases": 6230,
+      "resident_total_deaths": 1953,
+      "resident_new_cases": 14
+    },
     "new_tests": 42031,
     "new_total_cases": 548,
     "resolved": 46906,
@@ -9892,6 +10596,11 @@
     "icu": 43,
     "icu_on_ventilator": 28,
     "infected": 5344,
+    "ltc": {
+      "resident_total_cases": 6253,
+      "resident_total_deaths": 1952,
+      "resident_new_cases": 23
+    },
     "new_tests": 43277,
     "new_total_cases": 583,
     "resolved": 47613,
@@ -9938,6 +10647,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6274,
+      "resident_total_deaths": 1954,
+      "resident_new_cases": 21
     },
     "new_tests": 48488,
     "new_total_cases": 797,
@@ -9986,6 +10700,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6286,
+      "resident_total_deaths": 1956,
+      "resident_new_cases": 12
+    },
     "new_tests": 44914,
     "new_total_cases": 939,
     "resolved": 49032,
@@ -10032,6 +10751,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6296,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 10
     },
     "new_tests": 44298,
     "new_total_cases": 809,
@@ -10080,6 +10804,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6301,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 5
+    },
     "new_tests": 44138,
     "new_total_cases": 649,
     "resolved": 50437,
@@ -10126,6 +10855,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6310,
+      "resident_total_deaths": 1961,
+      "resident_new_cases": 9
     },
     "new_tests": 36473,
     "new_total_cases": 807,
@@ -10175,6 +10909,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6318,
+      "resident_total_deaths": 1968,
+      "resident_new_cases": 8
+    },
     "new_tests": 31233,
     "new_total_cases": 746,
     "resolved": 51729,
@@ -10221,6 +10960,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6335,
+      "resident_total_deaths": 1968,
+      "resident_new_cases": 17
     },
     "new_tests": 32206,
     "new_total_cases": 721,
@@ -10269,6 +11013,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6355,
+      "resident_total_deaths": 1969,
+      "resident_new_cases": 20
+    },
     "new_tests": 39961,
     "new_total_cases": 783,
     "resolved": 53291,
@@ -10315,6 +11064,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6365,
+      "resident_total_deaths": 1974,
+      "resident_new_cases": 10
     },
     "new_tests": 38507,
     "new_total_cases": 712,
@@ -10363,6 +11117,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6380,
+      "resident_total_deaths": 1979,
+      "resident_new_cases": 15
+    },
     "new_tests": 44722,
     "new_total_cases": 805,
     "resolved": 54686,
@@ -10410,6 +11169,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6402,
+      "resident_total_deaths": 1980,
+      "resident_new_cases": 22
+    },
     "new_tests": 40850,
     "new_total_cases": 658,
     "resolved": 55371,
@@ -10456,6 +11220,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6419,
+      "resident_total_deaths": 1980,
+      "resident_new_cases": 17
     },
     "new_tests": 31864,
     "new_total_cases": 704,
@@ -10505,6 +11274,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6442,
+      "resident_total_deaths": 1979,
+      "resident_new_cases": 23
+    },
     "new_tests": 24049,
     "new_total_cases": 821,
     "resolved": 56606,
@@ -10551,6 +11325,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6462,
+      "resident_total_deaths": 1981,
+      "resident_new_cases": 20
     },
     "new_tests": 32646,
     "new_total_cases": 790,
@@ -10599,6 +11378,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6487,
+      "resident_total_deaths": 1984,
+      "resident_new_cases": 25
+    },
     "new_tests": 38860,
     "new_total_cases": 841,
     "resolved": 58066,
@@ -10645,6 +11429,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6524,
+      "resident_total_deaths": 1987,
+      "resident_new_cases": 37
     },
     "new_tests": 40019,
     "new_total_cases": 826,
@@ -10693,6 +11482,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6607,
+      "resident_total_deaths": 1989,
+      "resident_new_cases": 83
+    },
     "new_tests": 44151,
     "new_total_cases": 978,
     "resolved": 59424,
@@ -10740,6 +11534,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6637,
+      "resident_total_deaths": 1989,
+      "resident_new_cases": 30
+    },
     "new_tests": 38769,
     "new_total_cases": 1042,
     "resolved": 60160,
@@ -10786,6 +11585,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6678,
+      "resident_total_deaths": 1991,
+      "resident_new_cases": 41
     },
     "new_tests": 28652,
     "new_total_cases": 851,
@@ -10835,6 +11639,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6705,
+      "resident_total_deaths": 1994,
+      "resident_new_cases": 27
+    },
     "new_tests": 23945,
     "new_total_cases": 827,
     "resolved": 61530,
@@ -10881,6 +11690,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6737,
+      "resident_total_deaths": 1996,
+      "resident_new_cases": 32
     },
     "new_tests": 30010,
     "new_total_cases": 834,
@@ -10929,6 +11743,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6765,
+      "resident_total_deaths": 2001,
+      "resident_new_cases": 28
+    },
     "new_tests": 35621,
     "new_total_cases": 934,
     "resolved": 63123,
@@ -10975,6 +11794,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6829,
+      "resident_total_deaths": 2004,
+      "resident_new_cases": 64
     },
     "new_tests": 41008,
     "new_total_cases": 896,
@@ -11023,6 +11847,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6873,
+      "resident_total_deaths": 2009,
+      "resident_new_cases": 44
+    },
     "new_tests": 41920,
     "new_total_cases": 1015,
     "resolved": 64717,
@@ -11070,6 +11899,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6941,
+      "resident_total_deaths": 2013,
+      "resident_new_cases": 68
+    },
     "new_tests": 37133,
     "new_total_cases": 977,
     "resolved": 65581,
@@ -11116,6 +11950,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 6963,
+      "resident_total_deaths": 2016,
+      "resident_new_cases": 22
     },
     "new_tests": 27908,
     "new_total_cases": 948,
@@ -11165,6 +12004,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 6998,
+      "resident_total_deaths": 2024,
+      "resident_new_cases": 35
+    },
     "new_tests": 25279,
     "new_total_cases": 1050,
     "resolved": 67244,
@@ -11211,6 +12055,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7042,
+      "resident_total_deaths": 2035,
+      "resident_new_cases": 44
     },
     "new_tests": 28567,
     "new_total_cases": 987,
@@ -11259,6 +12108,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7094,
+      "resident_total_deaths": 2042,
+      "resident_new_cases": 52
+    },
     "new_tests": 35754,
     "new_total_cases": 998,
     "resolved": 69137,
@@ -11305,6 +12159,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7183,
+      "resident_total_deaths": 2050,
+      "resident_new_cases": 89
     },
     "new_tests": 41268,
     "new_total_cases": 1003,
@@ -11353,6 +12212,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7213,
+      "resident_total_deaths": 2056,
+      "resident_new_cases": 30
+    },
     "new_tests": 39165,
     "new_total_cases": 1132,
     "resolved": 70938,
@@ -11400,6 +12264,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7288,
+      "resident_total_deaths": 2063,
+      "resident_new_cases": 75
+    },
     "new_tests": 37577,
     "new_total_cases": 1328,
     "resolved": 71815,
@@ -11446,6 +12315,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7329,
+      "resident_total_deaths": 2069,
+      "resident_new_cases": 41
     },
     "new_tests": 28401,
     "new_total_cases": 1242,
@@ -11495,6 +12369,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7391,
+      "resident_total_deaths": 2080,
+      "resident_new_cases": 62
+    },
     "new_tests": 29125,
     "new_total_cases": 1388,
     "resolved": 73417,
@@ -11541,6 +12420,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7470,
+      "resident_total_deaths": 2087,
+      "resident_new_cases": 79
     },
     "new_tests": 36707,
     "new_total_cases": 1426,
@@ -11589,6 +12473,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7527,
+      "resident_total_deaths": 2099,
+      "resident_new_cases": 57
+    },
     "new_tests": 39559,
     "new_total_cases": 1575,
     "resolved": 75220,
@@ -11635,6 +12524,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7554,
+      "resident_total_deaths": 2109,
+      "resident_new_cases": 27
     },
     "new_tests": 40509,
     "new_total_cases": 1396,
@@ -11683,6 +12577,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7624,
+      "resident_total_deaths": 2121,
+      "resident_new_cases": 70
+    },
     "new_tests": 44837,
     "new_total_cases": 1581,
     "resolved": 77241,
@@ -11730,6 +12629,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7685,
+      "resident_total_deaths": 2141,
+      "resident_new_cases": 61
+    },
     "new_tests": 42206,
     "new_total_cases": 1248,
     "resolved": 78303,
@@ -11776,6 +12680,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7747,
+      "resident_total_deaths": 2145,
+      "resident_new_cases": 62
     },
     "new_tests": 33351,
     "new_total_cases": 1487,
@@ -11825,6 +12734,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7788,
+      "resident_total_deaths": 2148,
+      "resident_new_cases": 41
+    },
     "new_tests": 26468,
     "new_total_cases": 1249,
     "resolved": 80430,
@@ -11871,6 +12785,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7857,
+      "resident_total_deaths": 2174,
+      "resident_new_cases": 69
     },
     "new_tests": 33440,
     "new_total_cases": 1417,
@@ -11919,6 +12838,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7915,
+      "resident_total_deaths": 2189,
+      "resident_new_cases": 58
+    },
     "new_tests": 41838,
     "new_total_cases": 1210,
     "resolved": 83301,
@@ -11965,6 +12889,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 7934,
+      "resident_total_deaths": 2193,
+      "resident_new_cases": 19
     },
     "new_tests": 48173,
     "new_total_cases": 1418,
@@ -12013,6 +12942,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 7984,
+      "resident_total_deaths": 2206,
+      "resident_new_cases": 50
+    },
     "new_tests": 46671,
     "new_total_cases": 1588,
     "resolved": 86079,
@@ -12060,6 +12994,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8020,
+      "resident_total_deaths": 2213,
+      "resident_new_cases": 36
+    },
     "new_tests": 46389,
     "new_total_cases": 1534,
     "resolved": 87508,
@@ -12106,6 +13045,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 8078,
+      "resident_total_deaths": 2224,
+      "resident_new_cases": 58
     },
     "new_tests": 37471,
     "new_total_cases": 1589,
@@ -12155,6 +13099,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8118,
+      "resident_total_deaths": 2234,
+      "resident_new_cases": 40
+    },
     "new_tests": 27053,
     "new_total_cases": 1009,
     "resolved": 90074,
@@ -12201,6 +13150,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 8177,
+      "resident_total_deaths": 2256,
+      "resident_new_cases": 59
     },
     "new_tests": 36076,
     "new_total_cases": 1373,
@@ -12249,6 +13203,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8237,
+      "resident_total_deaths": 2270,
+      "resident_new_cases": 60
+    },
     "new_tests": 47576,
     "new_total_cases": 1478,
     "resolved": 92915,
@@ -12296,6 +13255,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8330,
+      "resident_total_deaths": 2283,
+      "resident_new_cases": 93
+    },
     "new_tests": 58037,
     "new_total_cases": 1855,
     "resolved": 94366,
@@ -12336,6 +13300,9 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_deaths": 2294
     },
     "new_tests": 55086,
     "new_total_cases": 1822,
@@ -12380,6 +13347,10 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8361,
+      "resident_total_deaths": 2301
+    },
     "new_tests": 53959,
     "new_total_cases": 1708,
     "resolved": 97319,
@@ -12422,6 +13393,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 8399,
+      "resident_total_deaths": 2303,
+      "resident_new_cases": 38
     },
     "new_tests": 39406,
     "new_total_cases": 1746,
@@ -12466,6 +13442,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 8493,
+      "resident_total_deaths": 2309,
+      "resident_new_cases": 94
     },
     "new_tests": 34640,
     "new_total_cases": 1707,
@@ -12514,6 +13495,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8674,
+      "resident_total_deaths": 2331,
+      "resident_new_cases": 181
+    },
     "new_tests": 44226,
     "new_total_cases": 1723,
     "resolved": 101698,
@@ -12561,6 +13547,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8726,
+      "resident_total_deaths": 2342,
+      "resident_new_cases": 52
+    },
     "new_tests": 52873,
     "new_total_cases": 1824,
     "resolved": 103239,
@@ -12603,6 +13594,9 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_deaths": 2357
     },
     "new_tests": 56001,
     "new_total_cases": 1780,
@@ -12651,6 +13645,10 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8850,
+      "resident_total_deaths": 2370
+    },
     "new_tests": 59399,
     "new_total_cases": 1859,
     "resolved": 106416,
@@ -12698,6 +13696,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 8895,
+      "resident_total_deaths": 2378,
+      "resident_new_cases": 45
+    },
     "new_tests": 59251,
     "new_total_cases": 1924,
     "resolved": 107990,
@@ -12744,6 +13747,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 8966,
+      "resident_total_deaths": 2391,
+      "resident_new_cases": 71
     },
     "new_tests": 45283,
     "new_total_cases": 1925,
@@ -12793,6 +13801,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9004,
+      "resident_total_deaths": 2396,
+      "resident_new_cases": 38
+    },
     "new_tests": 39198,
     "new_total_cases": 1676,
     "resolved": 110951,
@@ -12839,6 +13852,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9045,
+      "resident_total_deaths": 2407,
+      "resident_new_cases": 41
     },
     "new_tests": 48546,
     "new_total_cases": 1890,
@@ -12887,6 +13905,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9093,
+      "resident_total_deaths": 2431,
+      "resident_new_cases": 48
+    },
     "new_tests": 61809,
     "new_total_cases": 1983,
     "resolved": 114679,
@@ -12933,6 +13956,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9156,
+      "resident_total_deaths": 2460,
+      "resident_new_cases": 63
     },
     "new_tests": 63051,
     "new_total_cases": 1848,
@@ -12981,6 +14009,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9206,
+      "resident_total_deaths": 2469,
+      "resident_new_cases": 50
+    },
     "new_tests": 65260,
     "new_total_cases": 1873,
     "resolved": 118350,
@@ -13028,6 +14061,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9279,
+      "resident_total_deaths": 2479,
+      "resident_new_cases": 73
+    },
     "new_tests": 58190,
     "new_total_cases": 1677,
     "resolved": 120028,
@@ -13074,6 +14112,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9358,
+      "resident_total_deaths": 2490,
+      "resident_new_cases": 79
     },
     "new_tests": 57091,
     "new_total_cases": 1940,
@@ -13123,6 +14166,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9378,
+      "resident_total_deaths": 2491,
+      "resident_new_cases": 20
+    },
     "new_tests": 39566,
     "new_total_cases": 2275,
     "resolved": 123373,
@@ -13169,6 +14217,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9462,
+      "resident_total_deaths": 2513,
+      "resident_new_cases": 84
     },
     "new_tests": 49189,
     "new_total_cases": 2139,
@@ -13217,6 +14270,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9538,
+      "resident_total_deaths": 2526,
+      "resident_new_cases": 76
+    },
     "new_tests": 58178,
     "new_total_cases": 2432,
     "resolved": 127425,
@@ -13263,6 +14321,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9625,
+      "resident_total_deaths": 2537,
+      "resident_new_cases": 87
     },
     "new_tests": 68246,
     "new_total_cases": 2290,
@@ -13311,6 +14374,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9755,
+      "resident_total_deaths": 2546,
+      "resident_new_cases": 130
+    },
     "new_tests": 67207,
     "new_total_cases": 2357,
     "resolved": 131282,
@@ -13358,6 +14426,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 9845,
+      "resident_total_deaths": 2564,
+      "resident_new_cases": 90
+    },
     "new_tests": 69412,
     "new_total_cases": 2316,
     "resolved": 133213,
@@ -13404,6 +14477,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 9938,
+      "resident_total_deaths": 2581,
+      "resident_new_cases": 93
     },
     "new_tests": 54505,
     "new_total_cases": 2123,
@@ -13453,6 +14531,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10056,
+      "resident_total_deaths": 2592,
+      "resident_new_cases": 118
+    },
     "new_tests": 45265,
     "new_total_cases": 2202,
     "resolved": 136767,
@@ -13499,6 +14582,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 10206,
+      "resident_total_deaths": 2608,
+      "resident_new_cases": 150
     },
     "new_tests": 56660,
     "new_total_cases": 2408,
@@ -13547,6 +14635,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10315,
+      "resident_total_deaths": 2643,
+      "resident_new_cases": 109
+    },
     "new_tests": 64592,
     "new_total_cases": 2447,
     "resolved": 141023,
@@ -13593,6 +14686,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 10412,
+      "resident_total_deaths": 2665,
+      "resident_new_cases": 97
     },
     "new_tests": 61465,
     "new_total_cases": 2159,
@@ -13641,6 +14739,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10492,
+      "resident_total_deaths": 2682,
+      "resident_new_cases": 80
+    },
     "new_tests": 49511,
     "new_total_cases": 2142,
     "resolved": 145173,
@@ -13688,6 +14791,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10577,
+      "resident_total_deaths": 2696,
+      "resident_new_cases": 85
+    },
     "new_tests": 41783,
     "new_total_cases": 2005,
     "resolved": 147178,
@@ -13734,6 +14842,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 10647,
+      "resident_total_deaths": 2708,
+      "resident_new_cases": 70
     },
     "new_tests": 39565,
     "new_total_cases": 1939,
@@ -13783,6 +14896,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10725,
+      "resident_total_deaths": 2726,
+      "resident_new_cases": 78
+    },
     "new_tests": 34112,
     "new_total_cases": 2553,
     "resolved": 151562,
@@ -13830,6 +14948,11 @@
       "long_term": 8,
       "total": 8
     },
+    "ltc": {
+      "resident_total_cases": 10830,
+      "resident_total_deaths": 2738,
+      "resident_new_cases": 105
+    },
     "new_tests": 39210,
     "new_total_cases": 2923,
     "resolved": 153799,
@@ -13876,6 +14999,11 @@
     "institutional_staff_deaths": {
       "long_term": 8,
       "total": 8
+    },
+    "ltc": {
+      "resident_total_cases": 11027,
+      "resident_total_deaths": 2777,
+      "resident_new_cases": 197
     },
     "new_tests": 63858,
     "new_total_cases": 3328,

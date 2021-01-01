@@ -118,94 +118,35 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('institutional-cases'),
-    title: 'Institutional Cases',
-    key: 'institutional_cases',
+    ele: document.getElementById('ltc-new-cases'),
+    title: 'LTC',
+    key: 'ltc',
     hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Retirement Home Residents Cases',
-      key: 'institutional_resident_patient_cases',
-      subKey: 'retirement_home',
-      color: '72, 159, 165'
-    }, {
-      title: 'Retirement Home Staff Cases',
-      key: 'institutional_staff_cases',
-      subKey: 'retirement_home',
-      color: '191, 31, 55'
-    }, {
-      title: 'Long-Term Care Residents Cases',
-      key: 'institutional_resident_patient_cases',
-      subKey: 'long_term',
+      title: 'LTC Resident New Cases',
+      key: 'ltc',
+      subKey: 'resident_new_cases',
       color: '252, 113, 0'
-    }, {
-      title: 'Long-Term Care Staff Cases',
-      key: 'institutional_staff_cases',
-      subKey: 'long_term',
-      color: '153, 0, 255'
-    }, {
-      title: 'Hospital Patients Cases',
-      key: 'institutional_resident_patient_cases',
-      subKey: 'hospitals',
-      color: '0, 167, 35'
-    }, {
-      title: 'Hospital Staff Cases',
-      key: 'institutional_staff_cases',
-      subKey: 'hospitals',
-      color: '0, 42, 252'
-    }, {
-      title: 'Total Cases',
-      key: 'institutional_all_cases',
-      subKey: 'total',
-      color: '222, 222, 222'
     }]
   })
 
   chart.render({
-    ele: document.getElementById('institutional-deaths'),
-    title: 'Institutional Deaths',
-    key: 'institutional_deaths',
+    ele: document.getElementById('ltc-deaths'),
+    title: 'LTC',
+    key: 'ltc',
     hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Retirement Home Residents Deaths',
-      key: 'institutional_resident_patient_deaths',
-      subKey: 'retirement_home',
+      title: 'LTC Resident Deaths',
+      key: 'ltc',
+      subKey: 'resident_total_deaths',
       color: '72, 159, 165'
-    }, {
-      title: 'Retirement Home Staff Deaths',
-      key: 'institutional_staff_deaths',
-      subKey: 'retirement_home',
-      color: '191, 31, 55'
-    }, {
-      title: 'Long-Term Care Deaths',
-      key: 'institutional_resident_patient_deaths',
-      subKey: 'long_term',
-      color: '252, 113, 0'
-    }, {
-      title: 'Long-Term Care Staff Deaths',
-      key: 'institutional_staff_deaths',
-      subKey: 'long_term',
-      color: '153, 0, 255'
-    }, {
-      title: 'Hospital Patients Deaths',
-      key: 'institutional_resident_patient_deaths',
-      subKey: 'hospitals',
-      color: '0, 167, 35'
-    }, {
-      title: 'Hospital Staff Deaths',
-      key: 'institutional_staff_deaths',
-      subKey: 'hospitals',
-      color: '0, 42, 252'
-    }, {
-      title: 'Total Cases',
-      key: 'institutional_all_deaths',
-      subKey: 'total',
-      color: '222, 222, 222'
     }]
   })
+
   return data.pop().date
 }).then((lastDay) => {
   if (isDateSupported()) {

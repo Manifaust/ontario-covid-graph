@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 require 'csv'
-require 'date'
 require 'json'
+
+require_relative 'report_date'
 
 class TorontoReport
   def initialize(status_csv_path)
@@ -12,8 +13,7 @@ class TorontoReport
   end
 
   def read_date(row)
-    date_string = row['Date']
-    Date.strptime(date_string, '%m/%d/%Y')
+    ReportDate.new(row['Date'])
   end
 
   def populate_entries(csv_path)

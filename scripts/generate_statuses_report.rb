@@ -3,7 +3,7 @@
 require 'csv'
 require 'json'
 
-require_relative 'report_date'
+require_relative '../lib/report_date'
 
 status_csv_path = ARGV[0]
 output_path = ARGV[1]
