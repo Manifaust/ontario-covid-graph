@@ -1,0 +1,25 @@
+{
+  "2020-12-24": {
+    "vaccine": {
+      "total_doses": 10756
+    }
+  },
+  "2020-12-30": {
+    "vaccine": {
+      "previous_day_doses": 4595,
+      "total_doses": 18603
+    }
+  },
+  "2020-12-31": {
+    "vaccine": {
+      "previous_day_doses": 5463,
+      "total_doses": 23502
+    }
+  },
+  "2021-01-01": {
+    "vaccine": {
+      "previous_day_doses": 5415,
+      "total_doses": 28887
+    }
+  }
+}

@@ -7,12 +7,28 @@ layout: default
 
 <div class="bb b--black-10">
   <p class="lh-copy f6"><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
+  <p class="lh-copy f6">
+    <b>Jan 1 Update</b>
+    <ul>
+      <li>Added: vaccine data, LTC new cases, Toronto new cases</li>
+      <li>Removed: total cases, general institutions data</li>
+    </ul>
+  </p>
 </div>
 
 <div class="bb b--black-10">
   <h2 class="f3 fw3">New Cases</h2>
-  <p class="lh-copy f6">New cases are calculated using the difference between daily total cases.</p>
   <canvas id="newCases" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Daily Vaccine Doses Administered</h2>
+  <canvas id="daily-vaccine" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Total Vaccine Doses Administered</h2>
+  <canvas id="total-vaccine" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">

@@ -6166,7 +6166,10 @@
       "new_cases": 646
     },
     "total_cases": 165110,
-    "under_investigation": 75250
+    "under_investigation": 75250,
+    "vaccine": {
+      "total_doses": 10756
+    }
   },
   {
     "date": "2020-12-25",
@@ -6299,7 +6302,11 @@
       "new_cases": 998
     },
     "total_cases": 178831,
-    "under_investigation": 54955
+    "under_investigation": 54955,
+    "vaccine": {
+      "previous_day_doses": 4595,
+      "total_doses": 18603
+    }
   },
   {
     "date": "2020-12-31",
@@ -6321,6 +6328,17 @@
       "new_cases": 888
     },
     "total_cases": 182159,
-    "under_investigation": 72283
+    "under_investigation": 72283,
+    "vaccine": {
+      "previous_day_doses": 5463,
+      "total_doses": 23502
+    }
+  },
+  {
+    "date": "2021-01-01",
+    "vaccine": {
+      "previous_day_doses": 5415,
+      "total_doses": 28887
+    }
   }
 ]

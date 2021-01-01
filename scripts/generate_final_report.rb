@@ -3,14 +3,11 @@
 require 'csv'
 require 'json'
 
-statuses_report_path = ARGV[0]
-toronto_report_path = ARGV[1]
-ltc_report_path = ARGV[2]
-final_report_path = ARGV[3]
+final_report_path = ARGV.last
 
-statuses_report = JSON.parse(File.read(statuses_report_path))
-toronto_report = JSON.parse(File.read(toronto_report_path))
-ltc_report = JSON.parse(File.read(ltc_report_path))
+reports = ARGV[0...-1].map do |report_path|
+  JSON.parse(File.read(report_path))
+end
 
 def merge_dates(entries, data_map)
   entries.merge(data_map) do |_, x, y|
@@ -18,10 +15,11 @@ def merge_dates(entries, data_map)
   end
 end
 
-entries = statuses_report
+entries = {}
 
-entries = merge_dates(entries, toronto_report)
-entries = merge_dates(entries, ltc_report)
+reports.each do |report|
+  entries = merge_dates(entries, report)
+end
 
 entries_array = entries.sort.map do |entry|
   date = entry[0]

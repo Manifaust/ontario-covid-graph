@@ -29,6 +29,34 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
+    ele: document.getElementById('total-vaccine'),
+    title: "Total Vaccine Doses",
+    key: 'ltc',
+    hideInLegend: true,
+    color: '218, 112, 214',
+    subCharts: [{
+      title: 'Total Vaccine Doses',
+      key: 'vaccine',
+      subKey: 'total_doses',
+      color: '163, 116, 176'
+    }]
+  })
+
+  chart.render({
+    ele: document.getElementById('daily-vaccine'),
+    title: "Daily Vaccine",
+    key: 'ltc',
+    hideInLegend: true,
+    color: '218, 112, 214',
+    subCharts: [{
+      title: "Previous Day's Vaccine Doses",
+      key: 'vaccine',
+      subKey: 'previous_day_doses',
+      color: '102, 153, 35'
+    }]
+  })
+
+  chart.render({
     ele: document.getElementById('newTests'),
     title: "Previous Day's Tests",
     key: 'new_tests',
@@ -71,7 +99,6 @@ window.fetch(reportURL).then((response) => {
     key: 'toronto',
     hideInLegend: true,
     color: '222, 222, 222',
-    fill: false,
     subCharts: [{
       title: 'Toronto',
       subKey: 'new_cases',
@@ -91,7 +118,7 @@ window.fetch(reportURL).then((response) => {
       title: 'LTC Resident New Cases',
       key: 'ltc',
       subKey: 'resident_new_cases',
-      color: '252, 113, 0'
+      color: '252, 113, 0',
     }]
   })
 
