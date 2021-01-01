@@ -88,14 +88,15 @@ window.fetch(reportURL).then((response) => {
 
   chart.render({
     ele: document.getElementById('cities-new-cases'),
-    title: 'Ontario New Cases',
-    key: 'new_total_cases',
+    title: 'Toronto New Cases',
+    key: 'toronto',
+    hideInLegend: true,
     color: '222, 222, 222',
     fill: false,
     subCharts: [{
-      title: 'Toronto New Cases',
-      subKey: 'Toronto Public Health',
-      key: 'cities_new_cases_from_epidemiologic_summary',
+      title: 'Toronto',
+      subKey: 'new_cases',
+      key: 'toronto',
       color: '40, 67, 142'
     }]
   })
