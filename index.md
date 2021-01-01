@@ -51,12 +51,6 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Toronto Total Cases</h2>
-  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and dead.</p>
-  <canvas id="cities-total-cases" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
   <h2 class="f3 fw3">Institutional Outbreaks</h2>
   <p class="lh-copy f6">There's a spike in April 29 because that's when the province started to provide data for retirement homes.</p>
   <canvas id="institutional-outbreaks" class="mb3"></canvas>

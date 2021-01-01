@@ -37,7 +37,6 @@ intermediate_reports_dir="$DIR"/intermediate_reports
 mkdir -p "$intermediate_reports_dir"
 statuses_report_path="$intermediate_reports_dir"/statuses.json
 institutions_report_path="$intermediate_reports_dir"/institutions.json
-cities_epidemiologic_report_path="$intermediate_reports_dir"/cities_from_epidemiologic_summaries.json
 toronto_report_path="$intermediate_reports_dir"/toronto_statuses.json
 
 set -x
@@ -53,13 +52,6 @@ scripts/generate_institutions_report.rb \
   "$institutions_report_path" \
   "$institutions_report_path"
 
-echo 'Generating cities report from epidemiologic summaries'
-scripts/generate_toronto_report.rb \
-  'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
-  "$raw_reports_dir" \
-  "$cities_epidemiologic_report_path" \
-  "$cities_epidemiologic_report_path"
-
 echo 'Generating Toronto cases report'
 scripts/generate_toronto_cases_report.rb \
   "$daily_change_phu_report_csv_save_path" \
@@ -69,7 +61,6 @@ echo 'Generating final report'
 scripts/generate_final_report.rb \
   "$statuses_report_path" \
   "$institutions_report_path" \
-  "$cities_epidemiologic_report_path" \
   "$toronto_report_path" \
   "$DIR/report.json"
 

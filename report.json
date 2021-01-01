@@ -1058,9 +1058,6 @@
     "under_investigation": 1517
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2000
-    },
     "date": "2020-04-12",
     "deaths": 274,
     "growth_factor_total_cases": "0.98",
@@ -1112,12 +1109,6 @@
     "under_investigation": 1619
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 148
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2148
-    },
     "date": "2020-04-13",
     "deaths": 291,
     "growth_factor_total_cases": "1.05",
@@ -1170,12 +1161,6 @@
     "weekly_growth_factor_total_cases": "1.18"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 135
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2283
-    },
     "date": "2020-04-14",
     "deaths": 334,
     "growth_factor_total_cases": "1.15",
@@ -1227,12 +1212,6 @@
     "under_investigation": 2107
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 131
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2414
-    },
     "date": "2020-04-15",
     "deaths": 385,
     "growth_factor_total_cases": "1.02",
@@ -1302,9 +1281,6 @@
     "under_investigation": 4323
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2656
-    },
     "date": "2020-04-17",
     "deaths": 478,
     "growth_factor_total_cases": "1.10",
@@ -1357,12 +1333,6 @@
     "under_investigation": 5993
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 205
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 2861
-    },
     "date": "2020-04-18",
     "deaths": 514,
     "growth_factor_total_cases": "0.86",
@@ -1415,12 +1385,6 @@
     "under_investigation": 6833
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 224
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3085
-    },
     "date": "2020-04-19",
     "deaths": 553,
     "growth_factor_total_cases": "1.17",
@@ -1473,12 +1437,6 @@
     "under_investigation": 5736
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 156
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3241
-    },
     "date": "2020-04-20",
     "deaths": 584,
     "growth_factor_total_cases": "1.07",
@@ -1532,12 +1490,6 @@
     "weekly_growth_factor_total_cases": "1.19"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 131
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3372
-    },
     "date": "2020-04-21",
     "deaths": 622,
     "growth_factor_total_cases": "0.91",
@@ -1590,12 +1542,6 @@
     "under_investigation": 5546
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 212
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3584
-    },
     "date": "2020-04-22",
     "deaths": 659,
     "growth_factor_total_cases": "0.93",
@@ -1648,12 +1594,6 @@
     "under_investigation": 6845
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 237
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3821
-    },
     "date": "2020-04-23",
     "deaths": 713,
     "growth_factor_total_cases": "1.24",
@@ -1706,12 +1646,6 @@
     "under_investigation": 6757
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 168
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 3989
-    },
     "date": "2020-04-24",
     "deaths": 763,
     "growth_factor_total_cases": "1.01",
@@ -1764,12 +1698,6 @@
     "under_investigation": 5414
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 186
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4175
-    },
     "date": "2020-04-25",
     "deaths": 811,
     "growth_factor_total_cases": "0.74",
@@ -1822,12 +1750,6 @@
     "under_investigation": 8171
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 120
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4295
-    },
     "date": "2020-04-26",
     "deaths": 835,
     "growth_factor_total_cases": "0.92",
@@ -1880,12 +1802,6 @@
     "under_investigation": 7417
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 135
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4430
-    },
     "date": "2020-04-27",
     "deaths": 892,
     "growth_factor_total_cases": "0.97",
@@ -1939,12 +1855,6 @@
     "weekly_growth_factor_total_cases": "0.99"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 189
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4619
-    },
     "date": "2020-04-28",
     "deaths": 951,
     "growth_factor_total_cases": "1.24",
@@ -1997,12 +1907,6 @@
     "under_investigation": 6282
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 49
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4668
-    },
     "date": "2020-04-29",
     "deaths": 996,
     "growth_factor_total_cases": "0.66",
@@ -2062,12 +1966,6 @@
     "under_investigation": 9530
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 233
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 4901
-    },
     "date": "2020-04-30",
     "deaths": 1082,
     "growth_factor_total_cases": "1.32",
@@ -2127,12 +2025,6 @@
     "under_investigation": 11859
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 140
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5041
-    },
     "date": "2020-05-01",
     "deaths": 1121,
     "growth_factor_total_cases": "0.92",
@@ -2192,12 +2084,6 @@
     "under_investigation": 11975
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 190
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5231
-    },
     "date": "2020-05-02",
     "deaths": 1176,
     "growth_factor_total_cases": "1.21",
@@ -2257,12 +2143,6 @@
     "under_investigation": 12829
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 157
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5388
-    },
     "date": "2020-05-03",
     "deaths": 1216,
     "growth_factor_total_cases": "0.85",
@@ -2322,12 +2202,6 @@
     "under_investigation": 9785
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 167
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5555
-    },
     "date": "2020-05-04",
     "deaths": 1300,
     "growth_factor_total_cases": "0.85",
@@ -2388,12 +2262,6 @@
     "weekly_growth_factor_total_cases": "0.84"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 182
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5737
-    },
     "date": "2020-05-05",
     "deaths": 1361,
     "growth_factor_total_cases": "1.05",
@@ -2453,12 +2321,6 @@
     "under_investigation": 6023
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 191
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 5928
-    },
     "date": "2020-05-06",
     "deaths": 1429,
     "growth_factor_total_cases": "1.06",
@@ -2518,12 +2380,6 @@
     "under_investigation": 8790
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 175
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6103
-    },
     "date": "2020-05-07",
     "deaths": 1477,
     "growth_factor_total_cases": "0.97",
@@ -2583,12 +2439,6 @@
     "under_investigation": 13012
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 261
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6364
-    },
     "date": "2020-05-08",
     "deaths": 1540,
     "growth_factor_total_cases": "1.20",
@@ -2648,12 +2498,6 @@
     "under_investigation": 14641
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 130
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6494
-    },
     "date": "2020-05-09",
     "deaths": 1599,
     "growth_factor_total_cases": "0.73",
@@ -2713,12 +2557,6 @@
     "under_investigation": 15307
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 145
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6639
-    },
     "date": "2020-05-10",
     "deaths": 1634,
     "growth_factor_total_cases": "0.85",
@@ -2778,12 +2616,6 @@
     "under_investigation": 14816
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 129
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6768
-    },
     "date": "2020-05-11",
     "deaths": 1669,
     "growth_factor_total_cases": "1.05",
@@ -2844,12 +2676,6 @@
     "weekly_growth_factor_total_cases": "0.86"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 193
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 6961
-    },
     "date": "2020-05-12",
     "deaths": 1725,
     "growth_factor_total_cases": "1.17",
@@ -2909,12 +2735,6 @@
     "under_investigation": 10811
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 209
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7170
-    },
     "date": "2020-05-13",
     "deaths": 1765,
     "growth_factor_total_cases": "0.91",
@@ -2974,12 +2794,6 @@
     "under_investigation": 13395
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 45
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7215
-    },
     "date": "2020-05-14",
     "deaths": 1798,
     "growth_factor_total_cases": "1.05",
@@ -3039,12 +2853,6 @@
     "under_investigation": 17578
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 220
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7435
-    },
     "date": "2020-05-15",
     "deaths": 1825,
     "growth_factor_total_cases": "0.99",
@@ -3104,12 +2912,6 @@
     "under_investigation": 14373
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 164
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7599
-    },
     "date": "2020-05-16",
     "deaths": 1858,
     "growth_factor_total_cases": "1.15",
@@ -3169,12 +2971,6 @@
     "under_investigation": 10565
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 105
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7704
-    },
     "date": "2020-05-17",
     "deaths": 1881,
     "growth_factor_total_cases": "0.87",
@@ -3234,12 +3030,6 @@
     "under_investigation": 4414
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 76
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7780
-    },
     "date": "2020-05-18",
     "deaths": 1904,
     "growth_factor_total_cases": "0.89",
@@ -3300,12 +3090,6 @@
     "weekly_growth_factor_total_cases": "0.92"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 209
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 7989
-    },
     "date": "2020-05-19",
     "deaths": 1919,
     "growth_factor_total_cases": "1.40",
@@ -3365,12 +3149,6 @@
     "under_investigation": 2294
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 203
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 8192
-    },
     "date": "2020-05-20",
     "deaths": 1962,
     "growth_factor_total_cases": "0.91",
@@ -3430,12 +3208,6 @@
     "under_investigation": 4444
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 240
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 8432
-    },
     "date": "2020-05-21",
     "deaths": 1993,
     "growth_factor_total_cases": "1.06",
@@ -3495,12 +3267,6 @@
     "under_investigation": 5051
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 246
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 8678
-    },
     "date": "2020-05-22",
     "deaths": 2021,
     "growth_factor_total_cases": "1.07",
@@ -3560,12 +3326,6 @@
     "under_investigation": 5516
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 199
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 8877
-    },
     "date": "2020-05-23",
     "deaths": 2048,
     "growth_factor_total_cases": "0.93",
@@ -3625,12 +3385,6 @@
     "under_investigation": 5871
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 205
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9082
-    },
     "date": "2020-05-24",
     "deaths": 2073,
     "growth_factor_total_cases": "1.12",
@@ -3690,12 +3444,6 @@
     "under_investigation": 3216
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 192
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9274
-    },
     "date": "2020-05-25",
     "deaths": 2102,
     "growth_factor_total_cases": "0.88",
@@ -3756,12 +3504,6 @@
     "weekly_growth_factor_total_cases": "1.22"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 153
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9427
-    },
     "date": "2020-05-26",
     "deaths": 2123,
     "growth_factor_total_cases": "0.71",
@@ -3821,12 +3563,6 @@
     "under_investigation": 6961
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 128
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9555
-    },
     "date": "2020-05-27",
     "deaths": 2155,
     "growth_factor_total_cases": "1.02",
@@ -3886,12 +3622,6 @@
     "under_investigation": 11817
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 185
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9740
-    },
     "date": "2020-05-28",
     "deaths": 2189,
     "growth_factor_total_cases": "1.31",
@@ -3951,12 +3681,6 @@
     "under_investigation": 11868
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 168
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9908
-    },
     "date": "2020-05-29",
     "deaths": 2230,
     "growth_factor_total_cases": "0.90",
@@ -4016,12 +3740,6 @@
     "under_investigation": 13351
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 110
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10018
-    },
     "date": "2020-05-30",
     "deaths": 2247,
     "growth_factor_total_cases": "0.94",
@@ -4081,12 +3799,6 @@
     "under_investigation": 12760
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 120
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10138
-    },
     "date": "2020-05-31",
     "deaths": 2266,
     "growth_factor_total_cases": "1.01",
@@ -4146,12 +3858,6 @@
     "under_investigation": 9647
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 152
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10290
-    },
     "date": "2020-06-01",
     "deaths": 2276,
     "growth_factor_total_cases": "1.24",
@@ -4212,12 +3918,6 @@
     "weekly_growth_factor_total_cases": "0.80"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 165
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10455
-    },
     "date": "2020-06-02",
     "deaths": 2293,
     "growth_factor_total_cases": "1.10",
@@ -4277,12 +3977,6 @@
     "under_investigation": 10622
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 110
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10565
-    },
     "date": "2020-06-03",
     "deaths": 2312,
     "growth_factor_total_cases": "0.76",
@@ -4342,12 +4036,6 @@
     "under_investigation": 11636
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 181
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10746
-    },
     "date": "2020-06-04",
     "deaths": 2357,
     "growth_factor_total_cases": "1.05",
@@ -4407,12 +4095,6 @@
     "under_investigation": 12760
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 180
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10926
-    },
     "date": "2020-06-05",
     "deaths": 2372,
     "growth_factor_total_cases": "0.97",
@@ -4472,12 +4154,6 @@
     "under_investigation": 12247
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 195
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11121
-    },
     "date": "2020-06-06",
     "deaths": 2407,
     "growth_factor_total_cases": "1.32",
@@ -4537,12 +4213,6 @@
     "under_investigation": 12384
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 310
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11431
-    },
     "date": "2020-06-07",
     "deaths": 2426,
     "growth_factor_total_cases": "0.91",
@@ -4602,12 +4272,6 @@
     "under_investigation": 6779
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 123
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11554
-    },
     "date": "2020-06-08",
     "deaths": 2450,
     "growth_factor_total_cases": "0.59",
@@ -4668,12 +4332,6 @@
     "weekly_growth_factor_total_cases": "1.10"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 114
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11668
-    },
     "date": "2020-06-09",
     "deaths": 2464,
     "growth_factor_total_cases": "0.95",
@@ -4733,12 +4391,6 @@
     "under_investigation": 11020
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 98
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11766
-    },
     "date": "2020-06-10",
     "deaths": 2475,
     "growth_factor_total_cases": "1.09",
@@ -4798,12 +4450,6 @@
     "under_investigation": 13897
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 87
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11853
-    },
     "date": "2020-06-11",
     "deaths": 2487,
     "growth_factor_total_cases": "0.81",
@@ -4851,12 +4497,6 @@
     "under_investigation": 16359
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 90
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 11943
-    },
     "date": "2020-06-12",
     "deaths": 2498,
     "growth_factor_total_cases": "0.90",
@@ -4904,12 +4544,6 @@
     "under_investigation": 18512
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 104
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12047
-    },
     "date": "2020-06-13",
     "deaths": 2507,
     "growth_factor_total_cases": "1.46",
@@ -4957,12 +4591,6 @@
     "under_investigation": 26158
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 74
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12121
-    },
     "date": "2020-06-14",
     "deaths": 2519,
     "growth_factor_total_cases": "0.74",
@@ -5010,12 +4638,6 @@
     "under_investigation": 25290
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 85
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12206
-    },
     "date": "2020-06-15",
     "deaths": 2527,
     "growth_factor_total_cases": "0.92",
@@ -5064,12 +4686,6 @@
     "weekly_growth_factor_total_cases": "0.58"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 79
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12285
-    },
     "date": "2020-06-16",
     "deaths": 2538,
     "growth_factor_total_cases": "1.02",
@@ -5117,12 +4733,6 @@
     "under_investigation": 17920
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 94
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12379
-    },
     "date": "2020-06-17",
     "deaths": 2550,
     "growth_factor_total_cases": "1.03",
@@ -5170,12 +4780,6 @@
     "under_investigation": 21635
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 70
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12449
-    },
     "date": "2020-06-18",
     "deaths": 2553,
     "growth_factor_total_cases": "0.91",
@@ -5223,12 +4827,6 @@
     "under_investigation": 24887
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 56
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12505
-    },
     "date": "2020-06-19",
     "deaths": 2564,
     "growth_factor_total_cases": "1.03",
@@ -5276,12 +4874,6 @@
     "under_investigation": 21479
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 71
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12576
-    },
     "date": "2020-06-20",
     "deaths": 2595,
     "growth_factor_total_cases": "1.16",
@@ -5329,12 +4921,6 @@
     "under_investigation": 16963
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 63
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12639
-    },
     "date": "2020-06-21",
     "deaths": 2606,
     "growth_factor_total_cases": "0.85",
@@ -5382,12 +4968,6 @@
     "under_investigation": 15424
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 36
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12675
-    },
     "date": "2020-06-22",
     "deaths": 2609,
     "growth_factor_total_cases": "0.92",
@@ -5436,12 +5016,6 @@
     "weekly_growth_factor_total_cases": "0.84"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 63
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12738
-    },
     "date": "2020-06-23",
     "deaths": 2619,
     "growth_factor_total_cases": "1.34",
@@ -5536,9 +5110,6 @@
     "under_investigation": 21398
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12867
-    },
     "date": "2020-06-25",
     "deaths": 2641,
     "growth_factor_total_cases": "1.16",
@@ -5586,12 +5157,6 @@
     "under_investigation": 24607
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12897
-    },
     "date": "2020-06-26",
     "deaths": 2644,
     "growth_factor_total_cases": "0.59",
@@ -5639,12 +5204,6 @@
     "under_investigation": 27344
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 56
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 12953
-    },
     "date": "2020-06-27",
     "deaths": 2652,
     "growth_factor_total_cases": "1.44",
@@ -5692,12 +5251,6 @@
     "under_investigation": 33759
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 73
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13026
-    },
     "date": "2020-06-28",
     "deaths": 2658,
     "growth_factor_total_cases": "1.11",
@@ -5745,12 +5298,6 @@
     "under_investigation": 29592
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -4
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13022
-    },
     "date": "2020-06-29",
     "deaths": 2665,
     "growth_factor_total_cases": "1.44",
@@ -5799,12 +5346,6 @@
     "weekly_growth_factor_total_cases": "1.01"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 47
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13069
-    },
     "date": "2020-06-30",
     "deaths": 2672,
     "growth_factor_total_cases": "0.61",
@@ -5852,12 +5393,6 @@
     "under_investigation": 19318
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 79
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13148
-    },
     "date": "2020-07-01",
     "deaths": 2676,
     "growth_factor_total_cases": "0.95",
@@ -5905,12 +5440,6 @@
     "under_investigation": 23326
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 71
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13219
-    },
     "date": "2020-07-02",
     "deaths": 2680,
     "growth_factor_total_cases": "1.03",
@@ -5958,12 +5487,6 @@
     "under_investigation": 13922
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 87
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13306
-    },
     "date": "2020-07-03",
     "deaths": 2682,
     "growth_factor_total_cases": "1.08",
@@ -6011,12 +5534,6 @@
     "under_investigation": 15911
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 27
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13333
-    },
     "date": "2020-07-04",
     "deaths": 2687,
     "growth_factor_total_cases": "0.73",
@@ -6064,12 +5581,6 @@
     "under_investigation": 14594
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 39
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13372
-    },
     "date": "2020-07-05",
     "deaths": 2689,
     "growth_factor_total_cases": "1.14",
@@ -6117,12 +5628,6 @@
     "under_investigation": 11651
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 59
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13431
-    },
     "date": "2020-07-06",
     "deaths": 2689,
     "growth_factor_total_cases": "1.12",
@@ -6359,9 +5864,6 @@
     "under_investigation": 25668
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13603
-    },
     "date": "2020-07-11",
     "deaths": 2716,
     "growth_factor_total_cases": "1.12",
@@ -6409,12 +5911,6 @@
     "under_investigation": 22083
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 36
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13639
-    },
     "date": "2020-07-12",
     "deaths": 2719,
     "growth_factor_total_cases": "0.99",
@@ -6462,12 +5958,6 @@
     "under_investigation": 16174
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 34
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13673
-    },
     "date": "2020-07-13",
     "deaths": 2722,
     "growth_factor_total_cases": "0.90",
@@ -6516,12 +6006,6 @@
     "weekly_growth_factor_total_cases": "0.86"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13687
-    },
     "date": "2020-07-14",
     "deaths": 2723,
     "growth_factor_total_cases": "0.96",
@@ -6569,12 +6053,6 @@
     "under_investigation": 13918
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 49
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13736
-    },
     "date": "2020-07-15",
     "deaths": 2732,
     "growth_factor_total_cases": "0.92",
@@ -6622,12 +6100,6 @@
     "under_investigation": 22029
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13766
-    },
     "date": "2020-07-16",
     "deaths": 2737,
     "growth_factor_total_cases": "1.09",
@@ -6675,12 +6147,6 @@
     "under_investigation": 25297
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 38
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13804
-    },
     "date": "2020-07-17",
     "deaths": 2746,
     "growth_factor_total_cases": "1.00",
@@ -6728,12 +6194,6 @@
     "under_investigation": 24781
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 47
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13851
-    },
     "date": "2020-07-18",
     "deaths": 2748,
     "growth_factor_total_cases": "1.50",
@@ -6781,12 +6241,6 @@
     "under_investigation": 24551
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13876
-    },
     "date": "2020-07-19",
     "deaths": 2751,
     "growth_factor_total_cases": "0.99",
@@ -6834,12 +6288,6 @@
     "under_investigation": 18081
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13902
-    },
     "date": "2020-07-20",
     "deaths": 2752,
     "growth_factor_total_cases": "0.82",
@@ -6888,12 +6336,6 @@
     "weekly_growth_factor_total_cases": "1.01"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13932
-    },
     "date": "2020-07-21",
     "deaths": 2753,
     "growth_factor_total_cases": "1.50",
@@ -6941,12 +6383,6 @@
     "under_investigation": 11842
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 28
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13960
-    },
     "date": "2020-07-22",
     "deaths": 2755,
     "growth_factor_total_cases": "0.81",
@@ -6994,12 +6430,6 @@
     "under_investigation": 18881
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 24
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 13984
-    },
     "date": "2020-07-23",
     "deaths": 2755,
     "growth_factor_total_cases": "0.62",
@@ -7047,12 +6477,6 @@
     "under_investigation": 21825
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14015
-    },
     "date": "2020-07-24",
     "deaths": 2758,
     "growth_factor_total_cases": "1.89",
@@ -7100,12 +6524,6 @@
     "under_investigation": 25550
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 23
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14038
-    },
     "date": "2020-07-25",
     "deaths": 2759,
     "growth_factor_total_cases": "0.71",
@@ -7153,12 +6571,6 @@
     "under_investigation": 26078
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 39
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14077
-    },
     "date": "2020-07-26",
     "deaths": 2763,
     "growth_factor_total_cases": "0.99",
@@ -7206,12 +6618,6 @@
     "under_investigation": 18000
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14097
-    },
     "date": "2020-07-27",
     "deaths": 2764,
     "growth_factor_total_cases": "0.87",
@@ -7277,9 +6683,6 @@
     "under_investigation": 12919
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14090
-    },
     "date": "2020-07-29",
     "deaths": 2769,
     "growth_factor_total_cases": "0.68",
@@ -7327,12 +6730,6 @@
     "under_investigation": 18268
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14100
-    },
     "date": "2020-07-30",
     "deaths": 2772,
     "growth_factor_total_cases": "1.17",
@@ -7380,12 +6777,6 @@
     "under_investigation": 28267
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 19
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14119
-    },
     "date": "2020-07-31",
     "deaths": 2775,
     "growth_factor_total_cases": "1.51",
@@ -7433,12 +6824,6 @@
     "under_investigation": 29215
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14135
-    },
     "date": "2020-08-01",
     "deaths": 2777,
     "growth_factor_total_cases": "0.93",
@@ -7486,12 +6871,6 @@
     "under_investigation": 26984
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 9
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14144
-    },
     "date": "2020-08-02",
     "deaths": 2778,
     "growth_factor_total_cases": "0.94",
@@ -7539,12 +6918,6 @@
     "under_investigation": 17839
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14154
-    },
     "date": "2020-08-03",
     "deaths": 2778,
     "growth_factor_total_cases": "0.76",
@@ -7593,12 +6966,6 @@
     "weekly_growth_factor_total_cases": "0.70"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 22
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14176
-    },
     "date": "2020-08-04",
     "deaths": 2782,
     "growth_factor_total_cases": "1.03",
@@ -7646,12 +7013,6 @@
     "under_investigation": 9285
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 18
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14194
-    },
     "date": "2020-08-05",
     "deaths": 2782,
     "growth_factor_total_cases": "0.95",
@@ -7699,12 +7060,6 @@
     "under_investigation": 16407
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14224
-    },
     "date": "2020-08-06",
     "deaths": 2783,
     "growth_factor_total_cases": "1.10",
@@ -7752,12 +7107,6 @@
     "under_investigation": 19292
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14234
-    },
     "date": "2020-08-07",
     "deaths": 2783,
     "growth_factor_total_cases": "0.93",
@@ -7805,12 +7154,6 @@
     "under_investigation": 25077
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 0
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14234
-    },
     "date": "2020-08-08",
     "deaths": 2784,
     "growth_factor_total_cases": "0.80",
@@ -7858,12 +7201,6 @@
     "under_investigation": 26273
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14260
-    },
     "date": "2020-08-09",
     "deaths": 2786,
     "growth_factor_total_cases": "1.13",
@@ -7911,12 +7248,6 @@
     "under_investigation": 17540
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14276
-    },
     "date": "2020-08-10",
     "deaths": 2786,
     "growth_factor_total_cases": "1.46",
@@ -7965,12 +7296,6 @@
     "weekly_growth_factor_total_cases": "0.85"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": -21
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14255
-    },
     "date": "2020-08-11",
     "deaths": 2786,
     "growth_factor_total_cases": "0.29",
@@ -8018,12 +7343,6 @@
     "under_investigation": 14677
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 19
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14274
-    },
     "date": "2020-08-12",
     "deaths": 2787,
     "growth_factor_total_cases": "2.88",
@@ -8071,12 +7390,6 @@
     "under_investigation": 22054
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 1
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14275
-    },
     "date": "2020-08-13",
     "deaths": 2787,
     "growth_factor_total_cases": "0.82",
@@ -8124,12 +7437,6 @@
     "under_investigation": 29049
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14305
-    },
     "date": "2020-08-14",
     "deaths": 2788,
     "growth_factor_total_cases": "1.18",
@@ -8177,12 +7484,6 @@
     "under_investigation": 35426
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14321
-    },
     "date": "2020-08-15",
     "deaths": 2789,
     "growth_factor_total_cases": "1.15",
@@ -8230,12 +7531,6 @@
     "under_investigation": 33852
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 10
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14331
-    },
     "date": "2020-08-16",
     "deaths": 2789,
     "growth_factor_total_cases": "0.76",
@@ -8283,12 +7578,6 @@
     "under_investigation": 25847
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14357
-    },
     "date": "2020-08-17",
     "deaths": 2789,
     "growth_factor_total_cases": "1.22",
@@ -8337,12 +7626,6 @@
     "weekly_growth_factor_total_cases": "0.94"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 27
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14384
-    },
     "date": "2020-08-18",
     "deaths": 2793,
     "growth_factor_total_cases": "1.26",
@@ -8390,12 +7673,6 @@
     "under_investigation": 16128
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 33
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14417
-    },
     "date": "2020-08-19",
     "deaths": 2792,
     "growth_factor_total_cases": "0.82",
@@ -8443,12 +7720,6 @@
     "under_investigation": 15490
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 21
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14438
-    },
     "date": "2020-08-20",
     "deaths": 2793,
     "growth_factor_total_cases": "0.75",
@@ -8496,12 +7767,6 @@
     "under_investigation": 22104
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14463
-    },
     "date": "2020-08-21",
     "deaths": 2796,
     "growth_factor_total_cases": "1.72",
@@ -8549,12 +7814,6 @@
     "under_investigation": 19941
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14488
-    },
     "date": "2020-08-22",
     "deaths": 2797,
     "growth_factor_total_cases": "0.82",
@@ -8602,12 +7861,6 @@
     "under_investigation": 17965
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14508
-    },
     "date": "2020-08-23",
     "deaths": 2797,
     "growth_factor_total_cases": "1.06",
@@ -8655,12 +7908,6 @@
     "under_investigation": 16115
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14538
-    },
     "date": "2020-08-24",
     "deaths": 2798,
     "growth_factor_total_cases": "0.91",
@@ -8709,12 +7956,6 @@
     "weekly_growth_factor_total_cases": "1.30"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14564
-    },
     "date": "2020-08-25",
     "deaths": 2800,
     "growth_factor_total_cases": "0.95",
@@ -8762,12 +8003,6 @@
     "under_investigation": 17259
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 23
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14587
-    },
     "date": "2020-08-26",
     "deaths": 2802,
     "growth_factor_total_cases": "0.88",
@@ -8815,12 +8050,6 @@
     "under_investigation": 20716
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 68
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14655
-    },
     "date": "2020-08-27",
     "deaths": 2803,
     "growth_factor_total_cases": "1.34",
@@ -8868,12 +8097,6 @@
     "under_investigation": 26179
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 41
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14696
-    },
     "date": "2020-08-28",
     "deaths": 2809,
     "growth_factor_total_cases": "1.03",
@@ -8921,12 +8144,6 @@
     "under_investigation": 30512
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 35
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14731
-    },
     "date": "2020-08-29",
     "deaths": 2809,
     "growth_factor_total_cases": "1.21",
@@ -8991,9 +8208,6 @@
     "under_investigation": 23880
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14772
-    },
     "date": "2020-08-31",
     "deaths": 2811,
     "growth_factor_total_cases": "1.02",
@@ -9042,12 +8256,6 @@
     "weekly_growth_factor_total_cases": "1.05"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14798
-    },
     "date": "2020-09-01",
     "deaths": 2812,
     "growth_factor_total_cases": "0.98",
@@ -9095,12 +8303,6 @@
     "under_investigation": 15748
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 43
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14841
-    },
     "date": "2020-09-02",
     "deaths": 2812,
     "growth_factor_total_cases": "1.19",
@@ -9148,12 +8350,6 @@
     "under_investigation": 18273
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14872
-    },
     "date": "2020-09-03",
     "deaths": 2812,
     "growth_factor_total_cases": "0.99",
@@ -9201,12 +8397,6 @@
     "under_investigation": 22769
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 41
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14913
-    },
     "date": "2020-09-04",
     "deaths": 2811,
     "growth_factor_total_cases": "1.12",
@@ -9254,12 +8444,6 @@
     "under_investigation": 25945
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 42
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 14955
-    },
     "date": "2020-09-05",
     "deaths": 2811,
     "growth_factor_total_cases": "1.14",
@@ -9307,12 +8491,6 @@
     "under_investigation": 23357
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 49
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15004
-    },
     "date": "2020-09-06",
     "deaths": 2813,
     "growth_factor_total_cases": "0.93",
@@ -9360,12 +8538,6 @@
     "under_investigation": 17698
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 60
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15064
-    },
     "date": "2020-09-07",
     "deaths": 2813,
     "growth_factor_total_cases": "1.20",
@@ -9414,12 +8586,6 @@
     "weekly_growth_factor_total_cases": "1.30"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 48
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15112
-    },
     "date": "2020-09-08",
     "deaths": 2813,
     "growth_factor_total_cases": "0.97",
@@ -9467,12 +8633,6 @@
     "under_investigation": 8357
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 50
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15162
-    },
     "date": "2020-09-09",
     "deaths": 2813,
     "growth_factor_total_cases": "0.81",
@@ -9520,12 +8680,6 @@
     "under_investigation": 20062
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 55
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15217
-    },
     "date": "2020-09-10",
     "deaths": 2814,
     "growth_factor_total_cases": "1.14",
@@ -9573,12 +8727,6 @@
     "under_investigation": 25850
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 71
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15288
-    },
     "date": "2020-09-11",
     "deaths": 2813,
     "growth_factor_total_cases": "1.25",
@@ -9626,12 +8774,6 @@
     "under_investigation": 31384
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 77
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15365
-    },
     "date": "2020-09-12",
     "deaths": 2814,
     "growth_factor_total_cases": "1.09",
@@ -9679,12 +8821,6 @@
     "under_investigation": 30491
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 63
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15428
-    },
     "date": "2020-09-13",
     "deaths": 2815,
     "growth_factor_total_cases": "0.88",
@@ -9732,12 +8868,6 @@
     "under_investigation": 26765
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 112
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15540
-    },
     "date": "2020-09-14",
     "deaths": 2816,
     "growth_factor_total_cases": "1.53",
@@ -9786,12 +8916,6 @@
     "weekly_growth_factor_total_cases": "1.41"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 73
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15613
-    },
     "date": "2020-09-15",
     "deaths": 2820,
     "growth_factor_total_cases": "0.80",
@@ -9839,12 +8963,6 @@
     "under_investigation": 24339
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 77
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15690
-    },
     "date": "2020-09-16",
     "deaths": 2822,
     "growth_factor_total_cases": "1.25",
@@ -9892,12 +9010,6 @@
     "under_investigation": 28346
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 85
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15775
-    },
     "date": "2020-09-17",
     "deaths": 2825,
     "growth_factor_total_cases": "0.93",
@@ -9945,12 +9057,6 @@
     "under_investigation": 37624
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 130
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 15905
-    },
     "date": "2020-09-18",
     "deaths": 2825,
     "growth_factor_total_cases": "1.37",
@@ -9998,12 +9104,6 @@
     "under_investigation": 40443
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 129
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16034
-    },
     "date": "2020-09-19",
     "deaths": 2826,
     "growth_factor_total_cases": "1.01",
@@ -10047,12 +9147,6 @@
     "under_investigation": 42778
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 113
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16147
-    },
     "date": "2020-09-20",
     "deaths": 2827,
     "growth_factor_total_cases": "0.90",
@@ -10100,12 +9194,6 @@
     "under_investigation": 37671
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 175
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16322
-    },
     "date": "2020-09-21",
     "deaths": 2829,
     "growth_factor_total_cases": "1.16",
@@ -10154,12 +9242,6 @@
     "weekly_growth_factor_total_cases": "1.68"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 153
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16475
-    },
     "date": "2020-09-22",
     "deaths": 2832,
     "growth_factor_total_cases": "1.12",
@@ -10207,12 +9289,6 @@
     "under_investigation": 39788
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 102
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16577
-    },
     "date": "2020-09-23",
     "deaths": 2835,
     "growth_factor_total_cases": "0.70",
@@ -10260,12 +9336,6 @@
     "under_investigation": 48079
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 151
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16728
-    },
     "date": "2020-09-24",
     "deaths": 2836,
     "growth_factor_total_cases": "1.22",
@@ -10313,12 +9383,6 @@
     "under_investigation": 53840
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 204
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 16932
-    },
     "date": "2020-09-25",
     "deaths": 2837,
     "growth_factor_total_cases": "1.00",
@@ -10366,12 +9430,6 @@
     "under_investigation": 65227
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 131
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 17063
-    },
     "date": "2020-09-26",
     "deaths": 2837,
     "growth_factor_total_cases": "1.06",
@@ -10466,9 +9524,6 @@
     "under_investigation": 65061
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 17544
-    },
     "date": "2020-09-28",
     "deaths": 2840,
     "growth_factor_total_cases": "1.43",
@@ -10517,12 +9572,6 @@
     "weekly_growth_factor_total_cases": "1.33"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 251
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 17795
-    },
     "date": "2020-09-29",
     "deaths": 2844,
     "growth_factor_total_cases": "0.79",
@@ -10570,12 +9619,6 @@
     "under_investigation": 54759
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 288
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 18083
-    },
     "date": "2020-09-30",
     "deaths": 2848,
     "growth_factor_total_cases": "1.13",
@@ -10623,12 +9666,6 @@
     "under_investigation": 67126
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 229
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 18312
-    },
     "date": "2020-10-01",
     "deaths": 2851,
     "growth_factor_total_cases": "0.86",
@@ -10676,12 +9713,6 @@
     "under_investigation": 82473
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 323
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 18635
-    },
     "date": "2020-10-02",
     "deaths": 2927,
     "growth_factor_total_cases": "1.36",
@@ -10729,12 +9760,6 @@
     "under_investigation": 90513
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 284
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 18919
-    },
     "date": "2020-10-03",
     "deaths": 2968,
     "growth_factor_total_cases": "0.89",
@@ -10778,12 +9803,6 @@
     "under_investigation": 91322
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 196
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 19115
-    },
     "date": "2020-10-04",
     "deaths": 2975,
     "growth_factor_total_cases": "0.87",
@@ -10883,9 +9902,6 @@
     "under_investigation": 55413
   },
   {
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20043
-    },
     "date": "2020-10-08",
     "deaths": 2992,
     "growth_factor_total_cases": "1.37",
@@ -10933,12 +9949,6 @@
     "under_investigation": 58118
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 336
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20379
-    },
     "date": "2020-10-09",
     "deaths": 2997,
     "growth_factor_total_cases": "1.18",
@@ -10986,12 +9996,6 @@
     "under_investigation": 58173
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 358
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20737
-    },
     "date": "2020-10-10",
     "deaths": 3004,
     "growth_factor_total_cases": "0.86",
@@ -11039,12 +10043,6 @@
     "under_investigation": 56138
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 140
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 20877
-    },
     "date": "2020-10-11",
     "deaths": 3005,
     "growth_factor_total_cases": "0.80",
@@ -11092,12 +10090,6 @@
     "under_investigation": 45837
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 303
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 21180
-    },
     "date": "2020-10-12",
     "deaths": 3008,
     "growth_factor_total_cases": "1.24",
@@ -11146,12 +10138,6 @@
     "weekly_growth_factor_total_cases": "1.20"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 311
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 21491
-    },
     "date": "2020-10-13",
     "deaths": 3017,
     "growth_factor_total_cases": "0.92",
@@ -11199,12 +10185,6 @@
     "under_investigation": 24420
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 270
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 21761
-    },
     "date": "2020-10-14",
     "deaths": 3017,
     "growth_factor_total_cases": "0.97",
@@ -11252,12 +10232,6 @@
     "under_investigation": 26558
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 239
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 22000
-    },
     "date": "2020-10-15",
     "deaths": 3022,
     "growth_factor_total_cases": "1.09",
@@ -11305,12 +10279,6 @@
     "under_investigation": 36314
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 213
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 22213
-    },
     "date": "2020-10-16",
     "deaths": 3031,
     "growth_factor_total_cases": "0.91",
@@ -11358,12 +10326,6 @@
     "under_investigation": 37155
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 374
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 22587
-    },
     "date": "2020-10-17",
     "deaths": 3041,
     "growth_factor_total_cases": "1.13",
@@ -11411,12 +10373,6 @@
     "under_investigation": 33630
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 197
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 22784
-    },
     "date": "2020-10-18",
     "deaths": 3046,
     "growth_factor_total_cases": "0.82",
@@ -11464,12 +10420,6 @@
     "under_investigation": 23609
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 244
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 23028
-    },
     "date": "2020-10-19",
     "deaths": 3050,
     "growth_factor_total_cases": "1.07",
@@ -11518,12 +10468,6 @@
     "weekly_growth_factor_total_cases": "1.00"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 327
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 23355
-    },
     "date": "2020-10-20",
     "deaths": 3053,
     "growth_factor_total_cases": "1.17",
@@ -11571,12 +10515,6 @@
     "under_investigation": 24129
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 321
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 23676
-    },
     "date": "2020-10-21",
     "deaths": 3062,
     "growth_factor_total_cases": "0.96",
@@ -11624,12 +10562,6 @@
     "under_investigation": 29332
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 335
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 24011
-    },
     "date": "2020-10-22",
     "deaths": 3071,
     "growth_factor_total_cases": "1.06",
@@ -11677,12 +10609,6 @@
     "under_investigation": 34784
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 292
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 24303
-    },
     "date": "2020-10-23",
     "deaths": 3080,
     "growth_factor_total_cases": "0.98",
@@ -11730,12 +10656,6 @@
     "under_investigation": 35436
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 348
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 24651
-    },
     "date": "2020-10-24",
     "deaths": 3086,
     "growth_factor_total_cases": "1.18",
@@ -11783,12 +10703,6 @@
     "under_investigation": 30922
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 309
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 24960
-    },
     "date": "2020-10-25",
     "deaths": 3093,
     "growth_factor_total_cases": "1.07",
@@ -11836,12 +10750,6 @@
     "under_investigation": 23601
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 281
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25241
-    },
     "date": "2020-10-26",
     "deaths": 3099,
     "growth_factor_total_cases": "0.82",
@@ -11890,12 +10798,6 @@
     "weekly_growth_factor_total_cases": "1.20"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 355
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25596
-    },
     "date": "2020-10-27",
     "deaths": 3103,
     "growth_factor_total_cases": "0.97",
@@ -11943,12 +10845,6 @@
     "under_investigation": 22636
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 299
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 25895
-    },
     "date": "2020-10-28",
     "deaths": 3108,
     "growth_factor_total_cases": "1.01",
@@ -11996,12 +10892,6 @@
     "under_investigation": 33906
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 420
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26315
-    },
     "date": "2020-10-29",
     "deaths": 3118,
     "growth_factor_total_cases": "1.12",
@@ -12049,12 +10939,6 @@
     "under_investigation": 40074
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 314
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26629
-    },
     "date": "2020-10-30",
     "deaths": 3127,
     "growth_factor_total_cases": "0.96",
@@ -12102,12 +10986,6 @@
     "under_investigation": 41063
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 325
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 26954
-    },
     "date": "2020-10-31",
     "deaths": 3136,
     "growth_factor_total_cases": "1.13",
@@ -12155,12 +11033,6 @@
     "under_investigation": 36262
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 279
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 27233
-    },
     "date": "2020-11-01",
     "deaths": 3145,
     "growth_factor_total_cases": "0.96",
@@ -12208,12 +11080,6 @@
     "under_investigation": 23933
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 315
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 27548
-    },
     "date": "2020-11-02",
     "deaths": 3152,
     "growth_factor_total_cases": "0.97",
@@ -12262,12 +11128,6 @@
     "weekly_growth_factor_total_cases": "1.05"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 408
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 27956
-    },
     "date": "2020-11-03",
     "deaths": 3166,
     "growth_factor_total_cases": "1.11",
@@ -12315,12 +11175,6 @@
     "under_investigation": 20758
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 319
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 28275
-    },
     "date": "2020-11-04",
     "deaths": 3182,
     "growth_factor_total_cases": "0.94",
@@ -12368,12 +11222,6 @@
     "under_investigation": 33087
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 350
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 28625
-    },
     "date": "2020-11-05",
     "deaths": 3195,
     "growth_factor_total_cases": "1.01",
@@ -12421,12 +11269,6 @@
     "under_investigation": 41787
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 300
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 28925
-    },
     "date": "2020-11-06",
     "deaths": 3209,
     "growth_factor_total_cases": "1.01",
@@ -12474,12 +11316,6 @@
     "under_investigation": 47074
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 336
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 29261
-    },
     "date": "2020-11-07",
     "deaths": 3220,
     "growth_factor_total_cases": "1.13",
@@ -12527,12 +11363,6 @@
     "under_investigation": 44572
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 434
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 29695
-    },
     "date": "2020-11-08",
     "deaths": 3233,
     "growth_factor_total_cases": "1.17",
@@ -12580,12 +11410,6 @@
     "under_investigation": 35776
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 483
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30178
-    },
     "date": "2020-11-09",
     "deaths": 3245,
     "growth_factor_total_cases": "0.94",
@@ -12634,12 +11458,6 @@
     "weekly_growth_factor_total_cases": "1.20"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 520
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 30698
-    },
     "date": "2020-11-10",
     "deaths": 3260,
     "growth_factor_total_cases": "1.12",
@@ -12687,12 +11505,6 @@
     "under_investigation": 27802
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 384
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31082
-    },
     "date": "2020-11-11",
     "deaths": 3275,
     "growth_factor_total_cases": "1.03",
@@ -12740,12 +11552,6 @@
     "under_investigation": 34460
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 472
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31554
-    },
     "date": "2020-11-12",
     "deaths": 3293,
     "growth_factor_total_cases": "1.10",
@@ -12793,12 +11599,6 @@
     "under_investigation": 41977
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 440
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 31994
-    },
     "date": "2020-11-13",
     "deaths": 3312,
     "growth_factor_total_cases": "0.89",
@@ -12846,12 +11646,6 @@
     "under_investigation": 44507
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 456
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 32450
-    },
     "date": "2020-11-14",
     "deaths": 3332,
     "growth_factor_total_cases": "1.13",
@@ -12899,12 +11693,6 @@
     "under_investigation": 39767
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 364
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 32814
-    },
     "date": "2020-11-15",
     "deaths": 3361,
     "growth_factor_total_cases": "0.79",
@@ -12952,12 +11740,6 @@
     "under_investigation": 26147
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 508
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 33322
-    },
     "date": "2020-11-16",
     "deaths": 3371,
     "growth_factor_total_cases": "1.19",
@@ -13006,12 +11788,6 @@
     "weekly_growth_factor_total_cases": "1.31"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 569
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 33891
-    },
     "date": "2020-11-17",
     "deaths": 3383,
     "growth_factor_total_cases": "0.84",
@@ -13059,12 +11835,6 @@
     "under_investigation": 25435
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 410
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 34301
-    },
     "date": "2020-11-18",
     "deaths": 3415,
     "growth_factor_total_cases": "1.13",
@@ -13112,12 +11882,6 @@
     "under_investigation": 36671
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 346
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 34647
-    },
     "date": "2020-11-19",
     "deaths": 3443,
     "growth_factor_total_cases": "0.85",
@@ -13165,12 +11929,6 @@
     "under_investigation": 44493
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 393
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 35040
-    },
     "date": "2020-11-20",
     "deaths": 3451,
     "growth_factor_total_cases": "1.17",
@@ -13218,12 +11976,6 @@
     "under_investigation": 46609
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 450
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 35490
-    },
     "date": "2020-11-21",
     "deaths": 3472,
     "growth_factor_total_cases": "1.12",
@@ -13271,12 +12023,6 @@
     "under_investigation": 43047
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 460
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 35950
-    },
     "date": "2020-11-22",
     "deaths": 3486,
     "growth_factor_total_cases": "0.97",
@@ -13324,12 +12070,6 @@
     "under_investigation": 30427
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 336
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 36286
-    },
     "date": "2020-11-23",
     "deaths": 3505,
     "growth_factor_total_cases": "1.04",
@@ -13378,12 +12118,6 @@
     "weekly_growth_factor_total_cases": "0.99"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 497
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 36783
-    },
     "date": "2020-11-24",
     "deaths": 3519,
     "growth_factor_total_cases": "0.63",
@@ -13431,12 +12165,6 @@
     "under_investigation": 29316
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 445
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 37228
-    },
     "date": "2020-11-25",
     "deaths": 3554,
     "growth_factor_total_cases": "1.36",
@@ -13484,12 +12212,6 @@
     "under_investigation": 44950
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 356
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 37584
-    },
     "date": "2020-11-26",
     "deaths": 3575,
     "growth_factor_total_cases": "1.08",
@@ -13537,12 +12259,6 @@
     "under_investigation": 52852
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 494
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 38078
-    },
     "date": "2020-11-27",
     "deaths": 3595,
     "growth_factor_total_cases": "1.26",
@@ -13590,12 +12306,6 @@
     "under_investigation": 54241
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 566
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 38644
-    },
     "date": "2020-11-28",
     "deaths": 3624,
     "growth_factor_total_cases": "0.98",
@@ -13637,12 +12347,6 @@
     "under_investigation": 56219
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 463
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 39107
-    },
     "date": "2020-11-29",
     "deaths": 3648,
     "growth_factor_total_cases": "0.94",
@@ -13686,12 +12390,6 @@
     "under_investigation": 38724
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 622
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 39729
-    },
     "date": "2020-11-30",
     "deaths": 3656,
     "growth_factor_total_cases": "1.02",
@@ -13736,12 +12434,6 @@
     "weekly_growth_factor_total_cases": "1.10"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 727
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 40456
-    },
     "date": "2020-12-01",
     "deaths": 3663,
     "growth_factor_total_cases": "0.98",
@@ -13785,12 +12477,6 @@
     "under_investigation": 34046
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 410
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 40866
-    },
     "date": "2020-12-02",
     "deaths": 3698,
     "growth_factor_total_cases": "1.01",
@@ -13838,12 +12524,6 @@
     "under_investigation": 49574
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 396
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 41262
-    },
     "date": "2020-12-03",
     "deaths": 3712,
     "growth_factor_total_cases": "1.06",
@@ -13891,12 +12571,6 @@
     "under_investigation": 58320
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 633
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 41895
-    },
     "date": "2020-12-04",
     "deaths": 3737,
     "growth_factor_total_cases": "0.98",
@@ -13940,12 +12614,6 @@
     "under_investigation": 62403
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 504
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 42399
-    },
     "date": "2020-12-05",
     "deaths": 3757,
     "growth_factor_total_cases": "1.04",
@@ -13993,12 +12661,6 @@
     "under_investigation": 63193
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 568
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 42967
-    },
     "date": "2020-12-06",
     "deaths": 3772,
     "growth_factor_total_cases": "1.03",
@@ -14046,12 +12708,6 @@
     "under_investigation": 47850
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 601
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 43568
-    },
     "date": "2020-12-07",
     "deaths": 3798,
     "growth_factor_total_cases": "1.00",
@@ -14100,12 +12756,6 @@
     "weekly_growth_factor_total_cases": "1.16"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 588
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 44156
-    },
     "date": "2020-12-08",
     "deaths": 3808,
     "growth_factor_total_cases": "0.87",
@@ -14153,12 +12803,6 @@
     "under_investigation": 40732
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 517
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 44673
-    },
     "date": "2020-12-09",
     "deaths": 3836,
     "growth_factor_total_cases": "1.13",
@@ -14206,12 +12850,6 @@
     "under_investigation": 54613
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 496
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 45169
-    },
     "date": "2020-12-10",
     "deaths": 3871,
     "growth_factor_total_cases": "1.05",
@@ -14259,12 +12897,6 @@
     "under_investigation": 66326
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 469
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 45638
-    },
     "date": "2020-12-11",
     "deaths": 3916,
     "growth_factor_total_cases": "0.93",
@@ -14312,12 +12944,6 @@
     "under_investigation": 69280
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 522
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 46160
-    },
     "date": "2020-12-12",
     "deaths": 3933,
     "growth_factor_total_cases": "1.01",
@@ -14365,12 +12991,6 @@
     "under_investigation": 67654
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 456
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 46616
-    },
     "date": "2020-12-13",
     "deaths": 3949,
     "growth_factor_total_cases": "0.90",
@@ -14418,12 +13038,6 @@
     "under_investigation": 51051
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 544
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 47160
-    },
     "date": "2020-12-14",
     "deaths": 3972,
     "growth_factor_total_cases": "1.16",
@@ -14472,12 +13086,6 @@
     "weekly_growth_factor_total_cases": "1.01"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 711
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 47871
-    },
     "date": "2020-12-15",
     "deaths": 3992,
     "growth_factor_total_cases": "1.17",
@@ -14525,12 +13133,6 @@
     "under_investigation": 45770
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 780
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 48651
-    },
     "date": "2020-12-16",
     "deaths": 4035,
     "growth_factor_total_cases": "0.94",
@@ -14578,12 +13180,6 @@
     "under_investigation": 65597
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 737
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 49388
-    },
     "date": "2020-12-17",
     "deaths": 4058,
     "growth_factor_total_cases": "1.14",
@@ -14631,12 +13227,6 @@
     "under_investigation": 78631
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 691
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 50079
-    },
     "date": "2020-12-18",
     "deaths": 4098,
     "growth_factor_total_cases": "0.94",
@@ -14684,12 +13274,6 @@
     "under_investigation": 81235
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 665
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 50744
-    },
     "date": "2020-12-19",
     "deaths": 4125,
     "growth_factor_total_cases": "1.03",
@@ -14737,12 +13321,6 @@
     "under_investigation": 78147
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 486
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 51230
-    },
     "date": "2020-12-20",
     "deaths": 4150,
     "growth_factor_total_cases": "0.98",
@@ -14790,12 +13368,6 @@
     "under_investigation": 54546
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 611
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 51841
-    },
     "date": "2020-12-21",
     "deaths": 4167,
     "growth_factor_total_cases": "0.92",
@@ -14844,12 +13416,6 @@
     "weekly_growth_factor_total_cases": "1.24"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 636
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 52477
-    },
     "date": "2020-12-22",
     "deaths": 4188,
     "growth_factor_total_cases": "1.04",
@@ -14897,12 +13463,6 @@
     "under_investigation": 47872
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 629
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 53106
-    },
     "date": "2020-12-23",
     "deaths": 4229,
     "growth_factor_total_cases": "1.09",
@@ -14950,12 +13510,6 @@
     "under_investigation": 66976
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 646
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 53752
-    },
     "date": "2020-12-24",
     "deaths": 4278,
     "growth_factor_total_cases": "1.02",
@@ -15003,12 +13557,6 @@
     "under_investigation": 75250
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 616
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 54368
-    },
     "date": "2020-12-25",
     "deaths": 4321,
     "growth_factor_total_cases": "0.88",
@@ -15056,12 +13604,6 @@
     "under_investigation": 65675
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 541
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 54909
-    },
     "date": "2020-12-26",
     "deaths": 4359,
     "growth_factor_total_cases": "0.99",
@@ -15109,12 +13651,6 @@
     "under_investigation": 37010
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 572
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 55481
-    },
     "date": "2020-12-27",
     "deaths": 4377,
     "growth_factor_total_cases": "0.94",
@@ -15162,12 +13698,6 @@
     "under_investigation": 27278
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 412
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 55893
-    },
     "date": "2020-12-28",
     "deaths": 4414,
     "growth_factor_total_cases": "0.97",
@@ -15216,12 +13746,6 @@
     "weekly_growth_factor_total_cases": "0.96"
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 895
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 56788
-    },
     "date": "2020-12-29",
     "deaths": 4455,
     "growth_factor_total_cases": "1.32",
@@ -15269,12 +13793,6 @@
     "under_investigation": 32850
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 998
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 57786
-    },
     "date": "2020-12-30",
     "deaths": 4474,
     "growth_factor_total_cases": "1.14",
@@ -15322,12 +13840,6 @@
     "under_investigation": 54955
   },
   {
-    "cities_new_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 888
-    },
-    "cities_total_cases_from_epidemiologic_summary": {
-      "Toronto Public Health": 58674
-    },
     "date": "2020-12-31",
     "deaths": 4530,
     "growth_factor_total_cases": "1.14",

@@ -73,20 +73,6 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('cities-total-cases'),
-    title: 'Ontario Total Cases',
-    key: 'total_cases',
-    color: '222, 222, 222',
-    fill: false,
-    subCharts: [{
-      title: 'Toronto Total Cases',
-      subKey: 'Toronto Public Health',
-      key: 'cities_total_cases_from_epidemiologic_summary',
-      color: '40, 67, 142'
-    }]
-  })
-
-  chart.render({
     ele: document.getElementById('cities-new-cases'),
     title: 'Toronto New Cases',
     key: 'toronto',
