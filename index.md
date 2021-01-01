@@ -21,14 +21,18 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">New Tests Completed</h2>
-  <p class="lh-copy f6">Total tests completed from the day before.</p>
-  <canvas id="newTests" class="mb3"></canvas>
+  <h2 class="f3 fw3">Long-Term Care Home (LTC) New Cases</h2>
+  <canvas id="ltc-new-cases" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Long-Term Care Home (LTC) Deaths</h2>
+  <canvas id="ltc-deaths" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
   <h2 class="f3 fw3">Toronto New Cases</h2>
-  <canvas id="cities-new-cases" class="mb3"></canvas>
+  <canvas id="toronto-new-cases" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
@@ -37,9 +41,9 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Total Cases</h2>
-  <p class="lh-copy f6">Total case includes infected, but also resolved cases such as recovered and deaths.</p>
-  <canvas id="totalCases" class="mb3"></canvas>
+  <h2 class="f3 fw3">New Tests Completed</h2>
+  <p class="lh-copy f6">Total tests completed from the day before.</p>
+  <canvas id="newTests" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
@@ -48,22 +52,6 @@ layout: default
 
   <p class="lh-copy f6">A growth factor that's consistently above 1.00 means the virus is spreading faster and faster. Conversely, a growth factor that's consistently below 1.00 means the virus's spread is slowing down.</p>
   <canvas id="weeklyGrowthFactorChart" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Institutional Outbreaks</h2>
-  <p class="lh-copy f6">There's a spike in April 29 because that's when the province started to provide data for retirement homes.</p>
-  <canvas id="institutional-outbreaks" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Long-Term Care Home (LTC) New Cases</h2>
-  <canvas id="ltc-new-cases" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Long-Term Care Home (LTC) Deaths</h2>
-  <canvas id="ltc-deaths" class="mb3"></canvas>
 </div>
 
 <h2 class="f3 fw3" id="data-source-info">Where does our data come from?</h2>

@@ -22,13 +22,6 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('totalCases'),
-    title: 'Total Cases',
-    key: 'total_cases',
-    color: '53, 126, 221'
-  })
-
-  chart.render({
     ele: document.getElementById('newCases'),
     title: 'New Cases',
     key: 'new_total_cases',
@@ -73,7 +66,7 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('cities-new-cases'),
+    ele: document.getElementById('toronto-new-cases'),
     title: 'Toronto New Cases',
     key: 'toronto',
     hideInLegend: true,
@@ -84,36 +77,6 @@ window.fetch(reportURL).then((response) => {
       subKey: 'new_cases',
       key: 'toronto',
       color: '40, 67, 142'
-    }]
-  })
-
-  chart.render({
-    ele: document.getElementById('institutional-outbreaks'),
-    title: 'Institutional Outbreaks',
-    key: 'institutional_outbreaks',
-    hideInLegend: true,
-    color: '222, 222, 222',
-    fill: false,
-    subCharts: [{
-      title: 'Retirement Home Outbreaks',
-      key: 'institutional_outbreaks',
-      subKey: 'retirement_home',
-      color: '72, 159, 165'
-    }, {
-      title: 'Long-Term Care Outbreaks',
-      key: 'institutional_outbreaks',
-      subKey: 'long_term',
-      color: '252, 113, 0'
-    }, {
-      title: 'Hospital Outbreaks',
-      key: 'institutional_outbreaks',
-      subKey: 'hospitals',
-      color: '153, 0, 255'
-    }, {
-      title: 'Total Outbreaks',
-      key: 'institutional_outbreaks',
-      subKey: 'total',
-      color: '222, 222, 222'
     }]
   })
 

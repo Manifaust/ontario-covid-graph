@@ -30,13 +30,9 @@ download_csv "$status_report_page_url" "$status_report_csv_name" "$status_report
 echo 'Fetching CSV URL for: Status of COVID-19 by Public Health Unit'
 download_csv "$daily_change_phu_report_page_url" "$daily_change_phu_report_csv_name" "$daily_change_phu_report_csv_save_path"
 
-echo 'Fetching epidemiologic reports'
-scripts/download_epidemiologic_pdfs.rb "$raw_reports_dir"
-
 intermediate_reports_dir="$DIR"/intermediate_reports
 mkdir -p "$intermediate_reports_dir"
 statuses_report_path="$intermediate_reports_dir"/statuses.json
-institutions_report_path="$intermediate_reports_dir"/institutions.json
 toronto_report_path="$intermediate_reports_dir"/toronto_statuses.json
 ltc_report_path="$intermediate_reports_dir"/ltc_statuses.json
 
@@ -45,13 +41,6 @@ echo 'Generating statuses report from status CSV'
 scripts/generate_statuses_report.rb \
   "$status_report_csv_save_path" \
   "$statuses_report_path"
-
-echo 'Generating institutions report'
-scripts/generate_institutions_report.rb \
-  'third_party/tabula/tabula-1.0.3-jar-with-dependencies.jar' \
-  "$raw_reports_dir" \
-  "$institutions_report_path" \
-  "$institutions_report_path"
 
 echo 'Generating Toronto cases report'
 scripts/generate_toronto_cases_report.rb \
@@ -66,7 +55,6 @@ scripts/generate_ltc_report.rb \
 echo 'Generating final report'
 scripts/generate_final_report.rb \
   "$statuses_report_path" \
-  "$institutions_report_path" \
   "$toronto_report_path" \
   "$ltc_report_path" \
   "$DIR/report.json"
