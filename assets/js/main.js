@@ -114,7 +114,7 @@ window.fetch(reportURL).then((response) => {
     key: 'ltc',
     hideInLegend: true,
     color: '222, 222, 222',
-    fill: false,
+    fill: true,
     subCharts: [{
       title: 'LTC Resident New Cases',
       key: 'ltc',
@@ -129,7 +129,7 @@ window.fetch(reportURL).then((response) => {
     key: 'ltc',
     hideInLegend: true,
     color: '222, 222, 222',
-    fill: false,
+    fill: true,
     subCharts: [{
       title: 'LTC Resident Deaths',
       key: 'ltc',
@@ -144,7 +144,7 @@ window.fetch(reportURL).then((response) => {
     chartControls.classList.add('db-ns')
   }
   createDateControl(lastDay)
-  if (localStorage.getItem('darkMode') === 'true') {
+  if (window.localStorage.getItem('darkMode') === 'true') {
     darkMode(true)
   }
 })
@@ -158,13 +158,16 @@ const isDateSupported = () => {
 }
 
 const chart = {
-  render: (opt) => {
+  gradientFill: (ctx, color) => {
+    const gradientFill = ctx.getContext('2d').createLinearGradient(0, 0, 0, 370)
+    gradientFill.addColorStop(0, `rgba(${color}, 0.6)`)
+    gradientFill.addColorStop(1, `rgba(${color}, 0)`)
+    return gradientFill
+  },
+  render: async (opt) => {
     const chartLabels = fetchedData.map(i => i.date)
     const chartData = fetchedData.map(i => i[opt.key])
     if (!('fill' in opt)) { opt.fill = true }
-    const gradientFill = opt.ele.getContext('2d').createLinearGradient(0, 0, 0, 370)
-    gradientFill.addColorStop(0, `rgba(${opt.color}, 0.6)`)
-    gradientFill.addColorStop(1, `rgba(${opt.color}, 0)`)
     const myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
@@ -172,7 +175,7 @@ const chart = {
         datasets: [{
           label: opt.title,
           data: chartData,
-          backgroundColor: gradientFill,
+          backgroundColor: chart.gradientFill(opt.ele, opt.color),
           borderColor: `rgba(${opt.color}, 1)`,
           fill: opt.fill,
           pointBackgroundColor: `rgba(${opt.color}, 0.25)`,
@@ -216,6 +219,7 @@ const chart = {
     if (opt.subCharts) {
       opt.subCharts.map(i =>
         chart.addData({
+          ctx: opt.ele,
           chart: myChart,
           title: i.title,
           color: i.color,
@@ -229,7 +233,7 @@ const chart = {
 
     chart.collection.push(myChart)
   },
-  addData: (opt) => {
+  addData: async (opt) => {
     const subChartData = () => {
       const e = opt.subChartData.map(i => i[opt.key])
       if (opt.subKey) {
@@ -240,7 +244,7 @@ const chart = {
 
     opt.chart.data.datasets.push({
       label: opt.title,
-      backgroundColor: `rgba(${opt.color}, 0.2)`,
+      backgroundColor: chart.gradientFill(opt.ctx, opt.color),
       borderColor: `rgba(${opt.color}, 1)`,
       fill: opt.fill,
       pointBackgroundColor: `rgba(${opt.color}, 0.25)`,
@@ -260,7 +264,7 @@ const updateElements = (fromClass, toCLass) => {
 }
 
 const darkMode = (e) => {
-  const body = document.body
+  const body = document.documentElement
   const title = document.getElementById('title')
   if (e) {
     darkModeToggle.checked = true
@@ -290,7 +294,7 @@ const darkMode = (e) => {
 
 darkModeToggle.addEventListener('change', (e) => {
   darkMode(e.target.checked)
-  localStorage.setItem('darkMode', e.target.checked)
+  window.localStorage.setItem('darkMode', e.target.checked)
 }, false)
 
 const createDateControl = (lastDay) => {
