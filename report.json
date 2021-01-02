@@ -6336,9 +6336,54 @@
   },
   {
     "date": "2021-01-01",
+    "deaths": 4581,
+    "growth_factor_total_cases": "0.74",
+    "hospitalized": 1260,
+    "icu": 336,
+    "icu_on_ventilator": 221,
+    "infected": 21582,
+    "ltc": {
+      "resident_total_cases": 11143,
+      "resident_total_deaths": 2800,
+      "resident_new_cases": 116
+    },
+    "new_tests": 70570,
+    "new_total_cases": 2476,
+    "resolved": 158472,
+    "toronto": {
+      "new_cases": 499
+    },
+    "total_cases": 184635,
+    "under_investigation": 71526,
     "vaccine": {
       "previous_day_doses": 5415,
       "total_doses": 28887
+    }
+  },
+  {
+    "date": "2021-01-02",
+    "deaths": 4625,
+    "growth_factor_total_cases": "1.36",
+    "hospitalized": 1003,
+    "icu": 322,
+    "icu_on_ventilator": 220,
+    "infected": 22847,
+    "ltc": {
+      "resident_total_cases": 11217,
+      "resident_total_deaths": 2814,
+      "resident_new_cases": 74
+    },
+    "new_tests": 61401,
+    "new_total_cases": 3363,
+    "resolved": 160526,
+    "toronto": {
+      "new_cases": 700
+    },
+    "total_cases": 187998,
+    "under_investigation": 41709,
+    "vaccine": {
+      "previous_day_doses": 4305,
+      "total_doses": 33191
     }
   }
 ]
