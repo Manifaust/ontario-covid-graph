@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-<div class="bb b--black-10">
-  <p class="lh-copy f6"><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
-  <p class="lh-copy f6">
+<div class="bb b--black-10 lh-copy f6">
+  <p><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
+  <p>
     <b>Jan 1 Update</b>
     <ul>
       <li>Added: vaccine data, LTC new cases, Toronto new cases</li>

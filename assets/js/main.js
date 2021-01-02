@@ -31,7 +31,7 @@ window.fetch(reportURL).then((response) => {
 
   chart.render({
     ele: document.getElementById('total-vaccine'),
-    title: "Total Vaccine Doses",
+    title: 'Total Vaccine Doses',
     key: 'ltc',
     hideInLegend: true,
     color: '218, 112, 214',
@@ -45,7 +45,7 @@ window.fetch(reportURL).then((response) => {
 
   chart.render({
     ele: document.getElementById('daily-vaccine'),
-    title: "Daily Vaccine",
+    title: 'Daily Vaccine',
     key: 'ltc',
     hideInLegend: true,
     color: '218, 112, 214',
@@ -119,7 +119,7 @@ window.fetch(reportURL).then((response) => {
       title: 'LTC Resident New Cases',
       key: 'ltc',
       subKey: 'resident_new_cases',
-      color: '252, 113, 0',
+      color: '252, 113, 0'
     }]
   })
 
