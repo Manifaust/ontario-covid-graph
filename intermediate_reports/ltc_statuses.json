@@ -198,7 +198,7 @@
     "ltc": {
       "resident_total_cases": 5357,
       "resident_total_deaths": 1632,
-      "resident_new_cases": -23
+      "resident_new_cases": 0
     }
   },
   "2020-06-17": {
@@ -226,7 +226,7 @@
     "ltc": {
       "resident_total_cases": 5345,
       "resident_total_deaths": 1651,
-      "resident_new_cases": -39
+      "resident_new_cases": 0
     }
   },
   "2020-06-21": {
@@ -338,7 +338,7 @@
     "ltc": {
       "resident_total_cases": 5514,
       "resident_total_deaths": 1717,
-      "resident_new_cases": -1
+      "resident_new_cases": 0
     }
   },
   "2020-07-07": {
@@ -415,7 +415,7 @@
     "ltc": {
       "resident_total_cases": 5545,
       "resident_total_deaths": 1732,
-      "resident_new_cases": -3
+      "resident_new_cases": 0
     }
   },
   "2020-07-18": {
@@ -436,7 +436,7 @@
     "ltc": {
       "resident_total_cases": 5546,
       "resident_total_deaths": 1730,
-      "resident_new_cases": -3
+      "resident_new_cases": 0
     }
   },
   "2020-07-21": {
@@ -485,7 +485,7 @@
     "ltc": {
       "resident_total_cases": 5884,
       "resident_total_deaths": 1792,
-      "resident_new_cases": -1
+      "resident_new_cases": 0
     }
   },
   "2020-07-28": {
@@ -590,7 +590,7 @@
     "ltc": {
       "resident_total_cases": 5902,
       "resident_total_deaths": 1800,
-      "resident_new_cases": -1
+      "resident_new_cases": 0
     }
   },
   "2020-08-12": {
@@ -765,7 +765,7 @@
     "ltc": {
       "resident_total_cases": 5944,
       "resident_total_deaths": 1817,
-      "resident_new_cases": -2
+      "resident_new_cases": 0
     }
   },
   "2020-09-06": {
@@ -800,14 +800,14 @@
     "ltc": {
       "resident_total_cases": 5966,
       "resident_total_deaths": 1817,
-      "resident_new_cases": -1
+      "resident_new_cases": 0
     }
   },
   "2020-09-11": {
     "ltc": {
       "resident_total_cases": 5965,
       "resident_total_deaths": 1817,
-      "resident_new_cases": -1
+      "resident_new_cases": 0
     }
   },
   "2020-09-12": {
@@ -863,7 +863,7 @@
     "ltc": {
       "resident_total_cases": 6006,
       "resident_total_deaths": 1824,
-      "resident_new_cases": -2
+      "resident_new_cases": 0
     }
   },
   "2020-09-20": {

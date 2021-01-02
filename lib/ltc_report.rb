@@ -61,7 +61,11 @@ class LtcReport
       prev_total_cases = resident_total_cases(report_date.prev_day)
       next if prev_total_cases.nil?
 
-      @entries[report_date][:ltc][:resident_new_cases] = present_total_cases - prev_total_cases
+      new_cases = present_total_cases - prev_total_cases
+      # for some reason, the present cases are sometimes lower than previous cases
+      new_cases = [new_cases, 0].max
+
+      @entries[report_date][:ltc][:resident_new_cases] = new_cases
     end
   end
 
