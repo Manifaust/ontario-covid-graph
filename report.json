@@ -6456,6 +6456,10 @@
     "new_total_cases": 3128,
     "resolved": 166790,
     "total_cases": 197360,
-    "under_investigation": 39805
+    "under_investigation": 39805,
+    "vaccine": {
+      "previous_day_doses": 7607,
+      "total_doses": 50030
+    }
   }
 ]
