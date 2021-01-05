@@ -4071,5 +4071,18 @@
     "new_total_cases": 3270,
     "growth_factor_total_cases": "1.10",
     "weekly_growth_factor_total_cases": "1.36"
+  },
+  "2021-01-05": {
+    "infected": 25840,
+    "resolved": 166790,
+    "deaths": 4730,
+    "total_cases": 197360,
+    "new_tests": 35152,
+    "under_investigation": 39805,
+    "hospitalized": 1347,
+    "icu": 352,
+    "icu_on_ventilator": 245,
+    "new_total_cases": 3128,
+    "growth_factor_total_cases": "0.96"
   }
 }

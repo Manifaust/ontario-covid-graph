@@ -6438,5 +6438,24 @@
       "total_doses": 42419
     },
     "weekly_growth_factor_total_cases": "1.36"
+  },
+  {
+    "date": "2021-01-05",
+    "deaths": 4730,
+    "growth_factor_total_cases": "0.96",
+    "hospitalized": 1347,
+    "icu": 352,
+    "icu_on_ventilator": 245,
+    "infected": 25840,
+    "ltc": {
+      "resident_total_cases": 11511,
+      "resident_total_deaths": 2865,
+      "resident_new_cases": 142
+    },
+    "new_tests": 35152,
+    "new_total_cases": 3128,
+    "resolved": 166790,
+    "total_cases": 197360,
+    "under_investigation": 39805
   }
 ]
