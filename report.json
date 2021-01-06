@@ -6455,11 +6455,36 @@
     "new_tests": 35152,
     "new_total_cases": 3128,
     "resolved": 166790,
+    "toronto": {
+      "new_cases": 778
+    },
     "total_cases": 197360,
     "under_investigation": 39805,
     "vaccine": {
       "previous_day_doses": 7607,
       "total_doses": 50030
     }
+  },
+  {
+    "date": "2021-01-06",
+    "deaths": 4767,
+    "growth_factor_total_cases": "1.04",
+    "hospitalized": 1463,
+    "icu": 361,
+    "icu_on_ventilator": 246,
+    "infected": 26064,
+    "ltc": {
+      "resident_total_cases": 11634,
+      "resident_total_deaths": 2885,
+      "resident_new_cases": 123
+    },
+    "new_tests": 51045,
+    "new_total_cases": 3266,
+    "resolved": 169795,
+    "toronto": {
+      "new_cases": 805
+    },
+    "total_cases": 200626,
+    "under_investigation": 55484
   }
 ]

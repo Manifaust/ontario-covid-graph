@@ -1430,5 +1430,15 @@
     "toronto": {
       "new_cases": 917
     }
+  },
+  "2021-01-05": {
+    "toronto": {
+      "new_cases": 778
+    }
+  },
+  "2021-01-06": {
+    "toronto": {
+      "new_cases": 805
+    }
   }
 }
