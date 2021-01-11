@@ -6594,5 +6594,29 @@
       "previous_day_doses": 9983,
       "total_doses": 113246
     }
+  },
+  {
+    "date": "2021-01-11",
+    "deaths": 5012,
+    "growth_factor_total_cases": "0.85",
+    "hospitalized": 1563,
+    "icu": 387,
+    "icu_on_ventilator": 268,
+    "infected": 30632,
+    "ltc": {
+      "resident_total_cases": 12377,
+      "resident_total_deaths": 3004,
+      "resident_new_cases": 167
+    },
+    "new_tests": 46403,
+    "new_total_cases": 3338,
+    "resolved": 183476,
+    "total_cases": 219120,
+    "under_investigation": 28774,
+    "vaccine": {
+      "previous_day_doses": 8859,
+      "total_doses": 122105
+    },
+    "weekly_growth_factor_total_cases": "1.19"
   }
 ]

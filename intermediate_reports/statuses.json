@@ -4149,5 +4149,19 @@
     "icu_on_ventilator": 266,
     "new_total_cases": 3945,
     "growth_factor_total_cases": "1.15"
+  },
+  "2021-01-11": {
+    "infected": 30632,
+    "resolved": 183476,
+    "deaths": 5012,
+    "total_cases": 219120,
+    "new_tests": 46403,
+    "under_investigation": 28774,
+    "hospitalized": 1563,
+    "icu": 387,
+    "icu_on_ventilator": 268,
+    "new_total_cases": 3338,
+    "growth_factor_total_cases": "0.85",
+    "weekly_growth_factor_total_cases": "1.19"
   }
 }
