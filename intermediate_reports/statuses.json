@@ -4255,5 +4255,18 @@
     "new_total_cases": 2578,
     "growth_factor_total_cases": "0.75",
     "weekly_growth_factor_total_cases": "0.85"
+  },
+  "2021-01-19": {
+    "infected": 27615,
+    "resolved": 209183,
+    "deaths": 5479,
+    "total_cases": 242277,
+    "new_tests": 34531,
+    "under_investigation": 36750,
+    "hospitalized": 1626,
+    "icu": 400,
+    "icu_on_ventilator": 292,
+    "new_total_cases": 1913,
+    "growth_factor_total_cases": "0.74"
   }
 }
