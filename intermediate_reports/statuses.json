@@ -4268,5 +4268,18 @@
     "icu_on_ventilator": 292,
     "new_total_cases": 1913,
     "growth_factor_total_cases": "0.74"
+  },
+  "2021-01-20": {
+    "infected": 26467,
+    "resolved": 212897,
+    "deaths": 5568,
+    "total_cases": 244932,
+    "new_tests": 54307,
+    "under_investigation": 48963,
+    "hospitalized": 1598,
+    "icu": 395,
+    "icu_on_ventilator": 296,
+    "new_total_cases": 2655,
+    "growth_factor_total_cases": "1.39"
   }
 }
