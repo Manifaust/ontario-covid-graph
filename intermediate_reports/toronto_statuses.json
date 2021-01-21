@@ -1510,5 +1510,10 @@
     "toronto": {
       "new_cases": 925
     }
+  },
+  "2021-01-21": {
+    "toronto": {
+      "new_cases": 897
+    }
   }
 }
