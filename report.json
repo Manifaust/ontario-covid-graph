@@ -6982,6 +6982,10 @@
     },
     "total_cases": 256960,
     "under_investigation": 14991,
+    "vaccine": {
+      "previous_day_doses": 5537,
+      "total_doses": 286110
+    },
     "weekly_growth_factor_total_cases": "0.78"
   }
 ]
