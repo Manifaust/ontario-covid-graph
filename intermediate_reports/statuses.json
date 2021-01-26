@@ -4347,5 +4347,18 @@
     "new_total_cases": 1958,
     "growth_factor_total_cases": "0.81",
     "weekly_growth_factor_total_cases": "0.78"
+  },
+  "2021-01-26": {
+    "infected": 23036,
+    "resolved": 229755,
+    "deaths": 5909,
+    "total_cases": 258700,
+    "new_tests": 30717,
+    "under_investigation": 36405,
+    "hospitalized": 1466,
+    "icu": 383,
+    "icu_on_ventilator": 298,
+    "new_total_cases": 1740,
+    "growth_factor_total_cases": "0.89"
   }
 }
