@@ -1,4 +1,4 @@
-report_date,previous_day_doses_administered,total_doses_administered,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated
+report_date,previous_day_doses_administered,total_doses_administered,total_doses_in_fully_vaccinated_individuals ,total_individuals_fully_vaccinated
 2020-12-24,,"10,756",,
 2020-12-30,"4,595","18,603",,
 2020-12-31,"5,463","23,502",,
@@ -30,3 +30,4 @@ report_date,previous_day_doses_administered,total_doses_administered,total_doses
 2021-01-26,"9,707","295,817","83,285","41,643"
 2021-01-27,"9,513","305,330","96,459","48,230"
 2021-01-28,"11,910","317,240","110,571","55,286"
+2021-01-29,"10,215","327,455","123,357","61,679"
