@@ -4439,5 +4439,18 @@
     "new_total_cases": 1969,
     "growth_factor_total_cases": "1.07",
     "weekly_growth_factor_total_cases": "0.80"
+  },
+  "2021-02-02": {
+    "infected": 17451,
+    "resolved": 247236,
+    "deaths": 6238,
+    "total_cases": 270925,
+    "new_tests": 28552,
+    "under_investigation": 32348,
+    "hospitalized": 1192,
+    "icu": 341,
+    "icu_on_ventilator": 253,
+    "new_total_cases": 745,
+    "growth_factor_total_cases": "0.38"
   }
 }
