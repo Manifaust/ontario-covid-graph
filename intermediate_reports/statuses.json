@@ -4465,5 +4465,18 @@
     "icu_on_ventilator": 254,
     "new_total_cases": 1172,
     "growth_factor_total_cases": "1.57"
+  },
+  "2021-02-04": {
+    "infected": 16330,
+    "resolved": 250937,
+    "deaths": 6393,
+    "total_cases": 273660,
+    "new_tests": 64467,
+    "under_investigation": 47282,
+    "hospitalized": 1101,
+    "icu": 323,
+    "icu_on_ventilator": 241,
+    "new_total_cases": 1563,
+    "growth_factor_total_cases": "1.33"
   }
 }
