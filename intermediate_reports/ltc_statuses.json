@@ -1878,5 +1878,12 @@
       "resident_total_cases": 14832,
       "resident_total_deaths": 3777
     }
+  },
+  "2021-02-13": {
+    "ltc": {
+      "resident_total_cases": 14840,
+      "resident_total_deaths": 3780,
+      "resident_new_cases": 8
+    }
   }
 }
