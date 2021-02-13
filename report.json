@@ -7475,6 +7475,10 @@
       "new_cases": 433
     },
     "total_cases": 284887,
-    "under_investigation": 32143
+    "under_investigation": 32143,
+    "vaccine": {
+      "previous_day_doses": 14506,
+      "total_doses": 456947
+    }
   }
 ]
