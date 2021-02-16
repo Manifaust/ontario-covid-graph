@@ -4609,5 +4609,32 @@
     "icu_on_ventilator": 203,
     "new_total_cases": 981,
     "growth_factor_total_cases": "0.75"
+  },
+  "2021-02-15": {
+    "infected": 11825,
+    "resolved": 268301,
+    "deaths": 6706,
+    "total_cases": 286832,
+    "new_tests": 30355,
+    "under_investigation": 10802,
+    "hospitalized": 739,
+    "icu": 293,
+    "icu_on_ventilator": 199,
+    "new_total_cases": 964,
+    "growth_factor_total_cases": "0.98",
+    "weekly_growth_factor_total_cases": "0.79"
+  },
+  "2021-02-16": {
+    "infected": 11604,
+    "resolved": 269413,
+    "deaths": 6719,
+    "total_cases": 287736,
+    "new_tests": 27005,
+    "under_investigation": 15024,
+    "hospitalized": 742,
+    "icu": 292,
+    "icu_on_ventilator": 201,
+    "new_total_cases": 904,
+    "growth_factor_total_cases": "0.94"
   }
 }
