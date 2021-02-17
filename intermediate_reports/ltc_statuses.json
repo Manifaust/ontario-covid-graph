@@ -1906,5 +1906,12 @@
       "resident_total_deaths": 3803,
       "resident_new_cases": 3
     }
+  },
+  "2021-02-17": {
+    "ltc": {
+      "resident_total_cases": 14908,
+      "resident_total_deaths": 3807,
+      "resident_new_cases": 3
+    }
   }
 }
