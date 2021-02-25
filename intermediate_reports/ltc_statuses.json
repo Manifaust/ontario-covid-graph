@@ -1962,5 +1962,12 @@
       "resident_total_deaths": 3860,
       "resident_new_cases": 0
     }
+  },
+  "2021-02-25": {
+    "ltc": {
+      "resident_total_cases": 14943,
+      "resident_total_deaths": 3864,
+      "resident_new_cases": 6
+    }
   }
 }
