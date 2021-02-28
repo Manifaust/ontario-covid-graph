@@ -1700,5 +1700,10 @@
     "toronto": {
       "new_cases": 331
     }
+  },
+  "2021-02-28": {
+    "toronto": {
+      "new_cases": 259
+    }
   }
 }

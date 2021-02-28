@@ -1983,5 +1983,12 @@
       "resident_total_deaths": 3865,
       "resident_new_cases": 3
     }
+  },
+  "2021-02-28": {
+    "ltc": {
+      "resident_total_cases": 14958,
+      "resident_total_deaths": 3864,
+      "resident_new_cases": 0
+    }
   }
 }
