@@ -2004,5 +2004,12 @@
       "resident_total_deaths": 3867,
       "resident_new_cases": 0
     }
+  },
+  "2021-03-03": {
+    "ltc": {
+      "resident_total_cases": 14961,
+      "resident_total_deaths": 3869,
+      "resident_new_cases": 3
+    }
   }
 }
