@@ -2011,5 +2011,12 @@
       "resident_total_deaths": 3869,
       "resident_new_cases": 3
     }
+  },
+  "2021-03-04": {
+    "ltc": {
+      "resident_total_cases": 14963,
+      "resident_total_deaths": 3871,
+      "resident_new_cases": 2
+    }
   }
 }
