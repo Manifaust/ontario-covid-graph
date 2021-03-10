@@ -8108,5 +8108,31 @@
       "previous_day_doses": 31047,
       "total_doses": 943533
     }
+  },
+  {
+    "date": "2021-03-10",
+    "deaths": 7099,
+    "growth_factor_total_cases": "1.11",
+    "hospitalized": 678,
+    "icu": 281,
+    "icu_on_ventilator": 178,
+    "infected": 11311,
+    "ltc": {
+      "resident_total_cases": 14978,
+      "resident_total_deaths": 3876,
+      "resident_new_cases": 0
+    },
+    "new_tests": 54149,
+    "new_total_cases": 1316,
+    "resolved": 294018,
+    "toronto": {
+      "new_cases": 428
+    },
+    "total_cases": 312428,
+    "under_investigation": 38518,
+    "vaccine": {
+      "previous_day_doses": 35264,
+      "total_doses": 978797
+    }
   }
 ]
