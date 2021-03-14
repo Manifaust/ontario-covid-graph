@@ -2081,5 +2081,12 @@
       "resident_total_deaths": 3878,
       "resident_new_cases": 0
     }
+  },
+  "2021-03-14": {
+    "ltc": {
+      "resident_total_cases": 14972,
+      "resident_total_deaths": 3878,
+      "resident_new_cases": 3
+    }
   }
 }
