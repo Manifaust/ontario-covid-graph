@@ -4991,5 +4991,18 @@
     "new_total_cases": 1268,
     "growth_factor_total_cases": "0.73",
     "weekly_growth_factor_total_cases": "1.17"
+  },
+  "2021-03-16": {
+    "infected": 12506,
+    "resolved": 300769,
+    "deaths": 7173,
+    "total_cases": 320448,
+    "new_tests": 28526,
+    "under_investigation": 27448,
+    "hospitalized": 761,
+    "icu": 292,
+    "icu_on_ventilator": 194,
+    "new_total_cases": 1074,
+    "growth_factor_total_cases": "0.85"
   }
 }
