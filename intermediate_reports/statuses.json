@@ -5083,5 +5083,18 @@
     "new_total_cases": 1699,
     "growth_factor_total_cases": "0.95",
     "weekly_growth_factor_total_cases": "1.19"
+  },
+  "2021-03-23": {
+    "infected": 15017,
+    "resolved": 309849,
+    "deaths": 7253,
+    "total_cases": 332119,
+    "new_tests": 32556,
+    "under_investigation": 31325,
+    "hospitalized": 868,
+    "icu": 324,
+    "icu_on_ventilator": 193,
+    "new_total_cases": 1546,
+    "growth_factor_total_cases": "0.91"
   }
 }
