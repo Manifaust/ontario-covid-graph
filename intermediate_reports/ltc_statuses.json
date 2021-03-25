@@ -2158,5 +2158,12 @@
       "resident_total_deaths": 3892,
       "resident_new_cases": 5
     }
+  },
+  "2021-03-25": {
+    "ltc": {
+      "resident_total_cases": 15017,
+      "resident_total_deaths": 3892,
+      "resident_new_cases": 2
+    }
   }
 }
