@@ -8543,6 +8543,9 @@
     "new_tests": 53436,
     "new_total_cases": 2169,
     "resolved": 314384,
+    "toronto": {
+      "new_cases": 682
+    },
     "total_cases": 338239,
     "under_investigation": 37364,
     "vaccine": {
