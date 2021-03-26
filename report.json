@@ -8526,5 +8526,28 @@
       "previous_day_doses": 79446,
       "total_doses": 1755596
     }
+  },
+  {
+    "date": "2021-03-26",
+    "deaths": 7292,
+    "growth_factor_total_cases": "0.91",
+    "hospitalized": 913,
+    "icu": 359,
+    "icu_on_ventilator": 215,
+    "infected": 16563,
+    "ltc": {
+      "resident_total_cases": 15021,
+      "resident_total_deaths": 3892,
+      "resident_new_cases": 4
+    },
+    "new_tests": 53436,
+    "new_total_cases": 2169,
+    "resolved": 314384,
+    "total_cases": 338239,
+    "under_investigation": 37364,
+    "vaccine": {
+      "previous_day_doses": 82996,
+      "total_doses": 1838592
+    }
   }
 ]
