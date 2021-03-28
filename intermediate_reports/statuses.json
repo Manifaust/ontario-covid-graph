@@ -5148,5 +5148,18 @@
     "icu_on_ventilator": 192,
     "new_total_cases": 2453,
     "growth_factor_total_cases": "1.13"
+  },
+  "2021-03-28": {
+    "infected": 18405,
+    "resolved": 317408,
+    "deaths": 7327,
+    "total_cases": 343140,
+    "new_tests": 50227,
+    "under_investigation": 25452,
+    "hospitalized": 917,
+    "icu": 366,
+    "icu_on_ventilator": 217,
+    "new_total_cases": 2448,
+    "growth_factor_total_cases": "1.00"
   }
 }
