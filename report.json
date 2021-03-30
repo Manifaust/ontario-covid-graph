@@ -8631,5 +8631,24 @@
       "total_doses": 2031735
     },
     "weekly_growth_factor_total_cases": "1.31"
+  },
+  {
+    "date": "2021-03-30",
+    "deaths": 7351,
+    "growth_factor_total_cases": "1.12",
+    "hospitalized": 1090,
+    "icu": 387,
+    "icu_on_ventilator": 249,
+    "infected": 19810,
+    "ltc": {
+      "resident_total_cases": 15037,
+      "resident_total_deaths": 3897,
+      "resident_new_cases": 7
+    },
+    "new_tests": 36071,
+    "new_total_cases": 2336,
+    "resolved": 320409,
+    "total_cases": 347570,
+    "under_investigation": 35066
   }
 ]

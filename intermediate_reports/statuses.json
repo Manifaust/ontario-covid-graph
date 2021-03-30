@@ -5175,5 +5175,18 @@
     "new_total_cases": 2094,
     "growth_factor_total_cases": "0.86",
     "weekly_growth_factor_total_cases": "1.31"
+  },
+  "2021-03-30": {
+    "infected": 19810,
+    "resolved": 320409,
+    "deaths": 7351,
+    "total_cases": 347570,
+    "new_tests": 36071,
+    "under_investigation": 35066,
+    "hospitalized": 1090,
+    "icu": 387,
+    "icu_on_ventilator": 249,
+    "new_total_cases": 2336,
+    "growth_factor_total_cases": "1.12"
   }
 }
