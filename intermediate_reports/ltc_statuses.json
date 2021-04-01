@@ -2207,5 +2207,12 @@
       "resident_total_deaths": 3901,
       "resident_new_cases": 7
     }
+  },
+  "2021-04-01": {
+    "ltc": {
+      "resident_total_cases": 15047,
+      "resident_total_deaths": 3901,
+      "resident_new_cases": 3
+    }
   }
 }
