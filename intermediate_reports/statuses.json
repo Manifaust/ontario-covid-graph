@@ -4484,5 +4484,27 @@
     "hospitalized": 1116,
     "new_total_cases": 2557,
     "growth_factor_total_cases": "1.10"
+  },
+  "2021-04-02": {
+    "infected": 22016,
+    "resolved": 326121,
+    "deaths": 7412,
+    "total_cases": 355549,
+    "new_tests": 62333,
+    "under_investigation": 39233,
+    "hospitalized": 1162,
+    "new_total_cases": 3089,
+    "growth_factor_total_cases": "1.21"
+  },
+  "2021-04-03": {
+    "infected": 23190,
+    "resolved": 327940,
+    "deaths": 7428,
+    "total_cases": 358558,
+    "new_tests": 59117,
+    "under_investigation": 25049,
+    "hospitalized": 796,
+    "new_total_cases": 3009,
+    "growth_factor_total_cases": "0.97"
   }
 }
