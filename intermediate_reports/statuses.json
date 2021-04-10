@@ -4573,5 +4573,16 @@
     "hospitalized": 1492,
     "new_total_cases": 4227,
     "growth_factor_total_cases": "1.28"
+  },
+  "2021-04-10": {
+    "infected": 30999,
+    "resolved": 343622,
+    "deaths": 7531,
+    "total_cases": 382152,
+    "new_tests": 61439,
+    "under_investigation": 42963,
+    "hospitalized": 1524,
+    "new_total_cases": 3813,
+    "growth_factor_total_cases": "0.90"
   }
 }
