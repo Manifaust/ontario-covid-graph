@@ -1915,5 +1915,10 @@
     "toronto": {
       "new_cases": 1353
     }
+  },
+  "2021-04-12": {
+    "toronto": {
+      "new_cases": 1282
+    }
   }
 }
