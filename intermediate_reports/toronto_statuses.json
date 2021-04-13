@@ -1920,5 +1920,10 @@
     "toronto": {
       "new_cases": 1282
     }
+  },
+  "2021-04-13": {
+    "toronto": {
+      "new_cases": 1016
+    }
   }
 }

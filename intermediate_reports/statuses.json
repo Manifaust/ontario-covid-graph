@@ -4607,5 +4607,16 @@
     "new_total_cases": 4401,
     "growth_factor_total_cases": "0.99",
     "weekly_growth_factor_total_cases": "1.37"
+  },
+  "2021-04-13": {
+    "infected": 35840,
+    "resolved": 351257,
+    "deaths": 7582,
+    "total_cases": 394679,
+    "new_tests": 42167,
+    "under_investigation": 35679,
+    "hospitalized": 1822,
+    "new_total_cases": 3670,
+    "growth_factor_total_cases": "0.83"
   }
 }
