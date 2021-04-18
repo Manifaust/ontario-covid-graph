@@ -4662,5 +4662,16 @@
     "hospitalized": 2065,
     "new_total_cases": 4362,
     "growth_factor_total_cases": "0.91"
+  },
+  "2021-04-18": {
+    "infected": 41588,
+    "resolved": 367691,
+    "deaths": 7716,
+    "total_cases": 416995,
+    "new_tests": 53776,
+    "under_investigation": 28651,
+    "hospitalized": 2107,
+    "new_total_cases": 4250,
+    "growth_factor_total_cases": "0.97"
   }
 }
