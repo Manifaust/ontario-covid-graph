@@ -4685,5 +4685,16 @@
     "new_total_cases": 4447,
     "growth_factor_total_cases": "1.05",
     "weekly_growth_factor_total_cases": "1.15"
+  },
+  "2021-04-20": {
+    "infected": 42941,
+    "resolved": 374213,
+    "deaths": 7757,
+    "total_cases": 424911,
+    "new_tests": 40596,
+    "under_investigation": 29217,
+    "hospitalized": 2360,
+    "new_total_cases": 3469,
+    "growth_factor_total_cases": "0.78"
   }
 }
