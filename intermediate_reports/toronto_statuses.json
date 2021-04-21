@@ -1960,5 +1960,10 @@
     "toronto": {
       "new_cases": 1074
     }
+  },
+  "2021-04-21": {
+    "toronto": {
+      "new_cases": 1249
+    }
   }
 }
