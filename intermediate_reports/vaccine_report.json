@@ -681,5 +681,11 @@
       "previous_day_doses": 136695,
       "total_doses": 4131882
     }
+  },
+  "2021-04-22": {
+    "vaccine": {
+      "previous_day_doses": 134920,
+      "total_doses": 4266802
+    }
   }
 }
