@@ -1975,5 +1975,10 @@
     "toronto": {
       "new_cases": 1257
     }
+  },
+  "2021-04-24": {
+    "toronto": {
+      "new_cases": 1191
+    }
   }
 }
