@@ -1980,5 +1980,10 @@
     "toronto": {
       "new_cases": 1191
     }
+  },
+  "2021-04-25": {
+    "toronto": {
+      "new_cases": 1136
+    }
   }
 }
