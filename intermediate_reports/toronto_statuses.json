@@ -1985,5 +1985,10 @@
     "toronto": {
       "new_cases": 1136
     }
+  },
+  "2021-04-26": {
+    "toronto": {
+      "new_cases": 1015
+    }
   }
 }
