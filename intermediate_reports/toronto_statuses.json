@@ -1990,5 +1990,10 @@
     "toronto": {
       "new_cases": 1015
     }
+  },
+  "2021-04-27": {
+    "toronto": {
+      "new_cases": 1044
+    }
   }
 }
