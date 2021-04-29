@@ -4785,5 +4785,16 @@
     "hospitalized": 2281,
     "new_total_cases": 3480,
     "growth_factor_total_cases": "1.07"
+  },
+  "2021-04-29": {
+    "infected": 38438,
+    "resolved": 413010,
+    "deaths": 8029,
+    "total_cases": 459477,
+    "new_tests": 56939,
+    "under_investigation": 31914,
+    "hospitalized": 2248,
+    "new_total_cases": 3871,
+    "growth_factor_total_cases": "1.11"
   }
 }

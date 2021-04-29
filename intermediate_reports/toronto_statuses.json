@@ -2000,5 +2000,10 @@
     "toronto": {
       "new_cases": 961
     }
+  },
+  "2021-04-29": {
+    "toronto": {
+      "new_cases": 1172
+    }
   }
 }
