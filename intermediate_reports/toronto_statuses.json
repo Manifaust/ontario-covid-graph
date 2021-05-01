@@ -2010,5 +2010,10 @@
     "toronto": {
       "new_cases": 1331
     }
+  },
+  "2021-05-01": {
+    "toronto": {
+      "new_cases": 1050
+    }
   }
 }
