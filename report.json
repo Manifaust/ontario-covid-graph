@@ -8752,5 +8752,29 @@
       "total_doses": 5378249
     },
     "weekly_growth_factor_total_cases": "0.91"
+  },
+  {
+    "date": "2021-05-04",
+    "deaths": 8143,
+    "growth_factor_total_cases": "0.81",
+    "hospitalized": 2167,
+    "infected": 36440,
+    "ltc": {
+      "resident_total_cases": 15174,
+      "resident_total_deaths": 3928,
+      "resident_new_cases": 5
+    },
+    "new_tests": 33740,
+    "new_total_cases": 2791,
+    "resolved": 432109,
+    "toronto": {
+      "new_cases": 931
+    },
+    "total_cases": 476692,
+    "under_investigation": 25049,
+    "vaccine": {
+      "previous_day_doses": 88871,
+      "total_doses": 5467120
+    }
   }
 ]

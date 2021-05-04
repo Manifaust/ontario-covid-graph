@@ -4841,5 +4841,16 @@
     "new_total_cases": 3436,
     "growth_factor_total_cases": "0.92",
     "weekly_growth_factor_total_cases": "0.91"
+  },
+  "2021-05-04": {
+    "infected": 36440,
+    "resolved": 432109,
+    "deaths": 8143,
+    "total_cases": 476692,
+    "new_tests": 33740,
+    "under_investigation": 25049,
+    "hospitalized": 2167,
+    "new_total_cases": 2791,
+    "growth_factor_total_cases": "0.81"
   }
 }
