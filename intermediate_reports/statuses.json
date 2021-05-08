@@ -4885,5 +4885,16 @@
     "hospitalized": 1924,
     "new_total_cases": 3166,
     "growth_factor_total_cases": "0.92"
+  },
+  "2021-05-08": {
+    "infected": 32888,
+    "resolved": 447938,
+    "deaths": 8261,
+    "total_cases": 489087,
+    "new_tests": 47817,
+    "under_investigation": 21740,
+    "hospitalized": 1832,
+    "new_total_cases": 2864,
+    "growth_factor_total_cases": "0.90"
   }
 }

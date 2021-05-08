@@ -8848,5 +8848,29 @@
       "previous_day_doses": 144724,
       "total_doses": 5885485
     }
+  },
+  {
+    "date": "2021-05-08",
+    "deaths": 8261,
+    "growth_factor_total_cases": "0.90",
+    "hospitalized": 1832,
+    "infected": 32888,
+    "ltc": {
+      "resident_total_cases": 15196,
+      "resident_total_deaths": 3931,
+      "resident_new_cases": 5
+    },
+    "new_tests": 47817,
+    "new_total_cases": 2864,
+    "resolved": 447938,
+    "toronto": {
+      "new_cases": 684
+    },
+    "total_cases": 489087,
+    "under_investigation": 21740,
+    "vaccine": {
+      "previous_day_doses": 138125,
+      "total_doses": 6023610
+    }
   }
 ]
