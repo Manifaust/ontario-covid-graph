@@ -4907,5 +4907,17 @@
     "hospitalized": 1640,
     "new_total_cases": 3216,
     "growth_factor_total_cases": "1.12"
+  },
+  "2021-05-10": {
+    "infected": 31991,
+    "resolved": 454701,
+    "deaths": 8327,
+    "total_cases": 495019,
+    "new_tests": 27175,
+    "under_investigation": 12837,
+    "hospitalized": 1632,
+    "new_total_cases": 2716,
+    "growth_factor_total_cases": "0.84",
+    "weekly_growth_factor_total_cases": "0.84"
   }
 }
