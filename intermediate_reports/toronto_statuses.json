@@ -2060,5 +2060,10 @@
     "toronto": {
       "new_cases": 807
     }
+  },
+  "2021-05-11": {
+    "toronto": {
+      "new_cases": 685
+    }
   }
 }

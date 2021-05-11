@@ -4919,5 +4919,16 @@
     "new_total_cases": 2716,
     "growth_factor_total_cases": "0.84",
     "weekly_growth_factor_total_cases": "0.84"
+  },
+  "2021-05-11": {
+    "infected": 31151,
+    "resolved": 457599,
+    "deaths": 8342,
+    "total_cases": 497092,
+    "new_tests": 28109,
+    "under_investigation": 24915,
+    "hospitalized": 1782,
+    "new_total_cases": 2073,
+    "growth_factor_total_cases": "0.76"
   }
 }
