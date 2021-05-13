@@ -4941,5 +4941,16 @@
     "hospitalized": 1673,
     "new_total_cases": 2320,
     "growth_factor_total_cases": "1.12"
+  },
+  "2021-05-13": {
+    "infected": 29235,
+    "resolved": 464531,
+    "deaths": 8405,
+    "total_cases": 502171,
+    "new_tests": 47638,
+    "under_investigation": 24365,
+    "hospitalized": 1632,
+    "new_total_cases": 2759,
+    "growth_factor_total_cases": "1.19"
   }
 }
