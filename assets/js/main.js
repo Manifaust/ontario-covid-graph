@@ -1,6 +1,8 @@
-Chart.defaults.font.family = getComputedStyle(document.body).fontFamily
-Chart.defaults.elements.line.borderWidth = 1
-Chart.defaults.controllers.line.spanGaps = true
+const Chart = window.Chart
+
+Chart.defaults.font.family = window.getComputedStyle(document.body).fontFamily
+Chart.overrides.line.borderWidth = 1
+Chart.overrides.line.spanGaps = true
 
 const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
@@ -273,9 +275,9 @@ const darkMode = (e) => {
     title.classList.remove('black')
     title.classList.add('white')
     chart.collection.map((chart) => {
-      chart.options.scales.x.gridLines.color = 'rgba(255,255,255,0.1)'
-      chart.options.scales.y.gridLines.color = 'rgba(255,255,255,0.1)'
-      chart.update()
+      chart.options.scales.x.grid.color = 'rgba(255,255,255,0.1)'
+      chart.options.scales.y.grid.color = 'rgba(255,255,255,0.1)'
+      return chart.update()
     })
     updateElements('b--black-10', 'b--white-10')
   } else {
@@ -284,9 +286,9 @@ const darkMode = (e) => {
     title.classList.add('black')
     title.classList.remove('white')
     chart.collection.map((chart) => {
-      chart.options.scales.x.gridLines.color = 'rgba(0,0,0,0.1)'
-      chart.options.scales.y.gridLines.color = 'rgba(0,0,0,0.1)'
-      chart.update()
+      chart.options.scales.x.grid.color = 'rgba(0,0,0,0.1)'
+      chart.options.scales.y.grid.color = 'rgba(0,0,0,0.1)'
+      return chart.update()
     })
     updateElements('b--white-10', 'b--black-10')
   }
@@ -311,7 +313,7 @@ const createDateControl = (lastDay) => {
   dateControl.addEventListener('change', (e) => {
     chart.collection.map((chart) => {
       chart.options.scales.x.min = e.target.value
-      chart.update()
+      return chart.update()
     })
   }, false)
 }
