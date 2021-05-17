@@ -4985,5 +4985,17 @@
     "hospitalized": 1292,
     "new_total_cases": 2199,
     "growth_factor_total_cases": "0.85"
+  },
+  "2021-05-17": {
+    "infected": 25869,
+    "resolved": 477128,
+    "deaths": 8489,
+    "total_cases": 511486,
+    "new_tests": 24498,
+    "under_investigation": 8960,
+    "hospitalized": 1320,
+    "new_total_cases": 2170,
+    "growth_factor_total_cases": "0.99",
+    "weekly_growth_factor_total_cases": "0.78"
   }
 }
