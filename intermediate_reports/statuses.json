@@ -4997,5 +4997,16 @@
     "new_total_cases": 2170,
     "growth_factor_total_cases": "0.99",
     "weekly_growth_factor_total_cases": "0.78"
+  },
+  "2021-05-18": {
+    "infected": 24966,
+    "resolved": 479630,
+    "deaths": 8506,
+    "total_cases": 513102,
+    "new_tests": 22915,
+    "under_investigation": 20325,
+    "hospitalized": 1484,
+    "new_total_cases": 1616,
+    "growth_factor_total_cases": "0.74"
   }
 }
