@@ -2564,5 +2564,12 @@
       "resident_total_deaths": 3945,
       "resident_new_cases": 14
     }
+  },
+  "2021-05-22": {
+    "ltc": {
+      "resident_total_cases": 15268,
+      "resident_total_deaths": 3947,
+      "resident_new_cases": 13
+    }
   }
 }
