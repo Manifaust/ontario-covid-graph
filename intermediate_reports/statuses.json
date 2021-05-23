@@ -5052,5 +5052,16 @@
     "hospitalized": 1207,
     "new_total_cases": 1794,
     "growth_factor_total_cases": "0.95"
+  },
+  "2021-05-23": {
+    "infected": 20672,
+    "resolved": 493179,
+    "deaths": 8614,
+    "total_cases": 522465,
+    "new_tests": 31227,
+    "under_investigation": 9513,
+    "hospitalized": 1041,
+    "new_total_cases": 1691,
+    "growth_factor_total_cases": "0.94"
   }
 }
