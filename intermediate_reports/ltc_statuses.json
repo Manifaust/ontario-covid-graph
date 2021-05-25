@@ -2581,16 +2581,16 @@
   },
   "2021-05-24": {
     "ltc": {
-      "resident_total_cases": 25286,
+      "resident_total_cases": 15286,
       "resident_total_deaths": 3947,
-      "resident_new_cases": 10002
+      "resident_new_cases": 2
     }
   },
   "2021-05-25": {
     "ltc": {
       "resident_total_cases": 15288,
       "resident_total_deaths": 3948,
-      "resident_new_cases": 0
+      "resident_new_cases": 2
     }
   }
 }
