@@ -2125,5 +2125,15 @@
     "toronto": {
       "new_cases": 455
     }
+  },
+  "2021-05-24": {
+    "toronto": {
+      "new_cases": 387
+    }
+  },
+  "2021-05-25": {
+    "toronto": {
+      "new_cases": 325
+    }
   }
 }

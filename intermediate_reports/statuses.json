@@ -5063,5 +5063,28 @@
     "hospitalized": 1041,
     "new_total_cases": 1691,
     "growth_factor_total_cases": "0.94"
+  },
+  "2021-05-24": {
+    "infected": 20038,
+    "resolved": 495251,
+    "deaths": 8622,
+    "total_cases": 523911,
+    "new_tests": 20151,
+    "under_investigation": 7299,
+    "hospitalized": 983,
+    "new_total_cases": 1446,
+    "growth_factor_total_cases": "0.86",
+    "weekly_growth_factor_total_cases": "0.75"
+  },
+  "2021-05-25": {
+    "infected": 19026,
+    "resolved": 497269,
+    "deaths": 8655,
+    "total_cases": 524950,
+    "new_tests": 16857,
+    "under_investigation": 7450,
+    "hospitalized": 1025,
+    "new_total_cases": 1039,
+    "growth_factor_total_cases": "0.72"
   }
 }
