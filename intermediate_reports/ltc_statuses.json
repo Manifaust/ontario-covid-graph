@@ -2592,5 +2592,12 @@
       "resident_total_deaths": 3948,
       "resident_new_cases": 2
     }
+  },
+  "2021-05-26": {
+    "ltc": {
+      "resident_total_cases": 15290,
+      "resident_total_deaths": 3950,
+      "resident_new_cases": 2
+    }
   }
 }
