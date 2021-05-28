@@ -5108,5 +5108,16 @@
     "hospitalized": 1072,
     "new_total_cases": 1135,
     "growth_factor_total_cases": "1.04"
+  },
+  "2021-05-28": {
+    "infected": 15438,
+    "resolved": 504304,
+    "deaths": 8711,
+    "total_cases": 528453,
+    "new_tests": 40866,
+    "under_investigation": 16002,
+    "hospitalized": 1023,
+    "new_total_cases": 1273,
+    "growth_factor_total_cases": "1.12"
   }
 }
