@@ -9355,5 +9355,29 @@
       "previous_day_doses": 159775,
       "total_doses": 8690473
     }
+  },
+  {
+    "date": "2021-05-29",
+    "deaths": 8726,
+    "growth_factor_total_cases": "0.83",
+    "hospitalized": 934,
+    "infected": 14423,
+    "ltc": {
+      "resident_total_cases": 15300,
+      "resident_total_deaths": 3949,
+      "resident_new_cases": 0
+    },
+    "new_tests": 33559,
+    "new_total_cases": 1057,
+    "resolved": 506361,
+    "toronto": {
+      "new_cases": 228
+    },
+    "total_cases": 529510,
+    "under_investigation": 14678,
+    "vaccine": {
+      "previous_day_doses": 148972,
+      "total_doses": 8839445
+    }
   }
 ]
