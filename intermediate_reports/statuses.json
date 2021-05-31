@@ -5141,5 +5141,17 @@
     "hospitalized": 749,
     "new_total_cases": 1033,
     "growth_factor_total_cases": "0.98"
+  },
+  "2021-05-31": {
+    "infected": 12567,
+    "resolved": 510135,
+    "deaths": 8757,
+    "total_cases": 531459,
+    "new_tests": 18226,
+    "under_investigation": 7087,
+    "hospitalized": 731,
+    "new_total_cases": 916,
+    "growth_factor_total_cases": "0.89",
+    "weekly_growth_factor_total_cases": "0.61"
   }
 }
