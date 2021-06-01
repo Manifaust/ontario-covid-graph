@@ -5153,5 +5153,16 @@
     "new_total_cases": 916,
     "growth_factor_total_cases": "0.89",
     "weekly_growth_factor_total_cases": "0.61"
+  },
+  "2021-06-01": {
+    "infected": 11689,
+    "resolved": 511703,
+    "deaths": 8766,
+    "total_cases": 532158,
+    "new_tests": 20262,
+    "under_investigation": 15490,
+    "hospitalized": 804,
+    "new_total_cases": 699,
+    "growth_factor_total_cases": "0.76"
   }
 }
