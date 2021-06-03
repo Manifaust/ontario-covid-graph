@@ -5758,7 +5758,6 @@
     "total_cases": 178831,
     "under_investigation": 54955,
     "vaccine": {
-      "previous_day_doses": 4595,
       "total_doses": 18603
     }
   },
@@ -5782,7 +5781,6 @@
     "total_cases": 182159,
     "under_investigation": 72283,
     "vaccine": {
-      "previous_day_doses": 5463,
       "total_doses": 23502
     }
   },
@@ -5806,7 +5804,6 @@
     "total_cases": 184635,
     "under_investigation": 71526,
     "vaccine": {
-      "previous_day_doses": 5415,
       "total_doses": 28887
     }
   },
@@ -5830,7 +5827,6 @@
     "total_cases": 187998,
     "under_investigation": 41709,
     "vaccine": {
-      "previous_day_doses": 4305,
       "total_doses": 33191
     }
   },
@@ -5854,7 +5850,6 @@
     "total_cases": 190962,
     "under_investigation": 27769,
     "vaccine": {
-      "previous_day_doses": 4361,
       "total_doses": 37551
     }
   },
@@ -5878,7 +5873,6 @@
     "total_cases": 194232,
     "under_investigation": 19683,
     "vaccine": {
-      "previous_day_doses": 4808,
       "total_doses": 42419
     },
     "weekly_growth_factor_total_cases": "1.36"
@@ -5903,7 +5897,6 @@
     "total_cases": 197360,
     "under_investigation": 39805,
     "vaccine": {
-      "previous_day_doses": 7607,
       "total_doses": 50030
     }
   },
@@ -5927,7 +5920,6 @@
     "total_cases": 200626,
     "under_investigation": 55484,
     "vaccine": {
-      "previous_day_doses": 10350,
       "total_doses": 60380
     }
   },
@@ -5951,7 +5943,6 @@
     "total_cases": 204145,
     "under_investigation": 66970,
     "vaccine": {
-      "previous_day_doses": 12251,
       "total_doses": 72631
     }
   },
@@ -5975,7 +5966,6 @@
     "total_cases": 208394,
     "under_investigation": 73067,
     "vaccine": {
-      "previous_day_doses": 14932,
       "total_doses": 87563
     }
   },
@@ -5999,7 +5989,6 @@
     "total_cases": 211837,
     "under_investigation": 61228,
     "vaccine": {
-      "previous_day_doses": 15700,
       "total_doses": 103263
     }
   },
@@ -6023,7 +6012,6 @@
     "total_cases": 215782,
     "under_investigation": 39362,
     "vaccine": {
-      "previous_day_doses": 9983,
       "total_doses": 113246
     }
   },
@@ -6047,7 +6035,6 @@
     "total_cases": 219120,
     "under_investigation": 28774,
     "vaccine": {
-      "previous_day_doses": 8859,
       "total_doses": 122105
     },
     "weekly_growth_factor_total_cases": "1.19"
@@ -6072,7 +6059,6 @@
     "total_cases": 222023,
     "under_investigation": 43154,
     "vaccine": {
-      "previous_day_doses": 11448,
       "total_doses": 133553
     }
   },
@@ -6096,7 +6082,6 @@
     "total_cases": 224984,
     "under_investigation": 61259,
     "vaccine": {
-      "previous_day_doses": 11231,
       "total_doses": 144784
     }
   },
@@ -6120,7 +6105,6 @@
     "total_cases": 228310,
     "under_investigation": 66940,
     "vaccine": {
-      "previous_day_doses": 14237,
       "total_doses": 159021
     }
   },
@@ -6144,7 +6128,6 @@
     "total_cases": 231308,
     "under_investigation": 63728,
     "vaccine": {
-      "previous_day_doses": 15609,
       "total_doses": 174630
     }
   },
@@ -6168,7 +6151,6 @@
     "total_cases": 234364,
     "under_investigation": 50387,
     "vaccine": {
-      "previous_day_doses": 14460,
       "total_doses": 189090
     }
   },
@@ -6192,7 +6174,6 @@
     "total_cases": 237786,
     "under_investigation": 30103,
     "vaccine": {
-      "previous_day_doses": 11007,
       "total_doses": 200097
     }
   },
@@ -6216,7 +6197,6 @@
     "total_cases": 240364,
     "under_investigation": 18481,
     "vaccine": {
-      "previous_day_doses": 9691,
       "total_doses": 209788
     },
     "weekly_growth_factor_total_cases": "0.85"
@@ -6241,7 +6221,6 @@
     "total_cases": 242277,
     "under_investigation": 36750,
     "vaccine": {
-      "previous_day_doses": 14346,
       "total_doses": 224134
     }
   },
@@ -6265,7 +6244,6 @@
     "total_cases": 244932,
     "under_investigation": 48963,
     "vaccine": {
-      "previous_day_doses": 13784,
       "total_doses": 237918
     }
   },
@@ -6289,7 +6267,6 @@
     "total_cases": 247564,
     "under_investigation": 52871,
     "vaccine": {
-      "previous_day_doses": 15899,
       "total_doses": 253817
     }
   },
@@ -6313,7 +6290,6 @@
     "total_cases": 250226,
     "under_investigation": 41819,
     "vaccine": {
-      "previous_day_doses": 11168,
       "total_doses": 264985
     }
   },
@@ -6337,7 +6313,6 @@
     "total_cases": 252585,
     "under_investigation": 37847,
     "vaccine": {
-      "previous_day_doses": 11161,
       "total_doses": 276146
     }
   },
@@ -6361,7 +6336,6 @@
     "total_cases": 255002,
     "under_investigation": 23995,
     "vaccine": {
-      "previous_day_doses": 4427,
       "total_doses": 280573
     }
   },
@@ -6385,7 +6359,6 @@
     "total_cases": 256960,
     "under_investigation": 14991,
     "vaccine": {
-      "previous_day_doses": 5537,
       "total_doses": 286110
     },
     "weekly_growth_factor_total_cases": "0.78"
@@ -6410,7 +6383,6 @@
     "total_cases": 258700,
     "under_investigation": 36405,
     "vaccine": {
-      "previous_day_doses": 9707,
       "total_doses": 295817
     }
   },
@@ -6434,7 +6406,6 @@
     "total_cases": 260370,
     "under_investigation": 46900,
     "vaccine": {
-      "previous_day_doses": 9513,
       "total_doses": 305330
     }
   },
@@ -6458,7 +6429,6 @@
     "total_cases": 262463,
     "under_investigation": 48386,
     "vaccine": {
-      "previous_day_doses": 11910,
       "total_doses": 317240
     }
   },
@@ -6482,7 +6452,6 @@
     "total_cases": 264300,
     "under_investigation": 40453,
     "vaccine": {
-      "previous_day_doses": 10215,
       "total_doses": 327455
     }
   },
@@ -6506,7 +6475,6 @@
     "total_cases": 266363,
     "under_investigation": 31463,
     "vaccine": {
-      "previous_day_doses": 9373,
       "total_doses": 336828
     }
   },
@@ -6530,7 +6498,6 @@
     "total_cases": 268211,
     "under_investigation": 15616,
     "vaccine": {
-      "previous_day_doses": 2816,
       "total_doses": 339644
     }
   },
@@ -6554,7 +6521,6 @@
     "total_cases": 270180,
     "under_investigation": 11651,
     "vaccine": {
-      "previous_day_doses": 2256,
       "total_doses": 341900
     },
     "weekly_growth_factor_total_cases": "0.80"
@@ -6579,7 +6545,6 @@
     "total_cases": 270925,
     "under_investigation": 32348,
     "vaccine": {
-      "previous_day_doses": 2715,
       "total_doses": 344615
     }
   },
@@ -6603,7 +6568,6 @@
     "total_cases": 272097,
     "under_investigation": 44606,
     "vaccine": {
-      "previous_day_doses": 3716,
       "total_doses": 348331
     }
   },
@@ -6627,7 +6591,6 @@
     "total_cases": 273660,
     "under_investigation": 47282,
     "vaccine": {
-      "previous_day_doses": 6724,
       "total_doses": 355055
     }
   },
@@ -6651,7 +6614,6 @@
     "total_cases": 275330,
     "under_investigation": 41561,
     "vaccine": {
-      "previous_day_doses": 7694,
       "total_doses": 362749
     }
   },
@@ -6675,7 +6637,6 @@
     "total_cases": 276718,
     "under_investigation": 31924,
     "vaccine": {
-      "previous_day_doses": 9917,
       "total_doses": 372666
     }
   },
@@ -6699,7 +6660,6 @@
     "total_cases": 278207,
     "under_investigation": 16539,
     "vaccine": {
-      "previous_day_doses": 6518,
       "total_doses": 379184
     }
   },
@@ -6723,7 +6683,6 @@
     "total_cases": 279472,
     "under_investigation": 10693,
     "vaccine": {
-      "previous_day_doses": 6987,
       "total_doses": 386171
     },
     "weekly_growth_factor_total_cases": "0.70"
@@ -6748,7 +6707,6 @@
     "total_cases": 280494,
     "under_investigation": 33273,
     "vaccine": {
-      "previous_day_doses": 12462,
       "total_doses": 398633
     }
   },
@@ -6772,7 +6730,6 @@
     "total_cases": 281566,
     "under_investigation": 41725,
     "vaccine": {
-      "previous_day_doses": 13486,
       "total_doses": 412119
     }
   },
@@ -6794,7 +6751,6 @@
     "total_cases": 282511,
     "under_investigation": 43383,
     "vaccine": {
-      "previous_day_doses": 14717,
       "total_doses": 426836
     }
   },
@@ -6817,7 +6773,6 @@
     "total_cases": 283587,
     "under_investigation": 38345,
     "vaccine": {
-      "previous_day_doses": 15605,
       "total_doses": 442441
     }
   },
@@ -6841,7 +6796,6 @@
     "total_cases": 284887,
     "under_investigation": 32143,
     "vaccine": {
-      "previous_day_doses": 14506,
       "total_doses": 456947
     }
   },
@@ -6865,7 +6819,6 @@
     "total_cases": 285868,
     "under_investigation": 15947,
     "vaccine": {
-      "previous_day_doses": 10679,
       "total_doses": 467626
     }
   },
@@ -6889,7 +6842,6 @@
     "total_cases": 286832,
     "under_investigation": 10802,
     "vaccine": {
-      "previous_day_doses": 7698,
       "total_doses": 475324
     },
     "weekly_growth_factor_total_cases": "0.79"
@@ -6914,7 +6866,6 @@
     "total_cases": 287736,
     "under_investigation": 15024,
     "vaccine": {
-      "previous_day_doses": 5053,
       "total_doses": 480377
     }
   },
@@ -6938,7 +6889,6 @@
     "total_cases": 288583,
     "under_investigation": 33730,
     "vaccine": {
-      "previous_day_doses": 9107,
       "total_doses": 489484
     }
   },
@@ -6962,7 +6912,6 @@
     "total_cases": 289621,
     "under_investigation": 44532,
     "vaccine": {
-      "previous_day_doses": 12383,
       "total_doses": 501867
     }
   },
@@ -6986,7 +6935,6 @@
     "total_cases": 290771,
     "under_investigation": 39970,
     "vaccine": {
-      "previous_day_doses": 16967,
       "total_doses": 518834
     }
   },
@@ -7010,7 +6958,6 @@
     "total_cases": 291999,
     "under_investigation": 30762,
     "vaccine": {
-      "previous_day_doses": 21295,
       "total_doses": 540129
     }
   },
@@ -7034,7 +6981,6 @@
     "total_cases": 293086,
     "under_investigation": 17307,
     "vaccine": {
-      "previous_day_doses": 16404,
       "total_doses": 556533
     }
   },
@@ -7058,7 +7004,6 @@
     "total_cases": 294144,
     "under_investigation": 11883,
     "vaccine": {
-      "previous_day_doses": 12922,
       "total_doses": 569455
     },
     "weekly_growth_factor_total_cases": "0.99"
@@ -7083,7 +7028,6 @@
     "total_cases": 295119,
     "under_investigation": 28802,
     "vaccine": {
-      "previous_day_doses": 16252,
       "total_doses": 585707
     }
   },
@@ -7107,7 +7051,6 @@
     "total_cases": 296173,
     "under_investigation": 41251,
     "vaccine": {
-      "previous_day_doses": 17141,
       "total_doses": 602848
     }
   },
@@ -7131,7 +7074,6 @@
     "total_cases": 297311,
     "under_investigation": 40639,
     "vaccine": {
-      "previous_day_doses": 19112,
       "total_doses": 621960
     }
   },
@@ -7155,7 +7097,6 @@
     "total_cases": 298569,
     "under_investigation": 35502,
     "vaccine": {
-      "previous_day_doses": 21805,
       "total_doses": 643765
     }
   },
@@ -7179,7 +7120,6 @@
     "total_cases": 299754,
     "under_investigation": 27989,
     "vaccine": {
-      "previous_day_doses": 24339,
       "total_doses": 668104
     }
   },
@@ -7203,7 +7143,6 @@
     "total_cases": 300816,
     "under_investigation": 18318,
     "vaccine": {
-      "previous_day_doses": 19167,
       "total_doses": 687271
     }
   },
@@ -7227,7 +7166,6 @@
     "total_cases": 301839,
     "under_investigation": 13416,
     "vaccine": {
-      "previous_day_doses": 17424,
       "total_doses": 704695
     },
     "weekly_growth_factor_total_cases": "1.05"
@@ -7252,7 +7190,6 @@
     "total_cases": 302805,
     "under_investigation": 31074,
     "vaccine": {
-      "previous_day_doses": 22326,
       "total_doses": 727021
     }
   },
@@ -7276,7 +7213,6 @@
     "total_cases": 303763,
     "under_investigation": 43139,
     "vaccine": {
-      "previous_day_doses": 27398,
       "total_doses": 754419
     }
   },
@@ -7300,7 +7236,6 @@
     "total_cases": 304757,
     "under_investigation": 42723,
     "vaccine": {
-      "previous_day_doses": 30409,
       "total_doses": 784828
     }
   },
@@ -7324,7 +7259,6 @@
     "total_cases": 306007,
     "under_investigation": 34037,
     "vaccine": {
-      "previous_day_doses": 35886,
       "total_doses": 820714
     }
   },
@@ -7348,7 +7282,6 @@
     "total_cases": 306997,
     "under_investigation": 27796,
     "vaccine": {
-      "previous_day_doses": 39698,
       "total_doses": 860412
     }
   },
@@ -7372,7 +7305,6 @@
     "total_cases": 308296,
     "under_investigation": 20057,
     "vaccine": {
-      "previous_day_doses": 30192,
       "total_doses": 890604
     }
   },
@@ -7396,7 +7328,6 @@
     "total_cases": 309927,
     "under_investigation": 13891,
     "vaccine": {
-      "previous_day_doses": 21882,
       "total_doses": 912486
     },
     "weekly_growth_factor_total_cases": "1.05"
@@ -7421,7 +7352,6 @@
     "total_cases": 311112,
     "under_investigation": 29845,
     "vaccine": {
-      "previous_day_doses": 31047,
       "total_doses": 943533
     }
   },
@@ -7445,7 +7375,6 @@
     "total_cases": 312428,
     "under_investigation": 38518,
     "vaccine": {
-      "previous_day_doses": 35264,
       "total_doses": 978797
     }
   },
@@ -7469,7 +7398,6 @@
     "total_cases": 313520,
     "under_investigation": 42033,
     "vaccine": {
-      "previous_day_doses": 40610,
       "total_doses": 1019407
     }
   },
@@ -7493,7 +7421,6 @@
     "total_cases": 314891,
     "under_investigation": 36744,
     "vaccine": {
-      "previous_day_doses": 43503,
       "total_doses": 1062910
     }
   },
@@ -7517,7 +7444,6 @@
     "total_cases": 316359,
     "under_investigation": 29756,
     "vaccine": {
-      "previous_day_doses": 53586,
       "total_doses": 1116496
     }
   },
@@ -7541,7 +7467,6 @@
     "total_cases": 318106,
     "under_investigation": 18494,
     "vaccine": {
-      "previous_day_doses": 41859,
       "total_doses": 1158355
     }
   },
@@ -7565,7 +7490,6 @@
     "total_cases": 319374,
     "under_investigation": 10954,
     "vaccine": {
-      "previous_day_doses": 33198,
       "total_doses": 1191553
     },
     "weekly_growth_factor_total_cases": "1.17"
@@ -7590,7 +7514,6 @@
     "total_cases": 320448,
     "under_investigation": 27448,
     "vaccine": {
-      "previous_day_doses": 51579,
       "total_doses": 1243132
     }
   },
@@ -7614,7 +7537,6 @@
     "total_cases": 321956,
     "under_investigation": 35201,
     "vaccine": {
-      "previous_day_doses": 58202,
       "total_doses": 1301334
     }
   },
@@ -7638,7 +7560,6 @@
     "total_cases": 323509,
     "under_investigation": 32330,
     "vaccine": {
-      "previous_day_doses": 58119,
       "total_doses": 1359453
     }
   },
@@ -7662,7 +7583,6 @@
     "total_cases": 325254,
     "under_investigation": 29545,
     "vaccine": {
-      "previous_day_doses": 61146,
       "total_doses": 1420599
     }
   },
@@ -7686,7 +7606,6 @@
     "total_cases": 327083,
     "under_investigation": 28020,
     "vaccine": {
-      "previous_day_doses": 60283,
       "total_doses": 1480882
     }
   },
@@ -7710,7 +7629,6 @@
     "total_cases": 328874,
     "under_investigation": 19486,
     "vaccine": {
-      "previous_day_doses": 40823,
       "total_doses": 1521705
     }
   },
@@ -7734,7 +7652,6 @@
     "total_cases": 330573,
     "under_investigation": 14407,
     "vaccine": {
-      "previous_day_doses": 31335,
       "total_doses": 1553040
     },
     "weekly_growth_factor_total_cases": "1.19"
@@ -7759,7 +7676,6 @@
     "total_cases": 332119,
     "under_investigation": 31325,
     "vaccine": {
-      "previous_day_doses": 50659,
       "total_doses": 1603699
     }
   },
@@ -7783,7 +7699,6 @@
     "total_cases": 333690,
     "under_investigation": 38985,
     "vaccine": {
-      "previous_day_doses": 72451,
       "total_doses": 1676150
     }
   },
@@ -7807,7 +7722,6 @@
     "total_cases": 336070,
     "under_investigation": 36916,
     "vaccine": {
-      "previous_day_doses": 79446,
       "total_doses": 1755596
     }
   },
@@ -7831,7 +7745,6 @@
     "total_cases": 338239,
     "under_investigation": 37364,
     "vaccine": {
-      "previous_day_doses": 82996,
       "total_doses": 1838592
     }
   },
@@ -7855,7 +7768,6 @@
     "total_cases": 340692,
     "under_investigation": 33065,
     "vaccine": {
-      "previous_day_doses": 77740,
       "total_doses": 1916332
     }
   },
@@ -7879,7 +7791,6 @@
     "total_cases": 343140,
     "under_investigation": 25452,
     "vaccine": {
-      "previous_day_doses": 64950,
       "total_doses": 1981282
     }
   },
@@ -7903,7 +7814,6 @@
     "total_cases": 345234,
     "under_investigation": 17716,
     "vaccine": {
-      "previous_day_doses": 50453,
       "total_doses": 2031735
     },
     "weekly_growth_factor_total_cases": "1.31"
@@ -7928,7 +7838,6 @@
     "total_cases": 347570,
     "under_investigation": 35066,
     "vaccine": {
-      "previous_day_doses": 70645,
       "total_doses": 2102380
     }
   },
@@ -7952,7 +7861,6 @@
     "total_cases": 349903,
     "under_investigation": 40446,
     "vaccine": {
-      "previous_day_doses": 89873,
       "total_doses": 2192253
     }
   },
@@ -7976,7 +7884,6 @@
     "total_cases": 352460,
     "under_investigation": 42057,
     "vaccine": {
-      "previous_day_doses": 84060,
       "total_doses": 2276313
     }
   },
@@ -8000,7 +7907,6 @@
     "total_cases": 355549,
     "under_investigation": 39233,
     "vaccine": {
-      "previous_day_doses": 88183,
       "total_doses": 2364496
     }
   },
@@ -8024,7 +7930,6 @@
     "total_cases": 358558,
     "under_investigation": 25049,
     "vaccine": {
-      "previous_day_doses": 59567,
       "total_doses": 2424063
     }
   },
@@ -8048,7 +7953,6 @@
     "total_cases": 361599,
     "under_investigation": 19689,
     "vaccine": {
-      "previous_day_doses": 69125,
       "total_doses": 2493188
     }
   },
@@ -8072,7 +7976,6 @@
     "total_cases": 364537,
     "under_investigation": 17739,
     "vaccine": {
-      "previous_day_doses": 52452,
       "total_doses": 2545640
     },
     "weekly_growth_factor_total_cases": "1.32"
@@ -8097,7 +8000,6 @@
     "total_cases": 367602,
     "under_investigation": 29173,
     "vaccine": {
-      "previous_day_doses": 76199,
       "total_doses": 2621839
     }
   },
@@ -8121,7 +8023,6 @@
     "total_cases": 370817,
     "under_investigation": 41624,
     "vaccine": {
-      "previous_day_doses": 104382,
       "total_doses": 2726221
     }
   },
@@ -8145,7 +8046,6 @@
     "total_cases": 374112,
     "under_investigation": 42404,
     "vaccine": {
-      "previous_day_doses": 108563,
       "total_doses": 2834784
     }
   },
@@ -8169,7 +8069,6 @@
     "total_cases": 378339,
     "under_investigation": 42572,
     "vaccine": {
-      "previous_day_doses": 105382,
       "total_doses": 2940166
     }
   },
@@ -8193,7 +8092,6 @@
     "total_cases": 382152,
     "under_investigation": 42963,
     "vaccine": {
-      "previous_day_doses": 104783,
       "total_doses": 3044949
     }
   },
@@ -8217,7 +8115,6 @@
     "total_cases": 386608,
     "under_investigation": 31836,
     "vaccine": {
-      "previous_day_doses": 94794,
       "total_doses": 3139743
     }
   },
@@ -8241,7 +8138,6 @@
     "total_cases": 391009,
     "under_investigation": 24796,
     "vaccine": {
-      "previous_day_doses": 74722,
       "total_doses": 3214465
     },
     "weekly_growth_factor_total_cases": "1.37"
@@ -8266,7 +8162,6 @@
     "total_cases": 394679,
     "under_investigation": 35679,
     "vaccine": {
-      "previous_day_doses": 95692,
       "total_doses": 3310157
     }
   },
@@ -8290,7 +8185,6 @@
     "total_cases": 398835,
     "under_investigation": 45248,
     "vaccine": {
-      "previous_day_doses": 112817,
       "total_doses": 3422974
     }
   },
@@ -8314,7 +8208,6 @@
     "total_cases": 403571,
     "under_investigation": 39682,
     "vaccine": {
-      "previous_day_doses": 105430,
       "total_doses": 3528404
     }
   },
@@ -8338,7 +8231,6 @@
     "total_cases": 408383,
     "under_investigation": 38815,
     "vaccine": {
-      "previous_day_doses": 115634,
       "total_doses": 3644038
     }
   },
@@ -8362,7 +8254,6 @@
     "total_cases": 412745,
     "under_investigation": 37520,
     "vaccine": {
-      "previous_day_doses": 107278,
       "total_doses": 3751316
     }
   },
@@ -8386,7 +8277,6 @@
     "total_cases": 416995,
     "under_investigation": 28651,
     "vaccine": {
-      "previous_day_doses": 86565,
       "total_doses": 3837881
     }
   },
@@ -8410,7 +8300,6 @@
     "total_cases": 421442,
     "under_investigation": 21512,
     "vaccine": {
-      "previous_day_doses": 66897,
       "total_doses": 3904778
     },
     "weekly_growth_factor_total_cases": "1.15"
@@ -8435,7 +8324,6 @@
     "total_cases": 424911,
     "under_investigation": 29217,
     "vaccine": {
-      "previous_day_doses": 90409,
       "total_doses": 3995187
     }
   },
@@ -8459,7 +8347,6 @@
     "total_cases": 429123,
     "under_investigation": 32119,
     "vaccine": {
-      "previous_day_doses": 136695,
       "total_doses": 4131882
     }
   },
@@ -8483,7 +8370,6 @@
     "total_cases": 432805,
     "under_investigation": 33327,
     "vaccine": {
-      "previous_day_doses": 134920,
       "total_doses": 4266802
     }
   },
@@ -8507,7 +8393,6 @@
     "total_cases": 437310,
     "under_investigation": 31363,
     "vaccine": {
-      "previous_day_doses": 133872,
       "total_doses": 4400674
     }
   },
@@ -8531,7 +8416,6 @@
     "total_cases": 441404,
     "under_investigation": 31933,
     "vaccine": {
-      "previous_day_doses": 126694,
       "total_doses": 4527368
     }
   },
@@ -8555,7 +8439,6 @@
     "total_cases": 445351,
     "under_investigation": 25641,
     "vaccine": {
-      "previous_day_doses": 99535,
       "total_doses": 4626903
     }
   },
@@ -8579,7 +8462,6 @@
     "total_cases": 448861,
     "under_investigation": 17369,
     "vaccine": {
-      "previous_day_doses": 69308,
       "total_doses": 4696211
     },
     "weekly_growth_factor_total_cases": "0.90"
@@ -8604,7 +8486,6 @@
     "total_cases": 452126,
     "under_investigation": 29264,
     "vaccine": {
-      "previous_day_doses": 94819,
       "total_doses": 4791030
     }
   },
@@ -8628,7 +8509,6 @@
     "total_cases": 455606,
     "under_investigation": 34746,
     "vaccine": {
-      "previous_day_doses": 116173,
       "total_doses": 4907203
     }
   },
@@ -8652,7 +8532,6 @@
     "total_cases": 459477,
     "under_investigation": 31914,
     "vaccine": {
-      "previous_day_doses": 120567,
       "total_doses": 5027770
     }
   },
@@ -8676,7 +8555,6 @@
     "total_cases": 463364,
     "under_investigation": 29003,
     "vaccine": {
-      "previous_day_doses": 112214,
       "total_doses": 5139984
     }
   },
@@ -8700,7 +8578,6 @@
     "total_cases": 466733,
     "under_investigation": 26530,
     "vaccine": {
-      "previous_day_doses": 107700,
       "total_doses": 5247684
     }
   },
@@ -8724,7 +8601,6 @@
     "total_cases": 470465,
     "under_investigation": 20091,
     "vaccine": {
-      "previous_day_doses": 76685,
       "total_doses": 5324369
     }
   },
@@ -8748,7 +8624,6 @@
     "total_cases": 473901,
     "under_investigation": 15119,
     "vaccine": {
-      "previous_day_doses": 53880,
       "total_doses": 5378249
     },
     "weekly_growth_factor_total_cases": "0.91"
@@ -8773,7 +8648,6 @@
     "total_cases": 476692,
     "under_investigation": 25049,
     "vaccine": {
-      "previous_day_doses": 88871,
       "total_doses": 5467120
     }
   },
@@ -8797,7 +8671,6 @@
     "total_cases": 479633,
     "under_investigation": 29179,
     "vaccine": {
-      "previous_day_doses": 132603,
       "total_doses": 5599723
     }
   },
@@ -8821,7 +8694,6 @@
     "total_cases": 483057,
     "under_investigation": 27286,
     "vaccine": {
-      "previous_day_doses": 141038,
       "total_doses": 5740761
     }
   },
@@ -8845,7 +8717,6 @@
     "total_cases": 486223,
     "under_investigation": 25957,
     "vaccine": {
-      "previous_day_doses": 144724,
       "total_doses": 5885485
     }
   },
@@ -8869,7 +8740,6 @@
     "total_cases": 489087,
     "under_investigation": 21740,
     "vaccine": {
-      "previous_day_doses": 138125,
       "total_doses": 6023610
     }
   },
@@ -8893,7 +8763,6 @@
     "total_cases": 492303,
     "under_investigation": 16085,
     "vaccine": {
-      "previous_day_doses": 121075,
       "total_doses": 6144685
     }
   },
@@ -8917,7 +8786,6 @@
     "total_cases": 495019,
     "under_investigation": 12837,
     "vaccine": {
-      "previous_day_doses": 94093,
       "total_doses": 6238778
     },
     "weekly_growth_factor_total_cases": "0.84"
@@ -8942,7 +8810,6 @@
     "total_cases": 497092,
     "under_investigation": 24915,
     "vaccine": {
-      "previous_day_doses": 112103,
       "total_doses": 6350881
     }
   },
@@ -8966,7 +8833,6 @@
     "total_cases": 499412,
     "under_investigation": 28174,
     "vaccine": {
-      "previous_day_doses": 140785,
       "total_doses": 6491666
     }
   },
@@ -8990,7 +8856,6 @@
     "total_cases": 502171,
     "under_investigation": 24365,
     "vaccine": {
-      "previous_day_doses": 137697,
       "total_doses": 6629363
     }
   },
@@ -9014,7 +8879,6 @@
     "total_cases": 504533,
     "under_investigation": 22237,
     "vaccine": {
-      "previous_day_doses": 141765,
       "total_doses": 6771128
     }
   },
@@ -9038,7 +8902,6 @@
     "total_cases": 507117,
     "under_investigation": 19533,
     "vaccine": {
-      "previous_day_doses": 154104,
       "total_doses": 6925232
     }
   },
@@ -9062,7 +8925,6 @@
     "total_cases": 509316,
     "under_investigation": 12559,
     "vaccine": {
-      "previous_day_doses": 139583,
       "total_doses": 7064815
     }
   },
@@ -9086,7 +8948,6 @@
     "total_cases": 511486,
     "under_investigation": 8960,
     "vaccine": {
-      "previous_day_doses": 112330,
       "total_doses": 7177145
     },
     "weekly_growth_factor_total_cases": "0.78"
@@ -9111,7 +8972,6 @@
     "total_cases": 513102,
     "under_investigation": 20325,
     "vaccine": {
-      "previous_day_doses": 109032,
       "total_doses": 7286177
     }
   },
@@ -9135,7 +8995,6 @@
     "total_cases": 514690,
     "under_investigation": 26091,
     "vaccine": {
-      "previous_day_doses": 145461,
       "total_doses": 7431638
     }
   },
@@ -9159,7 +9018,6 @@
     "total_cases": 517090,
     "under_investigation": 20642,
     "vaccine": {
-      "previous_day_doses": 144986,
       "total_doses": 7576624
     }
   },
@@ -9183,7 +9041,6 @@
     "total_cases": 518980,
     "under_investigation": 19891,
     "vaccine": {
-      "previous_day_doses": 158524,
       "total_doses": 7735148
     }
   },
@@ -9207,7 +9064,6 @@
     "total_cases": 520774,
     "under_investigation": 18338,
     "vaccine": {
-      "previous_day_doses": 190129,
       "total_doses": 7925277
     }
   },
@@ -9231,7 +9087,6 @@
     "total_cases": 522465,
     "under_investigation": 9513,
     "vaccine": {
-      "previous_day_doses": 140330,
       "total_doses": 8065607
     }
   },
@@ -9255,7 +9110,6 @@
     "total_cases": 523911,
     "under_investigation": 7299,
     "vaccine": {
-      "previous_day_doses": 99108,
       "total_doses": 8164715
     },
     "weekly_growth_factor_total_cases": "0.75"
@@ -9280,7 +9134,6 @@
     "total_cases": 524950,
     "under_investigation": 7450,
     "vaccine": {
-      "previous_day_doses": 86927,
       "total_doses": 8251642
     }
   },
@@ -9304,7 +9157,6 @@
     "total_cases": 526045,
     "under_investigation": 18518,
     "vaccine": {
-      "previous_day_doses": 135308,
       "total_doses": 8386950
     }
   },
@@ -9328,7 +9180,6 @@
     "total_cases": 527180,
     "under_investigation": 23068,
     "vaccine": {
-      "previous_day_doses": 143748,
       "total_doses": 8530698
     }
   },
@@ -9352,7 +9203,6 @@
     "total_cases": 528453,
     "under_investigation": 16002,
     "vaccine": {
-      "previous_day_doses": 159775,
       "total_doses": 8690473
     }
   },
@@ -9376,7 +9226,6 @@
     "total_cases": 529510,
     "under_investigation": 14678,
     "vaccine": {
-      "previous_day_doses": 148972,
       "total_doses": 8839445
     }
   },
@@ -9400,7 +9249,6 @@
     "total_cases": 530543,
     "under_investigation": 8735,
     "vaccine": {
-      "previous_day_doses": 144833,
       "total_doses": 8984278
     }
   },
@@ -9424,7 +9272,6 @@
     "total_cases": 531459,
     "under_investigation": 7087,
     "vaccine": {
-      "previous_day_doses": 97747,
       "total_doses": 9082025
     },
     "weekly_growth_factor_total_cases": "0.61"
@@ -9449,7 +9296,6 @@
     "total_cases": 532158,
     "under_investigation": 15490,
     "vaccine": {
-      "previous_day_doses": 120195,
       "total_doses": 9202220
     }
   },
@@ -9473,8 +9319,30 @@
     "total_cases": 532891,
     "under_investigation": 18999,
     "vaccine": {
-      "previous_day_doses": 139901,
       "total_doses": 9342121
+    }
+  },
+  {
+    "date": "2021-06-03",
+    "deaths": 8801,
+    "growth_factor_total_cases": "1.19",
+    "hospitalized": 729,
+    "infected": 9961,
+    "ltc": {
+      "resident_total_cases": 15307,
+      "resident_total_deaths": 3951,
+      "resident_new_cases": 1
+    },
+    "new_tests": 34277,
+    "new_total_cases": 870,
+    "resolved": 514999,
+    "toronto": {
+      "new_cases": 225
+    },
+    "total_cases": 533761,
+    "under_investigation": 15700,
+    "vaccine": {
+      "total_doses": 9493005
     }
   }
 ]
