@@ -5186,5 +5186,16 @@
     "hospitalized": 729,
     "new_total_cases": 870,
     "growth_factor_total_cases": "1.19"
+  },
+  "2021-06-04": {
+    "infected": 9459,
+    "resolved": 516396,
+    "deaths": 8820,
+    "total_cases": 534675,
+    "new_tests": 32258,
+    "under_investigation": 14107,
+    "hospitalized": 687,
+    "new_total_cases": 914,
+    "growth_factor_total_cases": "1.05"
   }
 }

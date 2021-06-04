@@ -9344,5 +9344,28 @@
     "vaccine": {
       "total_doses": 9493005
     }
+  },
+  {
+    "date": "2021-06-04",
+    "deaths": 8820,
+    "growth_factor_total_cases": "1.05",
+    "hospitalized": 687,
+    "infected": 9459,
+    "ltc": {
+      "resident_total_cases": 15310,
+      "resident_total_deaths": 3953,
+      "resident_new_cases": 3
+    },
+    "new_tests": 32258,
+    "new_total_cases": 914,
+    "resolved": 516396,
+    "toronto": {
+      "new_cases": 214
+    },
+    "total_cases": 534675,
+    "under_investigation": 14107,
+    "vaccine": {
+      "total_doses": 9661327
+    }
   }
 ]
