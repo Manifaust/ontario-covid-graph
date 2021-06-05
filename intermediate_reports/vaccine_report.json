@@ -788,5 +788,10 @@
     "vaccine": {
       "total_doses": 9661327
     }
+  },
+  "2021-06-05": {
+    "vaccine": {
+      "total_doses": 9834182
+    }
   }
 }
