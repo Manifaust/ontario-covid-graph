@@ -24,13 +24,13 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Total Vaccine Doses Administered</h2>
-  <canvas id="total-vaccine" class="mb3"></canvas>
+  <h2 class="f3 fw3">Immunization Coverage</h2>
+  <canvas id="immunization-coverage" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
-  <h2 class="f3 fw3">Total Individuals Fully Vaccinated</h2>
-  <canvas id="total-fully-vaccinated" class="mb3"></canvas>
+  <h2 class="f3 fw3">Total Vaccine Doses Administered</h2>
+  <canvas id="total-vaccine" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">

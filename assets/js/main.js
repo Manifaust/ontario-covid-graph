@@ -44,14 +44,19 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('total-fully-vaccinated'),
-    title: 'Total Individuals Fully Vaccinated',
+    ele: document.getElementById('immunization-coverage'),
+    title: 'Immunization Coverage',
     hideInLegend: true,
     subCharts: [{
       title: 'Total Individuals Fully Vaccinated',
       key: 'vaccine',
       subKey: 'total_fully_vaccinated',
       color: '232, 20, 130'
+    }, {
+      title: 'Total Individuals with at Least One Dose',
+      key: 'vaccine',
+      subKey: 'total_individuals_at_least_one',
+      color: '227, 168, 198'
     }]
   })
 
