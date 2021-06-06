@@ -16,8 +16,8 @@ csv_mapping = {
   new_tests: 'Total tests completed in the last day',
   under_investigation: 'Under Investigation',
   hospitalized: 'Number of patients hospitalized with COVID-19',
-  icu: 'Number of patients in ICU with COVID-19',
-  icu_on_ventilator: 'Number of patients in ICU on a ventilator with COVID-19'
+  icu: 'Number of patients in ICU due to COVID-19',
+  icu_on_ventilator: 'Number of patients in ICU on a ventilator due to COVID-19'
 }
 
 def create_report_entries(status_csv_path, csv_mapping)
