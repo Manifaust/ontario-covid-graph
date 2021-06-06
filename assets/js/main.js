@@ -28,7 +28,6 @@ window.fetch(reportURL).then((response) => {
     title: 'New Cases',
     key: 'new_total_cases',
     hideInLegend: true,
-    color: '255, 159, 64'
   })
 
   chart.render({
@@ -178,7 +177,7 @@ const chart = {
     const chartLabels = fetchedData.map(i => i.date)
     const chartData = fetchedData.map(i => i[opt.key])
     if (!('fill' in opt)) { opt.fill = true }
-    if (!('color' in opt)) { opt.color = '238, 238, 238' }
+    if (!('color' in opt)) { opt.color = '127, 127, 127' }
     const myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
