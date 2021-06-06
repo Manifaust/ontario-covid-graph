@@ -6,796 +6,955 @@
   },
   "2020-12-30": {
     "vaccine": {
+      "previous_day_doses": 7847,
       "total_doses": 18603
     }
   },
   "2020-12-31": {
     "vaccine": {
+      "previous_day_doses": 4899,
       "total_doses": 23502
     }
   },
   "2021-01-01": {
     "vaccine": {
+      "previous_day_doses": 5385,
       "total_doses": 28887
     }
   },
   "2021-01-02": {
     "vaccine": {
+      "previous_day_doses": 4304,
       "total_doses": 33191
     }
   },
   "2021-01-03": {
     "vaccine": {
+      "previous_day_doses": 4360,
       "total_doses": 37551
     }
   },
   "2021-01-04": {
     "vaccine": {
+      "previous_day_doses": 4868,
       "total_doses": 42419
     }
   },
   "2021-01-05": {
     "vaccine": {
+      "previous_day_doses": 7611,
       "total_doses": 50030
     }
   },
   "2021-01-06": {
     "vaccine": {
+      "previous_day_doses": 10350,
       "total_doses": 60380
     }
   },
   "2021-01-07": {
     "vaccine": {
+      "previous_day_doses": 12251,
       "total_doses": 72631
     }
   },
   "2021-01-08": {
     "vaccine": {
+      "previous_day_doses": 14932,
       "total_doses": 87563
     }
   },
   "2021-01-09": {
     "vaccine": {
+      "previous_day_doses": 15700,
       "total_doses": 103263
     }
   },
   "2021-01-10": {
     "vaccine": {
+      "previous_day_doses": 9983,
       "total_doses": 113246
     }
   },
   "2021-01-11": {
     "vaccine": {
+      "previous_day_doses": 8859,
       "total_doses": 122105
     }
   },
   "2021-01-12": {
     "vaccine": {
+      "previous_day_doses": 11448,
       "total_doses": 133553
     }
   },
   "2021-01-13": {
     "vaccine": {
+      "previous_day_doses": 11231,
       "total_doses": 144784
     }
   },
   "2021-01-14": {
     "vaccine": {
+      "previous_day_doses": 14237,
       "total_doses": 159021
     }
   },
   "2021-01-15": {
     "vaccine": {
+      "previous_day_doses": 15609,
       "total_doses": 174630
     }
   },
   "2021-01-16": {
     "vaccine": {
+      "previous_day_doses": 14460,
       "total_doses": 189090
     }
   },
   "2021-01-17": {
     "vaccine": {
+      "previous_day_doses": 11007,
       "total_doses": 200097
     }
   },
   "2021-01-18": {
     "vaccine": {
+      "previous_day_doses": 9691,
       "total_doses": 209788
     }
   },
   "2021-01-19": {
     "vaccine": {
+      "previous_day_doses": 14346,
       "total_doses": 224134
     }
   },
   "2021-01-20": {
     "vaccine": {
+      "previous_day_doses": 13784,
       "total_doses": 237918
     }
   },
   "2021-01-21": {
     "vaccine": {
+      "previous_day_doses": 15899,
       "total_doses": 253817
     }
   },
   "2021-01-22": {
     "vaccine": {
+      "previous_day_doses": 11168,
       "total_doses": 264985
     }
   },
   "2021-01-23": {
     "vaccine": {
+      "previous_day_doses": 11161,
       "total_doses": 276146
     }
   },
   "2021-01-24": {
     "vaccine": {
+      "previous_day_doses": 4427,
       "total_doses": 280573
     }
   },
   "2021-01-25": {
     "vaccine": {
+      "previous_day_doses": 5537,
       "total_doses": 286110
     }
   },
   "2021-01-26": {
     "vaccine": {
+      "previous_day_doses": 9707,
       "total_doses": 295817
     }
   },
   "2021-01-27": {
     "vaccine": {
+      "previous_day_doses": 9513,
       "total_doses": 305330
     }
   },
   "2021-01-28": {
     "vaccine": {
+      "previous_day_doses": 11910,
       "total_doses": 317240
     }
   },
   "2021-01-29": {
     "vaccine": {
+      "previous_day_doses": 10215,
       "total_doses": 327455
     }
   },
   "2021-01-30": {
     "vaccine": {
+      "previous_day_doses": 9373,
       "total_doses": 336828
     }
   },
   "2021-01-31": {
     "vaccine": {
+      "previous_day_doses": 2816,
       "total_doses": 339644
     }
   },
   "2021-02-01": {
     "vaccine": {
+      "previous_day_doses": 2256,
       "total_doses": 341900
     }
   },
   "2021-02-02": {
     "vaccine": {
+      "previous_day_doses": 2715,
       "total_doses": 344615
     }
   },
   "2021-02-03": {
     "vaccine": {
+      "previous_day_doses": 3716,
       "total_doses": 348331
     }
   },
   "2021-02-04": {
     "vaccine": {
+      "previous_day_doses": 6724,
       "total_doses": 355055
     }
   },
   "2021-02-05": {
     "vaccine": {
+      "previous_day_doses": 7694,
       "total_doses": 362749
     }
   },
   "2021-02-06": {
     "vaccine": {
+      "previous_day_doses": 9917,
       "total_doses": 372666
     }
   },
   "2021-02-07": {
     "vaccine": {
+      "previous_day_doses": 6518,
       "total_doses": 379184
     }
   },
   "2021-02-08": {
     "vaccine": {
+      "previous_day_doses": 6987,
       "total_doses": 386171
     }
   },
   "2021-02-09": {
     "vaccine": {
+      "previous_day_doses": 12462,
       "total_doses": 398633
     }
   },
   "2021-02-10": {
     "vaccine": {
+      "previous_day_doses": 13486,
       "total_doses": 412119
     }
   },
   "2021-02-11": {
     "vaccine": {
+      "previous_day_doses": 14717,
       "total_doses": 426836
     }
   },
   "2021-02-12": {
     "vaccine": {
+      "previous_day_doses": 15605,
       "total_doses": 442441
     }
   },
   "2021-02-13": {
     "vaccine": {
+      "previous_day_doses": 14506,
       "total_doses": 456947
     }
   },
   "2021-02-14": {
     "vaccine": {
+      "previous_day_doses": 10679,
       "total_doses": 467626
     }
   },
   "2021-02-15": {
     "vaccine": {
+      "previous_day_doses": 7698,
       "total_doses": 475324
     }
   },
   "2021-02-16": {
     "vaccine": {
+      "previous_day_doses": 5053,
       "total_doses": 480377
     }
   },
   "2021-02-17": {
     "vaccine": {
+      "previous_day_doses": 9107,
       "total_doses": 489484
     }
   },
   "2021-02-18": {
     "vaccine": {
+      "previous_day_doses": 12383,
       "total_doses": 501867
     }
   },
   "2021-02-19": {
     "vaccine": {
+      "previous_day_doses": 16967,
       "total_doses": 518834
     }
   },
   "2021-02-20": {
     "vaccine": {
+      "previous_day_doses": 21295,
       "total_doses": 540129
     }
   },
   "2021-02-21": {
     "vaccine": {
+      "previous_day_doses": 16404,
       "total_doses": 556533
     }
   },
   "2021-02-22": {
     "vaccine": {
+      "previous_day_doses": 12922,
       "total_doses": 569455
     }
   },
   "2021-02-23": {
     "vaccine": {
+      "previous_day_doses": 16252,
       "total_doses": 585707
     }
   },
   "2021-02-24": {
     "vaccine": {
+      "previous_day_doses": 17141,
       "total_doses": 602848
     }
   },
   "2021-02-25": {
     "vaccine": {
+      "previous_day_doses": 19112,
       "total_doses": 621960
     }
   },
   "2021-02-26": {
     "vaccine": {
+      "previous_day_doses": 21805,
       "total_doses": 643765
     }
   },
   "2021-02-27": {
     "vaccine": {
+      "previous_day_doses": 24339,
       "total_doses": 668104
     }
   },
   "2021-02-28": {
     "vaccine": {
+      "previous_day_doses": 19167,
       "total_doses": 687271
     }
   },
   "2021-03-01": {
     "vaccine": {
+      "previous_day_doses": 17424,
       "total_doses": 704695
     }
   },
   "2021-03-02": {
     "vaccine": {
+      "previous_day_doses": 22326,
       "total_doses": 727021
     }
   },
   "2021-03-03": {
     "vaccine": {
+      "previous_day_doses": 27398,
       "total_doses": 754419
     }
   },
   "2021-03-04": {
     "vaccine": {
+      "previous_day_doses": 30409,
       "total_doses": 784828
     }
   },
   "2021-03-05": {
     "vaccine": {
+      "previous_day_doses": 35886,
       "total_doses": 820714
     }
   },
   "2021-03-06": {
     "vaccine": {
+      "previous_day_doses": 39698,
       "total_doses": 860412
     }
   },
   "2021-03-07": {
     "vaccine": {
+      "previous_day_doses": 30192,
       "total_doses": 890604
     }
   },
   "2021-03-08": {
     "vaccine": {
+      "previous_day_doses": 21882,
       "total_doses": 912486
     }
   },
   "2021-03-09": {
     "vaccine": {
+      "previous_day_doses": 31047,
       "total_doses": 943533
     }
   },
   "2021-03-10": {
     "vaccine": {
+      "previous_day_doses": 35264,
       "total_doses": 978797
     }
   },
   "2021-03-11": {
     "vaccine": {
+      "previous_day_doses": 40610,
       "total_doses": 1019407
     }
   },
   "2021-03-12": {
     "vaccine": {
+      "previous_day_doses": 43503,
       "total_doses": 1062910
     }
   },
   "2021-03-13": {
     "vaccine": {
+      "previous_day_doses": 53586,
       "total_doses": 1116496
     }
   },
   "2021-03-14": {
     "vaccine": {
+      "previous_day_doses": 41859,
       "total_doses": 1158355
     }
   },
   "2021-03-15": {
     "vaccine": {
+      "previous_day_doses": 33198,
       "total_doses": 1191553
     }
   },
   "2021-03-16": {
     "vaccine": {
+      "previous_day_doses": 51579,
       "total_doses": 1243132
     }
   },
   "2021-03-17": {
     "vaccine": {
+      "previous_day_doses": 58202,
       "total_doses": 1301334
     }
   },
   "2021-03-18": {
     "vaccine": {
+      "previous_day_doses": 58119,
       "total_doses": 1359453
     }
   },
   "2021-03-19": {
     "vaccine": {
+      "previous_day_doses": 61146,
       "total_doses": 1420599
     }
   },
   "2021-03-20": {
     "vaccine": {
+      "previous_day_doses": 60283,
       "total_doses": 1480882
     }
   },
   "2021-03-21": {
     "vaccine": {
+      "previous_day_doses": 40823,
       "total_doses": 1521705
     }
   },
   "2021-03-22": {
     "vaccine": {
+      "previous_day_doses": 31335,
       "total_doses": 1553040
     }
   },
   "2021-03-23": {
     "vaccine": {
+      "previous_day_doses": 50659,
       "total_doses": 1603699
     }
   },
   "2021-03-24": {
     "vaccine": {
+      "previous_day_doses": 72451,
       "total_doses": 1676150
     }
   },
   "2021-03-25": {
     "vaccine": {
+      "previous_day_doses": 79446,
       "total_doses": 1755596
     }
   },
   "2021-03-26": {
     "vaccine": {
+      "previous_day_doses": 82996,
       "total_doses": 1838592
     }
   },
   "2021-03-27": {
     "vaccine": {
+      "previous_day_doses": 77740,
       "total_doses": 1916332
     }
   },
   "2021-03-28": {
     "vaccine": {
+      "previous_day_doses": 64950,
       "total_doses": 1981282
     }
   },
   "2021-03-29": {
     "vaccine": {
+      "previous_day_doses": 50453,
       "total_doses": 2031735
     }
   },
   "2021-03-30": {
     "vaccine": {
+      "previous_day_doses": 70645,
       "total_doses": 2102380
     }
   },
   "2021-03-31": {
     "vaccine": {
+      "previous_day_doses": 89873,
       "total_doses": 2192253
     }
   },
   "2021-04-01": {
     "vaccine": {
+      "previous_day_doses": 84060,
       "total_doses": 2276313
     }
   },
   "2021-04-02": {
     "vaccine": {
+      "previous_day_doses": 88183,
       "total_doses": 2364496
     }
   },
   "2021-04-03": {
     "vaccine": {
+      "previous_day_doses": 59567,
       "total_doses": 2424063
     }
   },
   "2021-04-04": {
     "vaccine": {
+      "previous_day_doses": 69125,
       "total_doses": 2493188
     }
   },
   "2021-04-05": {
     "vaccine": {
+      "previous_day_doses": 52452,
       "total_doses": 2545640
     }
   },
   "2021-04-06": {
     "vaccine": {
+      "previous_day_doses": 76199,
       "total_doses": 2621839
     }
   },
   "2021-04-07": {
     "vaccine": {
+      "previous_day_doses": 104382,
       "total_doses": 2726221
     }
   },
   "2021-04-08": {
     "vaccine": {
+      "previous_day_doses": 108563,
       "total_doses": 2834784
     }
   },
   "2021-04-09": {
     "vaccine": {
+      "previous_day_doses": 105382,
       "total_doses": 2940166
     }
   },
   "2021-04-10": {
     "vaccine": {
+      "previous_day_doses": 104783,
       "total_doses": 3044949
     }
   },
   "2021-04-11": {
     "vaccine": {
+      "previous_day_doses": 94794,
       "total_doses": 3139743
     }
   },
   "2021-04-12": {
     "vaccine": {
+      "previous_day_doses": 74722,
       "total_doses": 3214465
     }
   },
   "2021-04-13": {
     "vaccine": {
+      "previous_day_doses": 95692,
       "total_doses": 3310157
     }
   },
   "2021-04-14": {
     "vaccine": {
+      "previous_day_doses": 112817,
       "total_doses": 3422974
     }
   },
   "2021-04-15": {
     "vaccine": {
+      "previous_day_doses": 105430,
       "total_doses": 3528404
     }
   },
   "2021-04-16": {
     "vaccine": {
+      "previous_day_doses": 115634,
       "total_doses": 3644038
     }
   },
   "2021-04-17": {
     "vaccine": {
+      "previous_day_doses": 107278,
       "total_doses": 3751316
     }
   },
   "2021-04-18": {
     "vaccine": {
+      "previous_day_doses": 86565,
       "total_doses": 3837881
     }
   },
   "2021-04-19": {
     "vaccine": {
+      "previous_day_doses": 66897,
       "total_doses": 3904778
     }
   },
   "2021-04-20": {
     "vaccine": {
+      "previous_day_doses": 90409,
       "total_doses": 3995187
     }
   },
   "2021-04-21": {
     "vaccine": {
+      "previous_day_doses": 136695,
       "total_doses": 4131882
     }
   },
   "2021-04-22": {
     "vaccine": {
+      "previous_day_doses": 134920,
       "total_doses": 4266802
     }
   },
   "2021-04-23": {
     "vaccine": {
+      "previous_day_doses": 133872,
       "total_doses": 4400674
     }
   },
   "2021-04-24": {
     "vaccine": {
+      "previous_day_doses": 126694,
       "total_doses": 4527368
     }
   },
   "2021-04-25": {
     "vaccine": {
+      "previous_day_doses": 99535,
       "total_doses": 4626903
     }
   },
   "2021-04-26": {
     "vaccine": {
+      "previous_day_doses": 69308,
       "total_doses": 4696211
     }
   },
   "2021-04-27": {
     "vaccine": {
+      "previous_day_doses": 94819,
       "total_doses": 4791030
     }
   },
   "2021-04-28": {
     "vaccine": {
+      "previous_day_doses": 116173,
       "total_doses": 4907203
     }
   },
   "2021-04-29": {
     "vaccine": {
+      "previous_day_doses": 120567,
       "total_doses": 5027770
     }
   },
   "2021-04-30": {
     "vaccine": {
+      "previous_day_doses": 112214,
       "total_doses": 5139984
     }
   },
   "2021-05-01": {
     "vaccine": {
+      "previous_day_doses": 107700,
       "total_doses": 5247684
     }
   },
   "2021-05-02": {
     "vaccine": {
+      "previous_day_doses": 76685,
       "total_doses": 5324369
     }
   },
   "2021-05-03": {
     "vaccine": {
+      "previous_day_doses": 53880,
       "total_doses": 5378249
     }
   },
   "2021-05-04": {
     "vaccine": {
+      "previous_day_doses": 88871,
       "total_doses": 5467120
     }
   },
   "2021-05-05": {
     "vaccine": {
+      "previous_day_doses": 132603,
       "total_doses": 5599723
     }
   },
   "2021-05-06": {
     "vaccine": {
+      "previous_day_doses": 141038,
       "total_doses": 5740761
     }
   },
   "2021-05-07": {
     "vaccine": {
+      "previous_day_doses": 144724,
       "total_doses": 5885485
     }
   },
   "2021-05-08": {
     "vaccine": {
+      "previous_day_doses": 138125,
       "total_doses": 6023610
     }
   },
   "2021-05-09": {
     "vaccine": {
+      "previous_day_doses": 121075,
       "total_doses": 6144685
     }
   },
   "2021-05-10": {
     "vaccine": {
+      "previous_day_doses": 94093,
       "total_doses": 6238778
     }
   },
   "2021-05-11": {
     "vaccine": {
+      "previous_day_doses": 112103,
       "total_doses": 6350881
     }
   },
   "2021-05-12": {
     "vaccine": {
+      "previous_day_doses": 140785,
       "total_doses": 6491666
     }
   },
   "2021-05-13": {
     "vaccine": {
+      "previous_day_doses": 137697,
       "total_doses": 6629363
     }
   },
   "2021-05-14": {
     "vaccine": {
+      "previous_day_doses": 141765,
       "total_doses": 6771128
     }
   },
   "2021-05-15": {
     "vaccine": {
+      "previous_day_doses": 154104,
       "total_doses": 6925232
     }
   },
   "2021-05-16": {
     "vaccine": {
+      "previous_day_doses": 139583,
       "total_doses": 7064815
     }
   },
   "2021-05-17": {
     "vaccine": {
+      "previous_day_doses": 112330,
       "total_doses": 7177145
     }
   },
   "2021-05-18": {
     "vaccine": {
+      "previous_day_doses": 109032,
       "total_doses": 7286177
     }
   },
   "2021-05-19": {
     "vaccine": {
+      "previous_day_doses": 145461,
       "total_doses": 7431638
     }
   },
   "2021-05-20": {
     "vaccine": {
+      "previous_day_doses": 144986,
       "total_doses": 7576624
     }
   },
   "2021-05-21": {
     "vaccine": {
+      "previous_day_doses": 158524,
       "total_doses": 7735148
     }
   },
   "2021-05-22": {
     "vaccine": {
+      "previous_day_doses": 190129,
       "total_doses": 7925277
     }
   },
   "2021-05-23": {
     "vaccine": {
+      "previous_day_doses": 140330,
       "total_doses": 8065607
     }
   },
   "2021-05-24": {
     "vaccine": {
+      "previous_day_doses": 99108,
       "total_doses": 8164715
     }
   },
   "2021-05-25": {
     "vaccine": {
+      "previous_day_doses": 86927,
       "total_doses": 8251642
     }
   },
   "2021-05-26": {
     "vaccine": {
+      "previous_day_doses": 135308,
       "total_doses": 8386950
     }
   },
   "2021-05-27": {
     "vaccine": {
+      "previous_day_doses": 143748,
       "total_doses": 8530698
     }
   },
   "2021-05-28": {
     "vaccine": {
+      "previous_day_doses": 159775,
       "total_doses": 8690473
     }
   },
   "2021-05-29": {
     "vaccine": {
+      "previous_day_doses": 148972,
       "total_doses": 8839445
     }
   },
   "2021-05-30": {
     "vaccine": {
+      "previous_day_doses": 144833,
       "total_doses": 8984278
     }
   },
   "2021-05-31": {
     "vaccine": {
+      "previous_day_doses": 97747,
       "total_doses": 9082025
     }
   },
   "2021-06-01": {
     "vaccine": {
+      "previous_day_doses": 120195,
       "total_doses": 9202220
     }
   },
   "2021-06-02": {
     "vaccine": {
+      "previous_day_doses": 139901,
       "total_doses": 9342121
     }
   },
   "2021-06-03": {
     "vaccine": {
+      "previous_day_doses": 150884,
       "total_doses": 9493005
     }
   },
   "2021-06-04": {
     "vaccine": {
+      "previous_day_doses": 168322,
       "total_doses": 9661327
     }
   },
   "2021-06-05": {
     "vaccine": {
+      "previous_day_doses": 172855,
       "total_doses": 9834182
     }
   },
   "2021-06-06": {
     "vaccine": {
+      "previous_day_doses": 158393,
       "total_doses": 9992575
     }
   }
