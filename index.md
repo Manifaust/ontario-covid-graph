@@ -5,10 +5,9 @@ layout: default
 <div class="bb b--black-10 lh-copy f6">
   <p><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
   <p>
-    <b>Jan 1 Update</b>
+    <b>June 5 Update</b>
     <ul>
-      <li>Added: vaccine data, LTC new cases, Toronto new cases</li>
-      <li>Removed: total cases, general institutions data</li>
+      <li>Added: Immunization coverage</li>
     </ul>
   </p>
 </div>
