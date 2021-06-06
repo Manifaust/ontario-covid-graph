@@ -28,6 +28,7 @@ window.fetch(reportURL).then((response) => {
     title: 'New Cases',
     key: 'new_total_cases',
     hideInLegend: true,
+    color: '255, 159, 64'
   })
 
   chart.render({
