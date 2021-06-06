@@ -942,6 +942,8 @@
     "deaths": 1121,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 1017,
+    "icu": 244,
+    "icu_on_ventilator": 187,
     "infected": 4662,
     "new_tests": 16532,
     "new_total_cases": 421,
@@ -957,6 +959,8 @@
     "deaths": 1176,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 977,
+    "icu": 236,
+    "icu_on_ventilator": 178,
     "infected": 4553,
     "new_tests": 16305,
     "new_total_cases": 511,
@@ -972,6 +976,8 @@
     "deaths": 1216,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 1010,
+    "icu": 246,
+    "icu_on_ventilator": 184,
     "infected": 4332,
     "new_tests": 17146,
     "new_total_cases": 434,
@@ -987,6 +993,8 @@
     "deaths": 1300,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 984,
+    "icu": 243,
+    "icu_on_ventilator": 189,
     "infected": 4118,
     "new_tests": 14555,
     "new_total_cases": 370,
@@ -1003,6 +1011,8 @@
     "deaths": 1361,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 1043,
+    "icu": 243,
+    "icu_on_ventilator": 187,
     "infected": 4170,
     "new_tests": 10654,
     "new_total_cases": 387,
@@ -1018,6 +1028,8 @@
     "deaths": 1429,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 1032,
+    "icu": 240,
+    "icu_on_ventilator": 189,
     "infected": 4071,
     "new_tests": 12961,
     "new_total_cases": 412,
@@ -1033,6 +1045,8 @@
     "deaths": 1477,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 1033,
+    "icu": 234,
+    "icu_on_ventilator": 175,
     "infected": 4075,
     "new_tests": 15179,
     "new_total_cases": 399,
@@ -1048,6 +1062,8 @@
     "deaths": 1540,
     "growth_factor_total_cases": "1.20",
     "hospitalized": 1028,
+    "icu": 230,
+    "icu_on_ventilator": 177,
     "infected": 4068,
     "new_tests": 16295,
     "new_total_cases": 477,
@@ -1063,6 +1079,8 @@
     "deaths": 1599,
     "growth_factor_total_cases": "0.73",
     "hospitalized": 1016,
+    "icu": 218,
+    "icu_on_ventilator": 171,
     "infected": 3962,
     "new_tests": 19227,
     "new_total_cases": 346,
@@ -1078,6 +1096,8 @@
     "deaths": 1634,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 961,
+    "icu": 211,
+    "icu_on_ventilator": 161,
     "infected": 3832,
     "new_tests": 17618,
     "new_total_cases": 294,
@@ -1093,6 +1113,8 @@
     "deaths": 1669,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 1027,
+    "icu": 215,
+    "icu_on_ventilator": 164,
     "infected": 3746,
     "new_tests": 13970,
     "new_total_cases": 308,
@@ -1109,6 +1131,8 @@
     "deaths": 1725,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 1025,
+    "icu": 211,
+    "icu_on_ventilator": 157,
     "infected": 3791,
     "new_tests": 11957,
     "new_total_cases": 361,
@@ -1124,6 +1148,8 @@
     "deaths": 1765,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 1018,
+    "icu": 207,
+    "icu_on_ventilator": 160,
     "infected": 3626,
     "new_tests": 15137,
     "new_total_cases": 329,
@@ -1139,6 +1165,8 @@
     "deaths": 1798,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 1026,
+    "icu": 201,
+    "icu_on_ventilator": 156,
     "infected": 3579,
     "new_tests": 17429,
     "new_total_cases": 345,
@@ -1154,6 +1182,8 @@
     "deaths": 1825,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 986,
+    "icu": 194,
+    "icu_on_ventilator": 147,
     "infected": 3456,
     "new_tests": 18354,
     "new_total_cases": 341,
@@ -1169,6 +1199,8 @@
     "deaths": 1858,
     "growth_factor_total_cases": "1.15",
     "hospitalized": 975,
+    "icu": 196,
+    "icu_on_ventilator": 151,
     "infected": 3435,
     "new_tests": 17768,
     "new_total_cases": 391,
@@ -1184,6 +1216,8 @@
     "deaths": 1881,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 934,
+    "icu": 188,
+    "icu_on_ventilator": 144,
     "infected": 3412,
     "new_tests": 16217,
     "new_total_cases": 340,
@@ -1199,6 +1233,8 @@
     "deaths": 1904,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 972,
+    "icu": 190,
+    "icu_on_ventilator": 144,
     "infected": 3415,
     "new_tests": 9155,
     "new_total_cases": 304,
@@ -1215,6 +1251,8 @@
     "deaths": 1919,
     "growth_factor_total_cases": "1.40",
     "hospitalized": 987,
+    "icu": 192,
+    "icu_on_ventilator": 142,
     "infected": 3567,
     "ltc": {
       "resident_total_cases": 4235,
@@ -1234,6 +1272,8 @@
     "deaths": 1962,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 991,
+    "icu": 185,
+    "icu_on_ventilator": 137,
     "infected": 3622,
     "ltc": {
       "resident_total_cases": 4518,
@@ -1254,6 +1294,8 @@
     "deaths": 1993,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 984,
+    "icu": 181,
+    "icu_on_ventilator": 137,
     "infected": 3685,
     "ltc": {
       "resident_total_cases": 4656,
@@ -1274,6 +1316,8 @@
     "deaths": 2021,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 961,
+    "icu": 176,
+    "icu_on_ventilator": 140,
     "infected": 3840,
     "ltc": {
       "resident_total_cases": 4711,
@@ -1294,6 +1338,8 @@
     "deaths": 2048,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 912,
+    "icu": 175,
+    "icu_on_ventilator": 138,
     "infected": 3846,
     "ltc": {
       "resident_total_cases": 4784,
@@ -1314,6 +1360,8 @@
     "deaths": 2073,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 878,
+    "icu": 176,
+    "icu_on_ventilator": 136,
     "infected": 3950,
     "ltc": {
       "resident_total_cases": 4834,
@@ -1334,6 +1382,8 @@
     "deaths": 2102,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 859,
+    "icu": 175,
+    "icu_on_ventilator": 136,
     "infected": 4104,
     "ltc": {
       "resident_total_cases": 4862,
@@ -1355,6 +1405,8 @@
     "deaths": 2123,
     "growth_factor_total_cases": "0.71",
     "hospitalized": 848,
+    "icu": 172,
+    "icu_on_ventilator": 134,
     "infected": 4110,
     "ltc": {
       "resident_total_cases": 4892,
@@ -1375,6 +1427,8 @@
     "deaths": 2155,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 847,
+    "icu": 173,
+    "icu_on_ventilator": 135,
     "infected": 3956,
     "ltc": {
       "resident_total_cases": 4936,
@@ -1395,6 +1449,8 @@
     "deaths": 2189,
     "growth_factor_total_cases": "1.31",
     "hospitalized": 833,
+    "icu": 163,
+    "icu_on_ventilator": 122,
     "infected": 4004,
     "ltc": {
       "resident_total_cases": 4964,
@@ -1415,6 +1471,8 @@
     "deaths": 2230,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 826,
+    "icu": 159,
+    "icu_on_ventilator": 121,
     "infected": 3997,
     "ltc": {
       "resident_total_cases": 4989,
@@ -1435,6 +1493,8 @@
     "deaths": 2247,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 801,
+    "icu": 155,
+    "icu_on_ventilator": 119,
     "infected": 3933,
     "ltc": {
       "resident_total_cases": 5003,
@@ -1455,6 +1515,8 @@
     "deaths": 2266,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 781,
+    "icu": 156,
+    "icu_on_ventilator": 111,
     "infected": 3783,
     "ltc": {
       "resident_total_cases": 5035,
@@ -1475,6 +1537,8 @@
     "deaths": 2276,
     "growth_factor_total_cases": "1.24",
     "hospitalized": 781,
+    "icu": 161,
+    "icu_on_ventilator": 111,
     "infected": 3834,
     "ltc": {
       "resident_total_cases": 5097,
@@ -1496,6 +1560,8 @@
     "deaths": 2293,
     "growth_factor_total_cases": "1.10",
     "hospitalized": 801,
+    "icu": 160,
+    "icu_on_ventilator": 111,
     "infected": 3932,
     "ltc": {
       "resident_total_cases": 5158,
@@ -1516,6 +1582,8 @@
     "deaths": 2312,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 791,
+    "icu": 158,
+    "icu_on_ventilator": 118,
     "infected": 3924,
     "ltc": {
       "resident_total_cases": 5172,
@@ -1536,6 +1604,8 @@
     "deaths": 2357,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 776,
+    "icu": 152,
+    "icu_on_ventilator": 116,
     "infected": 3838,
     "ltc": {
       "resident_total_cases": 5202,
@@ -1556,6 +1626,8 @@
     "deaths": 2372,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 749,
+    "icu": 149,
+    "icu_on_ventilator": 118,
     "infected": 3792,
     "ltc": {
       "resident_total_cases": 5222,
@@ -1576,6 +1648,8 @@
     "deaths": 2407,
     "growth_factor_total_cases": "1.32",
     "hospitalized": 673,
+    "icu": 146,
+    "icu_on_ventilator": 116,
     "infected": 3848,
     "ltc": {
       "resident_total_cases": 5248,
@@ -1596,6 +1670,8 @@
     "deaths": 2426,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 635,
+    "icu": 142,
+    "icu_on_ventilator": 114,
     "infected": 3939,
     "ltc": {
       "resident_total_cases": 5254,
@@ -1616,6 +1692,8 @@
     "deaths": 2450,
     "growth_factor_total_cases": "0.59",
     "hospitalized": 603,
+    "icu": 143,
+    "icu_on_ventilator": 107,
     "infected": 3918,
     "ltc": {
       "resident_total_cases": 5256,
@@ -1637,6 +1715,8 @@
     "deaths": 2464,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 600,
+    "icu": 141,
+    "icu_on_ventilator": 104,
     "infected": 3797,
     "ltc": {
       "resident_total_cases": 5274,
@@ -1657,6 +1737,8 @@
     "deaths": 2475,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 580,
+    "icu": 144,
+    "icu_on_ventilator": 102,
     "infected": 3486,
     "ltc": {
       "resident_total_cases": 5294,
@@ -1677,6 +1759,8 @@
     "deaths": 2487,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 538,
+    "icu": 145,
+    "icu_on_ventilator": 103,
     "infected": 3172,
     "ltc": {
       "resident_total_cases": 5307,
@@ -1697,6 +1781,8 @@
     "deaths": 2498,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 527,
+    "icu": 140,
+    "icu_on_ventilator": 106,
     "infected": 3041,
     "ltc": {
       "resident_total_cases": 5314,
@@ -1717,6 +1803,8 @@
     "deaths": 2507,
     "growth_factor_total_cases": "1.46",
     "hospitalized": 489,
+    "icu": 136,
+    "icu_on_ventilator": 97,
     "infected": 2947,
     "ltc": {
       "resident_total_cases": 5327,
@@ -1737,6 +1825,8 @@
     "deaths": 2519,
     "growth_factor_total_cases": "0.74",
     "hospitalized": 438,
+    "icu": 128,
+    "icu_on_ventilator": 96,
     "infected": 2709,
     "ltc": {
       "resident_total_cases": 5368,
@@ -1757,6 +1847,8 @@
     "deaths": 2527,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 419,
+    "icu": 129,
+    "icu_on_ventilator": 88,
     "infected": 2630,
     "ltc": {
       "resident_total_cases": 5380,
@@ -1778,6 +1870,8 @@
     "deaths": 2538,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 413,
+    "icu": 126,
+    "icu_on_ventilator": 89,
     "infected": 2585,
     "ltc": {
       "resident_total_cases": 5357,
@@ -1798,6 +1892,8 @@
     "deaths": 2550,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 383,
+    "icu": 118,
+    "icu_on_ventilator": 82,
     "infected": 2410,
     "ltc": {
       "resident_total_cases": 5359,
@@ -1818,6 +1914,8 @@
     "deaths": 2553,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 351,
+    "icu": 111,
+    "icu_on_ventilator": 78,
     "infected": 2360,
     "ltc": {
       "resident_total_cases": 5360,
@@ -1838,6 +1936,8 @@
     "deaths": 2564,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 331,
+    "icu": 108,
+    "icu_on_ventilator": 78,
     "infected": 2281,
     "ltc": {
       "resident_total_cases": 5384,
@@ -1858,6 +1958,8 @@
     "deaths": 2595,
     "growth_factor_total_cases": "1.16",
     "hospitalized": 333,
+    "icu": 108,
+    "icu_on_ventilator": 82,
     "infected": 2238,
     "ltc": {
       "resident_total_cases": 5345,
@@ -1878,6 +1980,8 @@
     "deaths": 2606,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 286,
+    "icu": 114,
+    "icu_on_ventilator": 76,
     "infected": 2151,
     "ltc": {
       "resident_total_cases": 5355,
@@ -1898,6 +2002,8 @@
     "deaths": 2609,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 265,
+    "icu": 107,
+    "icu_on_ventilator": 74,
     "infected": 2095,
     "ltc": {
       "resident_total_cases": 5364,
@@ -1919,6 +2025,8 @@
     "deaths": 2619,
     "growth_factor_total_cases": "1.34",
     "hospitalized": 288,
+    "icu": 106,
+    "icu_on_ventilator": 70,
     "infected": 2127,
     "ltc": {
       "resident_total_cases": 5392,
@@ -1939,6 +2047,8 @@
     "deaths": 2631,
     "growth_factor_total_cases": "0.75",
     "hospitalized": 278,
+    "icu": 101,
+    "icu_on_ventilator": 65,
     "infected": 2049,
     "ltc": {
       "resident_total_cases": 5427,
@@ -1959,6 +2069,8 @@
     "deaths": 2641,
     "growth_factor_total_cases": "1.16",
     "hospitalized": 270,
+    "icu": 97,
+    "icu_on_ventilator": 62,
     "infected": 2036,
     "ltc": {
       "resident_total_cases": 5436,
@@ -1979,6 +2091,8 @@
     "deaths": 2644,
     "growth_factor_total_cases": "0.59",
     "hospitalized": 256,
+    "icu": 92,
+    "icu_on_ventilator": 58,
     "infected": 1918,
     "ltc": {
       "resident_total_cases": 5445,
@@ -1999,6 +2113,8 @@
     "deaths": 2652,
     "growth_factor_total_cases": "1.44",
     "hospitalized": 252,
+    "icu": 87,
+    "icu_on_ventilator": 53,
     "infected": 1892,
     "ltc": {
       "resident_total_cases": 5457,
@@ -2019,6 +2135,8 @@
     "deaths": 2658,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 214,
+    "icu": 86,
+    "icu_on_ventilator": 55,
     "infected": 1889,
     "ltc": {
       "resident_total_cases": 5468,
@@ -2039,6 +2157,8 @@
     "deaths": 2665,
     "growth_factor_total_cases": "1.44",
     "hospitalized": 232,
+    "icu": 82,
+    "icu_on_ventilator": 54,
     "infected": 2050,
     "ltc": {
       "resident_total_cases": 5468,
@@ -2060,6 +2180,8 @@
     "deaths": 2672,
     "growth_factor_total_cases": "0.61",
     "hospitalized": 213,
+    "icu": 74,
+    "icu_on_ventilator": 50,
     "infected": 2052,
     "ltc": {
       "resident_total_cases": 5473,
@@ -2080,6 +2202,8 @@
     "deaths": 2676,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 209,
+    "icu": 70,
+    "icu_on_ventilator": 45,
     "infected": 2015,
     "ltc": {
       "resident_total_cases": 5476,
@@ -2100,6 +2224,8 @@
     "deaths": 2680,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 119,
+    "icu": 71,
+    "icu_on_ventilator": 45,
     "infected": 1960,
     "ltc": {
       "resident_total_cases": 5488,
@@ -2120,6 +2246,8 @@
     "deaths": 2682,
     "growth_factor_total_cases": "1.08",
     "hospitalized": 155,
+    "icu": 70,
+    "icu_on_ventilator": 46,
     "infected": 1944,
     "ltc": {
       "resident_total_cases": 5508,
@@ -2160,6 +2288,8 @@
     "deaths": 2689,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 139,
+    "icu": 67,
+    "icu_on_ventilator": 38,
     "infected": 1839,
     "ltc": {
       "resident_total_cases": 5515,
@@ -2180,6 +2310,8 @@
     "deaths": 2689,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 118,
+    "icu": 64,
+    "icu_on_ventilator": 39,
     "infected": 1833,
     "ltc": {
       "resident_total_cases": 5514,
@@ -2201,6 +2333,8 @@
     "deaths": 2691,
     "growth_factor_total_cases": "0.73",
     "hospitalized": 131,
+    "icu": 61,
+    "icu_on_ventilator": 41,
     "infected": 1766,
     "ltc": {
       "resident_total_cases": 5516,
@@ -2221,6 +2355,8 @@
     "deaths": 2700,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 123,
+    "icu": 61,
+    "icu_on_ventilator": 44,
     "infected": 1673,
     "ltc": {
       "resident_total_cases": 5521,
@@ -2241,6 +2377,8 @@
     "deaths": 2703,
     "growth_factor_total_cases": "1.44",
     "hospitalized": 123,
+    "icu": 58,
+    "icu_on_ventilator": 42,
     "infected": 1668,
     "ltc": {
       "resident_total_cases": 5526,
@@ -2261,6 +2399,8 @@
     "deaths": 2710,
     "growth_factor_total_cases": "0.68",
     "hospitalized": 117,
+    "icu": 60,
+    "icu_on_ventilator": 42,
     "infected": 1599,
     "ltc": {
       "resident_total_cases": 5527,
@@ -2281,6 +2421,8 @@
     "deaths": 2716,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 128,
+    "icu": 57,
+    "icu_on_ventilator": 35,
     "infected": 1456,
     "ltc": {
       "resident_total_cases": 5535,
@@ -2301,6 +2443,8 @@
     "deaths": 2719,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 116,
+    "icu": 55,
+    "icu_on_ventilator": 35,
     "infected": 1470,
     "ltc": {
       "resident_total_cases": 5537,
@@ -2321,6 +2465,8 @@
     "deaths": 2722,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 104,
+    "icu": 53,
+    "icu_on_ventilator": 36,
     "infected": 1454,
     "ltc": {
       "resident_total_cases": 5540,
@@ -2342,6 +2488,8 @@
     "deaths": 2723,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 137,
+    "icu": 55,
+    "icu_on_ventilator": 38,
     "infected": 1442,
     "ltc": {
       "resident_total_cases": 5540,
@@ -2362,6 +2510,8 @@
     "deaths": 2732,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 115,
+    "icu": 55,
+    "icu_on_ventilator": 38,
     "infected": 1400,
     "ltc": {
       "resident_total_cases": 5545,
@@ -2382,6 +2532,8 @@
     "deaths": 2737,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 107,
+    "icu": 50,
+    "icu_on_ventilator": 32,
     "infected": 1365,
     "ltc": {
       "resident_total_cases": 5548,
@@ -2402,6 +2554,8 @@
     "deaths": 2746,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 108,
+    "icu": 52,
+    "icu_on_ventilator": 31,
     "infected": 1366,
     "ltc": {
       "resident_total_cases": 5545,
@@ -2422,6 +2576,8 @@
     "deaths": 2748,
     "growth_factor_total_cases": "1.50",
     "hospitalized": 105,
+    "icu": 53,
+    "icu_on_ventilator": 30,
     "infected": 1398,
     "ltc": {
       "resident_total_cases": 5547,
@@ -2442,6 +2598,8 @@
     "deaths": 2751,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 101,
+    "icu": 53,
+    "icu_on_ventilator": 31,
     "infected": 1446,
     "ltc": {
       "resident_total_cases": 5549,
@@ -2462,6 +2620,8 @@
     "deaths": 2752,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 115,
+    "icu": 55,
+    "icu_on_ventilator": 32,
     "infected": 1474,
     "ltc": {
       "resident_total_cases": 5546,
@@ -2483,6 +2643,8 @@
     "deaths": 2753,
     "growth_factor_total_cases": "1.50",
     "hospitalized": 120,
+    "icu": 55,
+    "icu_on_ventilator": 30,
     "infected": 1584,
     "ltc": {
       "resident_total_cases": 5546,
@@ -2503,6 +2665,8 @@
     "deaths": 2755,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 128,
+    "icu": 57,
+    "icu_on_ventilator": 27,
     "infected": 1540,
     "ltc": {
       "resident_total_cases": 5877,
@@ -2523,6 +2687,8 @@
     "deaths": 2755,
     "growth_factor_total_cases": "0.62",
     "hospitalized": 154,
+    "icu": 55,
+    "icu_on_ventilator": 27,
     "infected": 1492,
     "ltc": {
       "resident_total_cases": 5877,
@@ -2543,6 +2709,8 @@
     "deaths": 2758,
     "growth_factor_total_cases": "1.89",
     "hospitalized": 141,
+    "icu": 50,
+    "icu_on_ventilator": 27,
     "infected": 1547,
     "ltc": {
       "resident_total_cases": 5881,
@@ -2563,6 +2731,8 @@
     "deaths": 2759,
     "growth_factor_total_cases": "0.71",
     "hospitalized": 97,
+    "icu": 47,
+    "icu_on_ventilator": 28,
     "infected": 1544,
     "ltc": {
       "resident_total_cases": 5884,
@@ -2583,6 +2753,8 @@
     "deaths": 2763,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 87,
+    "icu": 46,
+    "icu_on_ventilator": 29,
     "infected": 1558,
     "ltc": {
       "resident_total_cases": 5885,
@@ -2603,6 +2775,8 @@
     "deaths": 2764,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 82,
+    "icu": 47,
+    "icu_on_ventilator": 27,
     "infected": 1574,
     "ltc": {
       "resident_total_cases": 5884,
@@ -2624,6 +2798,8 @@
     "deaths": 2768,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 96,
+    "icu": 46,
+    "icu_on_ventilator": 28,
     "infected": 1575,
     "ltc": {
       "resident_total_cases": 5885,
@@ -2644,6 +2820,8 @@
     "deaths": 2769,
     "growth_factor_total_cases": "0.68",
     "hospitalized": 91,
+    "icu": 43,
+    "icu_on_ventilator": 26,
     "infected": 1476,
     "ltc": {
       "resident_total_cases": 5887,
@@ -2664,6 +2842,8 @@
     "deaths": 2772,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 84,
+    "icu": 39,
+    "icu_on_ventilator": 24,
     "infected": 1397,
     "ltc": {
       "resident_total_cases": 5889,
@@ -2684,6 +2864,8 @@
     "deaths": 2775,
     "growth_factor_total_cases": "1.51",
     "hospitalized": 78,
+    "icu": 41,
+    "icu_on_ventilator": 24,
     "infected": 1360,
     "ltc": {
       "resident_total_cases": 5891,
@@ -2704,6 +2886,8 @@
     "deaths": 2777,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 73,
+    "icu": 40,
+    "icu_on_ventilator": 19,
     "infected": 1319,
     "ltc": {
       "resident_total_cases": 5893,
@@ -2724,6 +2908,8 @@
     "deaths": 2778,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 72,
+    "icu": 41,
+    "icu_on_ventilator": 23,
     "infected": 1312,
     "ltc": {
       "resident_total_cases": 5894,
@@ -2744,6 +2930,8 @@
     "deaths": 2778,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 75,
+    "icu": 40,
+    "icu_on_ventilator": 20,
     "infected": 1274,
     "ltc": {
       "resident_total_cases": 5895,
@@ -2765,6 +2953,8 @@
     "deaths": 2782,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 78,
+    "icu": 40,
+    "icu_on_ventilator": 22,
     "infected": 1245,
     "ltc": {
       "resident_total_cases": 5896,
@@ -2785,6 +2975,8 @@
     "deaths": 2782,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 66,
+    "icu": 41,
+    "icu_on_ventilator": 22,
     "infected": 1185,
     "ltc": {
       "resident_total_cases": 5896,
@@ -2805,6 +2997,8 @@
     "deaths": 2783,
     "growth_factor_total_cases": "1.10",
     "hospitalized": 71,
+    "icu": 38,
+    "icu_on_ventilator": 20,
     "infected": 1120,
     "ltc": {
       "resident_total_cases": 5899,
@@ -2825,6 +3019,8 @@
     "deaths": 2783,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 66,
+    "icu": 38,
+    "icu_on_ventilator": 20,
     "infected": 1090,
     "ltc": {
       "resident_total_cases": 5901,
@@ -2845,6 +3041,8 @@
     "deaths": 2784,
     "growth_factor_total_cases": "0.80",
     "hospitalized": 53,
+    "icu": 38,
+    "icu_on_ventilator": 19,
     "infected": 1052,
     "ltc": {
       "resident_total_cases": 5901,
@@ -2865,6 +3063,8 @@
     "deaths": 2786,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 55,
+    "icu": 38,
+    "icu_on_ventilator": 19,
     "infected": 981,
     "ltc": {
       "resident_total_cases": 5901,
@@ -2885,6 +3085,8 @@
     "deaths": 2786,
     "growth_factor_total_cases": "1.46",
     "hospitalized": 49,
+    "icu": 37,
+    "icu_on_ventilator": 22,
     "infected": 994,
     "ltc": {
       "resident_total_cases": 5903,
@@ -2906,6 +3108,8 @@
     "deaths": 2786,
     "growth_factor_total_cases": "0.29",
     "hospitalized": 60,
+    "icu": 34,
+    "icu_on_ventilator": 21,
     "infected": 952,
     "ltc": {
       "resident_total_cases": 5902,
@@ -2926,6 +3130,8 @@
     "deaths": 2787,
     "growth_factor_total_cases": "2.88",
     "hospitalized": 49,
+    "icu": 33,
+    "icu_on_ventilator": 18,
     "infected": 912,
     "ltc": {
       "resident_total_cases": 5902,
@@ -2946,6 +3152,8 @@
     "deaths": 2787,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 43,
+    "icu": 31,
+    "icu_on_ventilator": 19,
     "infected": 891,
     "ltc": {
       "resident_total_cases": 5903,
@@ -2966,6 +3174,8 @@
     "deaths": 2788,
     "growth_factor_total_cases": "1.18",
     "hospitalized": 41,
+    "icu": 28,
+    "icu_on_ventilator": 18,
     "infected": 899,
     "ltc": {
       "resident_total_cases": 5904,
@@ -2986,6 +3196,8 @@
     "deaths": 2789,
     "growth_factor_total_cases": "1.15",
     "hospitalized": 39,
+    "icu": 29,
+    "icu_on_ventilator": 17,
     "infected": 903,
     "ltc": {
       "resident_total_cases": 5905,
@@ -3006,6 +3218,8 @@
     "deaths": 2789,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 37,
+    "icu": 30,
+    "icu_on_ventilator": 17,
     "infected": 904,
     "ltc": {
       "resident_total_cases": 5905,
@@ -3026,6 +3240,8 @@
     "deaths": 2789,
     "growth_factor_total_cases": "1.22",
     "hospitalized": 32,
+    "icu": 28,
+    "icu_on_ventilator": 17,
     "infected": 920,
     "ltc": {
       "resident_total_cases": 5905,
@@ -3047,6 +3263,8 @@
     "deaths": 2793,
     "growth_factor_total_cases": "1.26",
     "hospitalized": 41,
+    "icu": 26,
+    "icu_on_ventilator": 16,
     "infected": 951,
     "ltc": {
       "resident_total_cases": 5912,
@@ -3067,6 +3285,8 @@
     "deaths": 2792,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 42,
+    "icu": 26,
+    "icu_on_ventilator": 18,
     "infected": 965,
     "ltc": {
       "resident_total_cases": 5918,
@@ -3087,6 +3307,8 @@
     "deaths": 2793,
     "growth_factor_total_cases": "0.75",
     "hospitalized": 35,
+    "icu": 27,
+    "icu_on_ventilator": 15,
     "infected": 964,
     "ltc": {
       "resident_total_cases": 5919,
@@ -3107,6 +3329,8 @@
     "deaths": 2796,
     "growth_factor_total_cases": "1.72",
     "hospitalized": 35,
+    "icu": 26,
+    "icu_on_ventilator": 13,
     "infected": 986,
     "ltc": {
       "resident_total_cases": 5922,
@@ -3127,6 +3351,8 @@
     "deaths": 2797,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 40,
+    "icu": 25,
+    "icu_on_ventilator": 11,
     "infected": 1003,
     "ltc": {
       "resident_total_cases": 5923,
@@ -3147,6 +3373,8 @@
     "deaths": 2797,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 41,
+    "icu": 21,
+    "icu_on_ventilator": 10,
     "infected": 1010,
     "ltc": {
       "resident_total_cases": 5924,
@@ -3167,6 +3395,8 @@
     "deaths": 2798,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 40,
+    "icu": 23,
+    "icu_on_ventilator": 11,
     "infected": 1036,
     "ltc": {
       "resident_total_cases": 5924,
@@ -3188,6 +3418,8 @@
     "deaths": 2800,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 39,
+    "icu": 24,
+    "icu_on_ventilator": 15,
     "infected": 1059,
     "ltc": {
       "resident_total_cases": 5926,
@@ -3208,6 +3440,8 @@
     "deaths": 2802,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 43,
+    "icu": 24,
+    "icu_on_ventilator": 13,
     "infected": 1030,
     "ltc": {
       "resident_total_cases": 5927,
@@ -3228,6 +3462,8 @@
     "deaths": 2803,
     "growth_factor_total_cases": "1.34",
     "hospitalized": 48,
+    "icu": 26,
+    "icu_on_ventilator": 13,
     "infected": 1070,
     "ltc": {
       "resident_total_cases": 5930,
@@ -3248,6 +3484,8 @@
     "deaths": 2809,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 61,
+    "icu": 25,
+    "icu_on_ventilator": 15,
     "infected": 1103,
     "ltc": {
       "resident_total_cases": 5932,
@@ -3268,6 +3506,8 @@
     "deaths": 2809,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 51,
+    "icu": 28,
+    "icu_on_ventilator": 9,
     "infected": 1148,
     "ltc": {
       "resident_total_cases": 5935,
@@ -3288,6 +3528,8 @@
     "deaths": 2810,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 51,
+    "icu": 30,
+    "icu_on_ventilator": 15,
     "infected": 1181,
     "ltc": {
       "resident_total_cases": 5936,
@@ -3308,6 +3550,8 @@
     "deaths": 2811,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 49,
+    "icu": 29,
+    "icu_on_ventilator": 13,
     "infected": 1221,
     "ltc": {
       "resident_total_cases": 5936,
@@ -3329,6 +3573,8 @@
     "deaths": 2812,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 65,
+    "icu": 29,
+    "icu_on_ventilator": 10,
     "infected": 1240,
     "ltc": {
       "resident_total_cases": 5937,
@@ -3349,6 +3595,8 @@
     "deaths": 2812,
     "growth_factor_total_cases": "1.19",
     "hospitalized": 60,
+    "icu": 21,
+    "icu_on_ventilator": 11,
     "infected": 1236,
     "ltc": {
       "resident_total_cases": 5937,
@@ -3369,6 +3617,8 @@
     "deaths": 2812,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 60,
+    "icu": 20,
+    "icu_on_ventilator": 11,
     "infected": 1249,
     "ltc": {
       "resident_total_cases": 5938,
@@ -3389,6 +3639,8 @@
     "deaths": 2811,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 66,
+    "icu": 24,
+    "icu_on_ventilator": 10,
     "infected": 1282,
     "ltc": {
       "resident_total_cases": 5946,
@@ -3409,6 +3661,8 @@
     "deaths": 2811,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 58,
+    "icu": 23,
+    "icu_on_ventilator": 10,
     "infected": 1345,
     "ltc": {
       "resident_total_cases": 5944,
@@ -3429,6 +3683,8 @@
     "deaths": 2813,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 52,
+    "icu": 24,
+    "icu_on_ventilator": 12,
     "infected": 1390,
     "ltc": {
       "resident_total_cases": 5945,
@@ -3449,6 +3705,8 @@
     "deaths": 2813,
     "growth_factor_total_cases": "1.20",
     "hospitalized": 55,
+    "icu": 24,
+    "icu_on_ventilator": 10,
     "infected": 1461,
     "ltc": {
       "resident_total_cases": 5951,
@@ -3470,6 +3728,8 @@
     "deaths": 2813,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 54,
+    "icu": 25,
+    "icu_on_ventilator": 10,
     "infected": 1527,
     "ltc": {
       "resident_total_cases": 5965,
@@ -3490,6 +3750,8 @@
     "deaths": 2813,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 55,
+    "icu": 24,
+    "icu_on_ventilator": 12,
     "infected": 1540,
     "ltc": {
       "resident_total_cases": 5967,
@@ -3510,6 +3772,8 @@
     "deaths": 2814,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 54,
+    "icu": 23,
+    "icu_on_ventilator": 11,
     "infected": 1567,
     "ltc": {
       "resident_total_cases": 5966,
@@ -3530,6 +3794,8 @@
     "deaths": 2813,
     "growth_factor_total_cases": "1.25",
     "hospitalized": 49,
+    "icu": 25,
+    "icu_on_ventilator": 12,
     "infected": 1657,
     "ltc": {
       "resident_total_cases": 5965,
@@ -3550,6 +3816,8 @@
     "deaths": 2814,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 43,
+    "icu": 18,
+    "icu_on_ventilator": 11,
     "infected": 1769,
     "ltc": {
       "resident_total_cases": 5967,
@@ -3570,6 +3838,8 @@
     "deaths": 2815,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 39,
+    "icu": 20,
+    "icu_on_ventilator": 12,
     "infected": 1848,
     "ltc": {
       "resident_total_cases": 5974,
@@ -3590,6 +3860,8 @@
     "deaths": 2816,
     "growth_factor_total_cases": "1.53",
     "hospitalized": 47,
+    "icu": 24,
+    "icu_on_ventilator": 11,
     "infected": 2027,
     "ltc": {
       "resident_total_cases": 5975,
@@ -3611,6 +3883,8 @@
     "deaths": 2820,
     "growth_factor_total_cases": "0.80",
     "hospitalized": 47,
+    "icu": 26,
+    "icu_on_ventilator": 15,
     "infected": 2157,
     "ltc": {
       "resident_total_cases": 5983,
@@ -3631,6 +3905,8 @@
     "deaths": 2822,
     "growth_factor_total_cases": "1.25",
     "hospitalized": 44,
+    "icu": 28,
+    "icu_on_ventilator": 15,
     "infected": 2316,
     "ltc": {
       "resident_total_cases": 6006,
@@ -3651,6 +3927,8 @@
     "deaths": 2825,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 53,
+    "icu": 28,
+    "icu_on_ventilator": 14,
     "infected": 2427,
     "ltc": {
       "resident_total_cases": 6006,
@@ -3671,6 +3949,8 @@
     "deaths": 2825,
     "growth_factor_total_cases": "1.37",
     "hospitalized": 58,
+    "icu": 28,
+    "icu_on_ventilator": 12,
     "infected": 2652,
     "ltc": {
       "resident_total_cases": 6008,
@@ -3691,6 +3971,8 @@
     "deaths": 2826,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 64,
+    "icu": 29,
+    "icu_on_ventilator": 13,
     "infected": 2881,
     "ltc": {
       "resident_total_cases": 6006,
@@ -3711,6 +3993,8 @@
     "deaths": 2827,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 63,
+    "icu": 31,
+    "icu_on_ventilator": 12,
     "infected": 3054,
     "ltc": {
       "resident_total_cases": 6023,
@@ -3731,6 +4015,8 @@
     "deaths": 2829,
     "growth_factor_total_cases": "1.16",
     "hospitalized": 65,
+    "icu": 30,
+    "icu_on_ventilator": 14,
     "infected": 3299,
     "ltc": {
       "resident_total_cases": 6024,
@@ -3752,6 +4038,8 @@
     "deaths": 2832,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 82,
+    "icu": 30,
+    "icu_on_ventilator": 14,
     "infected": 3578,
     "ltc": {
       "resident_total_cases": 6026,
@@ -3772,6 +4060,8 @@
     "deaths": 2835,
     "growth_factor_total_cases": "0.70",
     "hospitalized": 88,
+    "icu": 30,
+    "icu_on_ventilator": 12,
     "infected": 3652,
     "ltc": {
       "resident_total_cases": 6030,
@@ -3792,6 +4082,8 @@
     "deaths": 2836,
     "growth_factor_total_cases": "1.22",
     "hospitalized": 88,
+    "icu": 33,
+    "icu_on_ventilator": 14,
     "infected": 3774,
     "ltc": {
       "resident_total_cases": 6043,
@@ -3812,6 +4104,8 @@
     "deaths": 2837,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 87,
+    "icu": 31,
+    "icu_on_ventilator": 15,
     "infected": 3899,
     "ltc": {
       "resident_total_cases": 6047,
@@ -3832,6 +4126,8 @@
     "deaths": 2837,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 100,
+    "icu": 34,
+    "icu_on_ventilator": 18,
     "infected": 3996,
     "ltc": {
       "resident_total_cases": 6049,
@@ -3852,6 +4148,8 @@
     "deaths": 2839,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 112,
+    "icu": 34,
+    "icu_on_ventilator": 19,
     "infected": 4196,
     "ltc": {
       "resident_total_cases": 6051,
@@ -3872,6 +4170,8 @@
     "deaths": 2840,
     "growth_factor_total_cases": "1.43",
     "hospitalized": 128,
+    "icu": 35,
+    "icu_on_ventilator": 20,
     "infected": 4564,
     "ltc": {
       "resident_total_cases": 6059,
@@ -3893,6 +4193,8 @@
     "deaths": 2844,
     "growth_factor_total_cases": "0.79",
     "hospitalized": 137,
+    "icu": 34,
+    "icu_on_ventilator": 18,
     "infected": 4791,
     "ltc": {
       "resident_total_cases": 6062,
@@ -3913,6 +4215,8 @@
     "deaths": 2848,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 150,
+    "icu": 39,
+    "icu_on_ventilator": 19,
     "infected": 4955,
     "ltc": {
       "resident_total_cases": 6071,
@@ -3933,6 +4237,8 @@
     "deaths": 2851,
     "growth_factor_total_cases": "0.86",
     "hospitalized": 162,
+    "icu": 41,
+    "icu_on_ventilator": 18,
     "infected": 4975,
     "ltc": {
       "resident_total_cases": 6085,
@@ -3953,6 +4259,8 @@
     "deaths": 2927,
     "growth_factor_total_cases": "1.36",
     "hospitalized": 167,
+    "icu": 44,
+    "icu_on_ventilator": 23,
     "infected": 5203,
     "ltc": {
       "resident_total_cases": 6166,
@@ -3973,6 +4281,8 @@
     "deaths": 2968,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 155,
+    "icu": 47,
+    "icu_on_ventilator": 25,
     "infected": 5380,
     "ltc": {
       "resident_total_cases": 6207,
@@ -3993,6 +4303,8 @@
     "deaths": 2975,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 169,
+    "icu": 48,
+    "icu_on_ventilator": 27,
     "infected": 5405,
     "ltc": {
       "resident_total_cases": 6209,
@@ -4013,6 +4325,8 @@
     "deaths": 2980,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 176,
+    "icu": 48,
+    "icu_on_ventilator": 28,
     "infected": 5474,
     "ltc": {
       "resident_total_cases": 6216,
@@ -4034,6 +4348,8 @@
     "deaths": 2987,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 192,
+    "icu": 45,
+    "icu_on_ventilator": 27,
     "infected": 5469,
     "ltc": {
       "resident_total_cases": 6230,
@@ -4054,6 +4370,8 @@
     "deaths": 2988,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 195,
+    "icu": 48,
+    "icu_on_ventilator": 30,
     "infected": 5344,
     "ltc": {
       "resident_total_cases": 6253,
@@ -4074,6 +4392,8 @@
     "deaths": 2992,
     "growth_factor_total_cases": "1.37",
     "hospitalized": 206,
+    "icu": 53,
+    "icu_on_ventilator": 32,
     "infected": 5442,
     "ltc": {
       "resident_total_cases": 6274,
@@ -4094,6 +4414,8 @@
     "deaths": 2997,
     "growth_factor_total_cases": "1.18",
     "hospitalized": 225,
+    "icu": 52,
+    "icu_on_ventilator": 32,
     "infected": 5652,
     "ltc": {
       "resident_total_cases": 6286,
@@ -4114,6 +4436,8 @@
     "deaths": 3004,
     "growth_factor_total_cases": "0.86",
     "hospitalized": 213,
+    "icu": 53,
+    "icu_on_ventilator": 32,
     "infected": 5754,
     "ltc": {
       "resident_total_cases": 6296,
@@ -4134,6 +4458,8 @@
     "deaths": 3005,
     "growth_factor_total_cases": "0.80",
     "hospitalized": 217,
+    "icu": 57,
+    "icu_on_ventilator": 35,
     "infected": 5697,
     "ltc": {
       "resident_total_cases": 6301,
@@ -4154,6 +4480,8 @@
     "deaths": 3008,
     "growth_factor_total_cases": "1.24",
     "hospitalized": 203,
+    "icu": 58,
+    "icu_on_ventilator": 33,
     "infected": 5833,
     "ltc": {
       "resident_total_cases": 6310,
@@ -4175,6 +4503,8 @@
     "deaths": 3017,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 230,
+    "icu": 65,
+    "icu_on_ventilator": 37,
     "infected": 5946,
     "ltc": {
       "resident_total_cases": 6318,
@@ -4195,6 +4525,8 @@
     "deaths": 3017,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 231,
+    "icu": 68,
+    "icu_on_ventilator": 38,
     "infected": 5884,
     "ltc": {
       "resident_total_cases": 6335,
@@ -4215,6 +4547,8 @@
     "deaths": 3022,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 253,
+    "icu": 67,
+    "icu_on_ventilator": 35,
     "infected": 5883,
     "ltc": {
       "resident_total_cases": 6355,
@@ -4235,6 +4569,8 @@
     "deaths": 3031,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 261,
+    "icu": 72,
+    "icu_on_ventilator": 39,
     "infected": 5873,
     "ltc": {
       "resident_total_cases": 6365,
@@ -4255,6 +4591,8 @@
     "deaths": 3041,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 278,
+    "icu": 77,
+    "icu_on_ventilator": 45,
     "infected": 5986,
     "ltc": {
       "resident_total_cases": 6380,
@@ -4275,6 +4613,8 @@
     "deaths": 3046,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 247,
+    "icu": 76,
+    "icu_on_ventilator": 46,
     "infected": 5954,
     "ltc": {
       "resident_total_cases": 6402,
@@ -4295,6 +4635,8 @@
     "deaths": 3050,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 252,
+    "icu": 74,
+    "icu_on_ventilator": 42,
     "infected": 6047,
     "ltc": {
       "resident_total_cases": 6419,
@@ -4316,6 +4658,8 @@
     "deaths": 3053,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 274,
+    "icu": 77,
+    "icu_on_ventilator": 48,
     "infected": 6237,
     "ltc": {
       "resident_total_cases": 6442,
@@ -4336,6 +4680,8 @@
     "deaths": 3062,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 260,
+    "icu": 76,
+    "icu_on_ventilator": 53,
     "infected": 6299,
     "ltc": {
       "resident_total_cases": 6462,
@@ -4356,6 +4702,8 @@
     "deaths": 3071,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 270,
+    "icu": 83,
+    "icu_on_ventilator": 54,
     "infected": 6390,
     "ltc": {
       "resident_total_cases": 6487,
@@ -4376,6 +4724,8 @@
     "deaths": 3080,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 276,
+    "icu": 87,
+    "icu_on_ventilator": 54,
     "infected": 6474,
     "ltc": {
       "resident_total_cases": 6524,
@@ -4396,6 +4746,8 @@
     "deaths": 3086,
     "growth_factor_total_cases": "1.18",
     "hospitalized": 294,
+    "icu": 90,
+    "icu_on_ventilator": 60,
     "infected": 6821,
     "ltc": {
       "resident_total_cases": 6607,
@@ -4416,6 +4768,8 @@
     "deaths": 3093,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 278,
+    "icu": 86,
+    "icu_on_ventilator": 61,
     "infected": 7120,
     "ltc": {
       "resident_total_cases": 6637,
@@ -4436,6 +4790,8 @@
     "deaths": 3099,
     "growth_factor_total_cases": "0.82",
     "hospitalized": 295,
+    "icu": 85,
+    "icu_on_ventilator": 57,
     "infected": 7286,
     "ltc": {
       "resident_total_cases": 6678,
@@ -4457,6 +4813,8 @@
     "deaths": 3103,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 312,
+    "icu": 82,
+    "icu_on_ventilator": 58,
     "infected": 7418,
     "ltc": {
       "resident_total_cases": 6705,
@@ -4477,6 +4835,8 @@
     "deaths": 3108,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 312,
+    "icu": 79,
+    "icu_on_ventilator": 58,
     "infected": 7474,
     "ltc": {
       "resident_total_cases": 6737,
@@ -4497,6 +4857,8 @@
     "deaths": 3118,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 322,
+    "icu": 86,
+    "icu_on_ventilator": 58,
     "infected": 7578,
     "ltc": {
       "resident_total_cases": 6765,
@@ -4517,6 +4879,8 @@
     "deaths": 3127,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 314,
+    "icu": 86,
+    "icu_on_ventilator": 60,
     "infected": 7669,
     "ltc": {
       "resident_total_cases": 6829,
@@ -4537,6 +4901,8 @@
     "deaths": 3136,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 320,
+    "icu": 83,
+    "icu_on_ventilator": 63,
     "infected": 7877,
     "ltc": {
       "resident_total_cases": 6873,
@@ -4557,6 +4923,8 @@
     "deaths": 3145,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 350,
+    "icu": 82,
+    "icu_on_ventilator": 53,
     "infected": 7981,
     "ltc": {
       "resident_total_cases": 6941,
@@ -4577,6 +4945,8 @@
     "deaths": 3152,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 328,
+    "icu": 86,
+    "icu_on_ventilator": 53,
     "infected": 8096,
     "ltc": {
       "resident_total_cases": 6963,
@@ -4598,6 +4968,8 @@
     "deaths": 3166,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 357,
+    "icu": 85,
+    "icu_on_ventilator": 55,
     "infected": 8295,
     "ltc": {
       "resident_total_cases": 6998,
@@ -4618,6 +4990,8 @@
     "deaths": 3182,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 367,
+    "icu": 85,
+    "icu_on_ventilator": 52,
     "infected": 8321,
     "ltc": {
       "resident_total_cases": 7042,
@@ -4638,6 +5012,8 @@
     "deaths": 3195,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 381,
+    "icu": 97,
+    "icu_on_ventilator": 55,
     "infected": 8358,
     "ltc": {
       "resident_total_cases": 7094,
@@ -4658,6 +5034,8 @@
     "deaths": 3209,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 380,
+    "icu": 97,
+    "icu_on_ventilator": 55,
     "infected": 8398,
     "ltc": {
       "resident_total_cases": 7183,
@@ -4678,6 +5056,8 @@
     "deaths": 3220,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 384,
+    "icu": 101,
+    "icu_on_ventilator": 59,
     "infected": 8667,
     "ltc": {
       "resident_total_cases": 7213,
@@ -4698,6 +5078,8 @@
     "deaths": 3233,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 374,
+    "icu": 99,
+    "icu_on_ventilator": 56,
     "infected": 9105,
     "ltc": {
       "resident_total_cases": 7288,
@@ -4718,6 +5100,8 @@
     "deaths": 3245,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 367,
+    "icu": 96,
+    "icu_on_ventilator": 59,
     "infected": 9514,
     "ltc": {
       "resident_total_cases": 7329,
@@ -4739,6 +5123,8 @@
     "deaths": 3260,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 422,
+    "icu": 93,
+    "icu_on_ventilator": 59,
     "infected": 10106,
     "ltc": {
       "resident_total_cases": 7391,
@@ -4759,6 +5145,8 @@
     "deaths": 3275,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 424,
+    "icu": 99,
+    "icu_on_ventilator": 61,
     "infected": 10631,
     "ltc": {
       "resident_total_cases": 7470,
@@ -4779,6 +5167,8 @@
     "deaths": 3293,
     "growth_factor_total_cases": "1.10",
     "hospitalized": 431,
+    "icu": 107,
+    "icu_on_ventilator": 66,
     "infected": 11271,
     "ltc": {
       "resident_total_cases": 7527,
@@ -4799,6 +5189,8 @@
     "deaths": 3312,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 452,
+    "icu": 114,
+    "icu_on_ventilator": 74,
     "infected": 11630,
     "ltc": {
       "resident_total_cases": 7554,
@@ -4819,6 +5211,8 @@
     "deaths": 3332,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 502,
+    "icu": 116,
+    "icu_on_ventilator": 75,
     "infected": 12188,
     "ltc": {
       "resident_total_cases": 7624,
@@ -4839,6 +5233,8 @@
     "deaths": 3361,
     "growth_factor_total_cases": "0.79",
     "hospitalized": 479,
+    "icu": 127,
+    "icu_on_ventilator": 74,
     "infected": 12345,
     "ltc": {
       "resident_total_cases": 7685,
@@ -4859,6 +5255,8 @@
     "deaths": 3371,
     "growth_factor_total_cases": "1.19",
     "hospitalized": 500,
+    "icu": 134,
+    "icu_on_ventilator": 77,
     "infected": 12830,
     "ltc": {
       "resident_total_cases": 7747,
@@ -4880,6 +5278,8 @@
     "deaths": 3383,
     "growth_factor_total_cases": "0.84",
     "hospitalized": 529,
+    "icu": 137,
+    "icu_on_ventilator": 82,
     "infected": 12932,
     "ltc": {
       "resident_total_cases": 7788,
@@ -4900,6 +5300,8 @@
     "deaths": 3415,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 535,
+    "icu": 137,
+    "icu_on_ventilator": 86,
     "infected": 12822,
     "ltc": {
       "resident_total_cases": 7857,
@@ -4920,6 +5322,8 @@
     "deaths": 3443,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 526,
+    "icu": 154,
+    "icu_on_ventilator": 94,
     "infected": 12628,
     "ltc": {
       "resident_total_cases": 7915,
@@ -4940,6 +5344,8 @@
     "deaths": 3451,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 518,
+    "icu": 151,
+    "icu_on_ventilator": 98,
     "infected": 12623,
     "ltc": {
       "resident_total_cases": 7934,
@@ -4960,6 +5366,8 @@
     "deaths": 3472,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 513,
+    "icu": 154,
+    "icu_on_ventilator": 93,
     "infected": 12827,
     "ltc": {
       "resident_total_cases": 7984,
@@ -4980,6 +5388,8 @@
     "deaths": 3486,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 484,
+    "icu": 155,
+    "icu_on_ventilator": 96,
     "infected": 12918,
     "ltc": {
       "resident_total_cases": 8020,
@@ -5000,6 +5410,8 @@
     "deaths": 3505,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 507,
+    "icu": 164,
+    "icu_on_ventilator": 98,
     "infected": 13004,
     "ltc": {
       "resident_total_cases": 8078,
@@ -5021,6 +5433,8 @@
     "deaths": 3519,
     "growth_factor_total_cases": "0.63",
     "hospitalized": 534,
+    "icu": 167,
+    "icu_on_ventilator": 97,
     "infected": 12917,
     "ltc": {
       "resident_total_cases": 8118,
@@ -5041,6 +5455,8 @@
     "deaths": 3554,
     "growth_factor_total_cases": "1.36",
     "hospitalized": 523,
+    "icu": 167,
+    "icu_on_ventilator": 112,
     "infected": 12779,
     "ltc": {
       "resident_total_cases": 8177,
@@ -5061,6 +5477,8 @@
     "deaths": 3575,
     "growth_factor_total_cases": "1.08",
     "hospitalized": 556,
+    "icu": 157,
+    "icu_on_ventilator": 109,
     "infected": 12871,
     "ltc": {
       "resident_total_cases": 8237,
@@ -5081,6 +5499,8 @@
     "deaths": 3595,
     "growth_factor_total_cases": "1.26",
     "hospitalized": 541,
+    "icu": 160,
+    "icu_on_ventilator": 109,
     "infected": 13255,
     "ltc": {
       "resident_total_cases": 8330,
@@ -5101,6 +5521,8 @@
     "deaths": 3624,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 595,
+    "icu": 162,
+    "icu_on_ventilator": 105,
     "infected": 13538,
     "ltc": {
       "resident_total_deaths": 2294
@@ -5119,6 +5541,8 @@
     "deaths": 3648,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 586,
+    "icu": 167,
+    "icu_on_ventilator": 97,
     "infected": 13779,
     "ltc": {
       "resident_total_cases": 8361,
@@ -5138,6 +5562,8 @@
     "deaths": 3656,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 618,
+    "icu": 179,
+    "icu_on_ventilator": 115,
     "infected": 14197,
     "ltc": {
       "resident_total_cases": 8399,
@@ -5159,6 +5585,8 @@
     "deaths": 3663,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 645,
+    "icu": 195,
+    "icu_on_ventilator": 119,
     "infected": 14524,
     "ltc": {
       "resident_total_cases": 8493,
@@ -5179,6 +5607,8 @@
     "deaths": 3698,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 656,
+    "icu": 192,
+    "icu_on_ventilator": 112,
     "infected": 14526,
     "ltc": {
       "resident_total_cases": 8674,
@@ -5199,6 +5629,8 @@
     "deaths": 3712,
     "growth_factor_total_cases": "1.06",
     "hospitalized": 666,
+    "icu": 208,
+    "icu_on_ventilator": 117,
     "infected": 14795,
     "ltc": {
       "resident_total_cases": 8726,
@@ -5219,6 +5651,8 @@
     "deaths": 3737,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 674,
+    "icu": 219,
+    "icu_on_ventilator": 123,
     "infected": 14997,
     "ltc": {
       "resident_total_deaths": 2357
@@ -5237,6 +5671,8 @@
     "deaths": 3757,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 709,
+    "icu": 214,
+    "icu_on_ventilator": 126,
     "infected": 15212,
     "ltc": {
       "resident_total_cases": 8850,
@@ -5256,6 +5692,8 @@
     "deaths": 3772,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 701,
+    "icu": 217,
+    "icu_on_ventilator": 119,
     "infected": 15547,
     "ltc": {
       "resident_total_cases": 8895,
@@ -5276,6 +5714,8 @@
     "deaths": 3798,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 725,
+    "icu": 227,
+    "icu_on_ventilator": 131,
     "infected": 16034,
     "ltc": {
       "resident_total_cases": 8966,
@@ -5297,6 +5737,8 @@
     "deaths": 3808,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 794,
+    "icu": 233,
+    "icu_on_ventilator": 143,
     "infected": 16151,
     "ltc": {
       "resident_total_cases": 9004,
@@ -5317,6 +5759,8 @@
     "deaths": 3836,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 811,
+    "icu": 234,
+    "icu_on_ventilator": 139,
     "infected": 16089,
     "ltc": {
       "resident_total_cases": 9045,
@@ -5337,6 +5781,8 @@
     "deaths": 3871,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 829,
+    "icu": 242,
+    "icu_on_ventilator": 143,
     "infected": 16233,
     "ltc": {
       "resident_total_cases": 9093,
@@ -5357,6 +5803,8 @@
     "deaths": 3916,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 808,
+    "icu": 251,
+    "icu_on_ventilator": 133,
     "infected": 16283,
     "ltc": {
       "resident_total_cases": 9156,
@@ -5377,6 +5825,8 @@
     "deaths": 3933,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 855,
+    "icu": 253,
+    "icu_on_ventilator": 153,
     "infected": 16221,
     "ltc": {
       "resident_total_cases": 9206,
@@ -5397,6 +5847,8 @@
     "deaths": 3949,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 813,
+    "icu": 271,
+    "icu_on_ventilator": 151,
     "infected": 16204,
     "ltc": {
       "resident_total_cases": 9279,
@@ -5417,6 +5869,8 @@
     "deaths": 3972,
     "growth_factor_total_cases": "1.16",
     "hospitalized": 857,
+    "icu": 264,
+    "icu_on_ventilator": 161,
     "infected": 16586,
     "ltc": {
       "resident_total_cases": 9358,
@@ -5438,6 +5892,8 @@
     "deaths": 3992,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 921,
+    "icu": 269,
+    "icu_on_ventilator": 170,
     "infected": 17031,
     "ltc": {
       "resident_total_cases": 9378,
@@ -5458,6 +5914,8 @@
     "deaths": 4035,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 932,
+    "icu": 277,
+    "icu_on_ventilator": 168,
     "infected": 17084,
     "ltc": {
       "resident_total_cases": 9462,
@@ -5478,6 +5936,8 @@
     "deaths": 4058,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 919,
+    "icu": 282,
+    "icu_on_ventilator": 182,
     "infected": 17484,
     "ltc": {
       "resident_total_cases": 9538,
@@ -5498,6 +5958,8 @@
     "deaths": 4098,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 877,
+    "icu": 278,
+    "icu_on_ventilator": 178,
     "infected": 17742,
     "ltc": {
       "resident_total_cases": 9625,
@@ -5518,6 +5980,8 @@
     "deaths": 4125,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 895,
+    "icu": 271,
+    "icu_on_ventilator": 152,
     "infected": 18207,
     "ltc": {
       "resident_total_cases": 9755,
@@ -5538,6 +6002,8 @@
     "deaths": 4150,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 875,
+    "icu": 277,
+    "icu_on_ventilator": 165,
     "infected": 18567,
     "ltc": {
       "resident_total_cases": 9845,
@@ -5558,6 +6024,8 @@
     "deaths": 4167,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 915,
+    "icu": 280,
+    "icu_on_ventilator": 160,
     "infected": 19019,
     "ltc": {
       "resident_total_cases": 9938,
@@ -5579,6 +6047,8 @@
     "deaths": 4188,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 1005,
+    "icu": 288,
+    "icu_on_ventilator": 180,
     "infected": 19300,
     "ltc": {
       "resident_total_cases": 10056,
@@ -5599,6 +6069,8 @@
     "deaths": 4229,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 1002,
+    "icu": 291,
+    "icu_on_ventilator": 196,
     "infected": 19424,
     "ltc": {
       "resident_total_cases": 10206,
@@ -5619,6 +6091,8 @@
     "deaths": 4278,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 967,
+    "icu": 297,
+    "icu_on_ventilator": 188,
     "infected": 19809,
     "ltc": {
       "resident_total_cases": 10315,
@@ -5642,6 +6116,8 @@
     "deaths": 4321,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 998,
+    "icu": 298,
+    "icu_on_ventilator": 166,
     "infected": 19688,
     "ltc": {
       "resident_total_cases": 10412,
@@ -5662,6 +6138,8 @@
     "deaths": 4359,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 755,
+    "icu": 307,
+    "icu_on_ventilator": 198,
     "infected": 19879,
     "ltc": {
       "resident_total_cases": 10492,
@@ -5682,6 +6160,8 @@
     "deaths": 4377,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 823,
+    "icu": 303,
+    "icu_on_ventilator": 205,
     "infected": 19861,
     "ltc": {
       "resident_total_cases": 10577,
@@ -5702,6 +6182,8 @@
     "deaths": 4414,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 875,
+    "icu": 315,
+    "icu_on_ventilator": 223,
     "infected": 19612,
     "ltc": {
       "resident_total_cases": 10647,
@@ -5723,6 +6205,8 @@
     "deaths": 4455,
     "growth_factor_total_cases": "1.32",
     "hospitalized": 864,
+    "icu": 324,
+    "icu_on_ventilator": 218,
     "infected": 19891,
     "ltc": {
       "resident_total_cases": 10725,
@@ -5743,6 +6227,8 @@
     "deaths": 4474,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 1177,
+    "icu": 342,
+    "icu_on_ventilator": 212,
     "infected": 20558,
     "ltc": {
       "resident_total_cases": 10830,
@@ -5758,6 +6244,7 @@
     "total_cases": 178831,
     "under_investigation": 54955,
     "vaccine": {
+      "previous_day_doses": 7847,
       "total_doses": 18603
     }
   },
@@ -5766,6 +6253,8 @@
     "deaths": 4530,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 1235,
+    "icu": 354,
+    "icu_on_ventilator": 219,
     "infected": 21617,
     "ltc": {
       "resident_total_cases": 11027,
@@ -5781,6 +6270,7 @@
     "total_cases": 182159,
     "under_investigation": 72283,
     "vaccine": {
+      "previous_day_doses": 4899,
       "total_doses": 23502
     }
   },
@@ -5789,6 +6279,8 @@
     "deaths": 4581,
     "growth_factor_total_cases": "0.74",
     "hospitalized": 1260,
+    "icu": 355,
+    "icu_on_ventilator": 232,
     "infected": 21582,
     "ltc": {
       "resident_total_cases": 11143,
@@ -5804,6 +6296,7 @@
     "total_cases": 184635,
     "under_investigation": 71526,
     "vaccine": {
+      "previous_day_doses": 5385,
       "total_doses": 28887
     }
   },
@@ -5812,6 +6305,8 @@
     "deaths": 4625,
     "growth_factor_total_cases": "1.36",
     "hospitalized": 1003,
+    "icu": 344,
+    "icu_on_ventilator": 230,
     "infected": 22847,
     "ltc": {
       "resident_total_cases": 11217,
@@ -5827,6 +6322,7 @@
     "total_cases": 187998,
     "under_investigation": 41709,
     "vaccine": {
+      "previous_day_doses": 4304,
       "total_doses": 33191
     }
   },
@@ -5835,6 +6331,8 @@
     "deaths": 4650,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 998,
+    "icu": 352,
+    "icu_on_ventilator": 240,
     "infected": 23611,
     "ltc": {
       "resident_total_cases": 11293,
@@ -5850,6 +6348,7 @@
     "total_cases": 190962,
     "under_investigation": 27769,
     "vaccine": {
+      "previous_day_doses": 4360,
       "total_doses": 37551
     }
   },
@@ -5858,6 +6357,8 @@
     "deaths": 4679,
     "growth_factor_total_cases": "1.10",
     "hospitalized": 1190,
+    "icu": 355,
+    "icu_on_ventilator": 205,
     "infected": 24778,
     "ltc": {
       "resident_total_cases": 11369,
@@ -5873,6 +6374,7 @@
     "total_cases": 194232,
     "under_investigation": 19683,
     "vaccine": {
+      "previous_day_doses": 4868,
       "total_doses": 42419
     },
     "weekly_growth_factor_total_cases": "1.36"
@@ -5882,6 +6384,8 @@
     "deaths": 4730,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 1347,
+    "icu": 375,
+    "icu_on_ventilator": 257,
     "infected": 25840,
     "ltc": {
       "resident_total_cases": 11511,
@@ -5897,6 +6401,7 @@
     "total_cases": 197360,
     "under_investigation": 39805,
     "vaccine": {
+      "previous_day_doses": 7611,
       "total_doses": 50030
     }
   },
@@ -5905,6 +6410,8 @@
     "deaths": 4767,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 1463,
+    "icu": 381,
+    "icu_on_ventilator": 256,
     "infected": 26064,
     "ltc": {
       "resident_total_cases": 11634,
@@ -5920,6 +6427,7 @@
     "total_cases": 200626,
     "under_investigation": 55484,
     "vaccine": {
+      "previous_day_doses": 10350,
       "total_doses": 60380
     }
   },
@@ -5928,6 +6436,8 @@
     "deaths": 4856,
     "growth_factor_total_cases": "1.08",
     "hospitalized": 1472,
+    "icu": 382,
+    "icu_on_ventilator": 251,
     "infected": 26718,
     "ltc": {
       "resident_total_cases": 11756,
@@ -5943,6 +6453,7 @@
     "total_cases": 204145,
     "under_investigation": 66970,
     "vaccine": {
+      "previous_day_doses": 12251,
       "total_doses": 72631
     }
   },
@@ -5951,6 +6462,8 @@
     "deaths": 4882,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 1446,
+    "icu": 394,
+    "icu_on_ventilator": 263,
     "infected": 28203,
     "ltc": {
       "resident_total_cases": 11915,
@@ -5966,6 +6479,7 @@
     "total_cases": 208394,
     "under_investigation": 73067,
     "vaccine": {
+      "previous_day_doses": 14932,
       "total_doses": 87563
     }
   },
@@ -5974,6 +6488,8 @@
     "deaths": 4922,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 1457,
+    "icu": 409,
+    "icu_on_ventilator": 257,
     "infected": 28691,
     "ltc": {
       "resident_total_cases": 12073,
@@ -5989,6 +6505,7 @@
     "total_cases": 211837,
     "under_investigation": 61228,
     "vaccine": {
+      "previous_day_doses": 15700,
       "total_doses": 103263
     }
   },
@@ -5997,6 +6514,8 @@
     "deaths": 4983,
     "growth_factor_total_cases": "1.15",
     "hospitalized": 1483,
+    "icu": 411,
+    "icu_on_ventilator": 278,
     "infected": 30079,
     "ltc": {
       "resident_total_cases": 12210,
@@ -6012,6 +6531,7 @@
     "total_cases": 215782,
     "under_investigation": 39362,
     "vaccine": {
+      "previous_day_doses": 9983,
       "total_doses": 113246
     }
   },
@@ -6020,6 +6540,8 @@
     "deaths": 5012,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 1563,
+    "icu": 412,
+    "icu_on_ventilator": 279,
     "infected": 30632,
     "ltc": {
       "resident_total_cases": 12377,
@@ -6035,6 +6557,7 @@
     "total_cases": 219120,
     "under_investigation": 28774,
     "vaccine": {
+      "previous_day_doses": 8859,
       "total_doses": 122105
     },
     "weekly_growth_factor_total_cases": "1.19"
@@ -6044,6 +6567,8 @@
     "deaths": 5053,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 1701,
+    "icu": 411,
+    "icu_on_ventilator": 274,
     "infected": 30141,
     "ltc": {
       "resident_total_cases": 12575,
@@ -6059,6 +6584,7 @@
     "total_cases": 222023,
     "under_investigation": 43154,
     "vaccine": {
+      "previous_day_doses": 11448,
       "total_doses": 133553
     }
   },
@@ -6067,6 +6593,8 @@
     "deaths": 5127,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 1674,
+    "icu": 409,
+    "icu_on_ventilator": 289,
     "infected": 29636,
     "ltc": {
       "resident_total_cases": 12726,
@@ -6082,6 +6610,7 @@
     "total_cases": 224984,
     "under_investigation": 61259,
     "vaccine": {
+      "previous_day_doses": 11231,
       "total_doses": 144784
     }
   },
@@ -6090,6 +6619,8 @@
     "deaths": 5189,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1657,
+    "icu": 413,
+    "icu_on_ventilator": 295,
     "infected": 29307,
     "ltc": {
       "resident_total_cases": 12869,
@@ -6105,6 +6636,7 @@
     "total_cases": 228310,
     "under_investigation": 66940,
     "vaccine": {
+      "previous_day_doses": 14237,
       "total_doses": 159021
     }
   },
@@ -6113,6 +6645,8 @@
     "deaths": 5289,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 1647,
+    "icu": 413,
+    "icu_on_ventilator": 294,
     "infected": 28825,
     "ltc": {
       "resident_total_cases": 13014,
@@ -6128,6 +6662,7 @@
     "total_cases": 231308,
     "under_investigation": 63728,
     "vaccine": {
+      "previous_day_doses": 15609,
       "total_doses": 174630
     }
   },
@@ -6136,6 +6671,8 @@
     "deaths": 5340,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 1632,
+    "icu": 421,
+    "icu_on_ventilator": 297,
     "infected": 28618,
     "ltc": {
       "resident_total_cases": 13104,
@@ -6151,6 +6688,7 @@
     "total_cases": 234364,
     "under_investigation": 50387,
     "vaccine": {
+      "previous_day_doses": 14460,
       "total_doses": 189090
     }
   },
@@ -6159,6 +6697,8 @@
     "deaths": 5409,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1570,
+    "icu": 415,
+    "icu_on_ventilator": 306,
     "infected": 28893,
     "ltc": {
       "resident_total_cases": 13210,
@@ -6174,6 +6714,7 @@
     "total_cases": 237786,
     "under_investigation": 30103,
     "vaccine": {
+      "previous_day_doses": 11007,
       "total_doses": 200097
     }
   },
@@ -6182,6 +6723,8 @@
     "deaths": 5433,
     "growth_factor_total_cases": "0.75",
     "hospitalized": 1571,
+    "icu": 416,
+    "icu_on_ventilator": 314,
     "infected": 28621,
     "ltc": {
       "resident_total_cases": 13337,
@@ -6197,6 +6740,7 @@
     "total_cases": 240364,
     "under_investigation": 18481,
     "vaccine": {
+      "previous_day_doses": 9691,
       "total_doses": 209788
     },
     "weekly_growth_factor_total_cases": "0.85"
@@ -6206,6 +6750,8 @@
     "deaths": 5479,
     "growth_factor_total_cases": "0.74",
     "hospitalized": 1626,
+    "icu": 420,
+    "icu_on_ventilator": 304,
     "infected": 27615,
     "ltc": {
       "resident_total_cases": 13412,
@@ -6221,6 +6767,7 @@
     "total_cases": 242277,
     "under_investigation": 36750,
     "vaccine": {
+      "previous_day_doses": 14346,
       "total_doses": 224134
     }
   },
@@ -6229,6 +6776,8 @@
     "deaths": 5568,
     "growth_factor_total_cases": "1.39",
     "hospitalized": 1598,
+    "icu": 416,
+    "icu_on_ventilator": 311,
     "infected": 26467,
     "ltc": {
       "resident_total_cases": 13549,
@@ -6244,6 +6793,7 @@
     "total_cases": 244932,
     "under_investigation": 48963,
     "vaccine": {
+      "previous_day_doses": 13784,
       "total_doses": 237918
     }
   },
@@ -6252,6 +6802,8 @@
     "deaths": 5614,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 1533,
+    "icu": 410,
+    "icu_on_ventilator": 305,
     "infected": 26063,
     "ltc": {
       "resident_total_cases": 13647,
@@ -6267,6 +6819,7 @@
     "total_cases": 247564,
     "under_investigation": 52871,
     "vaccine": {
+      "previous_day_doses": 15899,
       "total_doses": 253817
     }
   },
@@ -6275,6 +6828,8 @@
     "deaths": 5701,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 1512,
+    "icu": 406,
+    "icu_on_ventilator": 304,
     "infected": 25263,
     "ltc": {
       "resident_total_cases": 13746,
@@ -6290,6 +6845,7 @@
     "total_cases": 250226,
     "under_investigation": 41819,
     "vaccine": {
+      "previous_day_doses": 11168,
       "total_doses": 264985
     }
   },
@@ -6298,6 +6854,8 @@
     "deaths": 5753,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 1501,
+    "icu": 418,
+    "icu_on_ventilator": 313,
     "infected": 24545,
     "ltc": {
       "resident_total_cases": 13854,
@@ -6313,6 +6871,7 @@
     "total_cases": 252585,
     "under_investigation": 37847,
     "vaccine": {
+      "previous_day_doses": 11161,
       "total_doses": 276146
     }
   },
@@ -6321,6 +6880,8 @@
     "deaths": 5803,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 1436,
+    "icu": 413,
+    "icu_on_ventilator": 315,
     "infected": 24153,
     "ltc": {
       "resident_total_cases": 13996,
@@ -6336,6 +6897,7 @@
     "total_cases": 255002,
     "under_investigation": 23995,
     "vaccine": {
+      "previous_day_doses": 4427,
       "total_doses": 280573
     }
   },
@@ -6344,6 +6906,8 @@
     "deaths": 5846,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 1398,
+    "icu": 418,
+    "icu_on_ventilator": 297,
     "infected": 23620,
     "ltc": {
       "resident_total_cases": 14063,
@@ -6359,6 +6923,7 @@
     "total_cases": 256960,
     "under_investigation": 14991,
     "vaccine": {
+      "previous_day_doses": 5537,
       "total_doses": 286110
     },
     "weekly_growth_factor_total_cases": "0.78"
@@ -6368,6 +6933,8 @@
     "deaths": 5909,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 1466,
+    "icu": 405,
+    "icu_on_ventilator": 310,
     "infected": 23036,
     "ltc": {
       "resident_total_cases": 14134,
@@ -6383,6 +6950,7 @@
     "total_cases": 258700,
     "under_investigation": 36405,
     "vaccine": {
+      "previous_day_doses": 9707,
       "total_doses": 295817
     }
   },
@@ -6391,6 +6959,8 @@
     "deaths": 5958,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 1382,
+    "icu": 400,
+    "icu_on_ventilator": 305,
     "infected": 21932,
     "ltc": {
       "resident_total_cases": 14214,
@@ -6406,6 +6976,7 @@
     "total_cases": 260370,
     "under_investigation": 46900,
     "vaccine": {
+      "previous_day_doses": 9513,
       "total_doses": 305330
     }
   },
@@ -6414,6 +6985,8 @@
     "deaths": 6014,
     "growth_factor_total_cases": "1.25",
     "hospitalized": 1338,
+    "icu": 386,
+    "icu_on_ventilator": 296,
     "infected": 21478,
     "ltc": {
       "resident_total_cases": 14264,
@@ -6429,6 +7002,7 @@
     "total_cases": 262463,
     "under_investigation": 48386,
     "vaccine": {
+      "previous_day_doses": 11910,
       "total_doses": 317240
     }
   },
@@ -6437,6 +7011,8 @@
     "deaths": 6072,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 1291,
+    "icu": 391,
+    "icu_on_ventilator": 293,
     "infected": 20357,
     "ltc": {
       "resident_total_cases": 14346,
@@ -6452,6 +7028,7 @@
     "total_cases": 264300,
     "under_investigation": 40453,
     "vaccine": {
+      "previous_day_doses": 10215,
       "total_doses": 327455
     }
   },
@@ -6460,6 +7037,8 @@
     "deaths": 6145,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1273,
+    "icu": 385,
+    "icu_on_ventilator": 230,
     "infected": 19724,
     "ltc": {
       "resident_total_cases": 14465,
@@ -6475,6 +7054,7 @@
     "total_cases": 266363,
     "under_investigation": 31463,
     "vaccine": {
+      "previous_day_doses": 9373,
       "total_doses": 336828
     }
   },
@@ -6483,6 +7063,8 @@
     "deaths": 6188,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 1159,
+    "icu": 385,
+    "icu_on_ventilator": 272,
     "infected": 19216,
     "ltc": {
       "resident_total_cases": 14554,
@@ -6498,6 +7080,7 @@
     "total_cases": 268211,
     "under_investigation": 15616,
     "vaccine": {
+      "previous_day_doses": 2816,
       "total_doses": 339644
     }
   },
@@ -6506,6 +7089,8 @@
     "deaths": 6224,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 1158,
+    "icu": 383,
+    "icu_on_ventilator": 277,
     "infected": 19017,
     "ltc": {
       "resident_total_cases": 14616,
@@ -6521,6 +7106,7 @@
     "total_cases": 270180,
     "under_investigation": 11651,
     "vaccine": {
+      "previous_day_doses": 2256,
       "total_doses": 341900
     },
     "weekly_growth_factor_total_cases": "0.80"
@@ -6530,6 +7116,8 @@
     "deaths": 6238,
     "growth_factor_total_cases": "0.38",
     "hospitalized": 1192,
+    "icu": 369,
+    "icu_on_ventilator": 271,
     "infected": 17451,
     "ltc": {
       "resident_total_cases": 14586,
@@ -6545,6 +7133,7 @@
     "total_cases": 270925,
     "under_investigation": 32348,
     "vaccine": {
+      "previous_day_doses": 2715,
       "total_doses": 344615
     }
   },
@@ -6553,6 +7142,8 @@
     "deaths": 6305,
     "growth_factor_total_cases": "1.57",
     "hospitalized": 1066,
+    "icu": 368,
+    "icu_on_ventilator": 275,
     "infected": 16811,
     "ltc": {
       "resident_total_cases": 14607,
@@ -6568,6 +7159,7 @@
     "total_cases": 272097,
     "under_investigation": 44606,
     "vaccine": {
+      "previous_day_doses": 3716,
       "total_doses": 348331
     }
   },
@@ -6576,6 +7168,8 @@
     "deaths": 6393,
     "growth_factor_total_cases": "1.33",
     "hospitalized": 1101,
+    "icu": 356,
+    "icu_on_ventilator": 266,
     "infected": 16330,
     "ltc": {
       "resident_total_cases": 14672,
@@ -6591,6 +7185,7 @@
     "total_cases": 273660,
     "under_investigation": 47282,
     "vaccine": {
+      "previous_day_doses": 6724,
       "total_doses": 355055
     }
   },
@@ -6599,6 +7194,8 @@
     "deaths": 6438,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 1043,
+    "icu": 359,
+    "icu_on_ventilator": 251,
     "infected": 15722,
     "ltc": {
       "resident_total_cases": 14702,
@@ -6614,6 +7211,7 @@
     "total_cases": 275330,
     "under_investigation": 41561,
     "vaccine": {
+      "previous_day_doses": 7694,
       "total_doses": 362749
     }
   },
@@ -6622,6 +7220,8 @@
     "deaths": 6483,
     "growth_factor_total_cases": "0.83",
     "hospitalized": 1021,
+    "icu": 364,
+    "icu_on_ventilator": 254,
     "infected": 15269,
     "ltc": {
       "resident_total_cases": 14771,
@@ -6637,6 +7237,7 @@
     "total_cases": 276718,
     "under_investigation": 31924,
     "vaccine": {
+      "previous_day_doses": 9917,
       "total_doses": 372666
     }
   },
@@ -6645,6 +7246,8 @@
     "deaths": 6505,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 926,
+    "icu": 372,
+    "icu_on_ventilator": 260,
     "infected": 14799,
     "ltc": {
       "resident_total_cases": 14795,
@@ -6660,6 +7263,7 @@
     "total_cases": 278207,
     "under_investigation": 16539,
     "vaccine": {
+      "previous_day_doses": 6518,
       "total_doses": 379184
     }
   },
@@ -6668,6 +7272,8 @@
     "deaths": 6538,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 901,
+    "icu": 370,
+    "icu_on_ventilator": 251,
     "infected": 14331,
     "ltc": {
       "resident_total_cases": 14809,
@@ -6683,6 +7289,7 @@
     "total_cases": 279472,
     "under_investigation": 10693,
     "vaccine": {
+      "previous_day_doses": 6987,
       "total_doses": 386171
     },
     "weekly_growth_factor_total_cases": "0.70"
@@ -6692,6 +7299,8 @@
     "deaths": 6555,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 909,
+    "icu": 349,
+    "icu_on_ventilator": 244,
     "infected": 13948,
     "ltc": {
       "resident_total_cases": 14820,
@@ -6707,6 +7316,7 @@
     "total_cases": 280494,
     "under_investigation": 33273,
     "vaccine": {
+      "previous_day_doses": 12462,
       "total_doses": 398633
     }
   },
@@ -6715,6 +7325,8 @@
     "deaths": 6596,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 948,
+    "icu": 341,
+    "icu_on_ventilator": 245,
     "infected": 13270,
     "ltc": {
       "resident_total_cases": 14847,
@@ -6730,6 +7342,7 @@
     "total_cases": 281566,
     "under_investigation": 41725,
     "vaccine": {
+      "previous_day_doses": 13486,
       "total_doses": 412119
     }
   },
@@ -6738,6 +7351,8 @@
     "deaths": 6614,
     "growth_factor_total_cases": "0.88",
     "hospitalized": 883,
+    "icu": 331,
+    "icu_on_ventilator": 233,
     "infected": 12853,
     "ltc": {
       "resident_total_deaths": 3769
@@ -6751,6 +7366,7 @@
     "total_cases": 282511,
     "under_investigation": 43383,
     "vaccine": {
+      "previous_day_doses": 14717,
       "total_doses": 426836
     }
   },
@@ -6759,6 +7375,8 @@
     "deaths": 6632,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 763,
+    "icu": 328,
+    "icu_on_ventilator": 228,
     "infected": 12496,
     "ltc": {
       "resident_total_cases": 14832,
@@ -6773,6 +7391,7 @@
     "total_cases": 283587,
     "under_investigation": 38345,
     "vaccine": {
+      "previous_day_doses": 15605,
       "total_doses": 442441
     }
   },
@@ -6781,6 +7400,8 @@
     "deaths": 6651,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 786,
+    "icu": 322,
+    "icu_on_ventilator": 229,
     "infected": 12343,
     "ltc": {
       "resident_total_cases": 14840,
@@ -6796,6 +7417,7 @@
     "total_cases": 284887,
     "under_investigation": 32143,
     "vaccine": {
+      "previous_day_doses": 14506,
       "total_doses": 456947
     }
   },
@@ -6804,6 +7426,8 @@
     "deaths": 6693,
     "growth_factor_total_cases": "0.75",
     "hospitalized": 705,
+    "icu": 329,
+    "icu_on_ventilator": 230,
     "infected": 12047,
     "ltc": {
       "resident_total_cases": 14895,
@@ -6819,6 +7443,7 @@
     "total_cases": 285868,
     "under_investigation": 15947,
     "vaccine": {
+      "previous_day_doses": 10679,
       "total_doses": 467626
     }
   },
@@ -6827,6 +7452,8 @@
     "deaths": 6706,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 739,
+    "icu": 331,
+    "icu_on_ventilator": 224,
     "infected": 11825,
     "ltc": {
       "resident_total_cases": 14902,
@@ -6842,6 +7469,7 @@
     "total_cases": 286832,
     "under_investigation": 10802,
     "vaccine": {
+      "previous_day_doses": 7698,
       "total_doses": 475324
     },
     "weekly_growth_factor_total_cases": "0.79"
@@ -6851,6 +7479,8 @@
     "deaths": 6719,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 742,
+    "icu": 333,
+    "icu_on_ventilator": 224,
     "infected": 11604,
     "ltc": {
       "resident_total_cases": 14905,
@@ -6866,6 +7496,7 @@
     "total_cases": 287736,
     "under_investigation": 15024,
     "vaccine": {
+      "previous_day_doses": 5053,
       "total_doses": 480377
     }
   },
@@ -6874,6 +7505,8 @@
     "deaths": 6729,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 719,
+    "icu": 334,
+    "icu_on_ventilator": 231,
     "infected": 10985,
     "ltc": {
       "resident_total_cases": 14908,
@@ -6889,6 +7522,7 @@
     "total_cases": 288583,
     "under_investigation": 33730,
     "vaccine": {
+      "previous_day_doses": 9107,
       "total_doses": 489484
     }
   },
@@ -6897,6 +7531,8 @@
     "deaths": 6773,
     "growth_factor_total_cases": "1.23",
     "hospitalized": 758,
+    "icu": 316,
+    "icu_on_ventilator": 213,
     "infected": 10702,
     "ltc": {
       "resident_total_cases": 14916,
@@ -6912,6 +7548,7 @@
     "total_cases": 289621,
     "under_investigation": 44532,
     "vaccine": {
+      "previous_day_doses": 12383,
       "total_doses": 501867
     }
   },
@@ -6920,6 +7557,8 @@
     "deaths": 6820,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 689,
+    "icu": 307,
+    "icu_on_ventilator": 210,
     "infected": 10550,
     "ltc": {
       "resident_total_cases": 14924,
@@ -6935,6 +7574,7 @@
     "total_cases": 290771,
     "under_investigation": 39970,
     "vaccine": {
+      "previous_day_doses": 16967,
       "total_doses": 518834
     }
   },
@@ -6943,6 +7583,8 @@
     "deaths": 6848,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 699,
+    "icu": 294,
+    "icu_on_ventilator": 198,
     "infected": 10437,
     "ltc": {
       "resident_total_cases": 14927,
@@ -6958,6 +7600,7 @@
     "total_cases": 291999,
     "under_investigation": 30762,
     "vaccine": {
+      "previous_day_doses": 21295,
       "total_doses": 540129
     }
   },
@@ -6966,6 +7609,8 @@
     "deaths": 6861,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 660,
+    "icu": 307,
+    "icu_on_ventilator": 196,
     "infected": 10371,
     "ltc": {
       "resident_total_cases": 14934,
@@ -6981,6 +7626,7 @@
     "total_cases": 293086,
     "under_investigation": 17307,
     "vaccine": {
+      "previous_day_doses": 16404,
       "total_doses": 556533
     }
   },
@@ -6989,6 +7635,8 @@
     "deaths": 6872,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 646,
+    "icu": 310,
+    "icu_on_ventilator": 204,
     "infected": 10335,
     "ltc": {
       "resident_total_cases": 14935,
@@ -7004,6 +7652,7 @@
     "total_cases": 294144,
     "under_investigation": 11883,
     "vaccine": {
+      "previous_day_doses": 12922,
       "total_doses": 569455
     },
     "weekly_growth_factor_total_cases": "0.99"
@@ -7013,6 +7662,8 @@
     "deaths": 6884,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 718,
+    "icu": 313,
+    "icu_on_ventilator": 200,
     "infected": 10296,
     "ltc": {
       "resident_total_cases": 14937,
@@ -7028,6 +7679,7 @@
     "total_cases": 295119,
     "under_investigation": 28802,
     "vaccine": {
+      "previous_day_doses": 16252,
       "total_doses": 585707
     }
   },
@@ -7036,6 +7688,8 @@
     "deaths": 6893,
     "growth_factor_total_cases": "1.08",
     "hospitalized": 675,
+    "icu": 316,
+    "icu_on_ventilator": 193,
     "infected": 10050,
     "ltc": {
       "resident_total_cases": 14937,
@@ -7051,6 +7705,7 @@
     "total_cases": 296173,
     "under_investigation": 41251,
     "vaccine": {
+      "previous_day_doses": 17141,
       "total_doses": 602848
     }
   },
@@ -7059,6 +7714,8 @@
     "deaths": 6916,
     "growth_factor_total_cases": "1.08",
     "hospitalized": 687,
+    "icu": 313,
+    "icu_on_ventilator": 193,
     "infected": 10071,
     "ltc": {
       "resident_total_cases": 14943,
@@ -7074,6 +7731,7 @@
     "total_cases": 297311,
     "under_investigation": 40639,
     "vaccine": {
+      "previous_day_doses": 19112,
       "total_doses": 621960
     }
   },
@@ -7082,6 +7740,8 @@
     "deaths": 6944,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 683,
+    "icu": 317,
+    "icu_on_ventilator": 211,
     "infected": 10294,
     "ltc": {
       "resident_total_cases": 14955,
@@ -7097,6 +7757,7 @@
     "total_cases": 298569,
     "under_investigation": 35502,
     "vaccine": {
+      "previous_day_doses": 21805,
       "total_doses": 643765
     }
   },
@@ -7105,6 +7766,8 @@
     "deaths": 6960,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 680,
+    "icu": 308,
+    "icu_on_ventilator": 197,
     "infected": 10479,
     "ltc": {
       "resident_total_cases": 14958,
@@ -7120,6 +7783,7 @@
     "total_cases": 299754,
     "under_investigation": 27989,
     "vaccine": {
+      "previous_day_doses": 24339,
       "total_doses": 668104
     }
   },
@@ -7128,6 +7792,8 @@
     "deaths": 6980,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 627,
+    "icu": 322,
+    "icu_on_ventilator": 200,
     "infected": 10492,
     "ltc": {
       "resident_total_cases": 14958,
@@ -7143,6 +7809,7 @@
     "total_cases": 300816,
     "under_investigation": 18318,
     "vaccine": {
+      "previous_day_doses": 19167,
       "total_doses": 687271
     }
   },
@@ -7151,6 +7818,8 @@
     "deaths": 6986,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 659,
+    "icu": 311,
+    "icu_on_ventilator": 192,
     "infected": 10570,
     "ltc": {
       "resident_total_cases": 14958,
@@ -7166,6 +7835,7 @@
     "total_cases": 301839,
     "under_investigation": 13416,
     "vaccine": {
+      "previous_day_doses": 17424,
       "total_doses": 704695
     },
     "weekly_growth_factor_total_cases": "1.05"
@@ -7175,6 +7845,8 @@
     "deaths": 6997,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 677,
+    "icu": 310,
+    "icu_on_ventilator": 202,
     "infected": 10546,
     "ltc": {
       "resident_total_cases": 14958,
@@ -7190,6 +7862,7 @@
     "total_cases": 302805,
     "under_investigation": 31074,
     "vaccine": {
+      "previous_day_doses": 22326,
       "total_doses": 727021
     }
   },
@@ -7198,6 +7871,8 @@
     "deaths": 7014,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 668,
+    "icu": 301,
+    "icu_on_ventilator": 203,
     "infected": 10397,
     "ltc": {
       "resident_total_cases": 14961,
@@ -7213,6 +7888,7 @@
     "total_cases": 303763,
     "under_investigation": 43139,
     "vaccine": {
+      "previous_day_doses": 27398,
       "total_doses": 754419
     }
   },
@@ -7221,6 +7897,8 @@
     "deaths": 7024,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 649,
+    "icu": 306,
+    "icu_on_ventilator": 198,
     "infected": 10309,
     "ltc": {
       "resident_total_cases": 14963,
@@ -7236,6 +7914,7 @@
     "total_cases": 304757,
     "under_investigation": 42723,
     "vaccine": {
+      "previous_day_doses": 30409,
       "total_doses": 784828
     }
   },
@@ -7244,6 +7923,8 @@
     "deaths": 7046,
     "growth_factor_total_cases": "1.26",
     "hospitalized": 643,
+    "icu": 312,
+    "icu_on_ventilator": 199,
     "infected": 10378,
     "ltc": {
       "resident_total_cases": 14964,
@@ -7259,6 +7940,7 @@
     "total_cases": 306007,
     "under_investigation": 34037,
     "vaccine": {
+      "previous_day_doses": 35886,
       "total_doses": 820714
     }
   },
@@ -7267,6 +7949,8 @@
     "deaths": 7052,
     "growth_factor_total_cases": "0.79",
     "hospitalized": 620,
+    "icu": 312,
+    "icu_on_ventilator": 198,
     "infected": 10210,
     "ltc": {
       "resident_total_cases": 14976,
@@ -7282,6 +7966,7 @@
     "total_cases": 306997,
     "under_investigation": 27796,
     "vaccine": {
+      "previous_day_doses": 39698,
       "total_doses": 860412
     }
   },
@@ -7290,6 +7975,8 @@
     "deaths": 7067,
     "growth_factor_total_cases": "1.31",
     "hospitalized": 606,
+    "icu": 308,
+    "icu_on_ventilator": 197,
     "infected": 10389,
     "ltc": {
       "resident_total_cases": 14980,
@@ -7305,6 +7992,7 @@
     "total_cases": 308296,
     "under_investigation": 20057,
     "vaccine": {
+      "previous_day_doses": 30192,
       "total_doses": 890604
     }
   },
@@ -7313,6 +8001,8 @@
     "deaths": 7077,
     "growth_factor_total_cases": "1.26",
     "hospitalized": 626,
+    "icu": 318,
+    "icu_on_ventilator": 203,
     "infected": 11016,
     "ltc": {
       "resident_total_cases": 14979,
@@ -7328,6 +8018,7 @@
     "total_cases": 309927,
     "under_investigation": 13891,
     "vaccine": {
+      "previous_day_doses": 21882,
       "total_doses": 912486
     },
     "weekly_growth_factor_total_cases": "1.05"
@@ -7337,6 +8028,8 @@
     "deaths": 7083,
     "growth_factor_total_cases": "0.73",
     "hospitalized": 689,
+    "icu": 326,
+    "icu_on_ventilator": 203,
     "infected": 11223,
     "ltc": {
       "resident_total_cases": 14980,
@@ -7352,6 +8045,7 @@
     "total_cases": 311112,
     "under_investigation": 29845,
     "vaccine": {
+      "previous_day_doses": 31047,
       "total_doses": 943533
     }
   },
@@ -7360,6 +8054,8 @@
     "deaths": 7099,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 678,
+    "icu": 309,
+    "icu_on_ventilator": 194,
     "infected": 11311,
     "ltc": {
       "resident_total_cases": 14978,
@@ -7375,6 +8071,7 @@
     "total_cases": 312428,
     "under_investigation": 38518,
     "vaccine": {
+      "previous_day_doses": 35264,
       "total_doses": 978797
     }
   },
@@ -7383,6 +8080,8 @@
     "deaths": 7109,
     "growth_factor_total_cases": "0.83",
     "hospitalized": 680,
+    "icu": 308,
+    "icu_on_ventilator": 202,
     "infected": 11283,
     "ltc": {
       "resident_total_cases": 14976,
@@ -7398,6 +8097,7 @@
     "total_cases": 313520,
     "under_investigation": 42033,
     "vaccine": {
+      "previous_day_doses": 40610,
       "total_doses": 1019407
     }
   },
@@ -7406,6 +8106,8 @@
     "deaths": 7127,
     "growth_factor_total_cases": "1.26",
     "hospitalized": 676,
+    "icu": 314,
+    "icu_on_ventilator": 206,
     "infected": 11512,
     "ltc": {
       "resident_total_cases": 14976,
@@ -7421,6 +8123,7 @@
     "total_cases": 314891,
     "under_investigation": 36744,
     "vaccine": {
+      "previous_day_doses": 43503,
       "total_doses": 1062910
     }
   },
@@ -7429,6 +8132,8 @@
     "deaths": 7138,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 689,
+    "icu": 308,
+    "icu_on_ventilator": 191,
     "infected": 11818,
     "ltc": {
       "resident_total_cases": 14969,
@@ -7444,6 +8149,7 @@
     "total_cases": 316359,
     "under_investigation": 29756,
     "vaccine": {
+      "previous_day_doses": 53586,
       "total_doses": 1116496
     }
   },
@@ -7452,6 +8158,8 @@
     "deaths": 7153,
     "growth_factor_total_cases": "1.19",
     "hospitalized": 601,
+    "icu": 316,
+    "icu_on_ventilator": 201,
     "infected": 12383,
     "ltc": {
       "resident_total_cases": 14972,
@@ -7467,6 +8175,7 @@
     "total_cases": 318106,
     "under_investigation": 18494,
     "vaccine": {
+      "previous_day_doses": 41859,
       "total_doses": 1158355
     }
   },
@@ -7475,6 +8184,8 @@
     "deaths": 7162,
     "growth_factor_total_cases": "0.73",
     "hospitalized": 699,
+    "icu": 329,
+    "icu_on_ventilator": 202,
     "infected": 12528,
     "ltc": {
       "resident_total_cases": 14984,
@@ -7490,6 +8201,7 @@
     "total_cases": 319374,
     "under_investigation": 10954,
     "vaccine": {
+      "previous_day_doses": 33198,
       "total_doses": 1191553
     },
     "weekly_growth_factor_total_cases": "1.17"
@@ -7499,6 +8211,8 @@
     "deaths": 7173,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 761,
+    "icu": 325,
+    "icu_on_ventilator": 209,
     "infected": 12506,
     "ltc": {
       "resident_total_cases": 14987,
@@ -7514,6 +8228,7 @@
     "total_cases": 320448,
     "under_investigation": 27448,
     "vaccine": {
+      "previous_day_doses": 51579,
       "total_doses": 1243132
     }
   },
@@ -7522,6 +8237,8 @@
     "deaths": 7187,
     "growth_factor_total_cases": "1.40",
     "hospitalized": 741,
+    "icu": 334,
+    "icu_on_ventilator": 204,
     "infected": 12512,
     "ltc": {
       "resident_total_cases": 14988,
@@ -7537,6 +8254,7 @@
     "total_cases": 321956,
     "under_investigation": 35201,
     "vaccine": {
+      "previous_day_doses": 58202,
       "total_doses": 1301334
     }
   },
@@ -7545,6 +8263,8 @@
     "deaths": 7202,
     "growth_factor_total_cases": "1.03",
     "hospitalized": 730,
+    "icu": 341,
+    "icu_on_ventilator": 205,
     "infected": 12814,
     "ltc": {
       "resident_total_cases": 14992,
@@ -7560,6 +8280,7 @@
     "total_cases": 323509,
     "under_investigation": 32330,
     "vaccine": {
+      "previous_day_doses": 58119,
       "total_doses": 1359453
     }
   },
@@ -7568,6 +8289,8 @@
     "deaths": 7212,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 759,
+    "icu": 346,
+    "icu_on_ventilator": 192,
     "infected": 13253,
     "ltc": {
       "resident_total_cases": 14999,
@@ -7583,6 +8306,7 @@
     "total_cases": 325254,
     "under_investigation": 29545,
     "vaccine": {
+      "previous_day_doses": 61146,
       "total_doses": 1420599
     }
   },
@@ -7591,6 +8315,8 @@
     "deaths": 7223,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 765,
+    "icu": 335,
+    "icu_on_ventilator": 208,
     "infected": 13810,
     "ltc": {
       "resident_total_cases": 15000,
@@ -7606,6 +8332,7 @@
     "total_cases": 327083,
     "under_investigation": 28020,
     "vaccine": {
+      "previous_day_doses": 60283,
       "total_doses": 1480882
     }
   },
@@ -7614,6 +8341,8 @@
     "deaths": 7241,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 760,
+    "icu": 340,
+    "icu_on_ventilator": 206,
     "infected": 14230,
     "ltc": {
       "resident_total_cases": 15005,
@@ -7629,6 +8358,7 @@
     "total_cases": 328874,
     "under_investigation": 19486,
     "vaccine": {
+      "previous_day_doses": 40823,
       "total_doses": 1521705
     }
   },
@@ -7637,6 +8367,8 @@
     "deaths": 7244,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 813,
+    "icu": 331,
+    "icu_on_ventilator": 206,
     "infected": 14751,
     "ltc": {
       "resident_total_cases": 15009,
@@ -7652,6 +8384,7 @@
     "total_cases": 330573,
     "under_investigation": 14407,
     "vaccine": {
+      "previous_day_doses": 31335,
       "total_doses": 1553040
     },
     "weekly_growth_factor_total_cases": "1.19"
@@ -7661,6 +8394,8 @@
     "deaths": 7253,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 868,
+    "icu": 357,
+    "icu_on_ventilator": 208,
     "infected": 15017,
     "ltc": {
       "resident_total_cases": 15010,
@@ -7676,6 +8411,7 @@
     "total_cases": 332119,
     "under_investigation": 31325,
     "vaccine": {
+      "previous_day_doses": 50659,
       "total_doses": 1603699
     }
   },
@@ -7684,6 +8420,8 @@
     "deaths": 7263,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 893,
+    "icu": 363,
+    "icu_on_ventilator": 228,
     "infected": 15047,
     "ltc": {
       "resident_total_cases": 15015,
@@ -7699,6 +8437,7 @@
     "total_cases": 333690,
     "under_investigation": 38985,
     "vaccine": {
+      "previous_day_doses": 72451,
       "total_doses": 1676150
     }
   },
@@ -7707,6 +8446,8 @@
     "deaths": 7280,
     "growth_factor_total_cases": "1.51",
     "hospitalized": 894,
+    "icu": 360,
+    "icu_on_ventilator": 227,
     "infected": 16081,
     "ltc": {
       "resident_total_cases": 15017,
@@ -7722,6 +8463,7 @@
     "total_cases": 336070,
     "under_investigation": 36916,
     "vaccine": {
+      "previous_day_doses": 79446,
       "total_doses": 1755596
     }
   },
@@ -7730,6 +8472,8 @@
     "deaths": 7292,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 913,
+    "icu": 384,
+    "icu_on_ventilator": 226,
     "infected": 16563,
     "ltc": {
       "resident_total_cases": 15021,
@@ -7745,6 +8489,7 @@
     "total_cases": 338239,
     "under_investigation": 37364,
     "vaccine": {
+      "previous_day_doses": 82996,
       "total_doses": 1838592
     }
   },
@@ -7753,6 +8498,8 @@
     "deaths": 7308,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 985,
+    "icu": 392,
+    "icu_on_ventilator": 201,
     "infected": 17519,
     "ltc": {
       "resident_total_cases": 15025,
@@ -7768,6 +8515,7 @@
     "total_cases": 340692,
     "under_investigation": 33065,
     "vaccine": {
+      "previous_day_doses": 77740,
       "total_doses": 1916332
     }
   },
@@ -7776,6 +8524,8 @@
     "deaths": 7327,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 917,
+    "icu": 393,
+    "icu_on_ventilator": 227,
     "infected": 18405,
     "ltc": {
       "resident_total_cases": 15029,
@@ -7791,6 +8541,7 @@
     "total_cases": 343140,
     "under_investigation": 25452,
     "vaccine": {
+      "previous_day_doses": 64950,
       "total_doses": 1981282
     }
   },
@@ -7799,6 +8550,8 @@
     "deaths": 7337,
     "growth_factor_total_cases": "0.86",
     "hospitalized": 841,
+    "icu": 409,
+    "icu_on_ventilator": 246,
     "infected": 18965,
     "ltc": {
       "resident_total_cases": 15030,
@@ -7814,6 +8567,7 @@
     "total_cases": 345234,
     "under_investigation": 17716,
     "vaccine": {
+      "previous_day_doses": 50453,
       "total_doses": 2031735
     },
     "weekly_growth_factor_total_cases": "1.31"
@@ -7823,6 +8577,8 @@
     "deaths": 7351,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1090,
+    "icu": 411,
+    "icu_on_ventilator": 257,
     "infected": 19810,
     "ltc": {
       "resident_total_cases": 15037,
@@ -7838,6 +8594,7 @@
     "total_cases": 347570,
     "under_investigation": 35066,
     "vaccine": {
+      "previous_day_doses": 70645,
       "total_doses": 2102380
     }
   },
@@ -7846,6 +8603,8 @@
     "deaths": 7366,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 1111,
+    "icu": 424,
+    "icu_on_ventilator": 261,
     "infected": 20155,
     "ltc": {
       "resident_total_cases": 15044,
@@ -7861,6 +8620,7 @@
     "total_cases": 349903,
     "under_investigation": 40446,
     "vaccine": {
+      "previous_day_doses": 89873,
       "total_doses": 2192253
     }
   },
@@ -7869,6 +8629,8 @@
     "deaths": 7389,
     "growth_factor_total_cases": "1.10",
     "hospitalized": 1116,
+    "icu": 433,
+    "icu_on_ventilator": 259,
     "infected": 20875,
     "ltc": {
       "resident_total_cases": 15047,
@@ -7884,6 +8646,7 @@
     "total_cases": 352460,
     "under_investigation": 42057,
     "vaccine": {
+      "previous_day_doses": 84060,
       "total_doses": 2276313
     }
   },
@@ -7892,6 +8655,8 @@
     "deaths": 7412,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 1162,
+    "icu": 435,
+    "icu_on_ventilator": 271,
     "infected": 22016,
     "ltc": {
       "resident_total_cases": 15051,
@@ -7907,6 +8672,7 @@
     "total_cases": 355549,
     "under_investigation": 39233,
     "vaccine": {
+      "previous_day_doses": 88183,
       "total_doses": 2364496
     }
   },
@@ -7915,6 +8681,8 @@
     "deaths": 7428,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 796,
+    "icu": 451,
+    "icu_on_ventilator": 261,
     "infected": 23190,
     "ltc": {
       "resident_total_cases": 15055,
@@ -7930,6 +8698,7 @@
     "total_cases": 358558,
     "under_investigation": 25049,
     "vaccine": {
+      "previous_day_doses": 59567,
       "total_doses": 2424063
     }
   },
@@ -7938,6 +8707,8 @@
     "deaths": 7440,
     "growth_factor_total_cases": "1.01",
     "hospitalized": 811,
+    "icu": 476,
+    "icu_on_ventilator": 262,
     "infected": 24320,
     "ltc": {
       "resident_total_cases": 15063,
@@ -7953,6 +8724,7 @@
     "total_cases": 361599,
     "under_investigation": 19689,
     "vaccine": {
+      "previous_day_doses": 69125,
       "total_doses": 2493188
     }
   },
@@ -7961,6 +8733,8 @@
     "deaths": 7450,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 942,
+    "icu": 494,
+    "icu_on_ventilator": 293,
     "infected": 25487,
     "ltc": {
       "resident_total_cases": 15069,
@@ -7976,6 +8750,7 @@
     "total_cases": 364537,
     "under_investigation": 17739,
     "vaccine": {
+      "previous_day_doses": 52452,
       "total_doses": 2545640
     },
     "weekly_growth_factor_total_cases": "1.32"
@@ -7985,6 +8760,8 @@
     "deaths": 7458,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 1161,
+    "icu": 510,
+    "icu_on_ventilator": 310,
     "infected": 26568,
     "ltc": {
       "resident_total_cases": 15069,
@@ -8000,6 +8777,7 @@
     "total_cases": 367602,
     "under_investigation": 29173,
     "vaccine": {
+      "previous_day_doses": 76199,
       "total_doses": 2621839
     }
   },
@@ -8008,6 +8786,8 @@
     "deaths": 7475,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 1397,
+    "icu": 504,
+    "icu_on_ventilator": 311,
     "infected": 27359,
     "ltc": {
       "resident_total_cases": 15066,
@@ -8023,6 +8803,7 @@
     "total_cases": 370817,
     "under_investigation": 41624,
     "vaccine": {
+      "previous_day_doses": 104382,
       "total_doses": 2726221
     }
   },
@@ -8031,6 +8812,8 @@
     "deaths": 7494,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 1417,
+    "icu": 525,
+    "icu_on_ventilator": 331,
     "infected": 28059,
     "ltc": {
       "resident_total_cases": 15072,
@@ -8046,6 +8829,7 @@
     "total_cases": 374112,
     "under_investigation": 42404,
     "vaccine": {
+      "previous_day_doses": 108563,
       "total_doses": 2834784
     }
   },
@@ -8054,6 +8838,8 @@
     "deaths": 7512,
     "growth_factor_total_cases": "1.28",
     "hospitalized": 1492,
+    "icu": 552,
+    "icu_on_ventilator": 359,
     "infected": 29627,
     "ltc": {
       "resident_total_cases": 15073,
@@ -8069,6 +8855,7 @@
     "total_cases": 378339,
     "under_investigation": 42572,
     "vaccine": {
+      "previous_day_doses": 105382,
       "total_doses": 2940166
     }
   },
@@ -8077,6 +8864,8 @@
     "deaths": 7531,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 1524,
+    "icu": 585,
+    "icu_on_ventilator": 384,
     "infected": 30999,
     "ltc": {
       "resident_total_cases": 15074,
@@ -8092,6 +8881,7 @@
     "total_cases": 382152,
     "under_investigation": 42963,
     "vaccine": {
+      "previous_day_doses": 104783,
       "total_doses": 3044949
     }
   },
@@ -8100,6 +8890,8 @@
     "deaths": 7552,
     "growth_factor_total_cases": "1.17",
     "hospitalized": 1513,
+    "icu": 605,
+    "icu_on_ventilator": 382,
     "infected": 32817,
     "ltc": {
       "resident_total_cases": 15075,
@@ -8115,6 +8907,7 @@
     "total_cases": 386608,
     "under_investigation": 31836,
     "vaccine": {
+      "previous_day_doses": 94794,
       "total_doses": 3139743
     }
   },
@@ -8123,6 +8916,8 @@
     "deaths": 7567,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 1646,
+    "icu": 619,
+    "icu_on_ventilator": 408,
     "infected": 34758,
     "ltc": {
       "resident_total_cases": 15074,
@@ -8138,6 +8933,7 @@
     "total_cases": 391009,
     "under_investigation": 24796,
     "vaccine": {
+      "previous_day_doses": 74722,
       "total_doses": 3214465
     },
     "weekly_growth_factor_total_cases": "1.37"
@@ -8147,6 +8943,8 @@
     "deaths": 7582,
     "growth_factor_total_cases": "0.83",
     "hospitalized": 1822,
+    "icu": 626,
+    "icu_on_ventilator": 422,
     "infected": 35840,
     "ltc": {
       "resident_total_cases": 15073,
@@ -8162,6 +8960,7 @@
     "total_cases": 394679,
     "under_investigation": 35679,
     "vaccine": {
+      "previous_day_doses": 95692,
       "total_doses": 3310157
     }
   },
@@ -8170,6 +8969,8 @@
     "deaths": 7610,
     "growth_factor_total_cases": "1.13",
     "hospitalized": 1877,
+    "icu": 642,
+    "icu_on_ventilator": 442,
     "infected": 36808,
     "ltc": {
       "resident_total_cases": 15073,
@@ -8185,6 +8986,7 @@
     "total_cases": 398835,
     "under_investigation": 45248,
     "vaccine": {
+      "previous_day_doses": 112817,
       "total_doses": 3422974
     }
   },
@@ -8193,6 +8995,8 @@
     "deaths": 7639,
     "growth_factor_total_cases": "1.14",
     "hospitalized": 1932,
+    "icu": 659,
+    "icu_on_ventilator": 442,
     "infected": 38341,
     "ltc": {
       "resident_total_cases": 15081,
@@ -8208,6 +9012,7 @@
     "total_cases": 403571,
     "under_investigation": 39682,
     "vaccine": {
+      "previous_day_doses": 105430,
       "total_doses": 3528404
     }
   },
@@ -8216,6 +9021,8 @@
     "deaths": 7664,
     "growth_factor_total_cases": "1.02",
     "hospitalized": 1955,
+    "icu": 701,
+    "icu_on_ventilator": 480,
     "infected": 39977,
     "ltc": {
       "resident_total_cases": 15091,
@@ -8231,6 +9038,7 @@
     "total_cases": 408383,
     "under_investigation": 38815,
     "vaccine": {
+      "previous_day_doses": 115634,
       "total_doses": 3644038
     }
   },
@@ -8239,6 +9047,8 @@
     "deaths": 7698,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 2065,
+    "icu": 726,
+    "icu_on_ventilator": 501,
     "infected": 40694,
     "ltc": {
       "resident_total_cases": 15095,
@@ -8254,6 +9064,7 @@
     "total_cases": 412745,
     "under_investigation": 37520,
     "vaccine": {
+      "previous_day_doses": 107278,
       "total_doses": 3751316
     }
   },
@@ -8262,6 +9073,8 @@
     "deaths": 7716,
     "growth_factor_total_cases": "0.97",
     "hospitalized": 2107,
+    "icu": 741,
+    "icu_on_ventilator": 506,
     "infected": 41588,
     "ltc": {
       "resident_total_cases": 15105,
@@ -8277,6 +9090,7 @@
     "total_cases": 416995,
     "under_investigation": 28651,
     "vaccine": {
+      "previous_day_doses": 86565,
       "total_doses": 3837881
     }
   },
@@ -8285,6 +9099,8 @@
     "deaths": 7735,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 2202,
+    "icu": 755,
+    "icu_on_ventilator": 516,
     "infected": 42863,
     "ltc": {
       "resident_total_cases": 15109,
@@ -8300,6 +9116,7 @@
     "total_cases": 421442,
     "under_investigation": 21512,
     "vaccine": {
+      "previous_day_doses": 66897,
       "total_doses": 3904778
     },
     "weekly_growth_factor_total_cases": "1.15"
@@ -8309,6 +9126,8 @@
     "deaths": 7757,
     "growth_factor_total_cases": "0.78",
     "hospitalized": 2360,
+    "icu": 773,
+    "icu_on_ventilator": 537,
     "infected": 42941,
     "ltc": {
       "resident_total_cases": 15111,
@@ -8324,6 +9143,7 @@
     "total_cases": 424911,
     "under_investigation": 29217,
     "vaccine": {
+      "previous_day_doses": 90409,
       "total_doses": 3995187
     }
   },
@@ -8332,6 +9152,8 @@
     "deaths": 7789,
     "growth_factor_total_cases": "1.21",
     "hospitalized": 2335,
+    "icu": 790,
+    "icu_on_ventilator": 566,
     "infected": 42917,
     "ltc": {
       "resident_total_cases": 15113,
@@ -8347,6 +9169,7 @@
     "total_cases": 429123,
     "under_investigation": 32119,
     "vaccine": {
+      "previous_day_doses": 136695,
       "total_doses": 4131882
     }
   },
@@ -8355,6 +9178,8 @@
     "deaths": 7829,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 2350,
+    "icu": 806,
+    "icu_on_ventilator": 588,
     "infected": 41962,
     "ltc": {
       "resident_total_cases": 15117,
@@ -8370,6 +9195,7 @@
     "total_cases": 432805,
     "under_investigation": 33327,
     "vaccine": {
+      "previous_day_doses": 134920,
       "total_doses": 4266802
     }
   },
@@ -8378,6 +9204,8 @@
     "deaths": 7863,
     "growth_factor_total_cases": "1.22",
     "hospitalized": 2287,
+    "icu": 818,
+    "icu_on_ventilator": 593,
     "infected": 41735,
     "ltc": {
       "resident_total_cases": 15118,
@@ -8393,6 +9221,7 @@
     "total_cases": 437310,
     "under_investigation": 31363,
     "vaccine": {
+      "previous_day_doses": 133872,
       "total_doses": 4400674
     }
   },
@@ -8401,6 +9230,8 @@
     "deaths": 7887,
     "growth_factor_total_cases": "0.91",
     "hospitalized": 2277,
+    "icu": 833,
+    "icu_on_ventilator": 600,
     "infected": 41473,
     "ltc": {
       "resident_total_cases": 15112,
@@ -8416,6 +9247,7 @@
     "total_cases": 441404,
     "under_investigation": 31933,
     "vaccine": {
+      "previous_day_doses": 126694,
       "total_doses": 4527368
     }
   },
@@ -8424,6 +9256,8 @@
     "deaths": 7911,
     "growth_factor_total_cases": "0.96",
     "hospitalized": 2126,
+    "icu": 851,
+    "icu_on_ventilator": 596,
     "infected": 41157,
     "ltc": {
       "resident_total_cases": 15124,
@@ -8439,6 +9273,7 @@
     "total_cases": 445351,
     "under_investigation": 25641,
     "vaccine": {
+      "previous_day_doses": 99535,
       "total_doses": 4626903
     }
   },
@@ -8447,6 +9282,8 @@
     "deaths": 7935,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 2271,
+    "icu": 877,
+    "icu_on_ventilator": 605,
     "infected": 40586,
     "ltc": {
       "resident_total_cases": 15132,
@@ -8462,6 +9299,7 @@
     "total_cases": 448861,
     "under_investigation": 17369,
     "vaccine": {
+      "previous_day_doses": 69308,
       "total_doses": 4696211
     },
     "weekly_growth_factor_total_cases": "0.90"
@@ -8471,6 +9309,8 @@
     "deaths": 7964,
     "growth_factor_total_cases": "0.93",
     "hospitalized": 2336,
+    "icu": 875,
+    "icu_on_ventilator": 589,
     "infected": 39914,
     "ltc": {
       "resident_total_cases": 15139,
@@ -8486,6 +9326,7 @@
     "total_cases": 452126,
     "under_investigation": 29264,
     "vaccine": {
+      "previous_day_doses": 94819,
       "total_doses": 4791030
     }
   },
@@ -8494,6 +9335,8 @@
     "deaths": 7988,
     "growth_factor_total_cases": "1.07",
     "hospitalized": 2281,
+    "icu": 877,
+    "icu_on_ventilator": 605,
     "infected": 38853,
     "ltc": {
       "resident_total_cases": 15140,
@@ -8509,6 +9352,7 @@
     "total_cases": 455606,
     "under_investigation": 34746,
     "vaccine": {
+      "previous_day_doses": 116173,
       "total_doses": 4907203
     }
   },
@@ -8517,6 +9361,8 @@
     "deaths": 8029,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 2248,
+    "icu": 884,
+    "icu_on_ventilator": 620,
     "infected": 38438,
     "ltc": {
       "resident_total_cases": 15137,
@@ -8532,6 +9378,7 @@
     "total_cases": 459477,
     "under_investigation": 31914,
     "vaccine": {
+      "previous_day_doses": 120567,
       "total_doses": 5027770
     }
   },
@@ -8540,6 +9387,8 @@
     "deaths": 8050,
     "growth_factor_total_cases": "1.00",
     "hospitalized": 2201,
+    "icu": 883,
+    "icu_on_ventilator": 632,
     "infected": 38062,
     "ltc": {
       "resident_total_cases": 15141,
@@ -8555,6 +9404,7 @@
     "total_cases": 463364,
     "under_investigation": 29003,
     "vaccine": {
+      "previous_day_doses": 112214,
       "total_doses": 5139984
     }
   },
@@ -8563,6 +9413,8 @@
     "deaths": 8079,
     "growth_factor_total_cases": "0.87",
     "hospitalized": 2152,
+    "icu": 900,
+    "icu_on_ventilator": 637,
     "infected": 37438,
     "ltc": {
       "resident_total_cases": 15151,
@@ -8578,6 +9430,7 @@
     "total_cases": 466733,
     "under_investigation": 26530,
     "vaccine": {
+      "previous_day_doses": 107700,
       "total_doses": 5247684
     }
   },
@@ -8586,6 +9439,8 @@
     "deaths": 8102,
     "growth_factor_total_cases": "1.11",
     "hospitalized": 1961,
+    "icu": 895,
+    "icu_on_ventilator": 615,
     "infected": 37200,
     "ltc": {
       "resident_total_cases": 15157,
@@ -8601,6 +9456,7 @@
     "total_cases": 470465,
     "under_investigation": 20091,
     "vaccine": {
+      "previous_day_doses": 76685,
       "total_doses": 5324369
     }
   },
@@ -8609,6 +9465,8 @@
     "deaths": 8118,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 1925,
+    "icu": 889,
+    "icu_on_ventilator": 611,
     "infected": 36997,
     "ltc": {
       "resident_total_cases": 15169,
@@ -8624,6 +9482,7 @@
     "total_cases": 473901,
     "under_investigation": 15119,
     "vaccine": {
+      "previous_day_doses": 53880,
       "total_doses": 5378249
     },
     "weekly_growth_factor_total_cases": "0.91"
@@ -8633,6 +9492,8 @@
     "deaths": 8143,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 2167,
+    "icu": 886,
+    "icu_on_ventilator": 609,
     "infected": 36440,
     "ltc": {
       "resident_total_cases": 15174,
@@ -8648,6 +9509,7 @@
     "total_cases": 476692,
     "under_investigation": 25049,
     "vaccine": {
+      "previous_day_doses": 88871,
       "total_doses": 5467120
     }
   },
@@ -8656,6 +9518,8 @@
     "deaths": 8187,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 2075,
+    "icu": 882,
+    "icu_on_ventilator": 620,
     "infected": 34976,
     "ltc": {
       "resident_total_cases": 15179,
@@ -8671,6 +9535,7 @@
     "total_cases": 479633,
     "under_investigation": 29179,
     "vaccine": {
+      "previous_day_doses": 132603,
       "total_doses": 5599723
     }
   },
@@ -8679,6 +9544,8 @@
     "deaths": 8213,
     "growth_factor_total_cases": "1.16",
     "hospitalized": 1964,
+    "icu": 877,
+    "icu_on_ventilator": 600,
     "infected": 34377,
     "ltc": {
       "resident_total_cases": 15182,
@@ -8694,6 +9561,7 @@
     "total_cases": 483057,
     "under_investigation": 27286,
     "vaccine": {
+      "previous_day_doses": 141038,
       "total_doses": 5740761
     }
   },
@@ -8702,6 +9570,8 @@
     "deaths": 8236,
     "growth_factor_total_cases": "0.92",
     "hospitalized": 1924,
+    "icu": 858,
+    "icu_on_ventilator": 611,
     "infected": 33645,
     "ltc": {
       "resident_total_cases": 15191,
@@ -8717,6 +9587,7 @@
     "total_cases": 486223,
     "under_investigation": 25957,
     "vaccine": {
+      "previous_day_doses": 144724,
       "total_doses": 5885485
     }
   },
@@ -8725,6 +9596,8 @@
     "deaths": 8261,
     "growth_factor_total_cases": "0.90",
     "hospitalized": 1832,
+    "icu": 851,
+    "icu_on_ventilator": 588,
     "infected": 32888,
     "ltc": {
       "resident_total_cases": 15196,
@@ -8740,6 +9613,7 @@
     "total_cases": 489087,
     "under_investigation": 21740,
     "vaccine": {
+      "previous_day_doses": 138125,
       "total_doses": 6023610
     }
   },
@@ -8748,6 +9622,8 @@
     "deaths": 8308,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1640,
+    "icu": 848,
+    "icu_on_ventilator": 580,
     "infected": 32404,
     "ltc": {
       "resident_total_cases": 15200,
@@ -8763,6 +9639,7 @@
     "total_cases": 492303,
     "under_investigation": 16085,
     "vaccine": {
+      "previous_day_doses": 121075,
       "total_doses": 6144685
     }
   },
@@ -8771,6 +9648,8 @@
     "deaths": 8327,
     "growth_factor_total_cases": "0.84",
     "hospitalized": 1632,
+    "icu": 828,
+    "icu_on_ventilator": 547,
     "infected": 31991,
     "ltc": {
       "resident_total_cases": 15203,
@@ -8786,6 +9665,7 @@
     "total_cases": 495019,
     "under_investigation": 12837,
     "vaccine": {
+      "previous_day_doses": 94093,
       "total_doses": 6238778
     },
     "weekly_growth_factor_total_cases": "0.84"
@@ -8795,6 +9675,8 @@
     "deaths": 8342,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 1782,
+    "icu": 802,
+    "icu_on_ventilator": 568,
     "infected": 31151,
     "ltc": {
       "resident_total_cases": 15207,
@@ -8810,6 +9692,7 @@
     "total_cases": 497092,
     "under_investigation": 24915,
     "vaccine": {
+      "previous_day_doses": 112103,
       "total_doses": 6350881
     }
   },
@@ -8818,6 +9701,8 @@
     "deaths": 8374,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1673,
+    "icu": 776,
+    "icu_on_ventilator": 559,
     "infected": 29962,
     "ltc": {
       "resident_total_cases": 15216,
@@ -8833,6 +9718,7 @@
     "total_cases": 499412,
     "under_investigation": 28174,
     "vaccine": {
+      "previous_day_doses": 140785,
       "total_doses": 6491666
     }
   },
@@ -8841,6 +9727,8 @@
     "deaths": 8405,
     "growth_factor_total_cases": "1.19",
     "hospitalized": 1632,
+    "icu": 776,
+    "icu_on_ventilator": 568,
     "infected": 29235,
     "ltc": {
       "resident_total_cases": 15219,
@@ -8856,6 +9744,7 @@
     "total_cases": 502171,
     "under_investigation": 24365,
     "vaccine": {
+      "previous_day_doses": 137697,
       "total_doses": 6629363
     }
   },
@@ -8864,6 +9753,8 @@
     "deaths": 8431,
     "growth_factor_total_cases": "0.86",
     "hospitalized": 1582,
+    "icu": 777,
+    "icu_on_ventilator": 560,
     "infected": 28069,
     "ltc": {
       "resident_total_cases": 15226,
@@ -8879,6 +9770,7 @@
     "total_cases": 504533,
     "under_investigation": 22237,
     "vaccine": {
+      "previous_day_doses": 141765,
       "total_doses": 6771128
     }
   },
@@ -8887,6 +9779,8 @@
     "deaths": 8455,
     "growth_factor_total_cases": "1.09",
     "hospitalized": 1546,
+    "icu": 785,
+    "icu_on_ventilator": 560,
     "infected": 27566,
     "ltc": {
       "resident_total_cases": 15226,
@@ -8902,6 +9796,7 @@
     "total_cases": 507117,
     "under_investigation": 19533,
     "vaccine": {
+      "previous_day_doses": 154104,
       "total_doses": 6925232
     }
   },
@@ -8910,6 +9805,8 @@
     "deaths": 8485,
     "growth_factor_total_cases": "0.85",
     "hospitalized": 1292,
+    "icu": 785,
+    "icu_on_ventilator": 552,
     "infected": 26656,
     "ltc": {
       "resident_total_cases": 15227,
@@ -8925,6 +9822,7 @@
     "total_cases": 509316,
     "under_investigation": 12559,
     "vaccine": {
+      "previous_day_doses": 139583,
       "total_doses": 7064815
     }
   },
@@ -8933,6 +9831,8 @@
     "deaths": 8489,
     "growth_factor_total_cases": "0.99",
     "hospitalized": 1320,
+    "icu": 779,
+    "icu_on_ventilator": 536,
     "infected": 25869,
     "ltc": {
       "resident_total_cases": 15231,
@@ -8948,6 +9848,7 @@
     "total_cases": 511486,
     "under_investigation": 8960,
     "vaccine": {
+      "previous_day_doses": 112330,
       "total_doses": 7177145
     },
     "weekly_growth_factor_total_cases": "0.78"
@@ -8957,6 +9858,8 @@
     "deaths": 8506,
     "growth_factor_total_cases": "0.74",
     "hospitalized": 1484,
+    "icu": 764,
+    "icu_on_ventilator": 559,
     "infected": 24966,
     "ltc": {
       "resident_total_cases": 15233,
@@ -8972,6 +9875,7 @@
     "total_cases": 513102,
     "under_investigation": 20325,
     "vaccine": {
+      "previous_day_doses": 109032,
       "total_doses": 7286177
     }
   },
@@ -8980,6 +9884,8 @@
     "deaths": 8525,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 1401,
+    "icu": 735,
+    "icu_on_ventilator": 539,
     "infected": 23416,
     "ltc": {
       "resident_total_cases": 15238,
@@ -8995,6 +9901,7 @@
     "total_cases": 514690,
     "under_investigation": 26091,
     "vaccine": {
+      "previous_day_doses": 145461,
       "total_doses": 7431638
     }
   },
@@ -9003,6 +9910,8 @@
     "deaths": 8552,
     "growth_factor_total_cases": "1.51",
     "hospitalized": 1320,
+    "icu": 721,
+    "icu_on_ventilator": 493,
     "infected": 23026,
     "ltc": {
       "resident_total_cases": 15241,
@@ -9018,6 +9927,7 @@
     "total_cases": 517090,
     "under_investigation": 20642,
     "vaccine": {
+      "previous_day_doses": 144986,
       "total_doses": 7576624
     }
   },
@@ -9026,6 +9936,8 @@
     "deaths": 8579,
     "growth_factor_total_cases": "0.79",
     "hospitalized": 1265,
+    "icu": 715,
+    "icu_on_ventilator": 510,
     "infected": 22200,
     "ltc": {
       "resident_total_cases": 15255,
@@ -9041,6 +9953,7 @@
     "total_cases": 518980,
     "under_investigation": 19891,
     "vaccine": {
+      "previous_day_doses": 158524,
       "total_doses": 7735148
     }
   },
@@ -9049,6 +9962,8 @@
     "deaths": 8599,
     "growth_factor_total_cases": "0.95",
     "hospitalized": 1207,
+    "icu": 706,
+    "icu_on_ventilator": 504,
     "infected": 21454,
     "ltc": {
       "resident_total_cases": 15268,
@@ -9064,6 +9979,7 @@
     "total_cases": 520774,
     "under_investigation": 18338,
     "vaccine": {
+      "previous_day_doses": 190129,
       "total_doses": 7925277
     }
   },
@@ -9072,6 +9988,8 @@
     "deaths": 8614,
     "growth_factor_total_cases": "0.94",
     "hospitalized": 1041,
+    "icu": 693,
+    "icu_on_ventilator": 480,
     "infected": 20672,
     "ltc": {
       "resident_total_cases": 15284,
@@ -9087,6 +10005,7 @@
     "total_cases": 522465,
     "under_investigation": 9513,
     "vaccine": {
+      "previous_day_doses": 140330,
       "total_doses": 8065607
     }
   },
@@ -9095,6 +10014,8 @@
     "deaths": 8622,
     "growth_factor_total_cases": "0.86",
     "hospitalized": 983,
+    "icu": 687,
+    "icu_on_ventilator": 478,
     "infected": 20038,
     "ltc": {
       "resident_total_cases": 15286,
@@ -9110,6 +10031,7 @@
     "total_cases": 523911,
     "under_investigation": 7299,
     "vaccine": {
+      "previous_day_doses": 99108,
       "total_doses": 8164715
     },
     "weekly_growth_factor_total_cases": "0.75"
@@ -9119,6 +10041,8 @@
     "deaths": 8655,
     "growth_factor_total_cases": "0.72",
     "hospitalized": 1025,
+    "icu": 692,
+    "icu_on_ventilator": 498,
     "infected": 19026,
     "ltc": {
       "resident_total_cases": 15288,
@@ -9134,6 +10058,7 @@
     "total_cases": 524950,
     "under_investigation": 7450,
     "vaccine": {
+      "previous_day_doses": 86927,
       "total_doses": 8251642
     }
   },
@@ -9142,6 +10067,8 @@
     "deaths": 8678,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 1073,
+    "icu": 672,
+    "icu_on_ventilator": 469,
     "infected": 17727,
     "ltc": {
       "resident_total_cases": 15290,
@@ -9157,6 +10084,7 @@
     "total_cases": 526045,
     "under_investigation": 18518,
     "vaccine": {
+      "previous_day_doses": 135308,
       "total_doses": 8386950
     }
   },
@@ -9165,6 +10093,8 @@
     "deaths": 8697,
     "growth_factor_total_cases": "1.04",
     "hospitalized": 1072,
+    "icu": 650,
+    "icu_on_ventilator": 452,
     "infected": 16541,
     "ltc": {
       "resident_total_cases": 15294,
@@ -9180,6 +10110,7 @@
     "total_cases": 527180,
     "under_investigation": 23068,
     "vaccine": {
+      "previous_day_doses": 143748,
       "total_doses": 8530698
     }
   },
@@ -9188,6 +10119,8 @@
     "deaths": 8711,
     "growth_factor_total_cases": "1.12",
     "hospitalized": 1023,
+    "icu": 645,
+    "icu_on_ventilator": 458,
     "infected": 15438,
     "ltc": {
       "resident_total_cases": 15300,
@@ -9203,6 +10136,7 @@
     "total_cases": 528453,
     "under_investigation": 16002,
     "vaccine": {
+      "previous_day_doses": 159775,
       "total_doses": 8690473
     }
   },
@@ -9211,6 +10145,8 @@
     "deaths": 8726,
     "growth_factor_total_cases": "0.83",
     "hospitalized": 934,
+    "icu": 626,
+    "icu_on_ventilator": 438,
     "infected": 14423,
     "ltc": {
       "resident_total_cases": 15300,
@@ -9226,6 +10162,7 @@
     "total_cases": 529510,
     "under_investigation": 14678,
     "vaccine": {
+      "previous_day_doses": 148972,
       "total_doses": 8839445
     }
   },
@@ -9234,6 +10171,8 @@
     "deaths": 8744,
     "growth_factor_total_cases": "0.98",
     "hospitalized": 749,
+    "icu": 614,
+    "icu_on_ventilator": 417,
     "infected": 13371,
     "ltc": {
       "resident_total_cases": 15303,
@@ -9249,6 +10188,7 @@
     "total_cases": 530543,
     "under_investigation": 8735,
     "vaccine": {
+      "previous_day_doses": 144833,
       "total_doses": 8984278
     }
   },
@@ -9257,6 +10197,8 @@
     "deaths": 8757,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 731,
+    "icu": 617,
+    "icu_on_ventilator": 382,
     "infected": 12567,
     "ltc": {
       "resident_total_cases": 15305,
@@ -9272,6 +10214,7 @@
     "total_cases": 531459,
     "under_investigation": 7087,
     "vaccine": {
+      "previous_day_doses": 97747,
       "total_doses": 9082025
     },
     "weekly_growth_factor_total_cases": "0.61"
@@ -9281,6 +10224,8 @@
     "deaths": 8766,
     "growth_factor_total_cases": "0.76",
     "hospitalized": 804,
+    "icu": 583,
+    "icu_on_ventilator": 387,
     "infected": 11689,
     "ltc": {
       "resident_total_cases": 15304,
@@ -9296,6 +10241,7 @@
     "total_cases": 532158,
     "under_investigation": 15490,
     "vaccine": {
+      "previous_day_doses": 120195,
       "total_doses": 9202220
     }
   },
@@ -9304,6 +10250,8 @@
     "deaths": 8791,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 708,
+    "icu": 576,
+    "icu_on_ventilator": 399,
     "infected": 10664,
     "ltc": {
       "resident_total_cases": 15306,
@@ -9319,6 +10267,7 @@
     "total_cases": 532891,
     "under_investigation": 18999,
     "vaccine": {
+      "previous_day_doses": 139901,
       "total_doses": 9342121
     }
   },
@@ -9327,6 +10276,8 @@
     "deaths": 8801,
     "growth_factor_total_cases": "1.19",
     "hospitalized": 729,
+    "icu": 546,
+    "icu_on_ventilator": 370,
     "infected": 9961,
     "ltc": {
       "resident_total_cases": 15307,
@@ -9342,6 +10293,7 @@
     "total_cases": 533761,
     "under_investigation": 15700,
     "vaccine": {
+      "previous_day_doses": 150884,
       "total_doses": 9493005
     }
   },
@@ -9350,6 +10302,8 @@
     "deaths": 8820,
     "growth_factor_total_cases": "1.05",
     "hospitalized": 687,
+    "icu": 522,
+    "icu_on_ventilator": 357,
     "infected": 9459,
     "ltc": {
       "resident_total_cases": 15310,
@@ -9365,6 +10319,7 @@
     "total_cases": 534675,
     "under_investigation": 14107,
     "vaccine": {
+      "previous_day_doses": 168322,
       "total_doses": 9661327
     }
   },
@@ -9373,6 +10328,8 @@
     "deaths": 8844,
     "growth_factor_total_cases": "0.81",
     "hospitalized": 625,
+    "icu": 516,
+    "icu_on_ventilator": 362,
     "infected": 8937,
     "ltc": {
       "resident_total_cases": 15313,
@@ -9388,6 +10345,7 @@
     "total_cases": 535419,
     "under_investigation": 12320,
     "vaccine": {
+      "previous_day_doses": 172855,
       "total_doses": 9834182
     }
   },
@@ -9396,6 +10354,8 @@
     "deaths": 8854,
     "growth_factor_total_cases": "0.89",
     "hospitalized": 545,
+    "icu": 510,
+    "icu_on_ventilator": 344,
     "infected": 8368,
     "ltc": {
       "resident_total_cases": 15316,
@@ -9411,6 +10371,7 @@
     "total_cases": 536082,
     "under_investigation": 7049,
     "vaccine": {
+      "previous_day_doses": 158393,
       "total_doses": 9992575
     }
   }
