@@ -29,6 +29,11 @@ layout: default
 </div>
 
 <div class="bb b--black-10">
+  <h2 class="f3 fw3">Total Individuals Fully Vaccinated</h2>
+  <canvas id="total-fully-vaccinated" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
   <h2 class="f3 fw3">Severe Cases</h2>
   <canvas id="severity" class="mb3"></canvas>
 </div>

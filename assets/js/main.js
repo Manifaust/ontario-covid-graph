@@ -34,9 +34,7 @@ window.fetch(reportURL).then((response) => {
   chart.render({
     ele: document.getElementById('total-vaccine'),
     title: 'Total Vaccine Doses',
-    key: 'ltc',
     hideInLegend: true,
-    color: '218, 112, 214',
     subCharts: [{
       title: 'Total Vaccine Doses',
       key: 'vaccine',
@@ -46,11 +44,21 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
+    ele: document.getElementById('total-fully-vaccinated'),
+    title: 'Total Individuals Fully Vaccinated',
+    hideInLegend: true,
+    subCharts: [{
+      title: 'Total Individuals Fully Vaccinated',
+      key: 'vaccine',
+      subKey: 'total_fully_vaccinated',
+      color: '232, 20, 130'
+    }]
+  })
+
+  chart.render({
     ele: document.getElementById('daily-vaccine'),
     title: 'Daily Vaccine',
-    key: 'ltc',
     hideInLegend: true,
-    color: '218, 112, 214',
     subCharts: [{
       title: "Previous Day's Vaccine Doses",
       key: 'vaccine',
@@ -170,6 +178,7 @@ const chart = {
     const chartLabels = fetchedData.map(i => i.date)
     const chartData = fetchedData.map(i => i[opt.key])
     if (!('fill' in opt)) { opt.fill = true }
+    if (!('color' in opt)) { opt.color = '238, 238, 238' }
     const myChart = new Chart(opt.ele, {
       type: 'line',
       data: {
@@ -188,6 +197,7 @@ const chart = {
         aspectRatio: window.matchMedia('(max-width: 600px)').matches ? 1.2 : 2,
         plugins: {
           legend: {
+            display: opt.displayLegend,
             labels: {
               boxWidth: 15,
               color: '#666',
