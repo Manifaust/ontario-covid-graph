@@ -6,7 +6,7 @@ describe VaccineReport do
   describe '#to_json' do
     let(:test_csv) do
       csv_text = <<~CSV
-        report_date,previous_day_doses_administered,total_doses_administered
+        report_date,previous_day_total_doses_administered,total_doses_administered
         12/31/2020,"5,463","23,502"
         01/01/2021,"5,415","28,887"
       CSV

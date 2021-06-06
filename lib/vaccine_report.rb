@@ -7,7 +7,7 @@ require_relative 'report_date'
 
 class VaccineReport
   CSV_MAPPING = {
-    previous_day_doses: 'previous_day_doses_administered',
+    previous_day_doses: 'previous_day_total_doses_administered',
     total_doses: 'total_doses_administered'
   }.freeze
 
