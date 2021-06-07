@@ -6021,5 +6021,19 @@
     "icu_on_ventilator": 344,
     "new_total_cases": 663,
     "growth_factor_total_cases": "0.89"
+  },
+  "2021-06-07": {
+    "infected": 7937,
+    "resolved": 519801,
+    "deaths": 8869,
+    "total_cases": 536607,
+    "new_tests": 15177,
+    "under_investigation": 5724,
+    "hospitalized": 547,
+    "icu": 497,
+    "icu_on_ventilator": 339,
+    "new_total_cases": 525,
+    "growth_factor_total_cases": "0.79",
+    "weekly_growth_factor_total_cases": "0.68"
   }
 }
