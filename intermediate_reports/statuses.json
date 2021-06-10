@@ -6054,12 +6054,25 @@
     "resolved": 521743,
     "deaths": 8920,
     "total_cases": 537487,
-    "new_tests": 30456,
+    "new_tests": 30462,
     "under_investigation": 15135,
     "hospitalized": 571,
     "icu": 466,
     "icu_on_ventilator": 314,
     "new_total_cases": 411,
     "growth_factor_total_cases": "0.88"
+  },
+  "2021-06-10": {
+    "infected": 6464,
+    "resolved": 522682,
+    "deaths": 8931,
+    "total_cases": 538077,
+    "new_tests": 31423,
+    "under_investigation": 12428,
+    "hospitalized": 516,
+    "icu": 450,
+    "icu_on_ventilator": 291,
+    "new_total_cases": 590,
+    "growth_factor_total_cases": "1.44"
   }
 }
