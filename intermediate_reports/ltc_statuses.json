@@ -2711,5 +2711,12 @@
       "resident_total_deaths": 3961,
       "resident_new_cases": 1
     }
+  },
+  "2021-06-12": {
+    "ltc": {
+      "resident_total_cases": 15325,
+      "resident_total_deaths": 3962,
+      "resident_new_cases": 3
+    }
   }
 }
