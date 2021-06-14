@@ -74,7 +74,7 @@ GEM
       ast (~> 2.4.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    pdf-reader (2.4.2)
+    pdf-reader (2.5.0)
       Ascii85 (~> 1.0)
       afm (~> 0.2.1)
       hashery (~> 2.0)
@@ -149,7 +149,7 @@ DEPENDENCIES
   html-proofer (~> 3.19)
   jekyll (~> 4.2)
   jekyll-seo-tag (~> 2.7)
-  pdf-reader (~> 2.4)
+  pdf-reader (~> 2.5)
   rspec-json_expectations
   selenium-webdriver (~> 3.0)
   solargraph
