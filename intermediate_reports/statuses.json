@@ -6127,5 +6127,18 @@
     "new_total_cases": 447,
     "growth_factor_total_cases": "0.84",
     "weekly_growth_factor_total_cases": "0.68"
+  },
+  "2021-06-15": {
+    "infected": 5012,
+    "resolved": 526440,
+    "deaths": 8974,
+    "total_cases": 540426,
+    "new_tests": 17162,
+    "under_investigation": 14236,
+    "hospitalized": 433,
+    "icu": 382,
+    "icu_on_ventilator": 244,
+    "new_total_cases": 296,
+    "growth_factor_total_cases": "0.66"
   }
 }
