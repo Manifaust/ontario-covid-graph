@@ -6192,5 +6192,18 @@
     "icu_on_ventilator": 221,
     "new_total_cases": 355,
     "growth_factor_total_cases": "1.03"
+  },
+  "2021-06-20": {
+    "infected": 3673,
+    "resolved": 529506,
+    "deaths": 9019,
+    "total_cases": 542198,
+    "new_tests": 21063,
+    "under_investigation": 6150,
+    "hospitalized": 266,
+    "icu": 333,
+    "icu_on_ventilator": 208,
+    "new_total_cases": 318,
+    "growth_factor_total_cases": "0.90"
   }
 }
