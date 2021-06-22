@@ -2270,5 +2270,10 @@
     "toronto": {
       "new_cases": 47
     }
+  },
+  "2021-06-22": {
+    "toronto": {
+      "new_cases": 123
+    }
   }
 }

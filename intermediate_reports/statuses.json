@@ -6219,5 +6219,18 @@
     "new_total_cases": 270,
     "growth_factor_total_cases": "0.85",
     "weekly_growth_factor_total_cases": "0.66"
+  },
+  "2021-06-22": {
+    "infected": 3248,
+    "resolved": 530434,
+    "deaths": 9082,
+    "total_cases": 542764,
+    "new_tests": 16784,
+    "under_investigation": 11986,
+    "hospitalized": 334,
+    "icu": 314,
+    "icu_on_ventilator": 202,
+    "new_total_cases": 296,
+    "growth_factor_total_cases": "1.10"
   }
 }
