@@ -2795,5 +2795,12 @@
       "resident_total_deaths": 3967,
       "resident_new_cases": 1
     }
+  },
+  "2021-06-24": {
+    "ltc": {
+      "resident_total_cases": 15356,
+      "resident_total_deaths": 3967,
+      "resident_new_cases": 0
+    }
   }
 }
