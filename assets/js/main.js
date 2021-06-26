@@ -8,6 +8,9 @@ const reportURL = '/report.json'
 const darkModeToggle = document.getElementById('darkMode')
 const chartControls = document.getElementById('chartControls')
 const dateRange = new Date()
+const darkChartBordersRGB = 'rgba(255,255,255,0.1)'
+const lightChartBordersRGB = 'rgba(0,0,0,0.1)'
+
 let fetchedData
 dateRange.setMonth(dateRange.getMonth() - 4)
 
@@ -281,28 +284,30 @@ const updateElements = (fromClass, toCLass) => {
 }
 
 const darkMode = (e) => {
-  const body = document.documentElement
-  const title = document.getElementById('title')
+  const bodyClass = document.documentElement.classList
+  const titleClass = document.getElementById('title').classList
   if (e) {
     darkModeToggle.checked = true
-    body.classList.remove('bg-near-white')
-    body.classList.add('bg-near-black', 'white')
-    title.classList.remove('black')
-    title.classList.add('white')
+    bodyClass.remove('bg-near-white')
+    bodyClass.add('bg-near-black', 'white')
+    titleClass.remove('black')
+    titleClass.add('white')
     chart.collection.map((chart) => {
-      chart.options.scales.x.grid.color = 'rgba(255,255,255,0.1)'
-      chart.options.scales.y.grid.color = 'rgba(255,255,255,0.1)'
+      chart.options.scales.y.grid.borderColor = darkChartBordersRGB
+      chart.options.scales.x.grid.color = darkChartBordersRGB
+      chart.options.scales.y.grid.color = darkChartBordersRGB
       return chart.update()
     })
     updateElements('b--black-10', 'b--white-10')
   } else {
-    body.classList.add('bg-near-white')
-    body.classList.remove('bg-near-black', 'white')
-    title.classList.add('black')
-    title.classList.remove('white')
+    bodyClass.add('bg-near-white')
+    bodyClass.remove('bg-near-black', 'white')
+    titleClass.add('black')
+    titleClass.remove('white')
     chart.collection.map((chart) => {
-      chart.options.scales.x.grid.color = 'rgba(0,0,0,0.1)'
-      chart.options.scales.y.grid.color = 'rgba(0,0,0,0.1)'
+      chart.options.scales.y.grid.borderColor = lightChartBordersRGB
+      chart.options.scales.x.grid.color = lightChartBordersRGB
+      chart.options.scales.y.grid.color = lightChartBordersRGB
       return chart.update()
     })
     updateElements('b--white-10', 'b--black-10')
