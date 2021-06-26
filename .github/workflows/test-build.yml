@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ruby-version: ['2.6', '2.7', '3.0']
+        ruby-version: [2.7.x', head]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
