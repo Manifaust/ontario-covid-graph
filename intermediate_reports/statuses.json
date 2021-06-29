@@ -6311,5 +6311,18 @@
     "new_total_cases": 210,
     "growth_factor_total_cases": "0.73",
     "weekly_growth_factor_total_cases": "0.83"
+  },
+  "2021-06-29": {
+    "infected": 2409,
+    "resolved": 533150,
+    "deaths": 9154,
+    "total_cases": 544713,
+    "new_tests": 28306,
+    "under_investigation": 11990,
+    "hospitalized": 257,
+    "icu": 276,
+    "icu_on_ventilator": 185,
+    "new_total_cases": 299,
+    "growth_factor_total_cases": "1.42"
   }
 }
