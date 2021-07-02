@@ -5,17 +5,14 @@
   },
   "2020-03-25": {
     "toronto": {
-      "new_cases": 17
     }
   },
   "2020-03-26": {
     "toronto": {
-      "new_cases": 21
     }
   },
   "2020-03-27": {
     "toronto": {
-      "new_cases": 22
     }
   },
   "2020-03-28": {
@@ -28,2302 +25,1842 @@
   },
   "2020-03-30": {
     "toronto": {
-      "new_cases": 197
     }
   },
   "2020-03-31": {
     "toronto": {
-      "new_cases": 4
     }
   },
   "2020-04-01": {
     "toronto": {
-      "new_cases": 32
     }
   },
   "2020-04-02": {
     "toronto": {
-      "new_cases": 282
     }
   },
   "2020-04-03": {
     "toronto": {
-      "new_cases": 100
     }
   },
   "2020-04-04": {
     "toronto": {
-      "new_cases": 62
     }
   },
   "2020-04-05": {
     "toronto": {
-      "new_cases": 96
     }
   },
   "2020-04-06": {
     "toronto": {
-      "new_cases": 98
     }
   },
   "2020-04-07": {
     "toronto": {
-      "new_cases": 64
     }
   },
   "2020-04-08": {
     "toronto": {
-      "new_cases": 173
     }
   },
   "2020-04-09": {
     "toronto": {
-      "new_cases": 156
     }
   },
   "2020-04-10": {
     "toronto": {
-      "new_cases": 149
     }
   },
   "2020-04-11": {
     "toronto": {
-      "new_cases": 123
     }
   },
   "2020-04-12": {
     "toronto": {
-      "new_cases": 126
     }
   },
   "2020-04-13": {
     "toronto": {
-      "new_cases": 170
     }
   },
   "2020-04-14": {
     "toronto": {
-      "new_cases": 148
     }
   },
   "2020-04-15": {
     "toronto": {
-      "new_cases": 135
     }
   },
   "2020-04-16": {
     "toronto": {
-      "new_cases": 131
     }
   },
   "2020-04-17": {
     "toronto": {
-      "new_cases": 242
     }
   },
   "2020-04-18": {
     "toronto": {
-      "new_cases": 205
     }
   },
   "2020-04-19": {
     "toronto": {
-      "new_cases": 224
     }
   },
   "2020-04-20": {
     "toronto": {
-      "new_cases": 156
     }
   },
   "2020-04-21": {
     "toronto": {
-      "new_cases": 131
     }
   },
   "2020-04-22": {
     "toronto": {
-      "new_cases": 212
     }
   },
   "2020-04-23": {
     "toronto": {
-      "new_cases": 237
     }
   },
   "2020-04-24": {
     "toronto": {
-      "new_cases": 168
     }
   },
   "2020-04-25": {
     "toronto": {
-      "new_cases": 186
     }
   },
   "2020-04-26": {
     "toronto": {
-      "new_cases": 120
     }
   },
   "2020-04-27": {
     "toronto": {
-      "new_cases": 135
     }
   },
   "2020-04-28": {
     "toronto": {
-      "new_cases": 189
     }
   },
   "2020-04-29": {
     "toronto": {
-      "new_cases": 49
     }
   },
   "2020-04-30": {
     "toronto": {
-      "new_cases": 233
     }
   },
   "2020-05-01": {
     "toronto": {
-      "new_cases": 140
     }
   },
   "2020-05-02": {
     "toronto": {
-      "new_cases": 190
     }
   },
   "2020-05-03": {
     "toronto": {
-      "new_cases": 157
     }
   },
   "2020-05-04": {
     "toronto": {
-      "new_cases": 167
     }
   },
   "2020-05-05": {
     "toronto": {
-      "new_cases": 182
     }
   },
   "2020-05-06": {
     "toronto": {
-      "new_cases": 191
     }
   },
   "2020-05-07": {
     "toronto": {
-      "new_cases": 175
     }
   },
   "2020-05-08": {
     "toronto": {
-      "new_cases": 261
     }
   },
   "2020-05-09": {
     "toronto": {
-      "new_cases": 130
     }
   },
   "2020-05-10": {
     "toronto": {
-      "new_cases": 145
     }
   },
   "2020-05-11": {
     "toronto": {
-      "new_cases": 129
     }
   },
   "2020-05-12": {
     "toronto": {
-      "new_cases": 193
     }
   },
   "2020-05-13": {
     "toronto": {
-      "new_cases": 209
     }
   },
   "2020-05-14": {
     "toronto": {
-      "new_cases": 45
     }
   },
   "2020-05-15": {
     "toronto": {
-      "new_cases": 220
     }
   },
   "2020-05-16": {
     "toronto": {
-      "new_cases": 164
     }
   },
   "2020-05-17": {
     "toronto": {
-      "new_cases": 105
     }
   },
   "2020-05-18": {
     "toronto": {
-      "new_cases": 76
     }
   },
   "2020-05-19": {
     "toronto": {
-      "new_cases": 209
     }
   },
   "2020-05-20": {
     "toronto": {
-      "new_cases": 203
     }
   },
   "2020-05-21": {
     "toronto": {
-      "new_cases": 240
     }
   },
   "2020-05-22": {
     "toronto": {
-      "new_cases": 246
     }
   },
   "2020-05-23": {
     "toronto": {
-      "new_cases": 199
     }
   },
   "2020-05-24": {
     "toronto": {
-      "new_cases": 205
     }
   },
   "2020-05-25": {
     "toronto": {
-      "new_cases": 192
     }
   },
   "2020-05-26": {
     "toronto": {
-      "new_cases": 153
     }
   },
   "2020-05-27": {
     "toronto": {
-      "new_cases": 128
     }
   },
   "2020-05-28": {
     "toronto": {
-      "new_cases": 185
     }
   },
   "2020-05-29": {
     "toronto": {
-      "new_cases": 168
     }
   },
   "2020-05-30": {
     "toronto": {
-      "new_cases": 110
     }
   },
   "2020-05-31": {
     "toronto": {
-      "new_cases": 120
     }
   },
   "2020-06-01": {
     "toronto": {
-      "new_cases": 152
     }
   },
   "2020-06-02": {
     "toronto": {
-      "new_cases": 165
     }
   },
   "2020-06-03": {
     "toronto": {
-      "new_cases": 110
     }
   },
   "2020-06-04": {
     "toronto": {
-      "new_cases": 181
     }
   },
   "2020-06-05": {
     "toronto": {
-      "new_cases": 180
     }
   },
   "2020-06-06": {
     "toronto": {
-      "new_cases": 195
     }
   },
   "2020-06-07": {
     "toronto": {
-      "new_cases": 310
     }
   },
   "2020-06-08": {
     "toronto": {
-      "new_cases": 123
     }
   },
   "2020-06-09": {
     "toronto": {
-      "new_cases": 114
     }
   },
   "2020-06-10": {
     "toronto": {
-      "new_cases": 98
     }
   },
   "2020-06-11": {
     "toronto": {
-      "new_cases": 87
     }
   },
   "2020-06-12": {
     "toronto": {
-      "new_cases": 90
     }
   },
   "2020-06-13": {
     "toronto": {
-      "new_cases": 104
     }
   },
   "2020-06-14": {
     "toronto": {
-      "new_cases": 74
     }
   },
   "2020-06-15": {
     "toronto": {
-      "new_cases": 85
     }
   },
   "2020-06-16": {
     "toronto": {
-      "new_cases": 79
     }
   },
   "2020-06-17": {
     "toronto": {
-      "new_cases": 94
     }
   },
   "2020-06-18": {
     "toronto": {
-      "new_cases": 70
     }
   },
   "2020-06-19": {
     "toronto": {
-      "new_cases": 56
     }
   },
   "2020-06-20": {
     "toronto": {
-      "new_cases": 71
     }
   },
   "2020-06-21": {
     "toronto": {
-      "new_cases": 63
     }
   },
   "2020-06-22": {
     "toronto": {
-      "new_cases": 36
     }
   },
   "2020-06-23": {
     "toronto": {
-      "new_cases": 63
     }
   },
   "2020-06-24": {
     "toronto": {
-      "new_cases": 71
     }
   },
   "2020-06-25": {
     "toronto": {
-      "new_cases": 58
     }
   },
   "2020-06-26": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-06-27": {
     "toronto": {
-      "new_cases": 56
     }
   },
   "2020-06-28": {
     "toronto": {
-      "new_cases": 73
     }
   },
   "2020-06-29": {
     "toronto": {
-      "new_cases": -4
     }
   },
   "2020-06-30": {
     "toronto": {
-      "new_cases": 47
     }
   },
   "2020-07-01": {
     "toronto": {
-      "new_cases": 79
     }
   },
   "2020-07-02": {
     "toronto": {
-      "new_cases": 71
     }
   },
   "2020-07-03": {
     "toronto": {
-      "new_cases": 87
     }
   },
   "2020-07-04": {
     "toronto": {
-      "new_cases": 27
     }
   },
   "2020-07-05": {
     "toronto": {
-      "new_cases": 39
     }
   },
   "2020-07-06": {
     "toronto": {
-      "new_cases": 59
     }
   },
   "2020-07-07": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-07-08": {
     "toronto": {
-      "new_cases": 50
     }
   },
   "2020-07-09": {
     "toronto": {
-      "new_cases": 27
     }
   },
   "2020-07-10": {
     "toronto": {
-      "new_cases": 23
     }
   },
   "2020-07-11": {
     "toronto": {
-      "new_cases": 42
     }
   },
   "2020-07-12": {
     "toronto": {
-      "new_cases": 36
     }
   },
   "2020-07-13": {
     "toronto": {
-      "new_cases": 34
     }
   },
   "2020-07-14": {
     "toronto": {
-      "new_cases": 14
     }
   },
   "2020-07-15": {
     "toronto": {
-      "new_cases": 49
     }
   },
   "2020-07-16": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-07-17": {
     "toronto": {
-      "new_cases": 38
     }
   },
   "2020-07-18": {
     "toronto": {
-      "new_cases": 47
     }
   },
   "2020-07-19": {
     "toronto": {
-      "new_cases": 25
     }
   },
   "2020-07-20": {
     "toronto": {
-      "new_cases": 26
     }
   },
   "2020-07-21": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-07-22": {
     "toronto": {
-      "new_cases": 28
     }
   },
   "2020-07-23": {
     "toronto": {
-      "new_cases": 24
     }
   },
   "2020-07-24": {
     "toronto": {
-      "new_cases": 31
     }
   },
   "2020-07-25": {
     "toronto": {
-      "new_cases": 23
     }
   },
   "2020-07-26": {
     "toronto": {
-      "new_cases": 39
     }
   },
   "2020-07-27": {
     "toronto": {
-      "new_cases": 20
     }
   },
   "2020-07-28": {
     "toronto": {
-      "new_cases": 6
     }
   },
   "2020-07-29": {
     "toronto": {
-      "new_cases": -13
     }
   },
   "2020-07-30": {
     "toronto": {
-      "new_cases": 10
     }
   },
   "2020-07-31": {
     "toronto": {
-      "new_cases": 19
     }
   },
   "2020-08-01": {
     "toronto": {
-      "new_cases": 16
     }
   },
   "2020-08-02": {
     "toronto": {
-      "new_cases": 9
     }
   },
   "2020-08-03": {
     "toronto": {
-      "new_cases": 10
     }
   },
   "2020-08-04": {
     "toronto": {
-      "new_cases": 22
     }
   },
   "2020-08-05": {
     "toronto": {
-      "new_cases": 18
     }
   },
   "2020-08-06": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-08-07": {
     "toronto": {
-      "new_cases": 10
     }
   },
   "2020-08-08": {
     "toronto": {
-      "new_cases": 1
     }
   },
   "2020-08-09": {
     "toronto": {
-      "new_cases": 25
     }
   },
   "2020-08-10": {
     "toronto": {
-      "new_cases": 16
     }
   },
   "2020-08-11": {
     "toronto": {
-      "new_cases": -21
     }
   },
   "2020-08-12": {
     "toronto": {
-      "new_cases": 19
     }
   },
   "2020-08-13": {
     "toronto": {
-      "new_cases": 1
     }
   },
   "2020-08-14": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-08-15": {
     "toronto": {
-      "new_cases": 16
     }
   },
   "2020-08-16": {
     "toronto": {
-      "new_cases": 10
     }
   },
   "2020-08-17": {
     "toronto": {
-      "new_cases": 26
     }
   },
   "2020-08-18": {
     "toronto": {
-      "new_cases": 27
     }
   },
   "2020-08-19": {
     "toronto": {
-      "new_cases": 33
     }
   },
   "2020-08-20": {
     "toronto": {
-      "new_cases": 21
     }
   },
   "2020-08-21": {
     "toronto": {
-      "new_cases": 25
     }
   },
   "2020-08-22": {
     "toronto": {
-      "new_cases": 25
     }
   },
   "2020-08-23": {
     "toronto": {
-      "new_cases": 20
     }
   },
   "2020-08-24": {
     "toronto": {
-      "new_cases": 30
     }
   },
   "2020-08-25": {
     "toronto": {
-      "new_cases": 26
     }
   },
   "2020-08-26": {
     "toronto": {
-      "new_cases": 23
     }
   },
   "2020-08-27": {
     "toronto": {
-      "new_cases": 36
     }
   },
   "2020-08-28": {
     "toronto": {
-      "new_cases": 32
     }
   },
   "2020-08-29": {
     "toronto": {
-      "new_cases": 41
     }
   },
   "2020-08-30": {
     "toronto": {
-      "new_cases": 35
     }
   },
   "2020-08-31": {
     "toronto": {
-      "new_cases": 41
     }
   },
   "2020-09-01": {
     "toronto": {
-      "new_cases": 26
     }
   },
   "2020-09-02": {
     "toronto": {
-      "new_cases": 43
     }
   },
   "2020-09-03": {
     "toronto": {
-      "new_cases": 31
     }
   },
   "2020-09-04": {
     "toronto": {
-      "new_cases": 41
     }
   },
   "2020-09-05": {
     "toronto": {
-      "new_cases": 42
     }
   },
   "2020-09-06": {
     "toronto": {
-      "new_cases": 49
     }
   },
   "2020-09-07": {
     "toronto": {
-      "new_cases": 60
     }
   },
   "2020-09-08": {
     "toronto": {
-      "new_cases": 48
     }
   },
   "2020-09-09": {
     "toronto": {
-      "new_cases": 50
     }
   },
   "2020-09-10": {
     "toronto": {
-      "new_cases": 55
     }
   },
   "2020-09-11": {
     "toronto": {
-      "new_cases": 71
     }
   },
   "2020-09-12": {
     "toronto": {
-      "new_cases": 77
     }
   },
   "2020-09-13": {
     "toronto": {
-      "new_cases": 63
     }
   },
   "2020-09-14": {
     "toronto": {
-      "new_cases": 112
     }
   },
   "2020-09-15": {
     "toronto": {
-      "new_cases": 73
     }
   },
   "2020-09-16": {
     "toronto": {
-      "new_cases": 77
     }
   },
   "2020-09-17": {
     "toronto": {
-      "new_cases": 85
     }
   },
   "2020-09-18": {
     "toronto": {
-      "new_cases": 130
     }
   },
   "2020-09-19": {
     "toronto": {
-      "new_cases": 129
     }
   },
   "2020-09-20": {
     "toronto": {
-      "new_cases": 113
     }
   },
   "2020-09-21": {
     "toronto": {
-      "new_cases": 175
     }
   },
   "2020-09-22": {
     "toronto": {
-      "new_cases": 153
     }
   },
   "2020-09-23": {
     "toronto": {
-      "new_cases": 102
     }
   },
   "2020-09-24": {
     "toronto": {
-      "new_cases": 151
     }
   },
   "2020-09-25": {
     "toronto": {
-      "new_cases": 204
     }
   },
   "2020-09-26": {
     "toronto": {
-      "new_cases": 131
     }
   },
   "2020-09-27": {
     "toronto": {
-      "new_cases": 137
     }
   },
   "2020-09-28": {
     "toronto": {
-      "new_cases": 344
     }
   },
   "2020-09-29": {
     "toronto": {
-      "new_cases": 251
     }
   },
   "2020-09-30": {
     "toronto": {
-      "new_cases": 288
     }
   },
   "2020-10-01": {
     "toronto": {
-      "new_cases": 229
     }
   },
   "2020-10-02": {
     "toronto": {
-      "new_cases": 323
     }
   },
   "2020-10-03": {
     "toronto": {
-      "new_cases": 284
     }
   },
   "2020-10-04": {
     "toronto": {
-      "new_cases": 196
     }
   },
   "2020-10-05": {
     "toronto": {
-      "new_cases": 289
     }
   },
   "2020-10-06": {
     "toronto": {
-      "new_cases": 201
     }
   },
   "2020-10-07": {
     "toronto": {
-      "new_cases": 173
     }
   },
   "2020-10-08": {
     "toronto": {
-      "new_cases": 265
     }
   },
   "2020-10-09": {
     "toronto": {
-      "new_cases": 336
     }
   },
   "2020-10-10": {
     "toronto": {
-      "new_cases": 358
     }
   },
   "2020-10-11": {
     "toronto": {
-      "new_cases": 140
     }
   },
   "2020-10-12": {
     "toronto": {
-      "new_cases": 303
     }
   },
   "2020-10-13": {
     "toronto": {
-      "new_cases": 311
     }
   },
   "2020-10-14": {
     "toronto": {
-      "new_cases": 270
     }
   },
   "2020-10-15": {
     "toronto": {
-      "new_cases": 239
     }
   },
   "2020-10-16": {
     "toronto": {
-      "new_cases": 213
     }
   },
   "2020-10-17": {
     "toronto": {
-      "new_cases": 374
     }
   },
   "2020-10-18": {
     "toronto": {
-      "new_cases": 197
     }
   },
   "2020-10-19": {
     "toronto": {
-      "new_cases": 244
     }
   },
   "2020-10-20": {
     "toronto": {
-      "new_cases": 327
     }
   },
   "2020-10-21": {
     "toronto": {
-      "new_cases": 321
     }
   },
   "2020-10-22": {
     "toronto": {
-      "new_cases": 335
     }
   },
   "2020-10-23": {
     "toronto": {
-      "new_cases": 292
     }
   },
   "2020-10-24": {
     "toronto": {
-      "new_cases": 348
     }
   },
   "2020-10-25": {
     "toronto": {
-      "new_cases": 309
     }
   },
   "2020-10-26": {
     "toronto": {
-      "new_cases": 281
     }
   },
   "2020-10-27": {
     "toronto": {
-      "new_cases": 355
     }
   },
   "2020-10-28": {
     "toronto": {
-      "new_cases": 299
     }
   },
   "2020-10-29": {
     "toronto": {
-      "new_cases": 420
     }
   },
   "2020-10-30": {
     "toronto": {
-      "new_cases": 314
     }
   },
   "2020-10-31": {
     "toronto": {
-      "new_cases": 325
     }
   },
   "2020-11-01": {
     "toronto": {
-      "new_cases": 279
     }
   },
   "2020-11-02": {
     "toronto": {
-      "new_cases": 315
     }
   },
   "2020-11-03": {
     "toronto": {
-      "new_cases": 408
     }
   },
   "2020-11-04": {
     "toronto": {
-      "new_cases": 319
     }
   },
   "2020-11-05": {
     "toronto": {
-      "new_cases": 350
     }
   },
   "2020-11-06": {
     "toronto": {
-      "new_cases": 300
     }
   },
   "2020-11-07": {
     "toronto": {
-      "new_cases": 336
     }
   },
   "2020-11-08": {
     "toronto": {
-      "new_cases": 434
     }
   },
   "2020-11-09": {
     "toronto": {
-      "new_cases": 483
     }
   },
   "2020-11-10": {
     "toronto": {
-      "new_cases": 520
     }
   },
   "2020-11-11": {
     "toronto": {
-      "new_cases": 384
     }
   },
   "2020-11-12": {
     "toronto": {
-      "new_cases": 472
     }
   },
   "2020-11-13": {
     "toronto": {
-      "new_cases": 440
     }
   },
   "2020-11-14": {
     "toronto": {
-      "new_cases": 456
     }
   },
   "2020-11-15": {
     "toronto": {
-      "new_cases": 364
     }
   },
   "2020-11-16": {
     "toronto": {
-      "new_cases": 508
     }
   },
   "2020-11-17": {
     "toronto": {
-      "new_cases": 569
     }
   },
   "2020-11-18": {
     "toronto": {
-      "new_cases": 410
     }
   },
   "2020-11-19": {
     "toronto": {
-      "new_cases": 346
     }
   },
   "2020-11-20": {
     "toronto": {
-      "new_cases": 393
     }
   },
   "2020-11-21": {
     "toronto": {
-      "new_cases": 450
     }
   },
   "2020-11-22": {
     "toronto": {
-      "new_cases": 460
     }
   },
   "2020-11-23": {
     "toronto": {
-      "new_cases": 336
     }
   },
   "2020-11-24": {
     "toronto": {
-      "new_cases": 497
     }
   },
   "2020-11-25": {
     "toronto": {
-      "new_cases": 445
     }
   },
   "2020-11-26": {
     "toronto": {
-      "new_cases": 356
     }
   },
   "2020-11-27": {
     "toronto": {
-      "new_cases": 494
     }
   },
   "2020-11-28": {
     "toronto": {
-      "new_cases": 566
     }
   },
   "2020-11-29": {
     "toronto": {
-      "new_cases": 463
     }
   },
   "2020-11-30": {
     "toronto": {
-      "new_cases": 622
     }
   },
   "2020-12-01": {
     "toronto": {
-      "new_cases": 727
     }
   },
   "2020-12-02": {
     "toronto": {
-      "new_cases": 410
     }
   },
   "2020-12-03": {
     "toronto": {
-      "new_cases": 396
     }
   },
   "2020-12-04": {
     "toronto": {
-      "new_cases": 633
     }
   },
   "2020-12-05": {
     "toronto": {
-      "new_cases": 504
     }
   },
   "2020-12-06": {
     "toronto": {
-      "new_cases": 568
     }
   },
   "2020-12-07": {
     "toronto": {
-      "new_cases": 601
     }
   },
   "2020-12-08": {
     "toronto": {
-      "new_cases": 588
     }
   },
   "2020-12-09": {
     "toronto": {
-      "new_cases": 517
     }
   },
   "2020-12-10": {
     "toronto": {
-      "new_cases": 496
     }
   },
   "2020-12-11": {
     "toronto": {
-      "new_cases": 469
     }
   },
   "2020-12-12": {
     "toronto": {
-      "new_cases": 522
     }
   },
   "2020-12-13": {
     "toronto": {
-      "new_cases": 456
     }
   },
   "2020-12-14": {
     "toronto": {
-      "new_cases": 544
     }
   },
   "2020-12-15": {
     "toronto": {
-      "new_cases": 711
     }
   },
   "2020-12-16": {
     "toronto": {
-      "new_cases": 780
     }
   },
   "2020-12-17": {
     "toronto": {
-      "new_cases": 737
     }
   },
   "2020-12-18": {
     "toronto": {
-      "new_cases": 691
     }
   },
   "2020-12-19": {
     "toronto": {
-      "new_cases": 665
     }
   },
   "2020-12-20": {
     "toronto": {
-      "new_cases": 486
     }
   },
   "2020-12-21": {
     "toronto": {
-      "new_cases": 611
     }
   },
   "2020-12-22": {
     "toronto": {
-      "new_cases": 636
     }
   },
   "2020-12-23": {
     "toronto": {
-      "new_cases": 629
     }
   },
   "2020-12-24": {
     "toronto": {
-      "new_cases": 646
     }
   },
   "2020-12-25": {
     "toronto": {
-      "new_cases": 616
     }
   },
   "2020-12-26": {
     "toronto": {
-      "new_cases": 541
     }
   },
   "2020-12-27": {
     "toronto": {
-      "new_cases": 572
     }
   },
   "2020-12-28": {
     "toronto": {
-      "new_cases": 412
     }
   },
   "2020-12-29": {
     "toronto": {
-      "new_cases": 895
     }
   },
   "2020-12-30": {
     "toronto": {
-      "new_cases": 998
     }
   },
   "2020-12-31": {
     "toronto": {
-      "new_cases": 888
     }
   },
   "2021-01-01": {
     "toronto": {
-      "new_cases": 499
     }
   },
   "2021-01-02": {
     "toronto": {
-      "new_cases": 700
     }
   },
   "2021-01-03": {
     "toronto": {
-      "new_cases": 786
     }
   },
   "2021-01-04": {
     "toronto": {
-      "new_cases": 917
     }
   },
   "2021-01-05": {
     "toronto": {
-      "new_cases": 778
     }
   },
   "2021-01-06": {
     "toronto": {
-      "new_cases": 805
     }
   },
   "2021-01-07": {
     "toronto": {
-      "new_cases": 891
     }
   },
   "2021-01-08": {
     "toronto": {
-      "new_cases": 1382
     }
   },
   "2021-01-09": {
     "toronto": {
-      "new_cases": 1070
     }
   },
   "2021-01-10": {
     "toronto": {
-      "new_cases": 1160
     }
   },
   "2021-01-11": {
     "toronto": {
-      "new_cases": 931
     }
   },
   "2021-01-12": {
     "toronto": {
-      "new_cases": 837
     }
   },
   "2021-01-13": {
     "toronto": {
-      "new_cases": 738
     }
   },
   "2021-01-14": {
     "toronto": {
-      "new_cases": 968
     }
   },
   "2021-01-15": {
     "toronto": {
-      "new_cases": 800
     }
   },
   "2021-01-16": {
     "toronto": {
-      "new_cases": 903
     }
   },
   "2021-01-17": {
     "toronto": {
-      "new_cases": 1035
     }
   },
   "2021-01-18": {
     "toronto": {
-      "new_cases": 815
     }
   },
   "2021-01-19": {
     "toronto": {
-      "new_cases": 550
     }
   },
   "2021-01-20": {
     "toronto": {
-      "new_cases": 925
     }
   },
   "2021-01-21": {
     "toronto": {
-      "new_cases": 897
     }
   },
   "2021-01-22": {
     "toronto": {
-      "new_cases": 779
     }
   },
   "2021-01-23": {
     "toronto": {
-      "new_cases": 708
     }
   },
   "2021-01-24": {
     "toronto": {
-      "new_cases": 785
     }
   },
   "2021-01-25": {
     "toronto": {
-      "new_cases": 727
     }
   },
   "2021-01-26": {
     "toronto": {
-      "new_cases": 677
     }
   },
   "2021-01-27": {
     "toronto": {
-      "new_cases": 450
     }
   },
   "2021-01-28": {
     "toronto": {
-      "new_cases": 700
     }
   },
   "2021-01-29": {
     "toronto": {
-      "new_cases": 595
     }
   },
   "2021-01-30": {
     "toronto": {
-      "new_cases": 713
     }
   },
   "2021-01-31": {
     "toronto": {
-      "new_cases": 726
     }
   },
   "2021-02-01": {
     "toronto": {
-      "new_cases": 886
     }
   },
   "2021-02-02": {
     "toronto": {
-      "new_cases": -119
     }
   },
   "2021-02-03": {
     "toronto": {
-      "new_cases": 444
     }
   },
   "2021-02-04": {
     "toronto": {
-      "new_cases": 584
     }
   },
   "2021-02-05": {
     "toronto": {
-      "new_cases": 667
     }
   },
   "2021-02-06": {
     "toronto": {
-      "new_cases": 455
     }
   },
   "2021-02-07": {
     "toronto": {
-      "new_cases": 517
     }
   },
   "2021-02-08": {
     "toronto": {
-      "new_cases": 421
     }
   },
   "2021-02-09": {
     "toronto": {
-      "new_cases": 343
     }
   },
   "2021-02-10": {
     "toronto": {
-      "new_cases": 393
     }
   },
   "2021-02-11": {
     "toronto": {
-      "new_cases": 112
     }
   },
   "2021-02-12": {
     "toronto": {
-      "new_cases": 361
     }
   },
   "2021-02-13": {
     "toronto": {
-      "new_cases": 433
     }
   },
   "2021-02-14": {
     "toronto": {
-      "new_cases": 122
     }
   },
   "2021-02-15": {
     "toronto": {
-      "new_cases": 251
     }
   },
   "2021-02-16": {
     "toronto": {
-      "new_cases": 320
     }
   },
   "2021-02-17": {
     "toronto": {
-      "new_cases": 257
     }
   },
   "2021-02-18": {
     "toronto": {
-      "new_cases": 376
     }
   },
   "2021-02-19": {
     "toronto": {
-      "new_cases": 376
     }
   },
   "2021-02-20": {
     "toronto": {
-      "new_cases": 331
     }
   },
   "2021-02-21": {
     "toronto": {
-      "new_cases": 344
     }
   },
   "2021-02-22": {
     "toronto": {
-      "new_cases": 325
     }
   },
   "2021-02-23": {
     "toronto": {
-      "new_cases": 343
     }
   },
   "2021-02-24": {
     "toronto": {
-      "new_cases": 363
     }
   },
   "2021-02-25": {
     "toronto": {
-      "new_cases": 339
     }
   },
   "2021-02-26": {
     "toronto": {
-      "new_cases": 362
     }
   },
   "2021-02-27": {
     "toronto": {
-      "new_cases": 331
     }
   },
   "2021-02-28": {
     "toronto": {
-      "new_cases": 259
     }
   },
   "2021-03-01": {
     "toronto": {
-      "new_cases": 280
     }
   },
   "2021-03-02": {
     "toronto": {
-      "new_cases": 253
     }
   },
   "2021-03-03": {
     "toronto": {
-      "new_cases": 249
     }
   },
   "2021-03-04": {
     "toronto": {
-      "new_cases": 298
     }
   },
   "2021-03-05": {
     "toronto": {
-      "new_cases": 337
     }
   },
   "2021-03-06": {
     "toronto": {
-      "new_cases": 284
     }
   },
   "2021-03-07": {
     "toronto": {
-      "new_cases": 329
     }
   },
   "2021-03-08": {
     "toronto": {
-      "new_cases": 568
     }
   },
   "2021-03-09": {
     "toronto": {
-      "new_cases": 343
     }
   },
   "2021-03-10": {
     "toronto": {
-      "new_cases": 428
     }
   },
   "2021-03-11": {
     "toronto": {
-      "new_cases": 294
     }
   },
   "2021-03-12": {
     "toronto": {
-      "new_cases": 371
     }
   },
   "2021-03-13": {
     "toronto": {
-      "new_cases": 381
     }
   },
   "2021-03-14": {
     "toronto": {
-      "new_cases": 545
     }
   },
   "2021-03-15": {
     "toronto": {
-      "new_cases": 366
     }
   },
   "2021-03-16": {
     "toronto": {
-      "new_cases": 313
     }
   },
   "2021-03-17": {
     "toronto": {
-      "new_cases": 542
     }
   },
   "2021-03-18": {
     "toronto": {
-      "new_cases": 404
     }
   },
   "2021-03-19": {
     "toronto": {
-      "new_cases": 478
     }
   },
   "2021-03-20": {
     "toronto": {
-      "new_cases": 593
     }
   },
   "2021-03-21": {
     "toronto": {
-      "new_cases": 495
     }
   },
   "2021-03-22": {
     "toronto": {
-      "new_cases": 500
     }
   },
   "2021-03-23": {
     "toronto": {
-      "new_cases": 465
     }
   },
   "2021-03-24": {
     "toronto": {
-      "new_cases": 459
     }
   },
   "2021-03-25": {
     "toronto": {
-      "new_cases": 1016
     }
   },
   "2021-03-26": {
     "toronto": {
-      "new_cases": 682
     }
   },
   "2021-03-27": {
     "toronto": {
-      "new_cases": 814
     }
   },
   "2021-03-28": {
     "toronto": {
-      "new_cases": 780
     }
   },
   "2021-03-29": {
     "toronto": {
-      "new_cases": 618
     }
   },
   "2021-03-30": {
     "toronto": {
-      "new_cases": 727
     }
   },
   "2021-03-31": {
     "toronto": {
-      "new_cases": 785
     }
   },
   "2021-04-01": {
     "toronto": {
-      "new_cases": 743
     }
   },
   "2021-04-02": {
     "toronto": {
-      "new_cases": 1052
     }
   },
   "2021-04-03": {
     "toronto": {
-      "new_cases": 954
     }
   },
   "2021-04-04": {
     "toronto": {
-      "new_cases": 847
     }
   },
   "2021-04-05": {
     "toronto": {
-      "new_cases": 906
     }
   },
   "2021-04-06": {
     "toronto": {
-      "new_cases": 955
     }
   },
   "2021-04-07": {
     "toronto": {
-      "new_cases": 1095
     }
   },
   "2021-04-08": {
     "toronto": {
-      "new_cases": 933
     }
   },
   "2021-04-09": {
     "toronto": {
-      "new_cases": 1218
     }
   },
   "2021-04-10": {
     "toronto": {
-      "new_cases": 973
     }
   },
   "2021-04-11": {
     "toronto": {
-      "new_cases": 1353
     }
   },
   "2021-04-12": {
     "toronto": {
-      "new_cases": 1282
     }
   },
   "2021-04-13": {
     "toronto": {
-      "new_cases": 1016
     }
   },
   "2021-04-14": {
     "toronto": {
-      "new_cases": 1254
     }
   },
   "2021-04-15": {
     "toronto": {
-      "new_cases": 1188
     }
   },
   "2021-04-16": {
     "toronto": {
-      "new_cases": 1469
     }
   },
   "2021-04-17": {
     "toronto": {
-      "new_cases": 1162
     }
   },
   "2021-04-18": {
     "toronto": {
-      "new_cases": 1392
     }
   },
   "2021-04-19": {
     "toronto": {
-      "new_cases": 1299
     }
   },
   "2021-04-20": {
     "toronto": {
-      "new_cases": 1074
     }
   },
   "2021-04-21": {
     "toronto": {
-      "new_cases": 1249
     }
   },
   "2021-04-22": {
     "toronto": {
-      "new_cases": 1131
     }
   },
   "2021-04-23": {
     "toronto": {
-      "new_cases": 1257
     }
   },
   "2021-04-24": {
     "toronto": {
-      "new_cases": 1191
     }
   },
   "2021-04-25": {
     "toronto": {
-      "new_cases": 1136
     }
   },
   "2021-04-26": {
     "toronto": {
-      "new_cases": 1015
     }
   },
   "2021-04-27": {
     "toronto": {
-      "new_cases": 1044
     }
   },
   "2021-04-28": {
     "toronto": {
-      "new_cases": 961
     }
   },
   "2021-04-29": {
     "toronto": {
-      "new_cases": 1172
     }
   },
   "2021-04-30": {
     "toronto": {
-      "new_cases": 1331
     }
   },
   "2021-05-01": {
     "toronto": {
-      "new_cases": 1050
     }
   },
   "2021-05-02": {
     "toronto": {
-      "new_cases": 1198
     }
   },
   "2021-05-03": {
     "toronto": {
-      "new_cases": 985
     }
   },
   "2021-05-04": {
     "toronto": {
-      "new_cases": 931
     }
   },
   "2021-05-05": {
     "toronto": {
-      "new_cases": 924
     }
   },
   "2021-05-06": {
     "toronto": {
-      "new_cases": 958
     }
   },
   "2021-05-07": {
     "toronto": {
-      "new_cases": 876
     }
   },
   "2021-05-08": {
     "toronto": {
-      "new_cases": 684
     }
   },
   "2021-05-09": {
     "toronto": {
-      "new_cases": 903
     }
   },
   "2021-05-10": {
     "toronto": {
-      "new_cases": 807
     }
   },
   "2021-05-11": {
     "toronto": {
-      "new_cases": 685
     }
   },
   "2021-05-12": {
     "toronto": {
-      "new_cases": 712
     }
   },
   "2021-05-13": {
     "toronto": {
-      "new_cases": 774
     }
   },
   "2021-05-14": {
     "toronto": {
-      "new_cases": 691
     }
   },
   "2021-05-15": {
     "toronto": {
-      "new_cases": 689
     }
   },
   "2021-05-16": {
     "toronto": {
-      "new_cases": 633
     }
   },
   "2021-05-17": {
     "toronto": {
-      "new_cases": 566
     }
   },
   "2021-05-18": {
     "toronto": {
-      "new_cases": 472
     }
   },
   "2021-05-19": {
     "toronto": {
-      "new_cases": 524
     }
   },
   "2021-05-20": {
     "toronto": {
-      "new_cases": 607
     }
   },
   "2021-05-21": {
     "toronto": {
-      "new_cases": 469
     }
   },
   "2021-05-22": {
     "toronto": {
-      "new_cases": 416
     }
   },
   "2021-05-23": {
     "toronto": {
-      "new_cases": 455
     }
   },
   "2021-05-24": {
     "toronto": {
-      "new_cases": 387
     }
   },
   "2021-05-25": {
     "toronto": {
-      "new_cases": 325
     }
   },
   "2021-05-26": {
     "toronto": {
-      "new_cases": 257
     }
   },
   "2021-05-27": {
     "toronto": {
-      "new_cases": 316
     }
   },
   "2021-05-28": {
     "toronto": {
-      "new_cases": 269
     }
   },
   "2021-05-29": {
     "toronto": {
-      "new_cases": 228
     }
   },
   "2021-05-30": {
     "toronto": {
-      "new_cases": 237
     }
   },
   "2021-05-31": {
     "toronto": {
-      "new_cases": 226
     }
   },
   "2021-06-01": {
     "toronto": {
-      "new_cases": 207
     }
   },
   "2021-06-02": {
     "toronto": {
-      "new_cases": 173
     }
   },
   "2021-06-03": {
     "toronto": {
-      "new_cases": 225
     }
   },
   "2021-06-04": {
     "toronto": {
-      "new_cases": 214
     }
   },
   "2021-06-05": {
     "toronto": {
-      "new_cases": 181
     }
   },
   "2021-06-06": {
     "toronto": {
-      "new_cases": 115
     }
   },
   "2021-06-07": {
     "toronto": {
-      "new_cases": 114
     }
   },
   "2021-06-08": {
     "toronto": {
-      "new_cases": 182
     }
   },
   "2021-06-09": {
     "toronto": {
-      "new_cases": 97
     }
   },
   "2021-06-10": {
     "toronto": {
-      "new_cases": 114
     }
   },
   "2021-06-11": {
     "toronto": {
-      "new_cases": 109
     }
   },
   "2021-06-12": {
     "toronto": {
-      "new_cases": 89
     }
   },
   "2021-06-13": {
     "toronto": {
-      "new_cases": 102
     }
   },
   "2021-06-14": {
     "toronto": {
-      "new_cases": 110
     }
   },
   "2021-06-15": {
     "toronto": {
-      "new_cases": 60
     }
   },
   "2021-06-16": {
     "toronto": {
-      "new_cases": 54
     }
   },
   "2021-06-17": {
     "toronto": {
-      "new_cases": 67
     }
   },
   "2021-06-18": {
     "toronto": {
-      "new_cases": 50
     }
   },
   "2021-06-19": {
     "toronto": {
-      "new_cases": 58
     }
   },
   "2021-06-20": {
     "toronto": {
-      "new_cases": 45
     }
   },
   "2021-06-21": {
     "toronto": {
-      "new_cases": 47
     }
   },
   "2021-06-22": {
     "toronto": {
-      "new_cases": 123
     }
   },
   "2021-06-23": {
     "toronto": {
-      "new_cases": 57
     }
   },
   "2021-06-24": {
     "toronto": {
-      "new_cases": 35
     }
   },
   "2021-06-25": {
     "toronto": {
-      "new_cases": 36
     }
   },
   "2021-06-26": {
     "toronto": {
-      "new_cases": 64
     }
   },
   "2021-06-27": {
     "toronto": {
-      "new_cases": 42
     }
   },
   "2021-06-28": {
     "toronto": {
-      "new_cases": 37
     }
   },
   "2021-06-29": {
     "toronto": {
-      "new_cases": 130
     }
   },
   "2021-06-30": {
     "toronto": {
-      "new_cases": 17
     }
   },
   "2021-07-01": {
     "toronto": {
-      "new_cases": 41
     }
   },
   "2021-07-02": {
     "toronto": {
-      "new_cases": 23
     }
   }
 }
