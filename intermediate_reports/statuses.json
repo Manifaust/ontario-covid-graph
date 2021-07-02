@@ -1,139 +1,137 @@
 {
-  "2020-01-26": {
+  "2020-02-06": {
     "under_investigation": 9
   },
-  "2020-01-27": {
+  "2020-02-07": {
     "under_investigation": 19
   },
-  "2020-01-28": {
+  "2020-02-08": {
     "infected": 1,
     "total_cases": 1,
     "under_investigation": 11
   },
-  "2020-01-30": {
+  "2020-02-09": {
     "infected": 2,
     "total_cases": 2,
     "under_investigation": 27,
     "new_total_cases": 1
   },
-  "2020-01-31": {
+  "2020-02-10": {
     "infected": 2,
     "total_cases": 2,
     "under_investigation": 17,
     "new_total_cases": 0,
     "growth_factor_total_cases": "0.00"
   },
-  "2020-02-03": {
+  "2020-02-11": {
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 29,
-    "new_total_cases": 1,
-    "weekly_growth_factor_total_cases": "Inf"
+    "new_total_cases": 1
   },
-  "2020-02-04": {
+  "2020-02-12": {
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 34,
     "new_total_cases": 0,
     "growth_factor_total_cases": "0.00"
   },
-  "2020-02-05": {
+  "2020-02-13": {
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 43,
     "new_total_cases": 0
   },
-  "2020-02-06": {
+  "2020-02-14": {
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 62,
     "new_total_cases": 0
   },
-  "2020-02-08": {
+  "2020-02-15": {
     "infected": 3,
     "total_cases": 3,
     "under_investigation": 39,
     "new_total_cases": 0
   },
-  "2020-02-10": {
+  "2020-02-16": {
     "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 8,
-    "new_total_cases": 0,
-    "weekly_growth_factor_total_cases": "0.00"
-  },
-  "2020-02-11": {
-    "infected": 3,
-    "total_cases": 3,
-    "under_investigation": 19,
-    "new_total_cases": 0
-  },
-  "2020-02-12": {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 9,
-    "new_total_cases": 0
-  },
-  "2020-02-13": {
-    "infected": 2,
-    "resolved": 1,
-    "total_cases": 3,
-    "under_investigation": 15,
-    "new_total_cases": 0
-  },
-  "2020-02-14": {
-    "infected": 2,
-    "resolved": 1,
     "total_cases": 3,
     "under_investigation": 8,
     "new_total_cases": 0
   },
   "2020-02-17": {
-    "infected": 2,
-    "resolved": 1,
+    "infected": 3,
     "total_cases": 3,
-    "under_investigation": 0,
+    "under_investigation": 19,
     "new_total_cases": 0,
-    "weekly_growth_factor_total_cases": "NaN"
+    "weekly_growth_factor_total_cases": "1.00"
   },
   "2020-02-18": {
     "infected": 2,
     "resolved": 1,
     "total_cases": 3,
-    "under_investigation": 0,
+    "under_investigation": 9,
     "new_total_cases": 0
   },
   "2020-02-19": {
     "infected": 2,
     "resolved": 1,
     "total_cases": 3,
-    "under_investigation": 17,
+    "under_investigation": 15,
     "new_total_cases": 0
   },
   "2020-02-20": {
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 8,
+    "new_total_cases": 0
+  },
+  "2020-02-21": {
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 0,
+    "new_total_cases": 0
+  },
+  "2020-02-22": {
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 0,
+    "new_total_cases": 0
+  },
+  "2020-02-23": {
+    "infected": 2,
+    "resolved": 1,
+    "total_cases": 3,
+    "under_investigation": 17,
+    "new_total_cases": 0
+  },
+  "2020-02-24": {
     "infected": 1,
     "resolved": 2,
     "total_cases": 3,
     "under_investigation": 14,
-    "new_total_cases": 0
+    "new_total_cases": 0,
+    "weekly_growth_factor_total_cases": "0.00"
   },
-  "2020-02-21": {
+  "2020-02-25": {
     "infected": 0,
     "resolved": 3,
     "total_cases": 3,
     "under_investigation": 12,
     "new_total_cases": 0
   },
-  "2020-02-24": {
+  "2020-02-26": {
     "infected": 1,
     "resolved": 3,
     "total_cases": 4,
     "under_investigation": 9,
-    "new_total_cases": 1,
-    "weekly_growth_factor_total_cases": "Inf"
+    "new_total_cases": 1
   },
-  "2020-02-25": {
+  "2020-02-27": {
     "infected": 1,
     "resolved": 3,
     "total_cases": 4,
@@ -141,21 +139,21 @@
     "new_total_cases": 0,
     "growth_factor_total_cases": "0.00"
   },
-  "2020-02-26": {
+  "2020-02-28": {
     "infected": 1,
     "resolved": 3,
     "total_cases": 4,
     "under_investigation": 14,
     "new_total_cases": 0
   },
-  "2020-02-27": {
+  "2020-02-29": {
     "infected": 2,
     "resolved": 3,
     "total_cases": 5,
     "under_investigation": 21,
     "new_total_cases": 1
   },
-  "2020-02-28": {
+  "2020-03-01": {
     "infected": 3,
     "resolved": 3,
     "total_cases": 6,
@@ -170,7 +168,7 @@
     "under_investigation": 12,
     "new_total_cases": 12,
     "growth_factor_total_cases": "12.00",
-    "weekly_growth_factor_total_cases": "14.00"
+    "weekly_growth_factor_total_cases": "Inf"
   },
   "2020-03-03": {
     "infected": 17,
@@ -226,7 +224,7 @@
     "under_investigation": 22,
     "new_total_cases": 6,
     "growth_factor_total_cases": "6.00",
-    "weekly_growth_factor_total_cases": "1.21"
+    "weekly_growth_factor_total_cases": "1.13"
   },
   "2020-03-10": {
     "infected": 31,
@@ -6337,5 +6335,30 @@
     "icu_on_ventilator": 181,
     "new_total_cases": 184,
     "growth_factor_total_cases": "0.62"
+  },
+  "2021-07-01": {
+    "infected": 2265,
+    "resolved": 533729,
+    "deaths": 9187,
+    "total_cases": 545181,
+    "new_tests": 26929,
+    "hospitalized": 228,
+    "icu": 254,
+    "icu_on_ventilator": 173,
+    "new_total_cases": 284,
+    "growth_factor_total_cases": "1.54"
+  },
+  "2021-07-02": {
+    "infected": 2175,
+    "resolved": 534010,
+    "deaths": 9196,
+    "total_cases": 545381,
+    "new_tests": 25161,
+    "under_investigation": 5464,
+    "hospitalized": 179,
+    "icu": 252,
+    "icu_on_ventilator": 160,
+    "new_total_cases": 200,
+    "growth_factor_total_cases": "0.70"
   }
 }
