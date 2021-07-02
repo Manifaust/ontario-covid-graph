@@ -6342,6 +6342,7 @@
     "deaths": 9187,
     "total_cases": 545181,
     "new_tests": 26929,
+    "under_investigation": 10638,
     "hospitalized": 228,
     "icu": 254,
     "icu_on_ventilator": 173,
