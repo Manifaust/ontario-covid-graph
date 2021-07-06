@@ -6401,5 +6401,18 @@
     "new_total_cases": 170,
     "growth_factor_total_cases": "0.80",
     "weekly_growth_factor_total_cases": "0.80"
+  },
+  "2021-07-06": {
+    "infected": 1883,
+    "resolved": 535110,
+    "deaths": 9224,
+    "total_cases": 546217,
+    "new_tests": 28755,
+    "under_investigation": 11518,
+    "hospitalized": 202,
+    "icu": 226,
+    "icu_on_ventilator": 161,
+    "new_total_cases": 244,
+    "growth_factor_total_cases": "1.44"
   }
 }
