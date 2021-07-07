@@ -6407,12 +6407,25 @@
     "resolved": 535110,
     "deaths": 9224,
     "total_cases": 546217,
-    "new_tests": 28755,
+    "new_tests": 15806,
     "under_investigation": 11518,
     "hospitalized": 202,
     "icu": 226,
     "icu_on_ventilator": 161,
     "new_total_cases": 244,
     "growth_factor_total_cases": "1.44"
+  },
+  "2021-07-07": {
+    "infected": 1841,
+    "resolved": 535346,
+    "deaths": 9224,
+    "total_cases": 546411,
+    "new_tests": 26976,
+    "under_investigation": 12072,
+    "hospitalized": 201,
+    "icu": 220,
+    "icu_on_ventilator": 155,
+    "new_total_cases": 194,
+    "growth_factor_total_cases": "0.80"
   }
 }
