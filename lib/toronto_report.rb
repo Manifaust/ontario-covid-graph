@@ -31,7 +31,7 @@ class TorontoReport
   def create_report_entry(row)
     toronto_data = {}
 
-    val = row['Toronto_Public_Health']
+    val = row['Toronto']
 
     toronto_data['new_cases'] = val.to_i unless val.nil? || val.empty?
 
