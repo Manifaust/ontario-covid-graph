@@ -6440,5 +6440,18 @@
     "icu_on_ventilator": 145,
     "new_total_cases": 210,
     "growth_factor_total_cases": "1.08"
+  },
+  "2021-07-09": {
+    "infected": 1757,
+    "resolved": 535810,
+    "deaths": 9237,
+    "total_cases": 546804,
+    "new_tests": 26101,
+    "under_investigation": 9714,
+    "hospitalized": 189,
+    "icu": 202,
+    "icu_on_ventilator": 143,
+    "new_total_cases": 183,
+    "growth_factor_total_cases": "0.87"
   }
 }
