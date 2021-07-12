@@ -2921,5 +2921,12 @@
       "resident_total_deaths": 3975,
       "resident_new_cases": 1
     }
+  },
+  "2021-07-12": {
+    "ltc": {
+      "resident_total_cases": 15437,
+      "resident_total_deaths": 3974,
+      "resident_new_cases": 2
+    }
   }
 }
