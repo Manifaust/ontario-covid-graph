@@ -2375,5 +2375,10 @@
     "toronto": {
       "new_cases": 10
     }
+  },
+  "2021-07-13": {
+    "toronto": {
+      "new_cases": 43
+    }
   }
 }
