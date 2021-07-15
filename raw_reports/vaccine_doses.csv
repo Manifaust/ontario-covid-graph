@@ -1,4 +1,4 @@
-report_date,previous_day_total_doses_administered,previous_day_at_least_one,previous_day_fully_vaccinated,total_doses_administered,total_individuals_at_least_one,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated
+"report_date","previous_day_total_doses_administered","previous_day_at_least_one","previous_day_fully_vaccinated","total_doses_administered","total_individuals_at_least_one","total_doses_in_fully_vaccinated_individuals","total_individuals_fully_vaccinated"
 2020-12-24,,,,10756,,,
 2020-12-30,7847,,,18603,,,
 2020-12-31,4899,,,23502,,,
@@ -197,3 +197,4 @@ report_date,previous_day_total_doses_administered,previous_day_at_least_one,prev
 2021-07-12,121653,11326,110327,17119624,10153351,13932546,6966273
 2021-07-13,176834,19100,157734,17296458,10172451,14248014,7124007
 2021-07-14,179197,19676,159521,17475655,10192127,14567056,7283528
+2021-07-15,166201,19803,146398,17641856,10211930,14859852,7429926
