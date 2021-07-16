@@ -2390,5 +2390,10 @@
     "toronto": {
       "new_cases": 20
     }
+  },
+  "2021-07-16": {
+    "toronto": {
+      "new_cases": 23
+    }
   }
 }
