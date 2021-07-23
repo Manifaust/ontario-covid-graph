@@ -2425,5 +2425,10 @@
     "toronto": {
       "new_cases": 18
     }
+  },
+  "2021-07-23": {
+    "toronto": {
+      "new_cases": 43
+    }
   }
 }
