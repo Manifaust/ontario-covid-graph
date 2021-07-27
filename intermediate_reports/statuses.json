@@ -6677,5 +6677,18 @@
     "new_total_cases": 119,
     "growth_factor_total_cases": "0.69",
     "weekly_growth_factor_total_cases": "1.01"
+  },
+  "2021-07-27": {
+    "infected": 1395,
+    "resolved": 538860,
+    "deaths": 9321,
+    "total_cases": 549576,
+    "new_tests": 13644,
+    "under_investigation": 7222,
+    "hospitalized": 125,
+    "icu": 127,
+    "icu_on_ventilator": 81,
+    "new_total_cases": 129,
+    "growth_factor_total_cases": "1.08"
   }
 }
