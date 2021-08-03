@@ -2475,5 +2475,15 @@
     "toronto": {
       "new_cases": 40
     }
+  },
+  "2021-08-02": {
+    "toronto": {
+      "new_cases": 43
+    }
+  },
+  "2021-08-03": {
+    "toronto": {
+      "new_cases": 45
+    }
   }
 }
