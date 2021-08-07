@@ -2500,5 +2500,10 @@
     "toronto": {
       "new_cases": 80
     }
+  },
+  "2021-08-07": {
+    "toronto": {
+      "new_cases": 94
+    }
   }
 }
