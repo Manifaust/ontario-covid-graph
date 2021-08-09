@@ -6809,19 +6809,6 @@
     "new_total_cases": 213,
     "growth_factor_total_cases": "1.53"
   },
-  "2021-08-06": {
-    "infected": 1879,
-    "resolved": 540407,
-    "deaths": 9392,
-    "total_cases": 551678,
-    "new_tests": 23448,
-    "under_investigation": 8227,
-    "hospitalized": 114,
-    "icu": 110,
-    "icu_on_ventilator": 76,
-    "new_total_cases": 340,
-    "growth_factor_total_cases": "1.60"
-  },
   "2021-08-07": {
     "infected": 2057,
     "resolved": 540598,
@@ -6832,8 +6819,8 @@
     "hospitalized": 138,
     "icu": 111,
     "icu_on_ventilator": 81,
-    "new_total_cases": 378,
-    "growth_factor_total_cases": "1.11"
+    "new_total_cases": 718,
+    "growth_factor_total_cases": "3.37"
   },
   "2021-08-08": {
     "infected": 2242,
@@ -6846,6 +6833,20 @@
     "icu": 115,
     "icu_on_ventilator": 76,
     "new_total_cases": 423,
-    "growth_factor_total_cases": "1.12"
+    "growth_factor_total_cases": "0.59"
+  },
+  "2021-08-09": {
+    "infected": 2375,
+    "resolved": 541022,
+    "deaths": 9407,
+    "total_cases": 552804,
+    "new_tests": 15805,
+    "under_investigation": 4719,
+    "hospitalized": 94,
+    "icu": 113,
+    "icu_on_ventilator": 70,
+    "new_total_cases": 325,
+    "growth_factor_total_cases": "0.77",
+    "weekly_growth_factor_total_cases": "1.44"
   }
 }

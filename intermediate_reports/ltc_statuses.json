@@ -3097,18 +3097,10 @@
       "resident_new_cases": 0
     }
   },
-  "2021-08-06": {
-    "ltc": {
-      "resident_total_cases": 15458,
-      "resident_total_deaths": 3985,
-      "resident_new_cases": 0
-    }
-  },
   "2021-08-07": {
     "ltc": {
       "resident_total_cases": 15460,
-      "resident_total_deaths": 3985,
-      "resident_new_cases": 2
+      "resident_total_deaths": 3985
     }
   },
   "2021-08-08": {
@@ -3116,6 +3108,13 @@
       "resident_total_cases": 15461,
       "resident_total_deaths": 3985,
       "resident_new_cases": 1
+    }
+  },
+  "2021-08-09": {
+    "ltc": {
+      "resident_total_cases": 15461,
+      "resident_total_deaths": 3985,
+      "resident_new_cases": 0
     }
   }
 }
