@@ -2555,5 +2555,10 @@
     "toronto": {
       "new_cases": 85
     }
+  },
+  "2021-08-18": {
+    "toronto": {
+      "new_cases": 108
+    }
   }
 }
