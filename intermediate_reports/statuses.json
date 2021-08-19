@@ -6977,5 +6977,16 @@
     "hospitalized": 174,
     "new_total_cases": 485,
     "growth_factor_total_cases": "1.39"
+  },
+  "2021-08-19": {
+    "infected": 4243,
+    "resolved": 543760,
+    "deaths": 9448,
+    "total_cases": 557451,
+    "new_tests": 26213,
+    "under_investigation": 13142,
+    "hospitalized": 176,
+    "new_total_cases": 531,
+    "growth_factor_total_cases": "1.09"
   }
 }
