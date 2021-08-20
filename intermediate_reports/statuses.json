@@ -6975,6 +6975,8 @@
     "new_tests": 26307,
     "under_investigation": 11474,
     "hospitalized": 174,
+    "icu": 128,
+    "icu_on_ventilator": 76,
     "new_total_cases": 485,
     "growth_factor_total_cases": "1.39"
   },
@@ -6986,7 +6988,22 @@
     "new_tests": 26213,
     "under_investigation": 13142,
     "hospitalized": 176,
+    "icu": 131,
+    "icu_on_ventilator": 73,
     "new_total_cases": 531,
     "growth_factor_total_cases": "1.09"
+  },
+  "2021-08-20": {
+    "infected": 4447,
+    "resolved": 544204,
+    "deaths": 9450,
+    "total_cases": 558101,
+    "new_tests": 28635,
+    "under_investigation": 12398,
+    "hospitalized": 197,
+    "icu": 135,
+    "icu_on_ventilator": 77,
+    "new_total_cases": 650,
+    "growth_factor_total_cases": "1.22"
   }
 }
