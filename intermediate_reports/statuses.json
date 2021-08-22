@@ -7006,17 +7006,17 @@
     "new_total_cases": 650,
     "growth_factor_total_cases": "1.22"
   },
-  "2021-08-21": {
-    "infected": 4660,
-    "resolved": 544679,
-    "deaths": 9451,
-    "total_cases": 558790,
-    "new_tests": 26096,
-    "under_investigation": 12848,
-    "hospitalized": 212,
-    "icu": 130,
-    "icu_on_ventilator": 78,
-    "new_total_cases": 689,
-    "growth_factor_total_cases": "1.06"
+  "2021-08-22": {
+    "infected": 4989,
+    "resolved": 545070,
+    "deaths": 9453,
+    "total_cases": 559512,
+    "new_tests": 23075,
+    "under_investigation": 10716,
+    "hospitalized": 178,
+    "icu": 141,
+    "icu_on_ventilator": 79,
+    "new_total_cases": 1411,
+    "growth_factor_total_cases": "2.17"
   }
 }
