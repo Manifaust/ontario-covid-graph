@@ -7071,5 +7071,18 @@
     "icu_on_ventilator": 92,
     "new_total_cases": 660,
     "growth_factor_total_cases": "1.36"
+  },
+  "2021-08-26": {
+    "infected": 5305,
+    "resolved": 547198,
+    "deaths": 9472,
+    "total_cases": 561975,
+    "new_tests": 27815,
+    "under_investigation": 14507,
+    "hospitalized": 302,
+    "icu": 165,
+    "icu_on_ventilator": 89,
+    "new_total_cases": 678,
+    "growth_factor_total_cases": "1.03"
   }
 }
