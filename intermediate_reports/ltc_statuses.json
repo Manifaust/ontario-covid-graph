@@ -3250,5 +3250,12 @@
       "resident_total_deaths": 3977,
       "resident_new_cases": 2
     }
+  },
+  "2021-08-28": {
+    "ltc": {
+      "resident_total_cases": 15429,
+      "resident_total_deaths": 3977,
+      "resident_new_cases": 1
+    }
   }
 }
