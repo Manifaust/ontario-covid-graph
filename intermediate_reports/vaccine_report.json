@@ -1941,5 +1941,13 @@
       "total_fully_vaccinated": 9923606,
       "total_doses": 20726778
     }
+  },
+  "2021-08-31": {
+    "vaccine": {
+      "previous_day_doses": 31176,
+      "total_individuals_at_least_one": 10815120,
+      "total_fully_vaccinated": 9942834,
+      "total_doses": 20757954
+    }
   }
 }
