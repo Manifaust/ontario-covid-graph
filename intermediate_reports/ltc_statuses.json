@@ -3313,5 +3313,19 @@
       "resident_total_deaths": 3987,
       "resident_new_cases": 2
     }
+  },
+  "2021-09-06": {
+    "ltc": {
+      "resident_total_cases": 15505,
+      "resident_total_deaths": 3988,
+      "resident_new_cases": 2
+    }
+  },
+  "2021-09-07": {
+    "ltc": {
+      "resident_total_cases": 15507,
+      "resident_total_deaths": 3989,
+      "resident_new_cases": 2
+    }
   }
 }

@@ -7215,5 +7215,32 @@
     "icu_on_ventilator": 104,
     "new_total_cases": 811,
     "growth_factor_total_cases": "0.86"
+  },
+  "2021-09-06": {
+    "infected": 6399,
+    "resolved": 554265,
+    "deaths": 9550,
+    "total_cases": 570214,
+    "new_tests": 19200,
+    "under_investigation": 6100,
+    "hospitalized": 288,
+    "icu": 187,
+    "icu_on_ventilator": 105,
+    "new_total_cases": 581,
+    "growth_factor_total_cases": "0.72",
+    "weekly_growth_factor_total_cases": "1.06"
+  },
+  "2021-09-07": {
+    "infected": 6272,
+    "resolved": 554953,
+    "deaths": 9553,
+    "total_cases": 570778,
+    "new_tests": 17118,
+    "under_investigation": 8733,
+    "hospitalized": 295,
+    "icu": 192,
+    "icu_on_ventilator": 113,
+    "new_total_cases": 564,
+    "growth_factor_total_cases": "0.97"
   }
 }
