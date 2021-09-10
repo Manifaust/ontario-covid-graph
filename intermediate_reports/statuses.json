@@ -7268,5 +7268,18 @@
     "icu_on_ventilator": 115,
     "new_total_cases": 798,
     "growth_factor_total_cases": "1.44"
+  },
+  "2021-09-10": {
+    "infected": 6123,
+    "resolved": 557265,
+    "deaths": 9590,
+    "total_cases": 572978,
+    "new_tests": 28247,
+    "under_investigation": 13296,
+    "hospitalized": 361,
+    "icu": 177,
+    "icu_on_ventilator": 113,
+    "new_total_cases": 848,
+    "growth_factor_total_cases": "1.06"
   }
 }
