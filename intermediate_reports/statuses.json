@@ -7315,10 +7315,24 @@
     "total_cases": 575219,
     "new_tests": 19125,
     "under_investigation": 9242,
+    "hospitalized": 339,
     "icu": 189,
     "icu_on_ventilator": 116,
     "new_total_cases": 600,
     "growth_factor_total_cases": "0.77",
     "weekly_growth_factor_total_cases": "0.96"
+  },
+  "2021-09-14": {
+    "infected": 6103,
+    "resolved": 560069,
+    "deaths": 9624,
+    "total_cases": 575796,
+    "new_tests": 21133,
+    "under_investigation": 17141,
+    "hospitalized": 363,
+    "icu": 192,
+    "icu_on_ventilator": 119,
+    "new_total_cases": 577,
+    "growth_factor_total_cases": "0.96"
   }
 }
