@@ -2700,5 +2700,10 @@
     "toronto": {
       "new_cases": 141
     }
+  },
+  "2021-09-16": {
+    "toronto": {
+      "new_cases": 162
+    }
   }
 }
