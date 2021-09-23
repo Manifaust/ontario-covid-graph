@@ -3432,5 +3432,12 @@
       "resident_total_deaths": 4007,
       "resident_new_cases": 11
     }
+  },
+  "2021-09-23": {
+    "ltc": {
+      "resident_total_cases": 15569,
+      "resident_total_deaths": 4009,
+      "resident_new_cases": 5
+    }
   }
 }

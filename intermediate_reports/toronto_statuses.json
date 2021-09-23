@@ -2735,5 +2735,10 @@
     "toronto": {
       "new_cases": 93
     }
+  },
+  "2021-09-23": {
+    "toronto": {
+      "new_cases": 136
+    }
   }
 }
