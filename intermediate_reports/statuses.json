@@ -7505,5 +7505,18 @@
     "new_total_cases": 613,
     "growth_factor_total_cases": "0.94",
     "weekly_growth_factor_total_cases": "0.87"
+  },
+  "2021-09-28": {
+    "infected": 5262,
+    "resolved": 570030,
+    "deaths": 9715,
+    "total_cases": 585007,
+    "new_tests": 23785,
+    "under_investigation": 19835,
+    "hospitalized": 315,
+    "icu": 180,
+    "icu_on_ventilator": 127,
+    "new_total_cases": 466,
+    "growth_factor_total_cases": "0.76"
   }
 }
