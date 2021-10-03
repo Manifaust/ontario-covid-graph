@@ -2785,5 +2785,10 @@
     "toronto": {
       "new_cases": 150
     }
+  },
+  "2021-10-03": {
+    "toronto": {
+      "new_cases": 110
+    }
   }
 }
