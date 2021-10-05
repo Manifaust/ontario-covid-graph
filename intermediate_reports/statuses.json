@@ -7597,5 +7597,18 @@
     "new_total_cases": 511,
     "growth_factor_total_cases": "0.88",
     "weekly_growth_factor_total_cases": "0.94"
+  },
+  "2021-10-05": {
+    "infected": 4734,
+    "resolved": 574550,
+    "deaths": 9757,
+    "total_cases": 589041,
+    "new_tests": 25441,
+    "under_investigation": 17885,
+    "hospitalized": 277,
+    "icu": 155,
+    "icu_on_ventilator": 101,
+    "new_total_cases": 429,
+    "growth_factor_total_cases": "0.84"
   }
 }
