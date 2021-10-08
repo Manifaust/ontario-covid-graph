@@ -2810,5 +2810,10 @@
     "toronto": {
       "new_cases": 119
     }
+  },
+  "2021-10-08": {
+    "toronto": {
+      "new_cases": 104
+    }
   }
 }
