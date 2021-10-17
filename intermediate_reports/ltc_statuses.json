@@ -3600,5 +3600,12 @@
       "resident_total_deaths": 4020,
       "resident_new_cases": 2
     }
+  },
+  "2021-10-17": {
+    "ltc": {
+      "resident_total_cases": 15634,
+      "resident_total_deaths": 4020,
+      "resident_new_cases": 0
+    }
   }
 }
