@@ -2333,5 +2333,13 @@
       "total_fully_vaccinated": 10838750,
       "total_doses": 22243609
     }
+  },
+  "2021-10-19": {
+    "vaccine": {
+      "previous_day_doses": 21310,
+      "total_individuals_at_least_one": 11412410,
+      "total_fully_vaccinated": 10852509,
+      "total_doses": 22264919
+    }
   }
 }
