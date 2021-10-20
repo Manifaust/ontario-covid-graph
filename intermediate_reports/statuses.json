@@ -7794,5 +7794,18 @@
     "icu_on_ventilator": 101,
     "new_total_cases": 328,
     "growth_factor_total_cases": "0.88"
+  },
+  "2021-10-20": {
+    "infected": 3435,
+    "resolved": 582609,
+    "deaths": 9823,
+    "total_cases": 595867,
+    "new_tests": 31569,
+    "under_investigation": 13668,
+    "hospitalized": 258,
+    "icu": 159,
+    "icu_on_ventilator": 113,
+    "new_total_cases": 304,
+    "growth_factor_total_cases": "0.93"
   }
 }
