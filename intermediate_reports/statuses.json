@@ -7873,5 +7873,18 @@
     "new_total_cases": 326,
     "growth_factor_total_cases": "0.88",
     "weekly_growth_factor_total_cases": "0.90"
+  },
+  "2021-10-26": {
+    "infected": 3051,
+    "resolved": 585207,
+    "deaths": 9852,
+    "total_cases": 598110,
+    "new_tests": 21827,
+    "under_investigation": 14276,
+    "hospitalized": 233,
+    "icu": 138,
+    "icu_on_ventilator": 88,
+    "new_total_cases": 269,
+    "growth_factor_total_cases": "0.83"
   }
 }
