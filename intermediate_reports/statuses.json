@@ -7965,5 +7965,18 @@
     "new_total_cases": 422,
     "growth_factor_total_cases": "1.24",
     "weekly_growth_factor_total_cases": "0.97"
+  },
+  "2021-11-02": {
+    "infected": 3100,
+    "resolved": 587727,
+    "deaths": 9881,
+    "total_cases": 600708,
+    "new_tests": 20148,
+    "under_investigation": 14419,
+    "hospitalized": 230,
+    "icu": 136,
+    "icu_on_ventilator": 84,
+    "new_total_cases": 331,
+    "growth_factor_total_cases": "0.78"
   }
 }
