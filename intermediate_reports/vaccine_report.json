@@ -2453,5 +2453,13 @@
       "total_fully_vaccinated": 11031522,
       "total_doses": 22535918
     }
+  },
+  "2021-11-03": {
+    "vaccine": {
+      "previous_day_doses": 16933,
+      "total_individuals_at_least_one": 11510553,
+      "total_fully_vaccinated": 11042298,
+      "total_doses": 22552851
+    }
   }
 }
