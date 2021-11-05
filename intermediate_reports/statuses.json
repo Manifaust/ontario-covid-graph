@@ -8004,5 +8004,18 @@
     "icu_on_ventilator": 85,
     "new_total_cases": 438,
     "growth_factor_total_cases": "1.16"
+  },
+  "2021-11-05": {
+    "infected": 3395,
+    "resolved": 588796,
+    "deaths": 9896,
+    "total_cases": 602087,
+    "new_tests": 30187,
+    "under_investigation": 13655,
+    "hospitalized": 225,
+    "icu": 129,
+    "icu_on_ventilator": 81,
+    "new_total_cases": 563,
+    "growth_factor_total_cases": "1.29"
   }
 }
