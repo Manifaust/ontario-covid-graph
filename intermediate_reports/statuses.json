@@ -8149,5 +8149,18 @@
     "new_total_cases": 552,
     "growth_factor_total_cases": "0.83",
     "weekly_growth_factor_total_cases": "1.20"
+  },
+  "2021-11-16": {
+    "infected": 4814,
+    "resolved": 593454,
+    "deaths": 9938,
+    "total_cases": 608206,
+    "new_tests": 18965,
+    "under_investigation": 13685,
+    "hospitalized": 301,
+    "icu": 139,
+    "icu_on_ventilator": 82,
+    "new_total_cases": 481,
+    "growth_factor_total_cases": "0.87"
   }
 }
