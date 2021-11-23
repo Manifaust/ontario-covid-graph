@@ -8241,5 +8241,18 @@
     "new_total_cases": 627,
     "growth_factor_total_cases": "0.85",
     "weekly_growth_factor_total_cases": "1.14"
+  },
+  "2021-11-23": {
+    "infected": 5487,
+    "resolved": 597470,
+    "deaths": 9974,
+    "total_cases": 612931,
+    "new_tests": 19859,
+    "under_investigation": 14591,
+    "hospitalized": 282,
+    "icu": 134,
+    "icu_on_ventilator": 81,
+    "new_total_cases": 613,
+    "growth_factor_total_cases": "0.98"
   }
 }
