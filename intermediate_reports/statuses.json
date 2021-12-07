@@ -8425,5 +8425,18 @@
     "new_total_cases": 887,
     "growth_factor_total_cases": "0.75",
     "weekly_growth_factor_total_cases": "1.20"
+  },
+  "2021-12-07": {
+    "infected": 8479,
+    "resolved": 606797,
+    "deaths": 10036,
+    "total_cases": 625312,
+    "new_tests": 26136,
+    "under_investigation": 17087,
+    "hospitalized": 340,
+    "icu": 165,
+    "icu_on_ventilator": 95,
+    "new_total_cases": 928,
+    "growth_factor_total_cases": "1.05"
   }
 }

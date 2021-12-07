@@ -3957,5 +3957,12 @@
       "resident_total_deaths": 4027,
       "resident_new_cases": 4
     }
+  },
+  "2021-12-07": {
+    "ltc": {
+      "resident_total_cases": 15670,
+      "resident_total_deaths": 4027,
+      "resident_new_cases": 2
+    }
   }
 }
