@@ -8438,5 +8438,18 @@
     "icu_on_ventilator": 95,
     "new_total_cases": 928,
     "growth_factor_total_cases": "1.05"
+  },
+  "2021-12-08": {
+    "infected": 8351,
+    "resolved": 607926,
+    "deaths": 10044,
+    "total_cases": 626321,
+    "new_tests": 38502,
+    "under_investigation": 19212,
+    "hospitalized": 333,
+    "icu": 155,
+    "icu_on_ventilator": 97,
+    "new_total_cases": 1009,
+    "growth_factor_total_cases": "1.09"
   }
 }
