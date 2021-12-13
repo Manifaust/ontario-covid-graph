@@ -3999,5 +3999,12 @@
       "resident_total_deaths": 4029,
       "resident_new_cases": 1
     }
+  },
+  "2021-12-13": {
+    "ltc": {
+      "resident_total_cases": 15685,
+      "resident_total_deaths": 4029,
+      "resident_new_cases": 0
+    }
   }
 }
