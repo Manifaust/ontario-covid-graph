@@ -8517,5 +8517,18 @@
     "new_total_cases": 1536,
     "growth_factor_total_cases": "1.04",
     "weekly_growth_factor_total_cases": "1.41"
+  },
+  "2021-12-14": {
+    "infected": 12032,
+    "resolved": 612996,
+    "deaths": 10084,
+    "total_cases": 635112,
+    "new_tests": 33400,
+    "under_investigation": 22855,
+    "hospitalized": 385,
+    "icu": 162,
+    "icu_on_ventilator": 98,
+    "new_total_cases": 1429,
+    "growth_factor_total_cases": "0.93"
   }
 }
