@@ -8530,5 +8530,18 @@
     "icu_on_ventilator": 98,
     "new_total_cases": 1429,
     "growth_factor_total_cases": "0.93"
+  },
+  "2021-12-15": {
+    "infected": 12666,
+    "resolved": 614161,
+    "deaths": 10093,
+    "total_cases": 636920,
+    "new_tests": 44726,
+    "under_investigation": 28940,
+    "hospitalized": 357,
+    "icu": 154,
+    "icu_on_ventilator": 102,
+    "new_total_cases": 1808,
+    "growth_factor_total_cases": "1.27"
   }
 }
