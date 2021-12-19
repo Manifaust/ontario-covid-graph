@@ -4041,5 +4041,12 @@
       "resident_total_deaths": 4030,
       "resident_new_cases": 5
     }
+  },
+  "2021-12-19": {
+    "ltc": {
+      "resident_total_cases": 15706,
+      "resident_total_deaths": 4030,
+      "resident_new_cases": 7
+    }
   }
 }
