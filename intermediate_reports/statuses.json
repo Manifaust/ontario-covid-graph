@@ -8609,5 +8609,18 @@
     "new_total_cases": 3784,
     "growth_factor_total_cases": "0.91",
     "weekly_growth_factor_total_cases": "2.16"
+  },
+  "2021-12-21": {
+    "infected": 25702,
+    "resolved": 621355,
+    "deaths": 10123,
+    "total_cases": 657180,
+    "new_tests": 49285,
+    "under_investigation": 48096,
+    "hospitalized": 412,
+    "icu": 165,
+    "icu_on_ventilator": 105,
+    "new_total_cases": 3453,
+    "growth_factor_total_cases": "0.91"
   }
 }
