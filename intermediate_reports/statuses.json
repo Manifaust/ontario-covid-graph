@@ -8650,9 +8650,9 @@
     "growth_factor_total_cases": "1.32"
   },
   "2021-12-24": {
-    "infected": 40555,
+    "infected": 39980,
     "resolved": 626798,
-    "deaths": 9571,
+    "deaths": 10146,
     "total_cases": 676924,
     "new_tests": 72639,
     "under_investigation": 67571,
