@@ -5,9 +5,14 @@ layout: default
 <div class="bb b--black-10 lh-copy f6">
   <p><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
   <p>
-    <b>June 5 Update</b>
+    <b>Dec 28 Update</b>
     <ul>
-      <li>Added: Immunization coverage</li>
+      <li>Ontario dataset has paused updating until Dec 29. So the graphs on
+      this site won't have new data until then.</li>
+      <li>Added description about why there's a huge spike in the number of
+      vaccinations on Dec 3. It's because they shoved all the third dose data
+      (up to Dec 3) onto that one day.</li>
+      <li>Deleted graph for Total Number of Vaccines administered.</li>
     </ul>
   </p>
 </div>
@@ -19,17 +24,13 @@ layout: default
 
 <div class="bb b--black-10">
   <h2 class="f3 fw3">Daily Vaccine Doses Administered</h2>
+  <p>There is an increase in the doses administered on Dec 3 due to the introduction of third dose data being reported on this date. Moving forward, the daily doses will include third doses administered.</p>
   <canvas id="daily-vaccine" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
   <h2 class="f3 fw3">Immunization Coverage</h2>
   <canvas id="immunization-coverage" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Total Vaccine Doses Administered</h2>
-  <canvas id="total-vaccine" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
