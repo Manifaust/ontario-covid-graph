@@ -8661,5 +8661,71 @@
     "icu_on_ventilator": 102,
     "new_total_cases": 9571,
     "growth_factor_total_cases": "1.65"
+  },
+  "2021-12-25": {
+    "infected": 48517,
+    "resolved": 628670,
+    "deaths": 10149,
+    "total_cases": 687336,
+    "new_tests": 66489,
+    "under_investigation": 71576,
+    "hospitalized": 510,
+    "icu": 167,
+    "icu_on_ventilator": 97,
+    "new_total_cases": 10412,
+    "growth_factor_total_cases": "1.09"
+  },
+  "2021-12-26": {
+    "infected": 56540,
+    "resolved": 630466,
+    "deaths": 10156,
+    "total_cases": 697162,
+    "new_tests": 56695,
+    "under_investigation": 55857,
+    "hospitalized": 373,
+    "icu": 168,
+    "icu_on_ventilator": 96,
+    "new_total_cases": 9826,
+    "growth_factor_total_cases": "0.94"
+  },
+  "2021-12-27": {
+    "infected": 64054,
+    "resolved": 632365,
+    "deaths": 10161,
+    "total_cases": 706580,
+    "new_tests": 48479,
+    "under_investigation": 52937,
+    "hospitalized": 480,
+    "icu": 176,
+    "icu_on_ventilator": 109,
+    "new_total_cases": 9418,
+    "growth_factor_total_cases": "0.96",
+    "weekly_growth_factor_total_cases": "2.64"
+  },
+  "2021-12-28": {
+    "infected": 70391,
+    "resolved": 634846,
+    "deaths": 10168,
+    "total_cases": 715405,
+    "new_tests": 53311,
+    "under_investigation": 63440,
+    "hospitalized": 491,
+    "icu": 187,
+    "icu_on_ventilator": 107,
+    "new_total_cases": 8825,
+    "growth_factor_total_cases": "0.94"
+  },
+  "2021-12-29": {
+    "infected": 76992,
+    "resolved": 638678,
+    "deaths": 10171,
+    "total_cases": 725841,
+    "new_tests": 59259,
+    "under_investigation": 74535,
+    "hospitalized": 726,
+    "icu": 190,
+    "icu_on_ventilator": 104,
+    "new_total_cases": 10436,
+    "growth_factor_total_cases": "1.18"
   }
 }

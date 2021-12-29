@@ -4083,5 +4083,40 @@
       "resident_total_deaths": 4032,
       "resident_new_cases": 19
     }
+  },
+  "2021-12-25": {
+    "ltc": {
+      "resident_total_cases": 15749,
+      "resident_total_deaths": 4032,
+      "resident_new_cases": 10
+    }
+  },
+  "2021-12-26": {
+    "ltc": {
+      "resident_total_cases": 15761,
+      "resident_total_deaths": 4032,
+      "resident_new_cases": 12
+    }
+  },
+  "2021-12-27": {
+    "ltc": {
+      "resident_total_cases": 15779,
+      "resident_total_deaths": 4032,
+      "resident_new_cases": 18
+    }
+  },
+  "2021-12-28": {
+    "ltc": {
+      "resident_total_cases": 15808,
+      "resident_total_deaths": 4032,
+      "resident_new_cases": 29
+    }
+  },
+  "2021-12-29": {
+    "ltc": {
+      "resident_total_cases": 15849,
+      "resident_total_deaths": 4032,
+      "resident_new_cases": 41
+    }
   }
 }
