@@ -1,4 +1,4 @@
-Date,Algoma_District,Brant_County,Chatham_Kent,Durham_Region,Eastern_Ontario,Grey_Bruce,Haldimand_Norfolk,Haliburton_Kawartha_Pine_Ridge,Halton_Region,City_of_Hamilton,Hastings_Prince_Edward,Huron_Perth,KFLA,Lambton_County,Leeds_Grenville_Lanark,Middlesex_London,Niagara_Region,North_Bay_Parry_Sound_District,Northwestern,City_of_Ottawa,Peel_Region,Peterborough_County_City,Porcupine,Waterloo_Region,Renfrew_County_and_District,Simcoe_Muskoka_District,Southwestern,Sudbury_and_District,Thunder_Bay_District,Timiskaming,Toronto,Wellington_Dufferin_Guelph,Windsor_Essex_County,York_Region,Total
+"Date","Algoma_District","Brant_County","Chatham_Kent","Durham_Region","Eastern_Ontario","Grey_Bruce","Haldimand_Norfolk","Haliburton_Kawartha_Pine_Ridge","Halton_Region","City_of_Hamilton","Hastings_Prince_Edward","Huron_Perth","KFLA","Lambton_County","Leeds_Grenville_Lanark","Middlesex_London","Niagara_Region","North_Bay_Parry_Sound_District","Northwestern","City_of_Ottawa","Peel_Region","Peterborough_County_City","Porcupine","Waterloo_Region","Renfrew_County_and_District","Simcoe_Muskoka_District","Southwestern","Sudbury_and_District","Thunder_Bay_District","Timiskaming","Toronto","Wellington_Dufferin_Guelph","Windsor_Essex_County","York_Region","Total"
 2020-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 2020-03-25,0,1,0,3,0,1,0,0,1,3,0,0,3,0,0,0,1,0,0,3,3,0,0,2,0,0,0,1,0,0,17,1,1,5,46
 2020-03-26,0,0,0,1,0,0,0,1,4,4,2,0,5,0,0,2,1,0,0,0,13,2,3,0,0,1,0,0,0,1,21,1,2,5,69
@@ -647,3 +647,7 @@ Date,Algoma_District,Brant_County,Chatham_Kent,Durham_Region,Eastern_Ontario,Gre
 2021-12-29,39,115,21,524,78,67,64,66,437,539,109,36,132,55,95,374,367,53,27,644,1066,83,74,422,44,395,106,94,43,8,2715,113,179,1252,10436
 2021-12-30,60,200,66,538,277,126,80,80,732,939,148,43,242,104,117,446,318,66,36,683,1468,115,119,628,40,441,114,164,63,50,3478,346,256,1224,13807
 2021-12-31,119,226,64,766,285,113,124,159,756,865,226,122,287,202,248,575,358,119,79,1431,1639,134,123,533,86,662,198,184,110,32,3899,318,280,1391,16713
+2022-01-01,102,143,43,922,384,70,151,151,854,1032,236,89,262,67,251,562,285,94,73,1482,1730,144,88,600,73,850,201,240,138,19,4721,333,344,1711,18445
+2022-01-02,73,161,47,752,372,171,85,209,781,789,195,117,313,282,228,405,378,47,124,1082,2182,153,90,570,109,576,87,185,133,18,3736,544,332,1388,16714
+2022-01-03,50,120,56,714,242,119,83,170,411,487,165,191,78,238,101,641,447,35,100,995,1433,79,62,495,99,394,266,142,36,19,3006,301,543,1260,13578
+2022-01-04,19,123,113,635,136,136,93,70,466,330,90,120,102,112,80,449,407,47,31,482,1486,90,21,612,117,489,200,121,61,2,2480,236,337,1059,11352

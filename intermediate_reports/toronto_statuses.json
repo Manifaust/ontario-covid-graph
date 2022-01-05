@@ -3235,5 +3235,25 @@
     "toronto": {
       "new_cases": 3899
     }
+  },
+  "2022-01-01": {
+    "toronto": {
+      "new_cases": 4721
+    }
+  },
+  "2022-01-02": {
+    "toronto": {
+      "new_cases": 3736
+    }
+  },
+  "2022-01-03": {
+    "toronto": {
+      "new_cases": 3006
+    }
+  },
+  "2022-01-04": {
+    "toronto": {
+      "new_cases": 2480
+    }
   }
 }

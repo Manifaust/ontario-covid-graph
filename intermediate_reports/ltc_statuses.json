@@ -4132,5 +4132,33 @@
       "resident_total_deaths": 4033,
       "resident_new_cases": 71
     }
+  },
+  "2022-01-01": {
+    "ltc": {
+      "resident_total_cases": 16051,
+      "resident_total_deaths": 4033,
+      "resident_new_cases": 97
+    }
+  },
+  "2022-01-02": {
+    "ltc": {
+      "resident_total_cases": 16091,
+      "resident_total_deaths": 4035,
+      "resident_new_cases": 40
+    }
+  },
+  "2022-01-03": {
+    "ltc": {
+      "resident_total_cases": 16176,
+      "resident_total_deaths": 4036,
+      "resident_new_cases": 85
+    }
+  },
+  "2022-01-04": {
+    "ltc": {
+      "resident_total_cases": 16285,
+      "resident_total_deaths": 4038,
+      "resident_new_cases": 109
+    }
   }
 }
