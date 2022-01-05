@@ -1,4 +1,4 @@
-"Date","Algoma_District","Brant_County","Chatham_Kent","Durham_Region","Eastern_Ontario","Grey_Bruce","Haldimand_Norfolk","Haliburton_Kawartha_Pine_Ridge","Halton_Region","City_of_Hamilton","Hastings_Prince_Edward","Huron_Perth","KFLA","Lambton_County","Leeds_Grenville_Lanark","Middlesex_London","Niagara_Region","North_Bay_Parry_Sound_District","Northwestern","City_of_Ottawa","Peel_Region","Peterborough_County_City","Porcupine","Waterloo_Region","Renfrew_County_and_District","Simcoe_Muskoka_District","Southwestern","Sudbury_and_District","Thunder_Bay_District","Timiskaming","Toronto","Wellington_Dufferin_Guelph","Windsor_Essex_County","York_Region","Total"
+Date,Algoma_District,Brant_County,Chatham_Kent,Durham_Region,Eastern_Ontario,Grey_Bruce,Haldimand_Norfolk,Haliburton_Kawartha_Pine_Ridge,Halton_Region,City_of_Hamilton,Hastings_Prince_Edward,Huron_Perth,KFLA,Lambton_County,Leeds_Grenville_Lanark,Middlesex_London,Niagara_Region,North_Bay_Parry_Sound_District,Northwestern,City_of_Ottawa,Peel_Region,Peterborough_County_City,Porcupine,Waterloo_Region,Renfrew_County_and_District,Simcoe_Muskoka_District,Southwestern,Sudbury_and_District,Thunder_Bay_District,Timiskaming,Toronto,Wellington_Dufferin_Guelph,Windsor_Essex_County,York_Region,Total
 2020-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 2020-03-25,0,1,0,3,0,1,0,0,1,3,0,0,3,0,0,0,1,0,0,3,3,0,0,2,0,0,0,1,0,0,17,1,1,5,46
 2020-03-26,0,0,0,1,0,0,0,1,4,4,2,0,5,0,0,2,1,0,0,0,13,2,3,0,0,1,0,0,0,1,21,1,2,5,69
@@ -651,3 +651,4 @@
 2022-01-02,73,161,47,752,372,171,85,209,781,789,195,117,313,282,228,405,378,47,124,1082,2182,153,90,570,109,576,87,185,133,18,3736,544,332,1388,16714
 2022-01-03,50,120,56,714,242,119,83,170,411,487,165,191,78,238,101,641,447,35,100,995,1433,79,62,495,99,394,266,142,36,19,3006,301,543,1260,13578
 2022-01-04,19,123,113,635,136,136,93,70,466,330,90,120,102,112,80,449,407,47,31,482,1486,90,21,612,117,489,200,121,61,2,2480,236,337,1059,11352
+2022-01-05,62,117,80,699,277,109,34,124,511,584,95,27,144,90,64,441,441,36,35,469,1435,105,62,531,74,381,96,105,59,17,2524,126,334,1294,11582
