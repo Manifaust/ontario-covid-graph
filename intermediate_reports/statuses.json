@@ -8819,5 +8819,18 @@
     "icu_on_ventilator": 138,
     "new_total_cases": 11582,
     "growth_factor_total_cases": "1.02"
+  },
+  "2022-01-06": {
+    "infected": 135313,
+    "resolved": 695786,
+    "deaths": 10272,
+    "total_cases": 841371,
+    "new_tests": 59241,
+    "under_investigation": 99870,
+    "hospitalized": 2279,
+    "icu": 319,
+    "icu_on_ventilator": 164,
+    "new_total_cases": 13339,
+    "growth_factor_total_cases": "1.15"
   }
 }
