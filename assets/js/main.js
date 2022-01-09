@@ -35,18 +35,6 @@ window.fetch(reportURL).then((response) => {
   })
 
   chart.render({
-    ele: document.getElementById('total-vaccine'),
-    title: 'Total Vaccine Doses',
-    hideInLegend: true,
-    subCharts: [{
-      title: 'Total Vaccine Doses',
-      key: 'vaccine',
-      subKey: 'total_doses',
-      color: '163, 116, 176'
-    }]
-  })
-
-  chart.render({
     ele: document.getElementById('immunization-coverage'),
     title: 'Immunization Coverage',
     hideInLegend: true,
