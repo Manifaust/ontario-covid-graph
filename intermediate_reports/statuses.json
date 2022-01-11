@@ -8885,5 +8885,18 @@
     "new_total_cases": 9706,
     "growth_factor_total_cases": "0.81",
     "weekly_growth_factor_total_cases": "0.84"
+  },
+  "2022-01-11": {
+    "infected": 138560,
+    "resolved": 747289,
+    "deaths": 10399,
+    "total_cases": 896248,
+    "new_tests": 45451,
+    "under_investigation": 94223,
+    "hospitalized": 3220,
+    "icu": 477,
+    "icu_on_ventilator": 250,
+    "new_total_cases": 7951,
+    "growth_factor_total_cases": "0.82"
   }
 }
