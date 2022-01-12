@@ -1,4 +1,4 @@
-"Date","Algoma_District","Brant_County","Chatham_Kent","Durham_Region","Eastern_Ontario","Grey_Bruce","Haldimand_Norfolk","Haliburton_Kawartha_Pine_Ridge","Halton_Region","City_of_Hamilton","Hastings_Prince_Edward","Huron_Perth","KFLA","Lambton_County","Leeds_Grenville_Lanark","Middlesex_London","Niagara_Region","North_Bay_Parry_Sound_District","Northwestern","City_of_Ottawa","Peel_Region","Peterborough_County_City","Porcupine","Waterloo_Region","Renfrew_County_and_District","Simcoe_Muskoka_District","Southwestern","Sudbury_and_District","Thunder_Bay_District","Timiskaming","Toronto","Wellington_Dufferin_Guelph","Windsor_Essex_County","York_Region","Total"
+Date,Algoma_District,Brant_County,Chatham_Kent,Durham_Region,Eastern_Ontario,Grey_Bruce,Haldimand_Norfolk,Haliburton_Kawartha_Pine_Ridge,Halton_Region,City_of_Hamilton,Hastings_Prince_Edward,Huron_Perth,KFLA,Lambton_County,Leeds_Grenville_Lanark,Middlesex_London,Niagara_Region,North_Bay_Parry_Sound_District,Northwestern,City_of_Ottawa,Peel_Region,Peterborough_County_City,Porcupine,Waterloo_Region,Renfrew_County_and_District,Simcoe_Muskoka_District,Southwestern,Sudbury_and_District,Thunder_Bay_District,Timiskaming,Toronto,Wellington_Dufferin_Guelph,Windsor_Essex_County,York_Region,Total
 2020-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 2020-03-25,0,1,0,3,0,1,0,0,1,3,0,0,3,0,0,0,1,0,0,3,3,0,0,2,0,0,0,1,0,0,17,1,1,5,46
 2020-03-26,0,0,0,1,0,0,0,1,4,4,2,0,5,0,0,2,1,0,0,0,13,2,3,0,0,1,0,0,0,1,21,1,2,5,69
@@ -658,3 +658,4 @@
 2022-01-09,54,117,216,641,177,93,73,76,632,697,92,66,60,172,60,482,417,34,39,525,1604,60,47,604,68,420,140,169,86,2,2198,228,558,1052,11959
 2022-01-10,32,116,67,680,181,67,56,84,437,412,52,32,60,111,30,333,333,46,72,565,1310,66,48,456,22,404,90,92,70,11,1879,126,333,1033,9706
 2022-01-11,36,48,58,414,131,34,69,36,373,306,50,25,63,92,27,239,317,39,45,450,1143,39,26,546,26,314,76,104,79,6,1649,142,105,844,7951
+2022-01-12,29,147,62,819,115,39,81,100,434,721,100,30,106,54,54,302,307,43,32,588,1060,57,38,471,88,349,117,134,123,6,1675,146,392,964,9783
