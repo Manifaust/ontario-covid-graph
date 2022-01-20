@@ -4265,5 +4265,12 @@
       "resident_total_deaths": 4122,
       "resident_new_cases": 253
     }
+  },
+  "2022-01-20": {
+    "ltc": {
+      "resident_total_cases": 19743,
+      "resident_total_deaths": 4148,
+      "resident_new_cases": 316
+    }
   }
 }
