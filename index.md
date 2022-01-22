@@ -4,17 +4,6 @@ layout: default
 
 <div class="bb b--black-10 lh-copy f6">
   <p><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
-  <p>
-    <b>Dec 28 Update</b>
-    <ul>
-      <li>Ontario dataset has paused updating until Dec 29. So the graphs on
-      this site won't have new data until then.</li>
-      <li>Added description about why there's a huge spike in the number of
-      vaccinations on Dec 3. It's because they shoved all the third dose data
-      (up to Dec 3) onto that one day.</li>
-      <li>Deleted graph for Total Number of Vaccines administered.</li>
-    </ul>
-  </p>
 </div>
 
 <div class="bb b--black-10">
