@@ -4,11 +4,22 @@ layout: default
 
 <div class="bb b--black-10 lh-copy f6">
   <p><a class="link blue underline-hover" href="#data-source-info">What's the source of this data?</a></p>
+  <p>
+    <b>Jan 22 Update</b>
+    <ul>
+      <li>Moved hospital graph up.</li>
+    </ul>
+  </p>
 </div>
 
 <div class="bb b--black-10">
   <h2 class="f3 fw3">New Cases</h2>
   <canvas id="newCases" class="mb3"></canvas>
+</div>
+
+<div class="bb b--black-10">
+  <h2 class="f3 fw3">Hospital Treatment</h2>
+  <canvas id="severity" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
@@ -20,11 +31,6 @@ layout: default
 <div class="bb b--black-10">
   <h2 class="f3 fw3">Immunization Coverage</h2>
   <canvas id="immunization-coverage" class="mb3"></canvas>
-</div>
-
-<div class="bb b--black-10">
-  <h2 class="f3 fw3">Severe Cases</h2>
-  <canvas id="severity" class="mb3"></canvas>
 </div>
 
 <div class="bb b--black-10">
