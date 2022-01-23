@@ -3345,5 +3345,10 @@
     "toronto": {
       "new_cases": 1118
     }
+  },
+  "2022-01-23": {
+    "toronto": {
+      "new_cases": 1022
+    }
   }
 }
