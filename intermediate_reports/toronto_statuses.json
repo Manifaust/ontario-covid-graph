@@ -3400,5 +3400,10 @@
     "toronto": {
       "new_cases": 716
     }
+  },
+  "2022-02-03": {
+    "toronto": {
+      "new_cases": 673
+    }
   }
 }
