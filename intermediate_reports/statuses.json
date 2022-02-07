@@ -9239,5 +9239,19 @@
     "icu_on_ventilator": 289,
     "new_total_cases": 2887,
     "growth_factor_total_cases": "0.90"
+  },
+  "2022-02-07": {
+    "infected": 33435,
+    "resolved": 1010878,
+    "deaths": 11836,
+    "total_cases": 1056149,
+    "new_tests": 12880,
+    "under_investigation": 4166,
+    "hospitalized": 2155,
+    "icu": 486,
+    "icu_on_ventilator": 283,
+    "new_total_cases": 2088,
+    "growth_factor_total_cases": "0.72",
+    "weekly_growth_factor_total_cases": "0.72"
   }
 }
