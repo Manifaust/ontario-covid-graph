@@ -9253,5 +9253,18 @@
     "new_total_cases": 2088,
     "growth_factor_total_cases": "0.72",
     "weekly_growth_factor_total_cases": "0.72"
+  },
+  "2022-02-08": {
+    "infected": 32078,
+    "resolved": 1014285,
+    "deaths": 11878,
+    "total_cases": 1058241,
+    "new_tests": 15788,
+    "under_investigation": 9141,
+    "hospitalized": 2254,
+    "icu": 474,
+    "icu_on_ventilator": 289,
+    "new_total_cases": 2092,
+    "growth_factor_total_cases": "1.00"
   }
 }
