@@ -3470,5 +3470,10 @@
     "toronto": {
       "new_cases": 350
     }
+  },
+  "2022-02-17": {
+    "toronto": {
+      "new_cases": 312
+    }
   }
 }
