@@ -4468,5 +4468,12 @@
       "resident_total_deaths": 4446,
       "resident_new_cases": 3
     }
+  },
+  "2022-02-18": {
+    "ltc": {
+      "resident_total_cases": 24184,
+      "resident_total_deaths": 4444,
+      "resident_new_cases": 10
+    }
   }
 }
