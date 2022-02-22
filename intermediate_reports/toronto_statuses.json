@@ -3490,5 +3490,15 @@
     "toronto": {
       "new_cases": 261
     }
+  },
+  "2022-02-21": {
+    "toronto": {
+      "new_cases": 223
+    }
+  },
+  "2022-02-22": {
+    "toronto": {
+      "new_cases": 214
+    }
   }
 }

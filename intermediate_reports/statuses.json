@@ -9423,5 +9423,32 @@
     "icu_on_ventilator": 208,
     "new_total_cases": 1966,
     "growth_factor_total_cases": "0.88"
+  },
+  "2022-02-21": {
+    "infected": 20708,
+    "resolved": 1055832,
+    "deaths": 12279,
+    "total_cases": 1088819,
+    "new_tests": 8924,
+    "under_investigation": 10384,
+    "hospitalized": 1064,
+    "icu": 320,
+    "icu_on_ventilator": 212,
+    "new_total_cases": 1335,
+    "growth_factor_total_cases": "0.68",
+    "weekly_growth_factor_total_cases": "0.78"
+  },
+  "2022-02-22": {
+    "infected": 19984,
+    "resolved": 1057829,
+    "deaths": 12288,
+    "total_cases": 1090101,
+    "new_tests": 15365,
+    "under_investigation": 4483,
+    "hospitalized": 1038,
+    "icu": 319,
+    "icu_on_ventilator": 202,
+    "new_total_cases": 1282,
+    "growth_factor_total_cases": "0.96"
   }
 }
