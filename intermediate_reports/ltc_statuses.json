@@ -4510,5 +4510,12 @@
       "resident_total_deaths": 4451,
       "resident_new_cases": 38
     }
+  },
+  "2022-02-24": {
+    "ltc": {
+      "resident_total_cases": 24430,
+      "resident_total_deaths": 4457,
+      "resident_new_cases": 39
+    }
   }
 }
