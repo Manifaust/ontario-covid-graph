@@ -9529,5 +9529,18 @@
     "new_total_cases": 1315,
     "growth_factor_total_cases": "0.66",
     "weekly_growth_factor_total_cases": "0.92"
+  },
+  "2022-03-01": {
+    "infected": 17455,
+    "resolved": 1073281,
+    "deaths": 12451,
+    "total_cases": 1103187,
+    "new_tests": 13087,
+    "under_investigation": 5767,
+    "hospitalized": 914,
+    "icu": 278,
+    "icu_on_ventilator": 162,
+    "new_total_cases": 1176,
+    "growth_factor_total_cases": "0.89"
   }
 }
