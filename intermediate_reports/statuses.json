@@ -9607,5 +9607,19 @@
     "icu_on_ventilator": 134,
     "new_total_cases": 1787,
     "growth_factor_total_cases": "0.93"
+  },
+  "2022-03-07": {
+    "infected": 16699,
+    "resolved": 1085011,
+    "deaths": 12574,
+    "total_cases": 1114284,
+    "new_tests": 9447,
+    "under_investigation": 3374,
+    "hospitalized": 693,
+    "icu": 249,
+    "icu_on_ventilator": 140,
+    "new_total_cases": 1074,
+    "growth_factor_total_cases": "0.60",
+    "weekly_growth_factor_total_cases": "0.93"
   }
 }
