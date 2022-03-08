@@ -9621,5 +9621,18 @@
     "new_total_cases": 1074,
     "growth_factor_total_cases": "0.60",
     "weekly_growth_factor_total_cases": "0.93"
+  },
+  "2022-03-08": {
+    "infected": 16237,
+    "resolved": 1086664,
+    "deaths": 12591,
+    "total_cases": 1115492,
+    "new_tests": 11128,
+    "under_investigation": 8026,
+    "hospitalized": 779,
+    "icu": 246,
+    "icu_on_ventilator": 141,
+    "new_total_cases": 1208,
+    "growth_factor_total_cases": "1.12"
   }
 }
