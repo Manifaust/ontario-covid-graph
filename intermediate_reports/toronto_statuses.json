@@ -3595,5 +3595,10 @@
     "toronto": {
       "new_cases": 324
     }
+  },
+  "2022-03-14": {
+    "toronto": {
+      "new_cases": 244
+    }
   }
 }
