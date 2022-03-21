@@ -9781,5 +9781,18 @@
     "icu_on_ventilator": 97,
     "new_total_cases": 1680,
     "growth_factor_total_cases": "0.81"
+  },
+  "2022-03-21": {
+    "infected": 16405,
+    "resolved": 1110677,
+    "total_cases": 1139418,
+    "new_tests": 8644,
+    "under_investigation": 3430,
+    "hospitalized": 551,
+    "icu": 181,
+    "icu_on_ventilator": 94,
+    "new_total_cases": 1217,
+    "growth_factor_total_cases": "0.72",
+    "weekly_growth_factor_total_cases": "1.06"
   }
 }
