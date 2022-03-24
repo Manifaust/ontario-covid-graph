@@ -9818,5 +9818,17 @@
     "icu_on_ventilator": 90,
     "new_total_cases": 2149,
     "growth_factor_total_cases": "1.49"
+  },
+  "2022-03-24": {
+    "infected": 16831,
+    "resolved": 1116378,
+    "total_cases": 1145575,
+    "new_tests": 15515,
+    "under_investigation": 6404,
+    "hospitalized": 661,
+    "icu": 165,
+    "icu_on_ventilator": 90,
+    "new_total_cases": 2561,
+    "growth_factor_total_cases": "1.19"
   }
 }
