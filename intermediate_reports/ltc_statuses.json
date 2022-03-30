@@ -4748,5 +4748,12 @@
       "resident_total_deaths": 4409,
       "resident_new_cases": 64
     }
+  },
+  "2022-03-30": {
+    "ltc": {
+      "resident_total_cases": 25786,
+      "resident_total_deaths": 4414,
+      "resident_new_cases": 28
+    }
   }
 }
