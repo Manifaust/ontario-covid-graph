@@ -9927,5 +9927,17 @@
     "icu_on_ventilator": 97,
     "new_total_cases": 3519,
     "growth_factor_total_cases": "1.12"
+  },
+  "2022-04-02": {
+    "infected": 23387,
+    "resolved": 1133514,
+    "total_cases": 1169361,
+    "new_tests": 16001,
+    "under_investigation": 5979,
+    "hospitalized": 855,
+    "icu": 165,
+    "icu_on_ventilator": 99,
+    "new_total_cases": 3233,
+    "growth_factor_total_cases": "0.92"
   }
 }
