@@ -9946,6 +9946,9 @@
     "total_cases": 1172438,
     "new_tests": 14095,
     "under_investigation": 4692,
+    "hospitalized": 763,
+    "icu": 166,
+    "icu_on_ventilator": 91,
     "new_total_cases": 3077,
     "growth_factor_total_cases": "0.95"
   }
