@@ -9939,5 +9939,14 @@
     "icu_on_ventilator": 99,
     "new_total_cases": 3233,
     "growth_factor_total_cases": "0.92"
+  },
+  "2022-04-03": {
+    "infected": 24603,
+    "resolved": 1135365,
+    "total_cases": 1172438,
+    "new_tests": 14095,
+    "under_investigation": 4692,
+    "new_total_cases": 3077,
+    "growth_factor_total_cases": "0.95"
   }
 }
