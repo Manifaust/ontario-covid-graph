@@ -4783,5 +4783,12 @@
       "resident_total_deaths": 4420,
       "resident_new_cases": 43
     }
+  },
+  "2022-04-04": {
+    "ltc": {
+      "resident_total_cases": 26086,
+      "resident_total_deaths": 4420,
+      "resident_new_cases": 24
+    }
   }
 }
