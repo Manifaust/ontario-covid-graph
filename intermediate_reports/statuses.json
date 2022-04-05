@@ -9964,5 +9964,17 @@
     "new_total_cases": 2248,
     "growth_factor_total_cases": "0.73",
     "weekly_growth_factor_total_cases": "1.26"
+  },
+  "2022-04-05": {
+    "infected": 25019,
+    "resolved": 1139179,
+    "total_cases": 1176677,
+    "new_tests": 14474,
+    "under_investigation": 8643,
+    "hospitalized": 1091,
+    "icu": 173,
+    "icu_on_ventilator": 96,
+    "new_total_cases": 1991,
+    "growth_factor_total_cases": "0.89"
   }
 }
