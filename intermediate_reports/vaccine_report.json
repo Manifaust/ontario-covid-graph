@@ -3709,5 +3709,13 @@
       "total_fully_vaccinated": 12132552,
       "total_doses": 32146824
     }
+  },
+  "2022-04-09": {
+    "vaccine": {
+      "previous_day_doses": 30444,
+      "total_individuals_at_least_one": 12614225,
+      "total_fully_vaccinated": 12134753,
+      "total_doses": 32177268
+    }
   }
 }
