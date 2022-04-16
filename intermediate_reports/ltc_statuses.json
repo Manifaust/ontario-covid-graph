@@ -4860,5 +4860,19 @@
       "resident_total_deaths": 4433,
       "resident_new_cases": 118
     }
+  },
+  "2022-04-15": {
+    "ltc": {
+      "resident_total_cases": 27013,
+      "resident_total_deaths": 4435,
+      "resident_new_cases": 119
+    }
+  },
+  "2022-04-16": {
+    "ltc": {
+      "resident_total_cases": 27108,
+      "resident_total_deaths": 4438,
+      "resident_new_cases": 95
+    }
   }
 }

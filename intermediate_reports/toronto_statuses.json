@@ -3755,5 +3755,15 @@
     "toronto": {
       "new_cases": 1044
     }
+  },
+  "2022-04-15": {
+    "toronto": {
+      "new_cases": 941
+    }
+  },
+  "2022-04-16": {
+    "toronto": {
+      "new_cases": 817
+    }
   }
 }
