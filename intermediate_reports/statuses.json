@@ -10109,5 +10109,30 @@
     "icu_on_ventilator": 80,
     "new_total_cases": 4201,
     "growth_factor_total_cases": "0.97"
+  },
+  "2022-04-17": {
+    "infected": 35665,
+    "resolved": 1171729,
+    "total_cases": 1220024,
+    "new_tests": 10451,
+    "under_investigation": 4432,
+    "hospitalized": 1290,
+    "icu": 197,
+    "icu_on_ventilator": 83,
+    "new_total_cases": 2450,
+    "growth_factor_total_cases": "0.58"
+  },
+  "2022-04-18": {
+    "infected": 35500,
+    "resolved": 1174111,
+    "total_cases": 1222243,
+    "new_tests": 10060,
+    "under_investigation": 3784,
+    "hospitalized": 1301,
+    "icu": 202,
+    "icu_on_ventilator": 91,
+    "new_total_cases": 2219,
+    "growth_factor_total_cases": "0.91",
+    "weekly_growth_factor_total_cases": "1.01"
   }
 }
