@@ -1,4 +1,4 @@
-"Date","Algoma_District","Brant_County","Chatham_Kent","Durham_Region","Eastern_Ontario","Grey_Bruce","Haldimand_Norfolk","Haliburton_Kawartha_Pine_Ridge","Halton_Region","City_of_Hamilton","Hastings_Prince_Edward","Huron_Perth","KFLA","Lambton_County","Leeds_Grenville_Lanark","Middlesex_London","Niagara_Region","North_Bay_Parry_Sound_District","Northwestern","City_of_Ottawa","Peel_Region","Peterborough_County_City","Porcupine","Waterloo_Region","Renfrew_County_and_District","Simcoe_Muskoka_District","Southwestern","Sudbury_and_District","Thunder_Bay_District","Timiskaming","Toronto","Wellington_Dufferin_Guelph","Windsor_Essex_County","York_Region","Total"
+Date,Algoma_District,Brant_County,Chatham_Kent,Durham_Region,Eastern_Ontario,Grey_Bruce,Haldimand_Norfolk,Haliburton_Kawartha_Pine_Ridge,Halton_Region,City_of_Hamilton,Hastings_Prince_Edward,Huron_Perth,KFLA,Lambton_County,Leeds_Grenville_Lanark,Middlesex_London,Niagara_Region,North_Bay_Parry_Sound_District,Northwestern,City_of_Ottawa,Peel_Region,Peterborough_County_City,Porcupine,Waterloo_Region,Renfrew_County_and_District,Simcoe_Muskoka_District,Southwestern,Sudbury_and_District,Thunder_Bay_District,Timiskaming,Toronto,Wellington_Dufferin_Guelph,Windsor_Essex_County,York_Region,Total
 2020-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 2020-03-25,0,1,0,3,0,1,0,0,1,3,0,0,3,0,0,0,1,0,0,3,3,0,0,2,0,0,0,1,0,0,17,1,1,5,46
 2020-03-26,0,0,0,1,0,0,0,1,4,4,2,0,5,0,0,2,1,0,0,0,13,2,3,0,0,1,0,0,0,1,21,1,2,5,69
@@ -755,3 +755,4 @@
 2022-04-16,41,47,65,190,37,64,55,51,119,218,72,24,168,72,62,134,162,52,82,261,198,53,23,120,30,240,67,80,50,8,817,70,164,305,4201
 2022-04-17,55,26,24,114,23,43,12,37,68,123,51,24,23,27,48,70,105,17,24,157,127,30,9,79,20,140,33,47,39,2,475,66,132,180,2450
 2022-04-18,31,25,28,117,31,13,10,34,90,128,34,15,96,30,30,55,103,32,15,100,145,24,16,56,15,118,24,44,35,2,443,19,56,205,2219
+2022-04-19,32,9,5,20,7,28,10,8,34,49,27,8,64,14,22,22,29,10,10,42,65,3,5,31,11,50,13,31,60,1,325,8,61,104,1218
