@@ -10158,5 +10158,17 @@
     "icu_on_ventilator": 92,
     "new_total_cases": 1073,
     "growth_factor_total_cases": "0.88"
+  },
+  "2022-04-21": {
+    "infected": 32082,
+    "resolved": 1184812,
+    "total_cases": 1229572,
+    "new_tests": 20840,
+    "under_investigation": 7803,
+    "hospitalized": 1626,
+    "icu": 207,
+    "icu_on_ventilator": 90,
+    "new_total_cases": 5038,
+    "growth_factor_total_cases": "4.70"
   }
 }
