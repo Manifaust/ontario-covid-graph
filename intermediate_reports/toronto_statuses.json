@@ -3835,5 +3835,10 @@
     "toronto": {
       "new_cases": 551
     }
+  },
+  "2022-05-01": {
+    "toronto": {
+      "new_cases": 485
+    }
   }
 }
