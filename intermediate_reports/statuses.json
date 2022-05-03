@@ -10304,5 +10304,17 @@
     "new_total_cases": 1275,
     "growth_factor_total_cases": "0.57",
     "weekly_growth_factor_total_cases": "0.80"
+  },
+  "2022-05-03": {
+    "infected": 28046,
+    "resolved": 1222298,
+    "total_cases": 1263202,
+    "new_tests": 11755,
+    "under_investigation": 7691,
+    "hospitalized": 1699,
+    "icu": 202,
+    "icu_on_ventilator": 84,
+    "new_total_cases": 1547,
+    "growth_factor_total_cases": "1.21"
   }
 }
