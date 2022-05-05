@@ -10328,5 +10328,17 @@
     "icu_on_ventilator": 94,
     "new_total_cases": 2488,
     "growth_factor_total_cases": "1.61"
+  },
+  "2022-05-05": {
+    "infected": 26073,
+    "resolved": 1229396,
+    "total_cases": 1268390,
+    "new_tests": 17927,
+    "under_investigation": 6698,
+    "hospitalized": 1676,
+    "icu": 205,
+    "icu_on_ventilator": 100,
+    "new_total_cases": 2700,
+    "growth_factor_total_cases": "1.09"
   }
 }
