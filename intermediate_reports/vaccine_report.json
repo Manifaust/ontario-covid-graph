@@ -3941,5 +3941,13 @@
       "total_fully_vaccinated": 12176491,
       "total_doses": 32924140
     }
+  },
+  "2022-05-08": {
+    "vaccine": {
+      "previous_day_doses": 16246,
+      "total_individuals_at_least_one": 12643574,
+      "total_fully_vaccinated": 12177794,
+      "total_doses": 32940386
+    }
   }
 }
