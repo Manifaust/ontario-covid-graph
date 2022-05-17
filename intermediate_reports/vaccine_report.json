@@ -3997,5 +3997,29 @@
       "total_fully_vaccinated": 12184937,
       "total_doses": 33082616
     }
+  },
+  "2022-05-15": {
+    "vaccine": {
+      "previous_day_doses": 14929,
+      "total_individuals_at_least_one": 12650238,
+      "total_fully_vaccinated": 12186188,
+      "total_doses": 33097545
+    }
+  },
+  "2022-05-16": {
+    "vaccine": {
+      "previous_day_doses": 6658,
+      "total_individuals_at_least_one": 12650647,
+      "total_fully_vaccinated": 12186757,
+      "total_doses": 33104203
+    }
+  },
+  "2022-05-17": {
+    "vaccine": {
+      "previous_day_doses": 20176,
+      "total_individuals_at_least_one": 12651394,
+      "total_fully_vaccinated": 12187754,
+      "total_doses": 33124379
+    }
   }
 }

@@ -3900,5 +3900,25 @@
     "toronto": {
       "new_cases": 431
     }
+  },
+  "2022-05-14": {
+    "toronto": {
+      "new_cases": 353
+    }
+  },
+  "2022-05-15": {
+    "toronto": {
+      "new_cases": 351
+    }
+  },
+  "2022-05-16": {
+    "toronto": {
+      "new_cases": 235
+    }
+  },
+  "2022-05-17": {
+    "toronto": {
+      "new_cases": 249
+    }
   }
 }
