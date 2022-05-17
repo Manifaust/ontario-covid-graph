@@ -5064,10 +5064,32 @@
       "resident_new_cases": 111
     }
   },
+  "2022-05-14": {
+    "ltc": {
+      "resident_total_cases": 30418,
+      "resident_total_deaths": 4515,
+      "resident_new_cases": 117
+    }
+  },
   "2022-05-15": {
     "ltc": {
       "resident_total_cases": 30536,
-      "resident_total_deaths": 4516
+      "resident_total_deaths": 4516,
+      "resident_new_cases": 118
+    }
+  },
+  "2022-05-16": {
+    "ltc": {
+      "resident_total_cases": 30616,
+      "resident_total_deaths": 4516,
+      "resident_new_cases": 80
+    }
+  },
+  "2022-05-17": {
+    "ltc": {
+      "resident_total_cases": 30710,
+      "resident_total_deaths": 4517,
+      "resident_new_cases": 94
     }
   }
 }
