@@ -3975,5 +3975,10 @@
     "toronto": {
       "new_cases": 365
     }
+  },
+  "2022-05-29": {
+    "toronto": {
+      "new_cases": 212
+    }
   }
 }
