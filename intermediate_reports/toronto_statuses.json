@@ -3990,5 +3990,10 @@
     "toronto": {
       "new_cases": 141
     }
+  },
+  "2022-06-01": {
+    "toronto": {
+      "new_cases": 300
+    }
   }
 }

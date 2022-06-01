@@ -10656,5 +10656,17 @@
     "icu_on_ventilator": 62,
     "new_total_cases": 590,
     "growth_factor_total_cases": "1.08"
+  },
+  "2022-06-01": {
+    "infected": 9732,
+    "resolved": 1281066,
+    "total_cases": 1304063,
+    "new_tests": 13097,
+    "under_investigation": 4114,
+    "hospitalized": 722,
+    "icu": 127,
+    "icu_on_ventilator": 64,
+    "new_total_cases": 1030,
+    "growth_factor_total_cases": "1.75"
   }
 }
