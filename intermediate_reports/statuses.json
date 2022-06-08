@@ -10741,5 +10741,17 @@
     "icu_on_ventilator": 55,
     "new_total_cases": 537,
     "growth_factor_total_cases": "1.15"
+  },
+  "2022-06-08": {
+    "infected": 8782,
+    "resolved": 1287532,
+    "total_cases": 1309618,
+    "new_tests": 11234,
+    "under_investigation": 4199,
+    "hospitalized": 522,
+    "icu": 114,
+    "icu_on_ventilator": 54,
+    "new_total_cases": 1013,
+    "growth_factor_total_cases": "1.89"
   }
 }

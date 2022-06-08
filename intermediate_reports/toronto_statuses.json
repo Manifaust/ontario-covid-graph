@@ -4025,5 +4025,10 @@
     "toronto": {
       "new_cases": 112
     }
+  },
+  "2022-06-08": {
+    "toronto": {
+      "new_cases": 220
+    }
   }
 }

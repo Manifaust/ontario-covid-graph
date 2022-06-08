@@ -5238,5 +5238,12 @@
       "resident_total_deaths": 4573,
       "resident_new_cases": 26
     }
+  },
+  "2022-06-08": {
+    "ltc": {
+      "resident_total_cases": 32139,
+      "resident_total_deaths": 4575,
+      "resident_new_cases": 30
+    }
   }
 }
