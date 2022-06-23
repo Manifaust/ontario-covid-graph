@@ -10840,8 +10840,8 @@
     "growth_factor_total_cases": "1.71"
   },
   "2022-06-16": {
-    "infected": 8177,
-    "resolved": 1293690,
+    "infected": 7623,
+    "resolved": 1294244,
     "total_cases": 1315224,
     "new_tests": 12310,
     "under_investigation": 3551,
@@ -10850,5 +10850,90 @@
     "icu_on_ventilator": 45,
     "new_total_cases": 777,
     "growth_factor_total_cases": "0.99"
+  },
+  "2022-06-17": {
+    "infected": 7640,
+    "resolved": 1295082,
+    "total_cases": 1316080,
+    "new_tests": 10305,
+    "under_investigation": 3187,
+    "hospitalized": 468,
+    "icu": 101,
+    "icu_on_ventilator": 42,
+    "new_total_cases": 856,
+    "growth_factor_total_cases": "1.10"
+  },
+  "2022-06-18": {
+    "infected": 7586,
+    "resolved": 1295823,
+    "total_cases": 1316767,
+    "new_tests": 8795,
+    "under_investigation": 3152,
+    "hospitalized": 490,
+    "icu": 94,
+    "icu_on_ventilator": 44,
+    "new_total_cases": 687,
+    "growth_factor_total_cases": "0.80"
+  },
+  "2022-06-19": {
+    "infected": 7477,
+    "resolved": 1296541,
+    "total_cases": 1317380,
+    "new_tests": 6265,
+    "under_investigation": 2716,
+    "hospitalized": 343,
+    "icu": 94,
+    "icu_on_ventilator": 40,
+    "new_total_cases": 613,
+    "growth_factor_total_cases": "0.89"
+  },
+  "2022-06-20": {
+    "infected": 7310,
+    "resolved": 1297075,
+    "total_cases": 1317747,
+    "new_tests": 6783,
+    "under_investigation": 1905,
+    "hospitalized": 369,
+    "icu": 95,
+    "icu_on_ventilator": 40,
+    "new_total_cases": 367,
+    "growth_factor_total_cases": "0.60",
+    "weekly_growth_factor_total_cases": "0.89"
+  },
+  "2022-06-21": {
+    "infected": 7245,
+    "resolved": 1297700,
+    "total_cases": 1318310,
+    "new_tests": 7908,
+    "under_investigation": 4058,
+    "hospitalized": 487,
+    "icu": 89,
+    "icu_on_ventilator": 42,
+    "new_total_cases": 563,
+    "growth_factor_total_cases": "1.53"
+  },
+  "2022-06-22": {
+    "infected": 7133,
+    "resolved": 1298586,
+    "total_cases": 1319089,
+    "new_tests": 10582,
+    "under_investigation": 4001,
+    "hospitalized": 464,
+    "icu": 88,
+    "icu_on_ventilator": 41,
+    "new_total_cases": 779,
+    "growth_factor_total_cases": "1.38"
+  },
+  "2022-06-23": {
+    "infected": 7291,
+    "resolved": 1299308,
+    "total_cases": 1319977,
+    "new_tests": 10551,
+    "under_investigation": 4165,
+    "hospitalized": 486,
+    "icu": 96,
+    "icu_on_ventilator": 42,
+    "new_total_cases": 888,
+    "growth_factor_total_cases": "1.14"
   }
 }
