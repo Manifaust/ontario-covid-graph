@@ -4105,5 +4105,40 @@
     "toronto": {
       "new_cases": 235
     }
+  },
+  "2022-06-24": {
+    "toronto": {
+      "new_cases": 239
+    }
+  },
+  "2022-06-25": {
+    "toronto": {
+      "new_cases": 202
+    }
+  },
+  "2022-06-26": {
+    "toronto": {
+      "new_cases": 238
+    }
+  },
+  "2022-06-27": {
+    "toronto": {
+      "new_cases": 159
+    }
+  },
+  "2022-06-28": {
+    "toronto": {
+      "new_cases": 265
+    }
+  },
+  "2022-06-29": {
+    "toronto": {
+      "new_cases": 352
+    }
+  },
+  "2022-06-30": {
+    "toronto": {
+      "new_cases": 288
+    }
   }
 }
