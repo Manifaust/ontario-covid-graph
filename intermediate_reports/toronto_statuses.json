@@ -4140,5 +4140,40 @@
     "toronto": {
       "new_cases": 288
     }
+  },
+  "2022-07-01": {
+    "toronto": {
+      "new_cases": 321
+    }
+  },
+  "2022-07-02": {
+    "toronto": {
+      "new_cases": 245
+    }
+  },
+  "2022-07-03": {
+    "toronto": {
+      "new_cases": 178
+    }
+  },
+  "2022-07-04": {
+    "toronto": {
+      "new_cases": 180
+    }
+  },
+  "2022-07-05": {
+    "toronto": {
+      "new_cases": 276
+    }
+  },
+  "2022-07-06": {
+    "toronto": {
+      "new_cases": 384
+    }
+  },
+  "2022-07-07": {
+    "toronto": {
+      "new_cases": 392
+    }
   }
 }
