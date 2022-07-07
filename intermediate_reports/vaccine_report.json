@@ -4373,5 +4373,61 @@
       "total_fully_vaccinated": 12231378,
       "total_doses": 33701392
     }
+  },
+  "2022-07-01": {
+    "vaccine": {
+      "previous_day_doses": 13580,
+      "total_individuals_at_least_one": 12681899,
+      "total_fully_vaccinated": 12232541,
+      "total_doses": 33714972
+    }
+  },
+  "2022-07-02": {
+    "vaccine": {
+      "previous_day_doses": 1887,
+      "total_individuals_at_least_one": 12682057,
+      "total_fully_vaccinated": 12232743,
+      "total_doses": 33716859
+    }
+  },
+  "2022-07-03": {
+    "vaccine": {
+      "previous_day_doses": 5095,
+      "total_individuals_at_least_one": 12682350,
+      "total_fully_vaccinated": 12233202,
+      "total_doses": 33721954
+    }
+  },
+  "2022-07-04": {
+    "vaccine": {
+      "previous_day_doses": 2856,
+      "total_individuals_at_least_one": 12682496,
+      "total_fully_vaccinated": 12233487,
+      "total_doses": 33724810
+    }
+  },
+  "2022-07-05": {
+    "vaccine": {
+      "previous_day_doses": 11404,
+      "total_individuals_at_least_one": 12682971,
+      "total_fully_vaccinated": 12234153,
+      "total_doses": 33736214
+    }
+  },
+  "2022-07-06": {
+    "vaccine": {
+      "previous_day_doses": 16773,
+      "total_individuals_at_least_one": 12683811,
+      "total_fully_vaccinated": 12235321,
+      "total_doses": 33752987
+    }
+  },
+  "2022-07-07": {
+    "vaccine": {
+      "previous_day_doses": 16303,
+      "total_individuals_at_least_one": 12684531,
+      "total_fully_vaccinated": 12236403,
+      "total_doses": 33769290
+    }
   }
 }
