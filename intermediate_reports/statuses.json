@@ -11275,5 +11275,90 @@
     "icu_on_ventilator": 55,
     "new_total_cases": 2212,
     "growth_factor_total_cases": "1.04"
+  },
+  "2022-07-22": {
+    "infected": 18425,
+    "resolved": 1325851,
+    "total_cases": 1357849,
+    "new_tests": 13773,
+    "under_investigation": 5272,
+    "hospitalized": 1467,
+    "icu": 130,
+    "icu_on_ventilator": 54,
+    "new_total_cases": 1988,
+    "growth_factor_total_cases": "0.90"
+  },
+  "2022-07-23": {
+    "infected": 19178,
+    "resolved": 1327260,
+    "total_cases": 1360028,
+    "new_tests": 13339,
+    "under_investigation": 4430,
+    "hospitalized": 1461,
+    "icu": 125,
+    "icu_on_ventilator": 57,
+    "new_total_cases": 2179,
+    "growth_factor_total_cases": "1.10"
+  },
+  "2022-07-24": {
+    "infected": 19304,
+    "resolved": 1328595,
+    "total_cases": 1361492,
+    "new_tests": 10391,
+    "under_investigation": 2576,
+    "hospitalized": 882,
+    "icu": 126,
+    "icu_on_ventilator": 52,
+    "new_total_cases": 1464,
+    "growth_factor_total_cases": "0.67"
+  },
+  "2022-07-25": {
+    "infected": 19394,
+    "resolved": 1329628,
+    "total_cases": 1362616,
+    "new_tests": 6880,
+    "under_investigation": 3185,
+    "hospitalized": 893,
+    "icu": 133,
+    "icu_on_ventilator": 51,
+    "new_total_cases": 1124,
+    "growth_factor_total_cases": "0.77",
+    "weekly_growth_factor_total_cases": "1.06"
+  },
+  "2022-07-26": {
+    "infected": 19171,
+    "resolved": 1331088,
+    "total_cases": 1363867,
+    "new_tests": 9323,
+    "under_investigation": 5095,
+    "hospitalized": 1523,
+    "icu": 136,
+    "icu_on_ventilator": 57,
+    "new_total_cases": 1251,
+    "growth_factor_total_cases": "1.11"
+  },
+  "2022-07-27": {
+    "infected": 19075,
+    "resolved": 1333155,
+    "total_cases": 1365863,
+    "new_tests": 13590,
+    "under_investigation": 4372,
+    "hospitalized": 1480,
+    "icu": 144,
+    "icu_on_ventilator": 65,
+    "new_total_cases": 1996,
+    "growth_factor_total_cases": "1.60"
+  },
+  "2022-07-28": {
+    "infected": 19163,
+    "resolved": 1334957,
+    "total_cases": 1367768,
+    "new_tests": 12396,
+    "under_investigation": 5199,
+    "hospitalized": 1492,
+    "icu": 138,
+    "icu_on_ventilator": 63,
+    "new_total_cases": 1905,
+    "growth_factor_total_cases": "0.95"
   }
 }
