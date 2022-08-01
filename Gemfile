@@ -21,4 +21,4 @@ gem "jekyll-seo-tag", "~> 2.7"
 
 gem 'pdf-reader', '~> 2.8'
 
-gem "html-proofer", "~> 3.19"
+gem "html-proofer", "~> 4.3"
