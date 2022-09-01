@@ -4385,5 +4385,75 @@
     "toronto": {
       "new_cases": 355
     }
+  },
+  "2022-08-19": {
+    "toronto": {
+      "new_cases": 329
+    }
+  },
+  "2022-08-20": {
+    "toronto": {
+      "new_cases": 296
+    }
+  },
+  "2022-08-21": {
+    "toronto": {
+      "new_cases": 237
+    }
+  },
+  "2022-08-22": {
+    "toronto": {
+      "new_cases": 161
+    }
+  },
+  "2022-08-23": {
+    "toronto": {
+      "new_cases": 328
+    }
+  },
+  "2022-08-24": {
+    "toronto": {
+      "new_cases": 286
+    }
+  },
+  "2022-08-25": {
+    "toronto": {
+      "new_cases": 302
+    }
+  },
+  "2022-08-26": {
+    "toronto": {
+      "new_cases": 219
+    }
+  },
+  "2022-08-27": {
+    "toronto": {
+      "new_cases": 230
+    }
+  },
+  "2022-08-28": {
+    "toronto": {
+      "new_cases": 205
+    }
+  },
+  "2022-08-29": {
+    "toronto": {
+      "new_cases": 134
+    }
+  },
+  "2022-08-30": {
+    "toronto": {
+      "new_cases": 304
+    }
+  },
+  "2022-08-31": {
+    "toronto": {
+      "new_cases": 273
+    }
+  },
+  "2022-09-01": {
+    "toronto": {
+      "new_cases": 231
+    }
   }
 }
