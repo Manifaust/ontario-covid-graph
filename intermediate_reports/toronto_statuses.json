@@ -4525,5 +4525,40 @@
     "toronto": {
       "new_cases": 264
     }
+  },
+  "2022-09-16": {
+    "toronto": {
+      "new_cases": 283
+    }
+  },
+  "2022-09-17": {
+    "toronto": {
+      "new_cases": 295
+    }
+  },
+  "2022-09-18": {
+    "toronto": {
+      "new_cases": 194
+    }
+  },
+  "2022-09-19": {
+    "toronto": {
+      "new_cases": 0
+    }
+  },
+  "2022-09-20": {
+    "toronto": {
+      "new_cases": 340
+    }
+  },
+  "2022-09-21": {
+    "toronto": {
+      "new_cases": 235
+    }
+  },
+  "2022-09-22": {
+    "toronto": {
+      "new_cases": 329
+    }
   }
 }
