@@ -5938,5 +5938,54 @@
       "resident_total_deaths": 4929,
       "resident_new_cases": 190
     }
+  },
+  "2022-09-16": {
+    "ltc": {
+      "resident_total_cases": 44430,
+      "resident_total_deaths": 4936,
+      "resident_new_cases": 158
+    }
+  },
+  "2022-09-17": {
+    "ltc": {
+      "resident_total_cases": 44578,
+      "resident_total_deaths": 4942,
+      "resident_new_cases": 148
+    }
+  },
+  "2022-09-18": {
+    "ltc": {
+      "resident_total_cases": 44665,
+      "resident_total_deaths": 4942,
+      "resident_new_cases": 87
+    }
+  },
+  "2022-09-19": {
+    "ltc": {
+      "resident_total_cases": 44708,
+      "resident_total_deaths": 4942,
+      "resident_new_cases": 43
+    }
+  },
+  "2022-09-20": {
+    "ltc": {
+      "resident_total_cases": 44788,
+      "resident_total_deaths": 4943,
+      "resident_new_cases": 80
+    }
+  },
+  "2022-09-21": {
+    "ltc": {
+      "resident_total_cases": 44938,
+      "resident_total_deaths": 4950,
+      "resident_new_cases": 150
+    }
+  },
+  "2022-09-22": {
+    "ltc": {
+      "resident_total_cases": 45122,
+      "resident_total_deaths": 4955,
+      "resident_new_cases": 184
+    }
   }
 }
