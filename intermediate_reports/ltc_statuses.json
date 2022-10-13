@@ -6036,5 +6036,103 @@
       "resident_total_deaths": 4981,
       "resident_new_cases": 187
     }
+  },
+  "2022-09-30": {
+    "ltc": {
+      "resident_total_cases": 46002,
+      "resident_total_deaths": 4986,
+      "resident_new_cases": 119
+    }
+  },
+  "2022-10-01": {
+    "ltc": {
+      "resident_total_cases": 46156,
+      "resident_total_deaths": 4989,
+      "resident_new_cases": 154
+    }
+  },
+  "2022-10-02": {
+    "ltc": {
+      "resident_total_cases": 46244,
+      "resident_total_deaths": 4990,
+      "resident_new_cases": 88
+    }
+  },
+  "2022-10-03": {
+    "ltc": {
+      "resident_total_cases": 46277,
+      "resident_total_deaths": 4991,
+      "resident_new_cases": 33
+    }
+  },
+  "2022-10-04": {
+    "ltc": {
+      "resident_total_cases": 46403,
+      "resident_total_deaths": 4995,
+      "resident_new_cases": 126
+    }
+  },
+  "2022-10-05": {
+    "ltc": {
+      "resident_total_cases": 46589,
+      "resident_total_deaths": 5003,
+      "resident_new_cases": 186
+    }
+  },
+  "2022-10-06": {
+    "ltc": {
+      "resident_total_cases": 46764,
+      "resident_total_deaths": 5008,
+      "resident_new_cases": 175
+    }
+  },
+  "2022-10-07": {
+    "ltc": {
+      "resident_total_cases": 46947,
+      "resident_total_deaths": 5009,
+      "resident_new_cases": 183
+    }
+  },
+  "2022-10-08": {
+    "ltc": {
+      "resident_total_cases": 47074,
+      "resident_total_deaths": 5012,
+      "resident_new_cases": 127
+    }
+  },
+  "2022-10-09": {
+    "ltc": {
+      "resident_total_cases": 47272,
+      "resident_total_deaths": 5013,
+      "resident_new_cases": 198
+    }
+  },
+  "2022-10-10": {
+    "ltc": {
+      "resident_total_cases": 47331,
+      "resident_total_deaths": 5012,
+      "resident_new_cases": 59
+    }
+  },
+  "2022-10-11": {
+    "ltc": {
+      "resident_total_cases": 47428,
+      "resident_total_deaths": 5012,
+      "resident_new_cases": 97
+    }
+  },
+  "2022-10-12": {
+    "ltc": {
+      "resident_total_cases": 47559,
+      "resident_total_deaths": 5015,
+      "resident_new_cases": 131
+    }
+  },
+  "2022-10-13": {
+    "ltc": {
+      "resident_total_cases": 47915,
+      "resident_total_deaths": 5021,
+      "resident_new_cases": 356
+    }
   }
 }
