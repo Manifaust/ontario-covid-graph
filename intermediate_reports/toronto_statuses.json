@@ -4560,5 +4560,135 @@
     "toronto": {
       "new_cases": 329
     }
+  },
+  "2022-09-23": {
+    "toronto": {
+      "new_cases": 253
+    }
+  },
+  "2022-09-24": {
+    "toronto": {
+      "new_cases": 181
+    }
+  },
+  "2022-09-25": {
+    "toronto": {
+      "new_cases": 195
+    }
+  },
+  "2022-09-26": {
+    "toronto": {
+      "new_cases": 109
+    }
+  },
+  "2022-09-27": {
+    "toronto": {
+      "new_cases": 219
+    }
+  },
+  "2022-09-28": {
+    "toronto": {
+      "new_cases": 279
+    }
+  },
+  "2022-09-29": {
+    "toronto": {
+      "new_cases": 325
+    }
+  },
+  "2022-09-30": {
+    "toronto": {
+      "new_cases": 301
+    }
+  },
+  "2022-10-01": {
+    "toronto": {
+      "new_cases": 329
+    }
+  },
+  "2022-10-02": {
+    "toronto": {
+      "new_cases": 206
+    }
+  },
+  "2022-10-03": {
+    "toronto": {
+      "new_cases": 111
+    }
+  },
+  "2022-10-04": {
+    "toronto": {
+      "new_cases": 211
+    }
+  },
+  "2022-10-05": {
+    "toronto": {
+      "new_cases": 261
+    }
+  },
+  "2022-10-06": {
+    "toronto": {
+      "new_cases": 205
+    }
+  },
+  "2022-10-07": {
+    "toronto": {
+      "new_cases": 240
+    }
+  },
+  "2022-10-08": {
+    "toronto": {
+      "new_cases": 208
+    }
+  },
+  "2022-10-09": {
+    "toronto": {
+      "new_cases": 207
+    }
+  },
+  "2022-10-10": {
+    "toronto": {
+      "new_cases": 129
+    }
+  },
+  "2022-10-11": {
+    "toronto": {
+      "new_cases": 178
+    }
+  },
+  "2022-10-12": {
+    "toronto": {
+      "new_cases": 540
+    }
+  },
+  "2022-10-13": {
+    "toronto": {
+      "new_cases": 286
+    }
+  },
+  "2022-10-14": {
+    "toronto": {
+      "new_cases": 293
+    }
+  },
+  "2022-10-17": {
+    "toronto": {
+      "new_cases": 640
+    }
+  },
+  "2022-10-18": {
+    "toronto": {
+      "new_cases": 177
+    }
+  },
+  "2022-10-19": {
+    "toronto": {
+      "new_cases": 143
+    }
+  },
+  "2022-10-20": {
+    "toronto": {
+      "new_cases": 183
+    }
   }
 }
