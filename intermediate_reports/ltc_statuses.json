@@ -6134,5 +6134,32 @@
       "resident_total_deaths": 5021,
       "resident_new_cases": 356
     }
+  },
+  "2022-10-14": {
+    "ltc": {
+      "resident_total_cases": 48194,
+      "resident_total_deaths": 5029,
+      "resident_new_cases": 279
+    }
+  },
+  "2022-10-18": {
+    "ltc": {
+      "resident_total_cases": 48803,
+      "resident_total_deaths": 5042
+    }
+  },
+  "2022-10-19": {
+    "ltc": {
+      "resident_total_cases": 49016,
+      "resident_total_deaths": 5050,
+      "resident_new_cases": 213
+    }
+  },
+  "2022-10-20": {
+    "ltc": {
+      "resident_total_cases": 49243,
+      "resident_total_deaths": 5060,
+      "resident_new_cases": 227
+    }
   }
 }
