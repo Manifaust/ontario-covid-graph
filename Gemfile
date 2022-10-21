@@ -15,7 +15,7 @@ group :test do
   gem 'rspec-json_expectations'
 end
 
-gem "jekyll", "~> 4.2"
+gem "jekyll", "~> 4.3"
 
 gem "jekyll-seo-tag", "~> 2.8"
 
