@@ -6210,5 +6210,54 @@
       "resident_total_deaths": 5098,
       "resident_new_cases": 280
     }
+  },
+  "2022-10-28": {
+    "ltc": {
+      "resident_total_cases": 51001,
+      "resident_total_deaths": 5103,
+      "resident_new_cases": 246
+    }
+  },
+  "2022-10-29": {
+    "ltc": {
+      "resident_total_cases": 51186,
+      "resident_total_deaths": 5108,
+      "resident_new_cases": 185
+    }
+  },
+  "2022-10-30": {
+    "ltc": {
+      "resident_total_cases": 51329,
+      "resident_total_deaths": 5114,
+      "resident_new_cases": 143
+    }
+  },
+  "2022-10-31": {
+    "ltc": {
+      "resident_total_cases": 51354,
+      "resident_total_deaths": 5114,
+      "resident_new_cases": 25
+    }
+  },
+  "2022-11-01": {
+    "ltc": {
+      "resident_total_cases": 51490,
+      "resident_total_deaths": 5115,
+      "resident_new_cases": 136
+    }
+  },
+  "2022-11-02": {
+    "ltc": {
+      "resident_total_cases": 51722,
+      "resident_total_deaths": 5121,
+      "resident_new_cases": 232
+    }
+  },
+  "2022-11-03": {
+    "ltc": {
+      "resident_total_cases": 51985,
+      "resident_total_deaths": 5131,
+      "resident_new_cases": 263
+    }
   }
 }
