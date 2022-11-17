@@ -4690,5 +4690,140 @@
     "toronto": {
       "new_cases": 183
     }
+  },
+  "2022-10-21": {
+    "toronto": {
+      "new_cases": 500
+    }
+  },
+  "2022-10-22": {
+    "toronto": {
+      "new_cases": 307
+    }
+  },
+  "2022-10-23": {
+    "toronto": {
+      "new_cases": 262
+    }
+  },
+  "2022-10-24": {
+    "toronto": {
+      "new_cases": 106
+    }
+  },
+  "2022-10-25": {
+    "toronto": {
+      "new_cases": 319
+    }
+  },
+  "2022-10-27": {
+    "toronto": {
+      "new_cases": 247
+    }
+  },
+  "2022-10-28": {
+    "toronto": {
+      "new_cases": 256
+    }
+  },
+  "2022-10-29": {
+    "toronto": {
+      "new_cases": 288
+    }
+  },
+  "2022-10-30": {
+    "toronto": {
+      "new_cases": 196
+    }
+  },
+  "2022-10-31": {
+    "toronto": {
+      "new_cases": 76
+    }
+  },
+  "2022-11-01": {
+    "toronto": {
+      "new_cases": 283
+    }
+  },
+  "2022-11-02": {
+    "toronto": {
+      "new_cases": 219
+    }
+  },
+  "2022-11-03": {
+    "toronto": {
+      "new_cases": 238
+    }
+  },
+  "2022-11-04": {
+    "toronto": {
+      "new_cases": 191
+    }
+  },
+  "2022-11-05": {
+    "toronto": {
+      "new_cases": 216
+    }
+  },
+  "2022-11-06": {
+    "toronto": {
+      "new_cases": 169
+    }
+  },
+  "2022-11-07": {
+    "toronto": {
+      "new_cases": 109
+    }
+  },
+  "2022-11-08": {
+    "toronto": {
+      "new_cases": 145
+    }
+  },
+  "2022-11-09": {
+    "toronto": {
+      "new_cases": 191
+    }
+  },
+  "2022-11-10": {
+    "toronto": {
+      "new_cases": 161
+    }
+  },
+  "2022-11-11": {
+    "toronto": {
+      "new_cases": 160
+    }
+  },
+  "2022-11-12": {
+    "toronto": {
+      "new_cases": 134
+    }
+  },
+  "2022-11-13": {
+    "toronto": {
+      "new_cases": 101
+    }
+  },
+  "2022-11-14": {
+    "toronto": {
+      "new_cases": 106
+    }
+  },
+  "2022-11-15": {
+    "toronto": {
+      "new_cases": 159
+    }
+  },
+  "2022-11-16": {
+    "toronto": {
+      "new_cases": 196
+    }
+  },
+  "2022-11-17": {
+    "toronto": {
+      "new_cases": 153
+    }
   }
 }
